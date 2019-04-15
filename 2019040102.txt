@@ -1,0 +1,30 @@
+name: IT WEB PHP LINUX
+label: 2018040102
+description: mixture; mostly front end web and PHP
+
+PGP: Pretty Good Privacy     Garfinkel        ORA
+Vi IMproved - Vim            Oualline         NewRiders
+Understanding Directory Services Sheresh      NewRiders
+OpenSource Network Admin     Kretchmar        PTR
+Eric Meyer on CSS            Meyer            NewRiders
+More Eric Meyer on CSS       Meyer            NewRiders
+Art and Science of Web Design Veen            NewRiders
+Apache Server 2.0 Complete Ref Bloom          McGrawHill
+Deploying OpenLDAP           Jackiewicz       Apress
+Web Navigation Designing User Experience Fleming ORA
+Theory of Computation        Brookshear       BenjaminCummings
+CVS  Pocket Reference        Purdy            ORA
+GIMP Pocket Reference        Neumann          ORA
+Programming Perls 2e         Bentley          AWL
+Web Security Privacy Commerce 2e Garfinkel/Spafford ORA
+Learning PHP5                Sklar            ORA
+Internet in a Nutshell       Quercia          ORA
+Linux Cookbook               Stutz            NoStarch
+Linux Routers                Mancill          PTR
+Broadband Network Architectures Hellberg/Green/Bayes PTR
+SQLite                       Newman           SAMS
+Energy Efficiency for IT     Minas/Ellison    Intel
+Linux Enterprise Cluster     Kopper           NoStarch
+How Linux Works 2e           Ward             NoStarch
+
+
