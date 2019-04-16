@@ -1,0 +1,36 @@
+name: POKER - OLD
+label: 2019040103
+description: Old, little consulted poker books
+
+Games                   King                Kingfisher
+Las Vegas City Guide                        LonelyPlanet
+Insight City Guide Las Vegas                Apa
+How to play Internet Poker and Win   Knight foulsham
+The Rules of Neighbourhood Poker     Wolpin NewChapter
+Cowboys Full                        McManus Souvenir
+Risky Business            Alvarez           bloomsbury
+Mollys Game               Bloom             WilliamCollins
+Aussie Poker Guide        Callander         Wilkinson
+Life's a Gamble           Brindley          Bantam
+All in Story of the WSOP  Grotenstein/Reeback StMartins
+Everything Poker Strategy Book    Wenzel    AdamsMedia
+Poker Night               Vorhaus           StMartins
+Winning at Poker          Scharf            foulsham
+Online Ace                Fischman          ESPN
+Full Tilt Poker Tournament Strategy Guide  ed.Craig   Warner
+Double Down Guide to Blackjack  Hornik      Puzzlewright
+Killer Cribbage           Barlow            Puzzlewright
+Power Profits from Tournament Poker  Royer  LyleStuart
+Power Profits from Poker             Royer  LyleStuart
+Card Games for Smart Kids   Golick          Sterling
+Mammoth Book of Poker      Mendelson        Robinson
+Poker Encyclopedia         Allan/Mackay     Portico
+Earn $30,000/month playing online poker Wiseman ECW
+Secrets of Winning Poker    Sheahan         Cardoza
+Professional Poker Dealer's Handbook Paymar/Harris/Malmuth TwoPlusTwo
+Bad Beats and Lucky Draws    Hellmuth       HarperCollins
+Hold'em on the Come         Slotboom/Mason  D&B
+Secrets of shorthanded NLH  Ashman          D&B
+Poker on the Internet 2e    Kinsman         D&B
+Secrets of Sit'n'Gos             Shaw       D&B
+Secerts of nonstandard Sit'n'Gos Shaw       D&B
