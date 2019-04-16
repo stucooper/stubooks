@@ -1,5 +1,5 @@
 name: IT - UNIX GRAPHICS
-label: 2018040101
+label: 2019040101
 description: mostly OpenGL/Graphics books, some little used unix admin
 
 Ubuntu Linux Bible         van Hagen           Wiley
