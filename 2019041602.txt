@@ -1,0 +1,23 @@
+name: GLADESVILLE
+label: 2019041602
+description: Books mostly bought from Vinnies Gladesville
+
+Last King of the X               Ibrahim       Macmillan
+Margaret Thatcher at her Zenith  Moore         Knopf
+Dictator                         Robert Harris Penguin
+Gallipoli                        Carlyon       Macmillan
+Manhood for Amateurs             Chabon        FourthEstate
+David Tennant Bio                Goodall       JohnBlake
+Mythos: Greek Legends Retold     Fry           Penguin
+In our time                      Bragg         Sceptre
+House of Cards                   Cohan         Penguin
+Midnight in the Garden of Good and Evil Berendt  Sceptre
+City of Falling Angels           Berendt       Penguin
+Chaos                            Gleick        Folio
+Helen Garner Stories             Garner        Text
+Peter Moody Bio                  Moody/Marshallsea AllenUnwin
+Nick Riewoldt Bio                Riewoldt/Hanlon AllenUnwin
+What's Left?                     Cohen         FourthEstate
+Catfight                         Tanenbaum     Finch
+Audrey Hepburn's Neck            Brown         Sceptre
+Porterhouse Blue                 Sharpe        Arrow
