@@ -1,0 +1,30 @@
+name: BOOKS - GENERAL
+label: 2019042602
+description: assorted
+
+Uncle Tungsten                     Sachs              Picador
+Musicophilia                       Sachs              Picador
+Man who mistook his wife for a hat Sachs              Picador
+Watch this space: Aus Journalism   Deitz              Cambridge
+Unsentimental Bloke C J Dennis bio Buttress           Wakefield
+Hit Factory                        Stock              NewHolland
+The Slap                           Tsiolkas           TuskarRock
+The Emperor's Codes                Smith              Bantam
+Mathematics for the Million        Hogben             AllenUnwin
+Nasty Brutish and Long: Eldercare  Rosofsky           Penguin
+Hamlet's BlackBerry                Powers             Scribe
+The Men who Stare at Goats         Ronson             Picador
+Listen, Liberal                    Franks             Scribe
+Journey to the Centre of the Earth Verne              WardLock
+Whiter Shades of Pale              Lander             hardiegrant
+Trivial Pursuit Quiz Book                             Carlton
+Modern Philosophy                  Scruton            Sinclair
+Ira Gershwin bio                   Furia              Oxford
+Language and the Internet          Crystal            Cambridge
+Convergence Culture                Jenkins            NewYorkUni
+Practical Cryptography             Ferguson/Schneier  JohnWiley
+Raspberry Pi User Guide            Upton/Halfacree    JohnWiley
+The Blender Gamekit 2e             Wartmann           Blender
+The Quants                         Patterson          CrownBusiness
+The Lay of the Land                Ford               Bloomsbury
+Canada                             Ford               Bloomsbury
