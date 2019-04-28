@@ -1,0 +1,29 @@
+name: SCI - FICTION
+label: 2019042603
+description: science fiction
+
+Jonathan Strange and Mr Norrell        Clarke          Bloomsbury
+American Gods                          Gaiman          headline
+Trigger Warning                        Gaiman          headline
+The Red Men                            DeAbatua        snowbooks
+Century Rain                           Reynolds        Gollancz
+Zoo City                               Beukes          AngryRobot
+2312                                   StanleyRobinson Orbit
+The Fellowship of the Ring             Tolkien         AllenUnwin
+The Two Towers                         Tolkien         AllenUnwin
+The Return of the King                 Tolkien         AllenUnwin
+Illuminatus Trilogy                    Shea/Wilson     dontcare
+Cities in Flight                       Blish           Gollancz
+The Martians                           StanleyRobinson HarperCollins
+Green Mars                             StanleyRobinson HarperCollins
+Red Mars                               StanleyRobinson HarperCollins
+Blue Mars                              StanleyRobinson HarperCollins
+Blade Runner Electric Sheep            Dick            DelRey
+Brave New World                        Huxley          Granada
+Brave New World Revisited              Huxley          Granada
+Backwards Red Dwarf                    Grant           Penguin
+Last Human Red Dwarf                   Naylor          Penguin
+The Abyss                              ScottCard       Legend
+Mammoth Book Best New SF 24            ed Dozios       Robinson
+Doctor Who Dalek Handbook              Tribe/Goss      BBC
+Leviathan                              Westerfeld      SimonPulse
