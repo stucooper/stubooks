@@ -1,0 +1,20 @@
+name: IT - OLD BOOKS
+label: 2019042901
+description: old IT books, rarely used
+
+Sendmail 2e                     Costales/Allman          ORA
+Structured Programming          Dahl/Dijkstra/Hoare      Academic
+Computer Science Modern Introduction Goldschlager/Lister PTR
+System Performance Tuning 1e    Loukides                 ORA
+GIMP Essential Reference        Harford                  NewRiders
+Essential GIMP Web Professionals Hammel                  PTR
+Calculi of Lambda-Conversion    Church                   Princeton
+Procedural Elements Computer Graphics Rogers             McGraw Hill
+Intro to Automata Theory Computation Hopcroft/Ullman     Narosa
+Intro to Lambda Calculi for Comp Sci Hankin              KingsCollege
+Mac OSX for Unix Geeks          Jepson/Rothman           ORA
+Mac OSX Tiger for Unix Geeks    Jepson/Rothman           ORA
+Computation Finite Infinite Machines Minsky              PTR
+Condensed Pascal                Cooper                   Norton
+Computer User's Survival Guide  Stigliani                ORA
+Essential XML Web Professionals Livingston               PTR
