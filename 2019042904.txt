@@ -1,0 +1,33 @@
+name: RICHARD RUSSO
+label: 2019042904
+description: Russo, Bryson, McCall Smith, Theroux
+
+The No 1 Ladies Detective Agency           McCall Smith      abacus
+The Full Cupboard of Life                  McCall Smith      abacus
+The Good Husband of Zebra Drive            McCall Smith      abacus
+The Limpopo Academy of Private Detection   McCall Smith      abacus
+The Double Comfort Safari Club             McCall Smith      abacus
+Unusual Uses for Olive Oil                 McCall Smith      abacus
+The 2.5 Pillars of Wisdom                  McCall Smith      abacus
+Down Under                                 Bryson            BlackSwan
+Notes from a Small Island                  Bryson            BlackSwan
+Neither here nor there                     Bryson            BlackSwan
+A Short history of Nearly everything       Bryson            BlackSwan
+Life and times of the Thunderbolt Kid      Bryson            BlackSwan
+Hotel Honolulu                             Theroux           Mariner
+Saint Jack                                 Theroux           Penguin
+Fong and the Indians                       Theroux           Penguin
+The Family Arsenal                         Theroux           Penguin
+The Consul's File                          Theroux           Penguin
+My Other Life                              Theroux           Penguin
+My Secret History                          Theroux           Penguin
+The Kingdom by the Sea                     Theroux           Penguin
+The Elephanta Suite                        Theroux           Penguin
+On Helwig Street                           Russo             ChattoWindus
+The Whore's Child                          Russo             Vintage
+Everybody's Fool                           Russo             AllenUnwin
+Nobody's Fool                              Russo             Vintage
+Empire Falls                               Russo             Vintage
+Straight Man                               Russo             Vintage
+The Risk Pool                              Russo             Vintage
+Mohawk                                     Russo             Vintage
