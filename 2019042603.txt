@@ -5,7 +5,7 @@ description: science fiction
 Jonathan Strange and Mr Norrell        Clarke          Bloomsbury
 American Gods                          Gaiman          headline
 Trigger Warning                        Gaiman          headline
-The Red Men                            DeAbatua        snowbooks
+The Red Men                            DeAbaitua       snowbooks
 Century Rain                           Reynolds        Gollancz
 Zoo City                               Beukes          AngryRobot
 2312                                   StanleyRobinson Orbit
