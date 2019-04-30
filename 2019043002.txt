@@ -1,0 +1,14 @@
+name: PYTHON
+label: 2019043002
+description: Python books
+
+Python the Complete Reference                Brown         McGrawHill
+Hello World                                  Sande         Manning
+Programming Python 3e                        Lutz          ORA
+Text processing in Python                    Mertz         AWL
+Python Standard Library                      Lundb         ORA
+Learning Python 2e                           Lutz/Asher    ORA
+Learning Python 4e                           Lutz          ORA
+Python Web Programming                       Holden        NewRiders
+Programming in Python 3                      Summerfield   AWL
+Python Cookbook                              Martelli/Ascher ORA
