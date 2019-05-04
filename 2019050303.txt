@@ -1,0 +1,33 @@
+name: NON-PENG CLASSICS
+label: 2019050303
+description: Classics non-black Penguin
+
+The Longest Journey                    Forster           TSP
+Classic Jane Austen                    Austen            IndiaPenguin
+Classic Sherlock Holmes                ConanDoyle        IndiaPenguin
+Twenty Years After                     Dumas             Oxford
+The Vicomte de Bragelonne              Dumas             Oxford
+The Collected Raffles                  Hornung           everymans
+Scarlet and Black hb                   Stendahl          everymans
+Plays prose poems Oscar Wilde hb       Wilde             everymans
+Go Set a Watchman                      Lee               Heinemann
+The Secret History                     Tartt             Penguin
+Charles Dickens                        Callow            Harper
+Lord of the Flies                      Golding           faber
+Larkin critical essays                 ed Regan          palgrave
+The English Patient                    Ondjaate          Picador
+The Social Climber's Bible             Wittenborn/Johnson Penguin
+Napoleon of Notting Hill               Chesterton        wordsworth
+New Grub Street                        Gissing           wordsworth
+Raffles the Amateur Cracksman          Hornung           wordsworth
+The Bonfire of the Vanities            Wolfe             Picador
+84 Charing Cross Road                  Hanff             Futura
+To Kill a Mockingbird                  Lee               Pan
+Diary of a Nobody                      Grossmith         wordsworth
+Confessions of a Justified Sinner      Hogg              Penguin
+Zen and the art of Motorcycle Maintenance Pisig          Corgi
+The Plague                             Camus             Penguin
+Perfume                                Suskind           Penguin
+Steppenwolf                            Hesse             Penguin
+St Joan                                BernardShaw       Longman
+Moby Dick                              Melville          Oxford
