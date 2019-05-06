@@ -1,0 +1,26 @@
+name: GARRETPACK
+label: 2019050601
+description: garage garrettpack books; largebox heavy
+
+The Play Begins                  ed Moran              Cheshire
+The Cartographer                 Twohig                FourthEstate
+Look, I Made a Hat               Sondheim              Knopf
+Our Dumb World                   The Onion             LittleBrown
+20 Years of Rolling Stone        ed Wenner             fontana
+Matchroom Snooker                Davis                 pelham
+Our Dumb Century                 The Onion             ThreeRivers
+Cambridge Latin Course IV        cambridge             cambridge
+South                            shackleton            Pimlico
+Digital Electronics 3e           Tokheim               McGrawHill
+Keys to Psychiatry  3e           Sainsbury             ANZ
+Deception                        Roth                  SimonSchuster
+The Cochlear Story               Bondarew/Seligman     CSIRO
+Ulysses Annotated Student ed     Joyce                 Penguin
+Brave Heart Life Lessons         Kirk                  RandomHouse
+All Hell Let Loose               Hastings              Harper
+Disrupted start-up bubble        Lyons                 hachette
+Charles Dickens a Life           Tomlin                Tomlin
+Breaking News Murdoch            Barry                 AllenUnwin
+Kerry Packer tall tales          Stahl                 hardiegrant
+Real Time Rendering              Moller/Haines         AKPeters
+
