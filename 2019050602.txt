@@ -1,0 +1,25 @@
+name: IT - VARIOUS
+label: 2019050602
+description: various IT books; largebox heavy
+
+Using Star Office                      Koch/Murray/Roth          QUE
+Openoffice.org resource kit            haugland/jones            PTR
+Teach yourself StarOffice 5 for Linux  Wells/Taylor              Sams
+Essential CVS                          Vesperman                 ORA
+Applying RCS and SCCS                  Bolinger/Bronson          ORA
+Understanding Japanese Information Processing  Lunde             ORA
+Practical Perforce                     Wingerd                   ORA
+DocBook 5 The Definitive Guide         Walsh                     ORA
+Learning XML                           Ray                       ORA
+Exploring Expect                       Libes                     ORA
+The Book of IRC                        Charalabidis              NoStarch
+The Blender Book                       Wartmann                  NoStarch
+Google Advertising Tools               Davis                     ORA
+GIMP 2.6 for Photographers             Goelker                   rockynook
+Programming Web Services with XML-RPC  StLaurent/Johnston        ORA
+High Performance Computing             Dowd                      ORA
+Stopping Spam                          Schwartz/Garfinkel        ORA
+Beginning OpenOffice Calc              Artymiak                  APress
+Planning for IPv6                      Hagen                     ORA
+sendmail 8.13 Companion                Costales                  ORA
+PayPal APIs Up and Running             Balderas                  ORA
