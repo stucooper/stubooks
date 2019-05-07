@@ -1,0 +1,30 @@
+name: TALEB - NONFICT
+label: 2019050603
+description: various nonfiction books
+
+How to make peace in the Middle East 6 Months   Levey             FreePress
+Human Dignity, Human Rights and Responsibility  Barilan           mitp
+When to Rob a Bank                              Levitt/Dubner     HarperCollins
+The Rise of the Robots Mass Unemployment        Ford              oneworld
+The Spirit of Venice                            Strathern         Pimlico
+Too Big to Fail                                 Sorkin            Penguin
+David and Goliath: Underdogs, misfits           Gladwell          BackBay
+The Russian Revolution brief insight            Smith             Sterling
+The Future of Ideas                             Lessig            Vintage
+Eating Animals                                  SafranFoer        Penguin
+Sham: Self Help Actualization Movement          Salerno           nb
+Churchill's War Lab                             Downing           abacus
+Curious Incident of the Dog in the NightTime    Haddon            Definitions
+The German Genius                               Watson            SimonSchuster
+The Lay of the Land                             Ford              bloomsbury
+How to win a million                            Laing             RandomHouse
+The Meaning of Recognition essays               James             Picador
+Liar's Poker                                    Lewis             Hodder
+Letter from America                             Cooke             Penguin
+Fooled by Randomness                            Taleb             RandomHouse
+The Mathematics of Marriage                     Gottman/Murray    mitp
+Antifragile                                     Taleb             RandomHouse
+The Seven Basic Plots                           Booker            Continuum
+Shakespeare and the Goddess of Complete Being   Hughes            faber
+Mannix bio                                      Niall             text
+Disinformation: media myths War on Terror       Miniter           Regency
