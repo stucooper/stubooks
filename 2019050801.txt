@@ -1,0 +1,37 @@
+name: PENGUIN SPECIALS
+label: 2019050801
+description: Penguin Specials and Pelicans
+
+The First Dismissal                             Slattery         PengSpecial
+Does Cooking Matter?                            Huntley          PengSpecial
+The Embarrassed Colonialist                     Dorney           PengSpecial
+What's wrong with Diplomacy?                    Brown            PengSpecial
+Rudd, Gillard and Beyond                        Bramston         PengSpecial
+End of the Road?                                Haigh            PengSpecial
+Reclaiming Epicurus                             Slattery         PengSpecial
+Ballots, Bullets and Kabulshit                  Ralph            PengSpecial
+The Deserted Newsroom                           Haigh            PengSpecial
+Beauty's Sister                                 Bradley          PengSpecial
+Take your best shot Gillard                     Kent             PengSpecial
+What is Science For?                            Dixon            Pelican
+Essays of a Humanist                            JulianHuxley     Pelican
+Since Silent Spring                             Graham           Pan
+Mathematics for the Million                     Hogben           Pan
+A Short History of English Literature 3e        Evans            Pelican
+The Theory of the Modern Stage                  ed Bentley       Pelican
+Mathematics in Western Culture                  Kline            Pelican
+The Theory of Evolution                         MaynardSmith     Pelican
+In a Critical Condition Aus Lit                 Docker           Pelican
+Lives of the Great Composers Vol 2              ed Bacharach     Pelican
+Lives of the Great Composers Vol 3              ed Bacharach     Pelican
+The Long Revolution                             Williams         Pelican
+Facts from Figures                              Moroney          Pelican
+The Psychology of Consciousness                 Ornstein         Pelican
+Domesticated Brain                              Hood             Pelican
+Economics: The User's Guide                     Chang            Pelican
+Outliers                                        Gladwell         Penguin
+The Case of the Pope                            Robertson        PengSpecial
+The Prize oil, money                            Yergin           pocket
+The Rational Optimist                           Ridley           HarperPerennial
+Gomorrah                                        Saviano          Pan
+The Origins of the 2nd World War                Taylor           Penguin
