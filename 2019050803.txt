@@ -1,0 +1,20 @@
+name: COFFEE TABLE
+label: 2019050803
+description: random books, some coffee table sized
+
+Fury                               Rushdie                  Vintage
+The Moor's Last Sigh               Rushdie                  Vintage
+Shame                              Rushdie                  Vintage
+School for Scandal/The Critic      Sheridan                 Longman
+Collected Poems                    Thomas                   Phoenix
+Under Milk Wood                    Thomas                   Everyman
+Shakespeare Staging the World      Bate/Thornton            Oxford
+No Ordinary Genius: Illustrated Feynman  ed Sykes           Weidenfeld
+Max Hits: Building Promoting Websites Slocombe              Rotovision
+Busted: 17 Mythbuster classics     Tarling                  WP
+Q is for Qantum                    Gribbin                  Penguin
+Surely you're joking Mr Feynman    Feynman                  Vintage
+Feynman: A Life in Science         Gribbin                  Penguin
+Mark Twain in Hawaii               Twain                    Mutual
+Three Plays Chekov                 Chekov                   PengClassics
+The Classics: Brief Insight        Beard/Henderson          Sterling
