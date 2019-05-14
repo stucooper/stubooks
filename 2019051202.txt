@@ -1,0 +1,32 @@
+name: M CONNELLY & KIPLING
+label: 2019051202
+description: Michael Connelly Crime novels + Rudyard Kipling
+
+The Concrete Blonde                    Connelly          AllenUnwin
+The Narrows                            Connelly          Orion
+The Closers                            Connelly          Orion
+The Overlook                           Connelly          AllenUnwin
+The Brass Verdict                      Connelly          AllenUnwin
+The Scarecrow                          Connelly          Orion
+Nine Dragons                           Connelly          Orion
+The Reversal                           Connelly          Orion
+The Fifth Witness                      Connelly          AllenUnwin
+The Drop                               Connelly          Orion
+The Black Box                          Connelly          AllenUnwin
+The Gods of Guilt                      Connelly          AllenUnwin
+The Gods of Guilt                      Connelly          Orion
+The Burning Room                       Connelly          AllenUnwin
+The Crossing                           Connelly          AllenUnwin
+The Wrong Side of Goodbye              Connelly          AllenUnwin
+The Late Show                          Connelly          AllenUnwin
+Two Kinds of Truth                     Connelly          AllenUnwin
+Crime Beat                             Connelly          AllenUnwin
+Six books: Jungle,Jungle2,JustSo,Puck,Stalky,Kim Kipling Heinemann
+Kim                                    Kipling           PenguinSilverClassics
+JustSoStories                          Kipling           PenguinYellowClassics
+The Light that Failed                  Kipling           PenguinYellowClassics
+The Jungle Books                       Kipling           PenguinYellowClassics
+Plain Tales from the Hills             Kipling           Wordsworth
+The Complete Stalky & Co               Kipling           Oxford
+Captains Courageous                    Kipling           Macmillan
+A Diversity of Creatures               Kipling           Macmillan
