@@ -1,0 +1,25 @@
+name: M CONNELLY #1
+label: 2019051201
+description: Michael Connelly Crime novels
+
+Harry Bosch novels BlkEch/BlkIce/Concrete        Connelly    AllenUnwin
+Three Great novels DknessNight/CityBone/Dime     Connelly    Orion
+Three Great novels Poet/BloodWork/VoidMoon       Connelly    AllenUnwin
+Lincoln Lawyer novels LLawyer/BrassVerd/Reversal Connelly    AllenUnwin
+Oxford companion to English Literature           ed Drabble  Oxford
+The Black Ice                                    Connelly    Orion
+The Black Echo                                   Connelly    Orion
+The Last Coyote                                  Connelly    Orion
+The Poet                                         Connelly    Orion
+Trunk Music                                      Connelly    Orion
+Angels Flight                                    Connelly    AllenUnwin
+Void Moon                                        Connelly    Orion
+A Darkness more than Night                       Connelly    Orion
+City of Bones                                    Connelly    AllenUnwin
+Chasing the Dime                                 Connelly    Orion
+Lost Light                                       Connelly    Orion
+Blood Work                                       Connelly    Orion
+The Lincoln Lawyer                               Connelly    AllenUnwin
+Echo Park                                        Connelly    AllenUnwin
+The Fifth Witness                                Connelly    Orion
+
