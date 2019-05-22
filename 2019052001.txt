@@ -1,0 +1,23 @@
+name: BOOKS GENERAL
+label: 2019052001
+description: Late box from Carlingford bookcases
+
+1Q84 Complete Trilogy                    Murakami            Vintage
+Losing the plot in Opera                 Castles-Onion       Exisle
+Chopin: Prince of the Romantics          Zamoyski            Harper
+The Ern Malley Affair                    Heyward             UniQldPress
+The Corrections                          Franzen             FourthEstate
+Paris: After the Liberation              Beevor/Cooper       Penguin
+Louis Armstrong and Paul Whiteman        Berrett             Yale
+Quadrivium                               various             Routledge
+The Angel and the Octopus                Leys                DuffySnellgrove
+Guide to Getting it on 5e                Joannides           GoofyFoot
+Collected stories of Noel Coward         Coward              Obelisk
+Benjamin Britten a Biography             Carpenter           faber
+Cyburbia                                 Harkin              LittleBrown
+Around the world in 80 treasures         Cruickshank         Wiedenfeld
+The Code Book                            Singh               FourthEstate
+Modern Romance                           Ansari              Penguin
+Masters and Commanders                   Roberts             AllenLane
+Shakespeare Complete Words               Shakespeare         Oxford
+Complete Plays of Chekhov                trans Senelick      Norton
