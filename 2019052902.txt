@@ -1,0 +1,19 @@
+name: Books - General
+label: 2019052902
+description: Various books including Brit TV
+
+Art and Architecture Florence                  Wirtz            Konemann
+Spike & Co Brit Comedy                         McCann           HodderStoughton
+Life on Mars Official Companion                Adams/Thompson   Pocket
+The Onion Iconic Magazine Covers               TheOnion         LittleBrown
+Psychogeography                                Self/Steadman    bloomsbury
+Makers                                         Doctorow         TomDoherty
+Empress Dowager Cixi                           Chang            Knopf
+Johnson's Life of London                       Johnson          Harper
+Dude Where's my Country?                       Moore            AllenLane
+Misbehaving (behavioural ecomonics)            Thaler           Norton
+Steve Jobs bio                                 Isaacson         LittleBrown
+Shalimar the Clown                             Rushdie          JonathanCape
+Steptoe and Son                                Galton/Simpson   BBC
+Building the Internet of Things                Kranz            Wiley
+The American Future                            Schama           HarperCollins
