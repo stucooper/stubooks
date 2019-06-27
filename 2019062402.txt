@@ -1,0 +1,21 @@
+name: LATEX
+label: 2019062402
+description: Latex books and random IT
+
+Auletta     Googled: the end of the world as we know it         Virgin
+Lamport     Latex A Document Prepartion System 2e               AWL
+Knuth       The TeXbook                                         AWL
+Sportack    IP Routing Fundamentals                             Cisco
+Mittlebach  The LaTeX Companion 2e                              AWL
+Goosens     The LaTeX Web Companion                             AWL
+Poundstone  Are you smart enough to work at Google?             LittleBrown
+Graziani    Routing Protocols and Concepts                      Cisco
+Keshav      An Engineering Approach to Computer Networking      AWL
+Johnson,Troan Linux Application Development                     AWL
+Harold      Jave Network Programming 2e                         ORA
+Bauer       Building Secure Servers with Linux                  ORA
+Hamilton    Modern Data Analysis: Applied Statistics            BrooksCole
+Grimaldi    Discrete & Combinatorial Mathematics 3e             AWL
+Tapscott,Williams Wikinomics                                    Penguin
+Welling,Thompson  MySQL Tutorial                                MySQL
+
