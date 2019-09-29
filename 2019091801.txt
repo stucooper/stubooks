@@ -18,8 +18,6 @@ IRC Hacks                                 Mutton            ORA
 Amazon Hacks                              Bausch            ORA
 Google Maps Hacks                         Gibson/Erle       ORA
 Wireless Hacks                            Flickenger        ORA
-
-FIXME: add the books below
 SQL Hacks                                 Cumming/Russell   ORA
 PDF Hacks                                 Steward           ORA
 

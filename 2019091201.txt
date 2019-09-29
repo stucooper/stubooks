@@ -12,7 +12,5 @@ Essential Business Process Modeeling      Havey             ORA
 The Art of Concurrency                    Breshears         ORA
 Repairing and Upgrading Your PC           Thompson/Thompson ORA
 The Pragmatic Programmer                  Hunt/Thomas       AWL
-
-FIXME: add the book below
 The Art of SEO                            Enge/Spencer      ORA
 
