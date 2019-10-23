@@ -1,0 +1,15 @@
+name: TRUE CRIME
+label: 2019102202
+description: True crime books
+
+underbelly The Gangland war                 Silvester/Rule    SlyInk
+leadbelly Inside Australia's Gangland Wars  Silvester/Rule    SlyInk
+underbelly A Tale of Two Cities             Silvester/Rule    SlyInk
+Foul! secret world of FIFA                  Jennings          HarperCollins
+Boganaire Rise and Fall of Nathan Tinkler   Manning           BlackInc
+Border Trilogy: Pretty Horses/Crossing/Cities of Plain McCarthy Picador
+Depends what you mean by extremeist         Safran            HamishHamilton
+Murder in Mississippi                       Safran            HamishHamilton
+The Lords of the Rings (Olympics)           Simson/Jennings   SimonShuster
+Without Fear or Favour                      Bottom            Sun
+Enemies of the State                        Priest            NewHolland
