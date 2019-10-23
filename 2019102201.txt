@@ -1,0 +1,21 @@
+name: AFL BIOS
+label: 2019102201
+description: AFL Player biographies
+
+Reading the play                                 Hird         McMillan
+Bomber: The Whole Story                          Thompson     Penguin
+Lenny: My Story                                  Hayes        hardiegrant
+Eddie: Rise and rise of EddieMcGuire             Bodey        hachette
+A Wink from the Universe (Bulldogs 2016)         Flanagan     Viking
+Nine Lives: Football, cancer                     Ramanauskas  Viking
+Play on! (women's AFL)                           Lenkis/Hess  echo
+Yellow & Black (Richmond 2017)                   Marshall     slattery
+Roo                                              Riccuto      McMillan
+Fletch                                      Dustin Fletcher   McMillan
+Matthew Scarlett: Hold the Line                  Scarlett     McMillan
+More than a game: story of Australian Rules      ed Hess      MUP
+Sacked Coach                                     Alves        crowncontent
+Polly Farmer: A Biography                        Hawke        FremantleArts
+The Convert                                      Lewis        McMillan
+The General                                      Hodge        Penguin
+Here it is: Coaching, leadership and life        Roos         Viking
