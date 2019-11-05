@@ -12,3 +12,13 @@ Programming in Haskell                   Graham Hutton         Cambridge
 Non-Designers Design & Type Books        Robin Williams        PeachPit
 Kerberos: The Definitive Guide           Jason Garman          ORA
 Computer Architecture: Quantitative Approach Hennessy/Patterson MK
+Data Manipulation with R                 Phil Spector          Springer
+Real Digital Forensics                   Jones/Beitlich        AWL
+Understanding Open Source Licensing      St. Laurent           ORA
+Art of 3D Computer Animation & Imaging 2e  Kerlow              JohnWiley
+Looking Good in Print 2e                 Roger C Parker        Ventuna
+Presenting Numbers, Tables and Charts    Bigword/Spore         Oxford
+Cyber Fraud                              Various               CRC
+Social Media and the Law (Australia)     Various               LexisNexis
+Vintage Tomorrows (steampunk)            Carrot/Johnson        ORA
+Handbook of Information and Computer Ethics  ed Floridi        Cambridge
