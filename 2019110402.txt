@@ -1,0 +1,21 @@
+name: CANBERRA IT
+label: 2019110402
+description: IT Books, many bought at Canberra Lifeline
+
+Intro to Database Systems 8e              C J Date               AWL
+JavaScript Application Design             Nicolas Bevacqua       Manning
+R in Action                               Robert Kabacoff        Manning
+CoffeeScript                              Trevor Burnham         PragProg
+Photoshop for the Web                     Mikkel Aaland          ORA
+Programming in C                          Stephen Kochan         Hayden
+Programming Language Semantics            Michael Scott          MK
+The Elements of User Experience           Jesse Garrett          NewRiders
+Teach yourself C                          Charles Siegel         TechPublic
+Java The Complete Reference 7e            Herbert Schildt        osborne
+Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
+Cryptography and Network Security         William Stallings      PTR
+Exploting Online Games                    Hogland/McGraw         AWL
+Designing BSD Rootkits                    Joseph Kong            NoStarch
+Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
+Agile Web Development with Rails          Ruby/Thomas/Hansson    PragProg
+The Well-Grounded Rubyist                 David A. Black         Manning
