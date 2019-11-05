@@ -1,0 +1,19 @@
+name: US POLITICS
+label: 2019110401
+description: US Political books
+
+My life on the road          Gloria Steinem                      Nero
+Dreamers and Deceivers       Glenn Beck                          Threshold
+Falter                       Bill McKibben                       BlackInc
+Mind of an Outlaw            Norman Mailer                       RandomHouse
+Stupid White Men             Michael Moore                       Penguin
+Revolution in the Air        Max Elbaum                          Verso
+The Conservatarian Manifesto Charles C W Cooke                   CrownForum
+The Enemy at Home: Left 9/11 Dinesh D'Souza                      Broadway
+The Voice of Reason          Ayn Rand                            Meridian
+The Golden Age               Gore Vidal                          Vintage
+The Last Empire: Essays      Gore Vidal                          Vintage
+Liberty Defined              Ron Paul                            GrandCentral
+The Joy of Hate              Greg Gutfeld                        CrownForum
+End of Discussion            Ham/Benson                          CrownForum
+The New Road to Serfdom      Daniel Hannan                       Broadside
