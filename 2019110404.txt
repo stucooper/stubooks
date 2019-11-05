@@ -1,0 +1,26 @@
+name: MATHS HISTORY & BIOS
+label: 2019110404
+description: Maths bios
+
+A Beautiful Mind                      Sylvia Nasar              faber
+Poincares Prize                       George Szpiro             Dutton
+Degrees Kelvin                        David Lindley             Aurum
+Mathematical Quickies                 Trigg                     Dover
+The Lateral Logician                  Sloane/MacHale            Quality
+Prime Obsession                       John Derbyshire           Plume
+Hoard of Mathematical Treasures       Ian Stewart               Profile
+Riddles in Mathematics                Eugene Northrop           Penguin
+From Erdos to Kiev: Problems Olympic Caliber Honsberger         MathsAssocUSA
+History of Mathematics 2e             Carl Boyer                JohnWiley
+Curious and Interesting Geometry      David Wells               Penguin
+Jungles of Randomness                 Ivars Peterson            Penguin
+Maths Olympiads: 2000-2001            various                   MathsAssocUSA
+Intro to Analysis of Metric Spaces    J. R. Giles               Cambridge
+The Archimedes Codex                  Netz/Noel     Weidenfeld/Nicolson
+In Code                               Sarah Flannery            Workman
+How many socks make a pair?           Rob Eastaway              JR Books
+Hidden Harmonies: Pythagorean Theorem Robert Kaplan             Bloomsbury
+On the Shoulders of Giants            ed Stephen Hawking        Penguin
+A Brief History of Infinity           Brian Clegg               Robinson
+Revised 4 Unit Maths Course           J. Corroneous             selfpublised
+
