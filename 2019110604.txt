@@ -1,0 +1,23 @@
+name: MATHS SCIENCE
+label: 2019110604
+description: Mostly Maths, bit of science
+
+Exactly (Precision Engineers)               Simon Winchester   WilliamCollins
+The Mathematical Brain                      Brian Butterworth  Macmillan
+Genius at Play (John Conway)                Siobhan Roberts    bloomsbury
+Did Adam & Eve have navels? (pseudoscience) Martin Gardner     Norton
+Quantum: Einstein, Bohn, reality            Manjit Kumar       icon
+Men of Mathematics                          E T Bell           SimonSchuster
+The Second Creation                         Crease/Mann        rutgers
+The Drunkard's walk: Randomness             Leonard Mlodinow   pantheon
+Four Colours Suffice                        Robin Wilson       Penguin
+Another fine Math you've got me into        Ian Stewart        WHFreeman
+Mathematics of Projectiles in Sport         Neville DeMestre   Cambridge
+Intro to Mathematical Physiology/Biology    Mazumdar           Cambridge
+Single Digits: Praise of Small Numbers      Marc Chamberland   princeton
+The Man who knew too much (Turing)          David Leavitt      Norton
+The Nothing that is (history of zero)       Robert Kaplan      Penguin
+Secrets of Mental Math                      Benjamin/Shermer   ThreeRivers
+Think Liks a Maths Genius                   Benjamin/Shermer   Souvenir
+Why Balloons Rise and Apples Fall           Jeff Stewart       MichaelOMag
+The Gene: An Intimate History               Siddhartha Mukherjee Scriber
