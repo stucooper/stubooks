@@ -1,0 +1,22 @@
+name: CULT TV
+label: 2019110603
+description: Cult TV and Movies books
+
+That Movie Book                             Marc Fennell       ABC
+Boardwalk Empire                            Nelson Johnson     ebury
+Dark Eye: Films of David Fincher            James Swallow      ReynoldsHearn
+The Avengers Files                          Andrew Pixley      ReynoldsHearn
+The Complete Sid James                      Robert Ross        ReynoldsHearn
+The Prisoner Original Scripts Volume 1      ed Fairclough      ReynoldsHearn
+Fame in the 20th Century                    Clive James        BBC
+Profiles                                    Kenneth Tynan      NickHern
+Didn't you kill my mother-in-law?           Wilmut/Rosengard   Methuen
+Dame Edna's Ednapaedia                      Humphries/Thomson  HeadZeus
+Parky's People                              Michael Parkinson  HodderStoughton
+Mad Men and Philosophy                      ed Carveth/South   JohnWiley
+The Comedy Bible                            Judy Carter        Currency
+An Askew View 2: Films of Kevin Smith       John Kenneth Muir  Applause
+Orson Welles: Road to Xanadu                Simon Collins      JonathanCape
+Last of the Giants (Guns n Roses)           Mick Wall          trapeze
+No one here gets out alive (Jim Morrison)   Hopkins/Sugerman   AngusRobertson
+Understanding Me                            Marshall McLuhan   MITP
