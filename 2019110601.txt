@@ -1,0 +1,24 @@
+name: CREAMY PENGUINS
+label: 2019110601
+description: Non-fiction creamy Penguins
+
+The Candy Machine (cocaine)         Tom Feiling            Penguin
+The Ottoman Endgame                 Sean McMeekin          Penguin
+Winter King (Henry VII)             Thomas Penn            Penguin
+The Last Man in Russia              Oliver Bullough        Penguin
+How to Plan a Crusade               Christopher Tyerman    Penguin
+Postcapitalism                      Paul Mason             Penguin
+The Invention of Science            David Wootton          Penguin
+Misbehaving                         Ricard H Thaler        Penguin
+Finding Your Element                Ken Robinson           Penguin
+Nudge                               Thaler/Sunstein        Penguin
+To Explain the World                Steven Weinberg        Penguin
+Paths to the Past                   Francis Pryor          Penguin
+Modern Romance                      Aziz Ansari            Penguin
+Private Empire                      Steve Coll             Penguin
+Universal                           Brian Cox/Forshaw      Penguin
+Too Big to Fail                     Andrew Ross Sorkin     Penguin
+Whoops!                             John Lanchester        Penguin
+Seasons in the Sun                  Dominic Sandbrook      Penguin
+Blitzed                             Norman Ohler           Penguin
+12 Rules for Life                   Jordan Peterson        Penguin
