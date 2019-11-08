@@ -1,0 +1,28 @@
+name: LITERARY
+label: 2019110802
+description: Literature and bios
+
+Hunter                            E Jean Carroll             dutton
+Anthony Burgess                   Roger Lewis                faber
+Golden House                      Salman Rushdie             JonathanCape
+Bleeding Edge                     Thomas Pynchon             JonathanCape
+Power Play: Peter Hall            Stephen Fay                HodderStoughton
+Love as always: Kurt (Vonnegut)   Loree Rackstraw            DaCapo
+The Parade                        Dave Eggers                HamishHamilton
+Ways of Escape                    Graham Greene              BodleyHead
+A Sort of Life                    Graham Greene              BodleyHead
+Promiscuous (Portnoys Complaint)  Bernard Avishai            Yale
+The Longest Journey               E M Forster                PengClassics
+By the Book (writers on writers)  ed Pamela Paul             Picador
+The Line of Beauty                Alan Hollinghurst          Picador
+Emma                              Jane Austen                PengClassics
+Beyond Black                      Hilary Mantel              Harper
+What I talk about running         Murakami                   Picador
+The Proud Highway HST letters     ed Douglas Brinkley        Ballantine
+A Diversity of Creatures          Rudyard Kipling            PengClassics
+Tinker Tailor/Hon Schoolboy/Smileys People John le Carre     Coronet
+The Little Drummer Girl                    John le Carre     Penguin
+The Great Gatsby (hb)             F Scott Fitzgerald         PengClassics
+News from Nowhere                 William Morris             PengClassics
+The Crying of Lot 49              Thomas Pynchon             Vintage
+Imaginary Homelands               Salman Rushdie             Vintage
