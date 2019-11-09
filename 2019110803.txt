@@ -1,0 +1,28 @@
+name: DARK WEB POLICY
+label: 2019110803
+description: IT Policy books including Dark Web books
+
+What's mine in yours                   Botsman/Rogers         HarperCollins
+The Internet is not the answer         Andrew Keen            Atlantic
+Silk Road                              Eileen Ormsby          Macmillan
+The Darkest Web                        Eileen Ormsby          AllenUnwin
+Insane Mode (Elon Musk Tesla)          Hamish McKenzie        faber
+The Tetris Effect                      Dan Ackerman           Oneworld
+Outnumbered                            David Sumpter          bloomsbury
+We are anonymous                       Parmy Olson            BackBay
+Winners and Losers on the Internet     Kieran Levis           Atlantic
+FreeLoading                            Chris Ruen             Scribe
+TED Talks                              Chris Anderson         nicholasBrealey
+big data: does size matter?            Timandra Harkness      bloomsbury
+underground                            Suelette Dreyfus       Mandarin
+50 ways to make google love your website johnston/mcGee       rhBusiness
+Smarter than you think                 Clive Thompson         WilliamCollins
+Fatal System Error                     Joseph Menn            publicAffairs
+Wired Life                             Charles Jonscher       anchor
+geek Silicon Valley (travel guide)     ashlee vance           GlobePequor
+geek wisdom                            various                Quirk
+QR Codes kill kittens                  Scott Stratten         Wiley
+I Just want it to work!                Kevin Spiteri          McPhersons
+Pogue's Basics                         David Pogue            Flatiron
+The Next Digital Decade                ed Szoka/Marcus        TechFreedom
+High Noon on the Electronic Frontier   ed Ludlow              MITP
