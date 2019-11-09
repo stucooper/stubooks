@@ -1,0 +1,40 @@
+name: AUS POLITICS
+label: 2019110804
+description: Australian Politics plus bit of US
+
+The Sex Diaries                      Bettina Arndt         MelbUni
+Trigger Warnings                     Jeff Sparrow          Scribe
+Price of Freedom                     B A Santamaria        Campion
+How the hell did this happen?        P J O'Rourke          Grove
+Net Loss (QE72)                      Sebastian Smee        schwartz
+Aus Foreign Affairs 1 Big Picture    various               schwartz
+Aus Foreign Affairs 4 Defending Aus  various               schwartz
+Making Headlines                     Chris Mitchell        MelbUni
+The Professionals (political campaigners) Stephen Mills    BlackInc
+The Howard Era (essays)              various               Quadrant
+#MenToo                              Bettina Arndt         WP
+Culture of Complaint                 Robert Hughes         NewYorkPublic
+Where we are                         Roger Scruton         bloomsbury
+Reframe                              Eric Knight           BlackInc
+Make the Liberal Party Great Again   John Riddick          WP
+Not for Greens                       Ian Pilmer            Connor Court
+A Political Philosophy               Roger Scruton         bloomsbury
+Left Turn                            ed Lowenstein/Sparrow MelbUni
+A Bold Fresh Piece of Humanity       Bill O'Reilly         Broadway
+This House of Grief                  Helen Garner          text
+Way Beyond Satire                    Rowan Dean            WP
+The Best of Spectator Aus 2014-2017  ed Dean               WP
+Outsiders                            Mark Latham           WP
+Funemployed                          Justin Heazlewood     Affirm
+Faction Man (Bill Shorten)           David Marr            BlackInc
+Punch & Judy                         Mungo MacCallum       BlackInc
+Fat City                             Karen Hitchcock       shortblacks
+The War of the Worlds (aboriginal)   Noel Pearson          shortblacks
+The Bravest Ones                     John Birmingham       shortblacks
+Prosper: A Voyage at Sea             Simon Leys            shortblacks
+Cypherpunk Revolutionary             Robert Manne          shortblacks
+Tradition, truth and tomorrow        Galarrwuy Yunupingu   shortblacks
+Anzac's Long Shadow                  James Brown           Redback
+Supermarket Monsters                 Malcolm Knox          Redback
+The Mind of the Islamic State        Robert Manne          Redback
+Losing Steak (Tas gaming industry)   James Boyce           Redback
