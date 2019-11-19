@@ -1,0 +1,23 @@
+name: TOP SHELF
+label: 2019111802
+description: Books from above my bookshelves in the garage
+
+The Oxbridge Conspiracy                  Walter Ellis        MichaelJoseph
+The House (Sydney Opera House)           Helen Pitt          AllenUnwin
+Down and Dirty in Pictures               Peter Biskind       SimonSchuster
+Brief Interviews with Hideous Men        David Foster Wallace BackBox
+Big Science (Ernest Lawrence)            Michael Hiltzik     SimonSchuster
+Constance: Mrs Oscar Wilde               Franny Moyle        JohnMurray
+Homo Deus: Brief History of Tomorrow     Yuval Noah Harari   Vintage
+Henry VIII: King and Court               Alison Weir         Pimlico
+The Taste of War: WW2 and Battle for Food Lizzie Collingham  AllenLane
+The Menzies Era (hb)                     John Howard         HarperCollins
+The Strange Death of Europe              Douglas Murray      bloomsbury
+Coke: The Biography                      Natalia Naish       RobsonPress
+Great Answers to Tough Interview Questions Martin John Yate  KoganPage
+In the time of the Americans             David Fromkin       Macmillan
+Can of Worms II                          Evan Whitton        fairfax
+King Leopold's Ghost                     Adam Hochschild     Pan
+Al Franken: Giant of the Senate          Al Franken          Twelve hbg
+The Fixer: Graham Richardson             Marian Wilkinson    WilliamHeinemann
+The Subtle Art of Not Giving a Fuck      Mark Manson         HarperOne
