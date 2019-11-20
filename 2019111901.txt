@@ -1,0 +1,25 @@
+name: IT POLICY
+label: 2019111901
+description: IT Policy books
+
+You may also like                         Tom Vanderbilt        AlfredKnopf
+Mindhacker                                Ron Hale-Evans        JohnWiley
+Digital Gold (bitcoin)                    Nathaniel Popper      HarperCollins
+Cryptocurrency                            Paul Vigna            BodleyHead
+Death March                               Edward Yourdon        PTR
+Tubes: Behind the scenes at the Internet  Andrew Blum           Penguin
+The Internet Case Study Book              ed Rob Ford           Taschen
+The App & Mobile Case Study Book          ed Rob Ford           Taschen
+Cyberia                                   Douglas Rushkoff      Harper
+Life Inc                                  Douglas Rushkoff      RandomHouse
+Throwing Rocks at the Google Bus          Douglas Rushkoff      Portfolio
+Inside WikiLeaks                          Daniel Domscheit-Berg scribe
+Delete                                    Viktor Schonberger    Princeton
+the mesh                                  Lisa Gansky           Portfolio
+Internetworking terms and acronyms 1995   Cisco                 Cisco
+Free Software Free Society essays         Richard Stallman      GNUPress
+Beyond Agile                              Pail Scott            3wks
+Geeks                                     Jon Katz              Hodder
+Scrum                                     Jeff Sutherland       rhBusiness
+Sprint                                    Jake Knapp            Bantam
+The Future of the Internet                Jonathan Zittrain     Penguin
