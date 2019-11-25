@@ -1,0 +1,22 @@
+name: VARIOUS
+label: 2019112501
+description: Various books
+
+Kissinger 1923-1968: The Idealist               Niall Ferguson      Penguin
+Sense and Censorship: Censorship in Australia   Michael Pollock     Reed
+Legacy of Secrecy: JFK Assassination shadow     Lamar Waldron       Scibe
+Cast of Characters: Golden Age of the New Yorker Thomas Vinciguerra Norton
+About Town: New Yorker and the World it Made    Ben Yagoda          DaCapo
+Life Stories: Profiles from The New Yorker      ed Remnick          Modern
+Josh Hartnett definitely wants to do this       Bruce Beresford     FourthEst
+Jersualem The Bigoraphy                         Sebag Montefiore    W&N
+ayoade on ayoade: a cinematic odyssey           Richard Ayoade      faber
+Style Manual for authors, editors and printers  AusGovt             AGPS
+Messages to the World                           BinLaden            Verso
+Proust bio                                      Edmund White        W&N
+Samuel Johnson: A Life                          David Nokes         faber
+Pandora's Box: Life's little nasties            Dr Cindy Pan        HarperColl
+Sir Garwain and the Green Knight                trans Harrison      OUP
+The White Deer                                  James Thurber       Penguin
+igNobel Prizes                                  Marc Abrahams       Orion
+Watching the English                            Kate Fox            Hodder
