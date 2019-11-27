@@ -1,0 +1,25 @@
+name: VARIOUS
+label: 2019112701
+description: Various books
+
+Classic Lewis Carroll                      Lewis Carroll       PenguinIndia
+White                                      Bret Easton Ellis   Picador
+Double Take                                Kendall Talbot      Harlequin
+The Wire: Truth be Told                    Rafael Alvarez      Canongate
+Mud Crab Boogie/Goodoo/Wind and the Monkey Roger Barrett       HarperCollins
+The Yips                                   Nicola Barker       FourthEstate
+The Playful Brain (Puzzles improve minds)  Richard Restak      Riverhead
+The Human Advantage                        Suzana Houzel       MITP
+The Introvert Advantage                    Marti Laney         Workman
+The Death of the Grown Up                  Diana West          StMartins
+Silent Spring                              Rachel Carson       Penguin
+Tears we Cannot Stop                       Michael Eric Dyson  StMartins
+Slumberland                                Paul Beatty         OneWorld
+The Atomic Weight of Love                  Elizabeth Church    4thEstate
+International History of 20thC beyond 2e   various             Routledge
+Bohemians and the Bulletin                 Norman Lindsay      A&R
+Level 27 (New Testament)                   BibleSociety        BibleSociety
+Three Revenge Tragedies                    various             PengClassics
+Quitter                                    Jon Acuff           Lampo
+Dramatic Episodes of the Civil Wars        Pharsalia/Graves    PengClassics
+Combatting Cult Mind Control               Steven Hassan       ParkStreet
