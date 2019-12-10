@@ -1,0 +1,34 @@
+name: POKER HOLDEM
+label: 2019121001
+description: Poker mostly Holdem books
+
+The Man with the $100,000 Breasts    Michael Konik           Broadway
+Poker Players Bible                  Lou Kreiger             NewBurlington
+The Noble Hustle                     Colson Whitehead        Doubleday
+Amarillo Slim in a World Full of Fat People Preston          HarperPerennial
+Mastering No Limit Holdem            Fox/Harker              ConJelCo
+Holdem Wisdom for All Players        Daniel Negreanu         Cardoza
+The Big Book of Poker                Dario De Toffoli        dbp
+Think Like a Poker Pro               Byron Jacobs            D&B
+Practical Poker Math                 Pat Dittmar             ecw
+Professional No Limit Holdem Vol 1   Flynn/Mehta/Miller      TwoPlusTwo
+Heads-Up No Limit Holdem             Collin Moshman          TwoPlusTwo
+Killer Poker                         John Vorhaus            LyleStuart
+Crash Course in Beating Texas Holdem Avery Cardoza           Cardoza
+Power Holdem Strategy                Daniel Negreanu         Cardoza
+Full Tilt Poker Strategy Guide       ed Michael Craig        Warner
+Real Grinders                        Ashton Cartwright       Cartwright
+In the Money                         Antonio Esfandiari      HarperCollins
+Poker Winners are Different          Alan Schoonmaker        LyleStuart
+Killer Poker: No Limit               John Vorhaus            LyleStuart
+Your Worst Poker Enemy               Alan Schoonmaker        LyleStuart
+No Limit Holdem Theory and Practice  Sklansky/Miller         TwoPlusTwo
+The Rough Guide to Poker             Iain Fletcher           RoughGuides
+The Spirit of Kaizen                 Robert Maurer           McGraw Hill
+Small Stakes Holdem                  Miller/Sklansky/Malmuth TwoPlusTwo
+Treat your poker like a business     Dusty Schmidt           Cardoza
+How to Crush No Limit Holdem         Dusty Schmidt           Cardoza
+Dont Listen to Phil Hellmuth         Dusty Schmidt           Cardoza
+Live No Limit Cash Games Volume 1    Jonathan Little         D&B
+Super System 2                       Doyle Brunson           Cardoza
+
