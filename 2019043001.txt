@@ -5,7 +5,6 @@ description: Poker bios and history mostly no strategy
 Positively Fifth Street              McManus                 FSG
 Winning Texas Holdem                 Maroon                  MainStreet
 The Man Behind the Shades Stu Ungar  Dalla/Alson             Weidenfeld
-The Man with the $100,000 Breasts    Konik                   Broadway
 You Bet Betfair Story                Cameron                 HarperCollins
 Rounders                             Canty                   faber
 Las Vegas Babylon                    Burbank                 Robson
