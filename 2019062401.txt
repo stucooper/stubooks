@@ -15,5 +15,5 @@ Richards        JavaMessageService 2e                    oraprintout
 Snyder,Bosanic  ActiveMQ in Action                       Manningprintout
 Chassell,Stallman Texinfo                                gnu
 Beyer,Jones     Site Reliability Engineering             oraprintout
-Uphill          Mastering Puppet                         packtprintout
-Franceschi      Extending Puppet                         packtprintout
+Uphill          Mastering Puppet                         packtprintout OCSdesk
+Franceschi      Extending Puppet                         packtprintout OCSdesk
