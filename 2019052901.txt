@@ -2,26 +2,26 @@ name: Perl & Shell
 label: 2019052901
 description: Loads of Perl books
 
-Perl for System Administration                   Blank-Edelman       ORA
-Graphics Programming with Perl                   Verbruggen          Manning
-Perls of Wisdom                                  Schwartz            Apress
-Perl Testing a Developer's Notebook              Langworth/chromatic ORA
-Perl Medic transforming legacy code              Scott               AWL
-Minimal Perl                                     Maher               Manning
-Network Programming with Perl                    Stein               AWL
-Advanced Perl Programming 1e                     Srinivasan          ORA
-Perl Cookbook                                    Christiansen/Torkington ORA
-Programming Perl 3e                              Wall/Christiansen   ORA
-Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA
-Mastering Regular Expressions 3e                 Friedl              ORA
-Intermediate Perl                                Schwartz/dfoy       ORA
-Advanced Perl Programming 2e                     Cozens              ORA
-Extending and Embedding Perl                     Cozens/Jenness      Manning
-Effective Perl Programming 1e                    Hall/Schwartz       AWL
-Elements of Programming with Perl                Johnson             Manning
-Korn Shell Programming Tutorial                  Rosenberg           AWL
-bash cookbook                                    Albing/Vossen       ORA
-sed & awk 2e                                     Dougherty/Robbins   ORA
-Learning the Korn Shell                          Rosenblatt          ORA
-Writing Apache Modules with Perl and C           Stein/MacEachern    ORA
-Perl Best Practices                              Conway              ORA
+Perl for System Administration                   Blank-Edelman       ORA OCS
+Graphics Programming with Perl                   Verbruggen          Manning OCS
+Perls of Wisdom                                  Schwartz            Apress OCS
+Perl Testing a Developer's Notebook              Langworth/chromatic ORA OCS
+Perl Medic transforming legacy code              Scott               AWL OCS
+Minimal Perl                                     Maher               Manning OCS
+Network Programming with Perl                    Stein               AWL OCS
+Advanced Perl Programming 1e                     Srinivasan          ORA OCS
+Perl Cookbook                                    Christiansen/Torkington ORA OCS
+Programming Perl 3e                              Wall/Christiansen   ORA OCS
+Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA OCS
+Mastering Regular Expressions 3e                 Friedl              ORA OCS
+Intermediate Perl                                Schwartz/dfoy       ORA OCS
+Advanced Perl Programming 2e                     Cozens              ORA OCS
+Extending and Embedding Perl                     Cozens/Jenness      Manning OCS
+Effective Perl Programming 1e                    Hall/Schwartz       AWL OCS
+Elements of Programming with Perl                Johnson             Manning OCS
+Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
+bash cookbook                                    Albing/Vossen       ORA OCS
+sed & awk 2e                                     Dougherty/Robbins   ORA OCS
+Learning the Korn Shell                          Rosenblatt          ORA OCS
+Writing Apache Modules with Perl and C           Stein/MacEachern    ORA OCS
+Perl Best Practices                              Conway              ORA OCS
