@@ -2,7 +2,7 @@ name: Perl & Shell
 label: 2019052901
 description: Loads of Perl books
 
-Perl for System Administration                   Blank-Edelman       ORA OCS
+Perl for System Administration                   Blank-Edelman       ORA CFO
 Graphics Programming with Perl                   Verbruggen          Manning CFO
 Perls of Wisdom                                  Schwartz            Apress CFO
 Perl Testing a Developer's Notebook              Langworth/chromatic ORA OCS
@@ -18,10 +18,10 @@ Intermediate Perl                                Schwartz/dfoy       ORA OCS
 Advanced Perl Programming 2e                     Cozens              ORA OCS
 Extending and Embedding Perl                     Cozens/Jenness      Manning OCS
 Effective Perl Programming 1e                    Hall/Schwartz       AWL CFO
-Elements of Programming with Perl                Johnson             Manning OCS
+Elements of Programming with Perl                Johnson             Manning CFO
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
-bash cookbook                                    Albing/Vossen       ORA OCS
-sed & awk 2e                                     Dougherty/Robbins   ORA OCS
+bash cookbook                                    Albing/Vossen       ORA CFO
+sed & awk 2e                                     Dougherty/Robbins   ORA CFO
 Learning the Korn Shell                          Rosenblatt          ORA OCS
 Writing Apache Modules with Perl and C           Stein/MacEachern    ORA CFO
 Perl Best Practices                              Conway              ORA OCS
