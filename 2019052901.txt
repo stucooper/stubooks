@@ -5,18 +5,18 @@ description: Loads of Perl books
 Perl for System Administration                   Blank-Edelman       ORA CFO
 Graphics Programming with Perl                   Verbruggen          Manning CFO
 Perls of Wisdom                                  Schwartz            Apress CFO
-Perl Testing a Developer's Notebook              Langworth/chromatic ORA OCS
+Perl Testing a Developer's Notebook              Langworth/chromatic ORA CFO
 Perl Medic transforming legacy code              Scott               AWL CFO
 Minimal Perl                                     Maher               Manning OCS
-Network Programming with Perl                    Stein               AWL OCS
+Network Programming with Perl                    Stein               AWL CFO
 Advanced Perl Programming 1e                     Srinivasan          ORA OCS
-Perl Cookbook                                    Christiansen/Torkington ORA OCS
+Perl Cookbook                                    Christiansen/Torkington ORA CFO
 Programming Perl 3e                              Wall/Christiansen   ORA OCS
 Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA OCS
 Mastering Regular Expressions 3e                 Friedl              ORA OCS
 Intermediate Perl                                Schwartz/dfoy       ORA OCS
 Advanced Perl Programming 2e                     Cozens              ORA OCS
-Extending and Embedding Perl                     Cozens/Jenness      Manning OCS
+Extending and Embedding Perl                     Cozens/Jenness      Manning CFO
 Effective Perl Programming 1e                    Hall/Schwartz       AWL CFO
 Elements of Programming with Perl                Johnson             Manning CFO
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
