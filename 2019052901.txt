@@ -9,7 +9,7 @@ Perl Testing a Developer's Notebook              Langworth/chromatic ORA CFO
 Perl Medic transforming legacy code              Scott               AWL CFO
 Minimal Perl                                     Maher               Manning OCS
 Network Programming with Perl                    Stein               AWL CFO
-Advanced Perl Programming 1e                     Srinivasan          ORA OCS
+Advanced Perl Programming 1e                     Srinivasan          ORA CFO
 Perl Cookbook                                    Christiansen/Torkington ORA CFO
 Programming Perl 3e                              Wall/Christiansen   ORA OCS
 Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA OCS
