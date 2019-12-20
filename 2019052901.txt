@@ -15,7 +15,7 @@ Programming Perl 3e                              Wall/Christiansen   ORA OCS
 Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA OCS
 Mastering Regular Expressions 3e                 Friedl              ORA OCS
 Intermediate Perl                                Schwartz/dfoy       ORA OCS
-Advanced Perl Programming 2e                     Cozens              ORA OCS
+Advanced Perl Programming 2e                     Cozens              ORA CFO
 Extending and Embedding Perl                     Cozens/Jenness      Manning CFO
 Effective Perl Programming 1e                    Hall/Schwartz       AWL CFO
 Elements of Programming with Perl                Johnson             Manning CFO
