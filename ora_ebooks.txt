@@ -1,0 +1,84 @@
+# member.oreilly.com SHUTTING DOWN IN MARCH 2020: Download all of these!!
+21st Century C, 2nd Edition
+Alan Turing: His Work and Impact
+Analyzing the Analyzers
+Ansible: Up and Running
+AWS System Administration
+Bad Data Handbook
+Becoming a Better Programmer
+Building Microservices
+Building Node Applications with MongoDB and Backbone
+Building Secure Servers with Linux
+Clojure Programming
+ClojureScript: Up and Running
+Configuration Management with Chef-Solo
+Data Algorithms
+Data Analysis with Open Source Tools
+Database Nation
+Deploying OpenStack
+Docker Cookbook
+Effective DevOps
+Elasticsearch: The Definitive Guide
+Extending Puppet
+flex & bison
+Fluent Python
+Hackers
+Hackers & Painters
+High Performance MySQL, 3rd Edition
+HTML5 and JavaScript Web Apps
+HTTP/2: A New Excerpt from High Performance Browser Networking
+Implementing OpenShift
+Industrial Internet
+Information Architecture, 4th Edition
+Infrastructure as Code
+Interactive Data Visualization for the Web
+Java Cookbook, 3rd Edition
+Java Enterprise in a Nutshell
+Java Examples in a Nutshell
+Java In a Nutshell, 4th Edition
+Java Network Programming, 2nd Edition
+JavaScript Enlightenment
+Land of Lisp
+Learning Chef
+Learning MCollective
+Learning Nagios 4
+Learning Puppet 4
+Linux Networking Cookbook
+The Linux Programming Interface
+Linux Security Cookbook
+Machine Learning for Hackers
+Managing Infrastructure with Puppet
+Managing Mission Critical Domains and DNS
+Managing RPM-Based Systems with Kickstart and Yum
+MapReduce Design Patterns
+Mastering Algorithms with Perl
+Mastering Perl, 2nd Edition
+Mastering Puppet
+Monitoring with Graphite
+Network Security with OpenSSL
+Physics for Game Developers, 2nd Edition
+Practical Monitoring
+Programming Amazon EC2
+Programming Google App Engine, 2nd Edition
+Programming Perl, 3rd Edition
+Puppet Best Practices
+Puppet Types and Providers
+Python for Data Analysis
+R Cookbook
+R in a Nutshell, 2nd Edition
+RESTful Rails Development
+Take Control of the Cloud
+Test-Driven Development with Python
+Tim O'Reilly in a Nutshell
+Tomcat: The Definitive Guide, 2nd Edition
+Understanding the Linux Kernel, 2nd Edition
+Using Docker
+Vagrant: Up and Running
+Version Control with Git, 2nd Edition
+Virtualization: A Manager's Guide
+The Web Platform
+Web Security, Privacy & Commerce, 2nd Edition
+What is Dart?
+What is DevOps?
+What's New in Java 7
+You Don't Know JS: Up & Going
