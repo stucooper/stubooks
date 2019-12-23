@@ -8,7 +8,6 @@ Bad Data Handbook
 Becoming a Better Programmer
 Building Microservices
 Building Node Applications with MongoDB and Backbone
-Building Secure Servers with Linux
 Clojure Programming
 ClojureScript: Up and Running
 Configuration Management with Chef-Solo
@@ -33,10 +32,6 @@ Information Architecture, 4th Edition
 Infrastructure as Code
 Interactive Data Visualization for the Web
 Java Cookbook, 3rd Edition
-Java Enterprise in a Nutshell
-Java Examples in a Nutshell
-Java In a Nutshell, 4th Edition
-Java Network Programming, 2nd Edition
 JavaScript Enlightenment
 Land of Lisp
 Learning Chef
@@ -51,16 +46,13 @@ Managing Infrastructure with Puppet
 Managing Mission Critical Domains and DNS
 Managing RPM-Based Systems with Kickstart and Yum
 MapReduce Design Patterns
-Mastering Algorithms with Perl
 Mastering Perl, 2nd Edition
 Mastering Puppet
 Monitoring with Graphite
-Network Security with OpenSSL
 Physics for Game Developers, 2nd Edition
 Practical Monitoring
 Programming Amazon EC2
 Programming Google App Engine, 2nd Edition
-Programming Perl, 3rd Edition
 Puppet Best Practices
 Puppet Types and Providers
 Python for Data Analysis
@@ -71,13 +63,11 @@ Take Control of the Cloud
 Test-Driven Development with Python
 Tim O'Reilly in a Nutshell
 Tomcat: The Definitive Guide, 2nd Edition
-Understanding the Linux Kernel, 2nd Edition
 Using Docker
 Vagrant: Up and Running
 Version Control with Git, 2nd Edition
 Virtualization: A Manager's Guide
 The Web Platform
-Web Security, Privacy & Commerce, 2nd Edition
 What is Dart?
 What is DevOps?
 What's New in Java 7
