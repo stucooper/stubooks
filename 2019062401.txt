@@ -14,6 +14,6 @@ Kuruvilla       JIRA Development Cookbook                packtprintout
 Richards        JavaMessageService 2e                    oraprintout OCSdesk
 Snyder,Bosanic  ActiveMQ in Action                       Manningprintout OCSdesk
 Chassell,Stallman Texinfo                                gnu
-Beyer,Jones     Site Reliability Engineering             oraprintout OCSdesk
+Beyer,Jones     Site Reliability Engineering             oraprintout CFO
 Uphill          Mastering Puppet                         packtprintout OCSdesk
 Franceschi      Extending Puppet                         packtprintout OCSdesk
