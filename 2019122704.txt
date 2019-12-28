@@ -1,0 +1,25 @@
+name: KERNEL INTERNALS
+label: 2019122794
+description: Kernel and Linux books
+
+The Magic Garden Explained                   Goodheart/Cox          PTR
+The Magic Garden Explained Solutions Manual  Goodheart/Cox          PTR
+Operating Systems Concepts                   Silberschatz/Galvin    JohnWiley
+Embedded Linux Primer 2e                     Christopher Hallinan   PTR
+The Linux Programmers Toolbox                John Fusco             PTR
+Advanced Unix Programming 2e                 Marc Rochkind          AWL
+Programming with POSIX Threads               David R Butenhof       AWL
+Understanding the Linux Kernel 2e            Bovet/Cesati           ORA
+Linux Debugging and Performance Tuning       Steve Best             PTR
+Linux Programming by Example                 Arnold Robbins         PTR
+The Linux Kernel Primer                      Rodriguez/Fischer      PTR
+Software Requirements                        Karl Wiegers           Microsoft
+Distributed Operating Systems                Andrew S Tanenbaum     PTR
+The UNIX Programming Environment             Kernighan/Pike         PTR
+The Linux Development Platform               Rehman/Paul            PTR
+Advanced Linux Programming                   CodeSourcery           NewRiders
+Writing Solid Code                           Steve Macguire         Microsoft
+Code Complete 2e                             Steve McConnell        Microsoft
+Running Linux 3e                             Matt Welsh             ORA
+RedHat Networking and System Administration  Collings/Wall          RedHat
+
