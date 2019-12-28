@@ -1,0 +1,22 @@
+name: HARDBACK REFERENCE
+label: 2019122705
+description: Hardback reference books
+
+Lands and Peoples I:   British Isles and Western Europe         GrolierSociety
+Lands and Peoples II:  Baltic States and Central Europe         GrolierSociety
+Lands and Peoples III: Near and Middle East                     GrolierSociety
+Lands and Peoples IV:  Southern Asia and the Far East           GrolierSociety
+Lands and Peoples V:   Africa, Australia and Southern Islands   GrolierSociety
+Lands and Peoples VI:  Canada and the United States             GrolierSociety
+Lands and Peoples VII: Latin America and General Articles       GrolierSociety
+Decline and Fall of Roman Empire I             Edward Gibbon    BrittanicaGt
+Decline and Fall of Roman Empire II            Edward Gibbon    BrittanicaGt
+Ptolemy/Copernicus/Kepler                                       BrittanicaGt
+Gilbert/Galileo/Harvey                                          BrittanicaGt
+Lavoisier/Fourier/Faraday                                       BrittanicaGt
+The Autobiography of Benjamin Franklin                          ProgrammedClas
+The Autobiography of Benjamin Franklin                          ProgrammedClas
+Last Days of Pompeii                      Edward Butler Lytton  ProgrammedClas
+Homer Iliad                           trans Richmond Lattimore  ProgrammedClas
+Plutarch's Lives                          Plutarch              Harvard
+Dante Divine Comedy                       trans Henry F Cary    Harvard
