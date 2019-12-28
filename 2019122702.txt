@@ -1,0 +1,22 @@
+name: PHP and MySQL
+label: 2019122702
+description: PHP and MySQL books
+
+MySQL Cookbook 2e                         Paul DuBois            ORA
+Core PHP Programming 3e                   Leon Atkinson          PTR
+MySQL 2e                                  Paul DuBois            SAMSDev
+Berkeley DB                               sleepycat              NewRiders
+PHP5 Power Programming                    Gutmans/Bakker         PTR
+MySQL Stored Procedure Programming        Guy Harrison           ORA
+MySQL Clustering                          Alex Davies/Fisk       MySQL
+MySQL Database Design and Tuning          Robert Schneider       MySQL
+Expert MySQL                              Charles A Bell         APress
+Web Database Applications w PHP and MySQL Hugh Williams/Lane     ORA
+Advanced PHP Programming                  George Schlossnagle    SAMSDev
+PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
+Unix Database Management Systems          Ulka Rodgers           PTR
+SQL in a Nutshell 2e                      Kevin Kline            ORA
+SQL Cookbook                              Anthony Molinaro       ORA
+The Essence of Databases                  F D Rolland            PTR
+SQL Pocket Guide 2e                       Jonathan Gennick       ORA
+Database Management Systems 2e            Alfonso Cardenas       AlphaBacon
