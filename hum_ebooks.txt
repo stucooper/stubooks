@@ -1,0 +1,752 @@
+2064: Read Only Memories
+21st Century Robot
+30 Days of Night
+35% off print books from nostarch.com!
+3D Engine Design for Virtual Globes
+3D Math Primer for Graphics and Game Development
+7 Grand Steps
+97 Things Every Programmer Should Know
+A Casual Revolution: Reinventing Video Games and Their Players
+A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
+A Double Fine Adventure Full (video)
+A Little Gold Book of Ghastly Stuff 
+A Virus Named Tom
+Absolute FreeBSD: The Complete Guide to FreeBSD
+Absolute OpenBSD
+Advanced Analytics with Spark
+The Agile Enterprise
+AI War: Fleet Command
+AI War: Fleet Command+3 DLCs
+Amazing Forest
+Android Cookbook
+Android Security Internals
+Angular: Up and Running
+Animal Noir #1
+Ansible 2 for Beginners (video)
+Ansible: From Beginner to Pro
+Any Empire by Nate Powell
+Apache Hive Essentials
+Apache Spark with Scala (video)
+Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
+Applied Text Analysis with Python
+Archangel #1
+Archangel #2
+Archangel #3
+Architecting Modern Data Platforms
+Arduino Cookbook
+The Art of Debugging
+The Art of Deception: Controlling the Human Element of Security
+The Art of Failure: An Essay on the Pain of Playing Video Games
+The Art of Fluid Animation
+The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+The Art of R Programming
+Artificial Intelligence for Big Data
+The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
+Assembly Language Step-by-Step: Programming with Linux
+Astronomy Hacks
+Atari Age: The Emergence of Video Games in America
+Atmospheric Monitoring with Arduino
+Auctions
+Automate it!
+Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
+AWS System Administration
+Ballistick
+Baseball Hacks
+bash Cookbook
+Bash Pocket Reference, 2nd Edition
+Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
+Beat Hazard Ultra
+Beautiful LEGO
+Become ITIL Foundation Certified in 7 Days
+Becoming Functional
+Beginning Blockchain
+Beginning Linux Programming
+Beginning Python
+Beginning Ubuntu for Windows and Mac Users
+The Best of Instructables, Volume I
+The Best of Make:
+Big Data Analytics in Cybersecurity
+Big Data Analytics with Applications in Insider Threat Detection
+Big Data Analytics with Hadoop 3
+Big Data Architect's Handbook
+Black Hat Python: Python Programming for Hackers and Pentesters
+Bleeding Edge Press Video Course: Kong (video)
+Blender Master Class: A Hands-On Guide to Modeling, Sculpting, Materials, and Rendering
+Blockchain across Oracle
+Blockchain By Example
+Blockchain for Business 2018: The New Industrial Revolution (video)
+Blockchain Quick Reference
+Blockchain Real World Projects (video)
+The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor
+The Book of F#: Breaking Free with Managed Functional Programming
+The Book of GIMP: A Complete Guide to Nearly Everything
+The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More
+The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
+The Book of PF: A No-Nonsense Guide to the OpenBSD Firewall
+The Book of PoC || GTFO
+The Book of R: A First Course in Programming and Statistics
+Bot Factory: Vol. 55
+The Boys Vol. 1: The Name of the Game
+Brutal Nature
+BSD Hacks
+Build scalable applications with Apache Kafka (video)
+Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress
+Building Apps with Riot
+CAPM in Depth
+The Car Hacker's Handbook
+Car PC Hacks
+Cassandra: The Definitive Guide, 2e: Distributed Data at Web Scale
+The Cathedral and the Bazaar
+CEH v9: Certified Ethical Hacker Version 9 Study Guide
+Certified OpenStack Administrator Study Guide
+Chatbots for eCommerce
+Chroma Squad
+The CISO Journey
+Classic Shell Scripting
+Clojure Cookbook
+Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer
+Clojure Programming
+Cloud Computing
+Cloud Foundry: The Definitive Guide
+Cloud Native Infrastructure
+Code Craft
+Codename Revolution: The Nintendo Wii Platform
+Collaborative Cyber Threat Intelligence
+Color Sky
+Comic Book History of Comics
+Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
+CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
+CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
+Computer Security Literacy
+Computing
+Continuous Delivery with Docker and Jenkins
+Cosmic Scoundrels #1
+Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
+Creating Interfaces with Bulma
+Critical Play: Radical Game Design
+Crowdsourcing
+Cryptography Engineering: Design Principles and Practical Applications
+The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
+CSS Cookbook
+CSS Pocket Reference
+CSS Refactoring
+CSS: The Definitive Guide
+D4VE, Vol. 1
+D4VE2
+D4VEocracy #1
+Dangerous High School Girls in Trouble
+Darkness Visible #1
+Data Analytics for Internal Auditors
+Data Science
+Data Visualization with Javascript
+Data Visualization with Python & JavaScript
+Database Reliability Engineering
+Day of the Tentacle
+Deep Learning Cookbook
+Deep Learning in the Browser
+Defense Against the Black Arts
+Deploying and Running Docker Containers (video)
+Deploying to OpenShift
+Deployment with Docker
+Designing Distributed Systems
+Designing Web APIs
+Developer's Dilemma: The Secret World of Videogame Creators
+Developing a gulp Edge
+Developing a hapi Edge
+Developing a React.js Edge
+Developing an Electron Edge
+DevOps for Networking
+DevOps for Web Developers (video)
+DevOps with Kubernetes
+Digital Character Development: Theory and Practice
+Digital Culture, Play, and Identity: A World of Warcraft® Reader
+Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
+Disruptive Analytics
+DIY Drone and Quadcopter Projects
+DIY Instruments for Amateur Space
+DIY Satellite Platforms
+DNS and BIND, 5th Edition
+Docker and Kubernetes for Java Developers
+Docker Cookbook
+Doing Data Science: Straight Talk from the Frontline
+Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
+Double Fine Adventure Documentary
+Double Fine Adventure Ep.01 (video)
+Double Fine Adventure Ep.02 (video)
+Double Fine Adventure Ep.03 (video)
+Double Fine Adventure Ep.04 (video)
+Double Fine Adventure Ep.05 (video)
+Double Fine Adventure Ep.06 (video)
+Double Fine Adventure Ep.07 (video)
+Double Fine Adventure Ep.08 (video)
+Double Fine Adventure Ep.09 (video)
+Double Fine Adventure Ep.10 (video)
+Double Fine Adventure Ep.11 (video)
+Double Fine Adventure Ep.12 (video)
+Double Fine Adventure Ep.13 (video)
+Double Fine Adventure Ep.14 (video)
+Double Fine Adventure Ep.15 (video)
+Double Fine Adventure Ep.16 (video)
+Double Fine Adventure Ep.17 (video)
+Double Fine Adventure Ep.18 (video)
+Double Fine Adventure Ep.19 (video)
+Double Fine Adventure Ep.20 (video)
+Drone Revolution: Vol. 51
+Dusty Revenge: Co-Op Edition
+Effective DevOps
+egghead.io
+The Electric Sublime #1
+The Electric Sublime #2
+The Electric Sublime #3
+The Electric Sublime #4
+Electricity for Young Makers
+Elegant SciPy
+Ellipsis
+Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming
+The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
+The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
+Encyclopedia of Electronic Components, Vol. 3: Sensors
+Environmental Monitoring with Arduino
+Essential Skills in Character Rigging
+Essential System Administration, 3rd Edition
+Ethereum Cookbook
+Ethereum Projects (video)
+Ethical Hacking and Penetration Testing Guide
+Evolving Digital Leadership
+Excel Hacks 2ed
+Flask Web Development
+Fluent Python
+Fluid Simulation for Computer Graphics
+Food Hacks: Vol. 53
+Forrest Mims' Science Experiments
+Foundations for Architecting Data Solutions
+Foundations of Blockchain
+Founders at Work
+Frankenstein Alive, Alive! #1
+Frankenstein Alive, Alive! #2
+Frankenstein Alive, Alive! #3
+FreeBSD Device Drivers: A Guide for the Intrepid
+Functional JavaScript
+Functional Thinking
+The Future
+Game Hacking
+Gaming Hacks
+Getting Started with 3D Printing
+Getting Started with Docker (video)
+Getting Started with Hadoop 2.x (video)
+Getting Started with Kubernetes, Second Edition
+Getting Started with Kudu
+Getting Started with Netduino
+Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi
+Getting Started with the Internet of Things
+Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
+Girls Like Robots
+Git Pocket Guide
+The GNU Make Book
+GPGPU Programming for Games and Science
+Graph Databases, 2e: New Opportunities for Connected Data
+Graphics Shaders
+Graphing Data with R
+GRAV (Early Access)
+Gray Hat Python: Python Programming for Hackers and Reverse Engineers
+Great Big Agile
+Guacamelee! Gold Edition
+Guacamelee Super Turbo Championship Edition
+Guns of Icarus Online
+Hacker Bundle 2016 PDF Sampler
+Hackers and Painters
+Hacking: The Art of Exploitation, 2nd Edition
+Hadoop Real-World Solutions Cookbook
+Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale
+Half Past Danger
+Hand of Fate
+Hands-On Bitcoin Programming with Python
+Hands-On Blockchain for Python Developers
+Hands-On Blockchain with Hyperledger
+Hands-On Cybersecurity with Blockchain
+Hands-On Intro to Game Programming
+Hands-On IoT Solutions with Blockchain
+Head First Agile
+Head First Android Development
+Head First C#
+Head First C
+Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
+Head First Design Patterns
+Head First HTML and CSS
+Head First Java
+Head First JavaScript Programming
+Head First Learn to Code
+Head First Object-Oriented Analysis and Design
+Head First PMP
+Head First Python
+Head First Ruby
+Head First SQL
+Head First Statistics
+High Performance Images
+High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
+The Hitchhiker's Guide to Python
+The Hollows
+Home Theater Hacks
+Hot Damn
+Hot Tin Roof
+How Games Move Us: Emotion by Design
+How Linux Works: What Every Superuser Should Know
+How to Use a Breadboard!
+HTML5 Hacks
+Human Resource Machine
+Hyperledger for Blockchain Applications (video)
+I Am Error: The Nintendo Family Computer / Entertainment System Platform
+The IDA Pro Book
+IDW Insider (Preview)
+If Hemingway Wrote JavaScript
+Illustrated Guide to Astronomical Wonders
+Illustrated Guide to Home Biology Experiments
+Illustrated Guide to Home Chemistry Experiments
+Illustrated Guide to Home Forensic Science Experiments
+Illustrated Guide to Learning Python 3
+Implementing Cybersecurity
+Impractical Python Projects
+Incredible LEGO Technic: Cars, Trucks, Robots & More!
+The Infinite Loop
+Information and Society
+Information Doesn't Want To Be Free
+Information Security Fundamentals
+Intellectual Property Strategy
+Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
+Interactive Data Visualization for the Web
+The Internet of Things
+Introducing Elixir
+Introducing Erlang
+Introducing Ethereum and Solidity
+Introducing Linux Distros
+Introducing Python
+Intrusion Detection and Prevention for Mobile Ecosystems
+Intrusion Detection Networks
+Invent Your Own Computer Games with Python
+Invisible, Inc.
+iOS Application Security
+IRC Hacks
+Iris Biometric Model for Secured Network Access
+Java 8 Lambdas
+Java Cookbook
+Java for Data Science
+Java Generics and Collections
+Java in a Nutshell
+Java in a Nutshell 7e
+Java Message Service
+Java Network Programming
+Java Performance: The Definitive Guide
+Java Pocket Guide
+Java Threads
+Java Web Services: Up and Running
+JavaScript: The Good Parts
+JavaScript Cookbook
+JavaScript for Kids
+Jenkins 2: Up and Running
+Jenkins: The Definitive Guide
+Joe Hill's The Cape
+Joe Hill's The Cape: 1969
+JSON at Work
+JumpJet Rex
+Jumpstart Tableau
+Jumpstarting the Arduino 101
+Jumpstarting the Raspberry Pi Zero W
+Kafka: The Definitive Guide
+Kill Shakespeare, Vol. 4: The Mask of Night
+Kill Shakespeare Volume 1
+Kill Shakespeare Volume 2
+Kill Shakespeare Volume 3
+Kinect Hacks
+Kong: Becoming a King of API Gateways
+Kubernetes: Up and Running
+Land of Lisp: Learn to Program in Lisp, One Game at a Time!
+The Last Fall
+Lauren Ipsum
+Leading Creative Teams
+Learn Bitcoin and Blockchain
+Learn Blockchain Programming with JavaScript
+Learn JavaScript: Build Your Own Blockchain (video)
+Learn Python by Building a Blockchain and Cryptocurrency (video)
+Learn You A Haskell for Great Good!
+Learn You Some Erlang for Great Good!
+Learning Apache Cassandra (video)
+Learning Apache Drill
+Learning Blockchain Application Development (video)
+Learning Continuous Integration with Jenkins
+Learning Elastic Stack 6.0
+Learning ElasticSearch 5.0 (video)
+Learning GNU Emacs, 3rd Edition
+Learning GraphQL
+Learning Hadoop 2
+Learning HTTP/2
+Learning Java
+Learning Kubernetes (video)
+Learning PHP, MySQL & JavaScript
+Learning R for Data Visualization (video)
+Learning React Native
+Learning React1
+Learning Scala
+Learning Spark: Lightning-Fast Big Data Analysis
+Learning TensorFlow, 1Ed
+Learning the bash Shell, 3rd Edition
+Learning the vi and Vim Editors, 7th Edition
+Learning Unix for OS X, 2nd Edition
+The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More!
+LEGO Build-It Book, Vol. 1: Amazing Vehicles
+The LEGO Neighborhood Book: Build Your Own Town!
+LEGO Space: Building the Future
+lex and yacc, 2nd Edition
+Linux All-In-One For Dummies
+Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
+Linux Bible
+The Linux Command Line: A Complete Introduction
+Linux Command Line and Shell Scripting Bible
+Linux Essentials
+Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort
+Linux for Makers
+Linux Pocket Guide, 3rd Edition
+Linux Server Security: Hack and Defend
+Linux Shell Scripting Solutions (video)
+Little Nemo: Return to Slumberland
+Living Clojure
+Locke and Key: Grindhouse
+Locke & Key: Small World
+Locke and Key: The Guide to Known Keys
+Locke & Key, Vol 1
+Locke & Key, Vol 2
+Locke & Key, Vol 3
+Locke & Key, Vol 4
+Locke & Key, Vol 5
+Locke & Key, Vol 6
+LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102
+LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
+Luna's Wandering Stars
+Machine Translation
+Make a Mind-Controlled Arduino Robot
+Make: A Raspberry Pi-Controlled Robot
+Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi
+Make: Arduino Bots and Gadgets
+Make: AVR Programming
+Make: Basic Arduino Projects
+Make: Bluetooth
+Make: Design for 3D Printing
+Make: DIY Comms and Control for Amateur Space: Talking and Listening to Your Satellite
+Make: Drones
+Make: Edible Inventions
+Make: Electronics, 2nd Edition
+Make: Family Projects for Smart Objects
+Make: Fire
+Make: FPGAs
+Make: Fun!
+Make: Getting Started with Adafruit FLORA
+Make: Getting Started with Adafruit Trinket
+Make: Getting Started with Arduino, 3rd Edition
+Make: Getting Started with CNC
+Make: Getting Started with Raspberry Pi, 3rd Edition
+Make: Inventing a Better Mousetrap 
+Make: Lego and Arduino Projects
+Make: magazine, Volume 38: Everything you need to know about DIY consumer electronics
+Make: Make It Glow
+Make: More Electronics
+Make: Musical Inventions
+Make: Raspberry Pi and AVR Projects
+Make: ReMaking History, Volume 1
+Make: Rockets: Down-to-Earth Rocket Science
+Make: Sensors
+Make: Technology on Your Time Volume 20
+Make: Technology on Your Time Volume 31
+Make: The Annotated Build-It-Yourself Science Laboratory
+Make: The Makerspace Workbench
+Make: Volume 47, Made on Mars
+Make: Volume 50: Power Up
+Make: Volume 52: Virtual Creation
+Make: Wearable Electronics: Design, Prototype, and Wear Your Own Interactive Garments
+Make: Workshop Mastery with Jimmy DiResta
+Make: Zero to Maker: Learn (Just Enough) to Make (Just About) Anything
+Maker Magazine Discount
+Maker Pro
+Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot
+Making Things Smart
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code
+Malware Analyst's Cookbook DVD
+Managing Humans
+The Manga Guide to Calculus
+The Manga Guide to Electricity
+The Manga Guide to Physics
+Mastering Ansible
+Mastering Apache Spark 2.x
+Mastering Blockchain
+Mastering DevOps (video)
+Mastering Docker
+Mastering Kubernetes
+Mastering Modular JavaScript
+Mastering MongoDB 3.x
+Mastering Puppet for Large Infrastructures (video)
+Mastering PyCharm (video)
+Mastering Tableau 10 (video)
+Mastering Windows PowerShell 5 Administration (video)
+Math Adventures with Python
+The Maxx: Maxximized, Vol. 1
+The Maxx: Maxximized, Vol. 2
+The Maxx: Maxximized, Vol. 3
+The Maxx: Maxximized, Vol. 4
+The Maxx: Maxximized, Vol. 5
+The Maxx: Maxximized, Vol. 6
+The Maxx: Maxximized, Vol. 7
+Memes in Digital Culture
+Metadata
+Metasploit: A Penetration Tester's Guide
+Mind Hacks
+Mindful Design
+Minecraft Modding with Forge
+Mini Metro
+Mission Python
+MIT Press Essential Knowledge Series
+Mobile App Development with Ionic
+Mobile Crowd Sensing
+Modern Big Data Processing with Hadoop
+MongoDB Cookbook
+Monster Loves You
+MOOCs
+Moving Hadoop to the Cloud
+Multithreading for Visual Effects
+Mushroom 11
+Natural Language Processing with Python
+Natural Language Processing with PyTorch
+Navigating Hybrid Scrum Environments
+Nest.js: A Progressive Node.js Framework
+Network and Data Security for Non-Engineers
+Network Troubleshooting Tools
+Nginx: From Beginner to Pro
+Night of 1,000 Wolves
+Ninja Pizza Girl
+No Starch Sampler
+No Time to Explain
+Nuclear Throne
+The October Faction, Vol. 1
+The October Faction, Vol. 2
+The October Faction, Vol. 3
+Octodad Dadliest Catch
+Onyx
+Open Access
+OpenGL Insights
+OpenStack Administration with Ansible 2
+Overgrowth
+Paradox
+Parallel and Concurrent Programming in Haskell
+Penetration Testing
+Perl Cookbook
+Perl Hacks
+Perl One-Liners: 130 Programs That Get Things Done
+PHP Cookbook
+Play Between Worlds: Exploring Online Game Culture
+Play Matters
+Postman PRO
+Potatoman Seeks the Troof
+Practical Data Science
+Practical Forensic Imaging
+Practical Google Analytics and Google Tag Manager for Developers
+Practical gRPC
+Practical Linux Topics
+Practical LPIC-1 Linux Certification Study Guide
+Practical Machine Learning: A New Look at Anomaly Detection
+Practical Machine Learning: Innovations in Recommendation
+Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI
+Practical Monitoring
+Practical Network Automation
+Practical Packet Analysis
+Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
+Practical SQL: A Beginner’s Guide to Storytelling with Data
+Practical Statistics for Data Scientists
+Practical Tableau
+The Practice of Network Security Monitoring
+The Principles of Object-Oriented JavaScript
+Pro Docker
+Pro Git (Second Edition)
+Pro Linux High Availability Clustering
+Pro Vim
+Production Volume Rendering
+Professional Linux Kernel Architecture
+Programming Perl 4e
+Programming Rust
+Programming Scala
+Programming Voice Interfaces
+Progressive Web Apps with Preact
+Prometheus: Up and Running
+Puppet 5 Beginner's Guide
+Python Cookbook
+Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
+Python Crash Course: A Hands-On, Project-Based Introduction to Programming
+Python Data Analysis
+Python Data Science Essentials
+Python Flash Cards: Syntax, Concepts, and Examples
+Python for Kids
+Python Jumpstart by Building 10 Apps
+Python Playground: Geeky Projects for the Curious Programmer
+Python Tricks: A Buffet of Awesome Python Features
+PyUP
+Q.U.B.E: Director's Cut
+R Cookbook
+R in a Nutshell: A Desktop Quick Reference, 2nd Edition
+Ragnarok, Vol. 1: Last God Standing
+Raspberry Pi Cookbook
+Raspberry Pi Hacks
+Ray Tracing from the Ground Up
+React Native Cookbook
+Real World Haskell
+Realm of Racket: Learn to Program, One Game at a Time!
+Real-Time Shadows
+Real-Time Volume Graphics
+Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
+Refactoring JavaScript
+Regular Expressions Cookbook
+Remaining Relevant in Your Tech Career
+ReMaking History, Vol. 2
+ReMaking History, Vol. 3
+Responsive Security
+RESTful Java with JAX-RS 2.0
+Retro Game Crunch
+Retro Game Crunch (7 game package)
+Retro Gaming Hacks
+Revolution in the Valley
+Richard Stark's Parker: Slayground
+Richard Stark's Parker: The Hunter
+Richard Stark's Parker: The Outfit
+Richard Stark's Parker: The Score
+Rituals
+Robot Roller-Derby Disco Dodgeball
+Robots
+Rocket Birds: Hardboiled Chicken
+Rocketbirds: Hardboiled Chicken
+ROCKETSROCKETSROCKETS
+Rot and Ruin: Warrior Smart
+Ruby Wizardry: An Introduction to Programming for Kids
+Sampler
+Scala Cookbook
+Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition
+Secrets of Raetikon
+Secrets of Rætikon
+Security De-Engineering
+Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
+Security Strategy
+sed & awk, 2nd Edition
+Seeking SRE
+Self-Tracking
+Serious Python
+Shell Scripting: Expert Recipes for Linux, Bash, and more
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition
+shutshimi
+The Site Reliability Workbook
+Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
+Snip, Burn, Solder, Shred: Seriously Geeky Stuff to Make with Your Kids
+Social Engineering: The Art of Human Hacking
+Social Media Warfare
+Solidity Programming Essentials
+Song of the Deep
+Spirits
+Splunk Essentials
+Sproggiwood
+SQL Cookbook
+SQL Hacks
+The Squidder
+SSH: The Definitive Guide 2e
+The Stanley Parable
+Stardew Valley
+Statistics Done Wrong: The Woefully Complete Guide
+Statistics for Data Science
+Statistics Hacks
+Steampunk LEGO
+Streaming Systems
+Streamline Early Access
+Super Galaxy Squadron EX
+Super Hexagon
+Super Meat Boy
+Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System
+Superbrothers: Sword & Sworcery EP
+Supply Chain Risk Management
+Surviving Orbit the DIY Way
+Sustainability
+SVG Animations
+The Swapper
+System Shock 2
+System Shock: Enhanced Edition
+System Shock Pack
+The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference
+TCP/IP Network Administration, 3rd Edition
+Teach Your Kids to Code
+Team Indie
+The Technological Singularity
+Ten Steps to Linux Survival
+TensorFlow For Machine Intelligence
+Testing in Scala
+Think Bayes: Bayesian Statistics in Python
+Think Java
+Think Like a Programmer: An Introduction to Creative Problem Solving
+Think Stats, 2e: Exploratory Data Analysis
+Thirty Flights of Loving
+Thoughtful Machine Learning with Python
+Threat Level Red
+Threat Modeling: Designing for Security
+Three Months of Mapt Pro for $30 Coupon
+Thriving in the Gig Economy
+Time Series Databases: New Ways to Store and Access Data
+TIMEframe
+Tokenomics
+Tower of Guns
+Truffle Quick Start Guide
+Ubuntu Linux Toolbox: 1000+ Commands for Power Users
+Ultimate Guide to Desktop Fabrication 2017: Vol. 54 
+Ultra-Realistic Imaging
+Unauthorised Access: Physical Penetration Testing For IT Security Teams
+Unauthorized Access
+The Uncanny Valley in Games and Animation
+Uncertainty in Games
+Understanding the New European Data Protection Rules
+Unix in a Nutshell, 4th Edition
+Unix Power Tools
+Using SVG with CSS3 and HTML5
+UX Fundamentals for Non-UX Professionals
+Values at Play in Digital Games
+Vi and Vim Editors: Pocket Reference
+Vintage Tomorrows
+Visualizing Streaming Data
+Vue.js: Understanding its Tools and Ecosystem
+Vue.js: Up and Running
+VVVVVV
+Waking Mars
+Walkaway by Cory Doctorow, Narrated by Wil Wheaton
+Walling Out the Insiders
+The Warcraft Civilization: Social Science in a Virtual World
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition
+Web Security
+The Well-Played Game: A Player's Philosophy
+Wicked Cool Shell Scripts
+Wild Blue Yonder
+Windows PowerShell Cookbook
+Windows Server 2016 Automation with PowerShell Cookbook
+Winterworld
+The Witness
+Woodworking for Young Makers
+Working with Big Data in Python (video)
+Working with Static Sites
+Works of Game: On the Aesthetics of Games and Art
+World of Goo
+World Of Goo
+The Wraith: Welcome to Christmasland
+Write Great Code, Volume 1: Understanding the Machine
+Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+Write Pythonic Code Like a Seasoned Developer (video)
+Wynonna Earp Legends: Doc Holliday #1
+Wynonna Earp Legends: Doc Holliday #2
+Wynonna Earp, Vol. 1: Homecoming
+Yakuza Demon Killers #1
+Yakuza Demon Killers #2
+Yakuza Demon Killers #3
+Yakuza Demon Killers #4
+You Don't Know JS: ES6 & Beyond
+You Don't Know JS: Scope & Closures
+You Don't Know JS: Up & Going
+Your Linux Toolbox
+Zombies vs Robots: Warbook Omnibus
+2064: Read Only Memories
