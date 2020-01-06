@@ -6,8 +6,8 @@
 3D Math Primer for Graphics and Game Development
 7 Grand Steps
 A Casual Revolution: Reinventing Video Games and Their Players
-A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies
-A Double Fine Adventure Full
+A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
+A Double Fine Adventure Full (video)
 A Little Gold Book of Ghastly Stuff 
 A Virus Named Tom
 Absolute FreeBSD: The Complete Guide to FreeBSD
@@ -21,11 +21,11 @@ Android Cookbook
 Android Security Internals
 Angular: Up and Running
 Animal Noir #1
-Ansible 2 for Beginners
+Ansible 2 for Beginners (video)
 Ansible: From Beginner to Pro
 Any Empire by Nate Powell
 Apache Hive Essentials
-Apache Spark with Scala
+Apache Spark with Scala (video)
 Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
 Applied Text Analysis with Python
 Archangel #1
@@ -70,13 +70,13 @@ Big Data Analytics with Applications in Insider Threat Detection
 Big Data Analytics with Hadoop 3
 Big Data Architect's Handbook
 Black Hat Python: Python Programming for Hackers and Pentesters
-Bleeding Edge Press Video Course: Kong
+Bleeding Edge Press Video Course: Kong (video)
 Blender Master Class: A Hands-On Guide to Modeling, Sculpting, Materials, and Rendering
 Blockchain across Oracle
 Blockchain By Example
-Blockchain for Business 2018: The New Industrial Revolution
+Blockchain for Business 2018: The New Industrial Revolution (video)
 Blockchain Quick Reference
-Blockchain Real World Projects
+Blockchain Real World Projects (video)
 The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor
 The Book of F#: Breaking Free with Managed Functional Programming
 The Book of GIMP: A Complete Guide to Nearly Everything
@@ -89,10 +89,10 @@ Bot Factory: Vol. 55
 The Boys Vol. 1: The Name of the Game
 Brutal Nature
 BSD Hacks
-Build scalable applications with Apache Kafka
+Build scalable applications with Apache Kafka (video)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress
 Building Apps with Riot
-CAPM® in Depth
+CAPM in Depth
 The Car Hacker's Handbook
 Car PC Hacks
 Cassandra: The Definitive Guide, 2e: Distributed Data at Web Scale
@@ -144,7 +144,7 @@ Day of the Tentacle
 Deep Learning Cookbook
 Deep Learning in the Browser
 Defense Against the Black Arts
-Deploying and Running Docker Containers
+Deploying and Running Docker Containers (video)
 Deploying to OpenShift
 Deployment with Docker
 Designing Distributed Systems
@@ -155,7 +155,7 @@ Developing a hapi Edge
 Developing a React.js Edge
 Developing an Electron Edge
 DevOps for Networking
-DevOps for Web Developers
+DevOps for Web Developers (video)
 DevOps with Kubernetes
 Digital Character Development: Theory and Practice
 Digital Culture, Play, and Identity: A World of Warcraft® Reader
@@ -170,26 +170,26 @@ Docker Cookbook
 Doing Data Science: Straight Talk from the Frontline
 Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
 Double Fine Adventure Documentary
-Double Fine Adventure Ep.01
-Double Fine Adventure Ep.02
-Double Fine Adventure Ep.03
-Double Fine Adventure Ep.04
-Double Fine Adventure Ep.05
-Double Fine Adventure Ep.06
-Double Fine Adventure Ep.07
-Double Fine Adventure Ep.08
-Double Fine Adventure Ep.09
-Double Fine Adventure Ep.10
-Double Fine Adventure Ep.11
-Double Fine Adventure Ep.12
-Double Fine Adventure Ep.13
-Double Fine Adventure Ep.14
-Double Fine Adventure Ep.15
-Double Fine Adventure Ep.16
-Double Fine Adventure Ep.17
-Double Fine Adventure Ep.18
-Double Fine Adventure Ep.19
-Double Fine Adventure Ep.20
+Double Fine Adventure Ep.01 (video)
+Double Fine Adventure Ep.02 (video)
+Double Fine Adventure Ep.03 (video)
+Double Fine Adventure Ep.04 (video)
+Double Fine Adventure Ep.05 (video)
+Double Fine Adventure Ep.06 (video)
+Double Fine Adventure Ep.07 (video)
+Double Fine Adventure Ep.08 (video)
+Double Fine Adventure Ep.09 (video)
+Double Fine Adventure Ep.10 (video)
+Double Fine Adventure Ep.11 (video)
+Double Fine Adventure Ep.12 (video)
+Double Fine Adventure Ep.13 (video)
+Double Fine Adventure Ep.14 (video)
+Double Fine Adventure Ep.15 (video)
+Double Fine Adventure Ep.16 (video)
+Double Fine Adventure Ep.17 (video)
+Double Fine Adventure Ep.18 (video)
+Double Fine Adventure Ep.19 (video)
+Double Fine Adventure Ep.20 (video)
 Drone Revolution: Vol. 51
 Dusty Revenge: Co-Op Edition
 Effective DevOps
@@ -209,7 +209,7 @@ Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
 Essential System Administration, 3rd Edition
 Ethereum Cookbook
-Ethereum Projects
+Ethereum Projects (video)
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
@@ -231,8 +231,8 @@ The Future
 Game Hacking
 Gaming Hacks
 Getting Started with 3D Printing
-Getting Started with Docker
-Getting Started with Hadoop 2.x
+Getting Started with Docker (video)
+Getting Started with Hadoop 2.x (video)
 Getting Started with Kubernetes, Second Edition
 Getting Started with Kudu
 Getting Started with Netduino
@@ -291,7 +291,7 @@ How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
 HTML5 Hacks
 Human Resource Machine
-Hyperledger for Blockchain Applications
+Hyperledger for Blockchain Applications (video)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform
 The IDA Pro Book
 IDW Insider (Preview)
@@ -360,24 +360,24 @@ Lauren Ipsum
 Leading Creative Teams
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
-Learn JavaScript: Build Your Own Blockchain
-Learn Python by Building a Blockchain and Cryptocurrency
+Learn JavaScript: Build Your Own Blockchain (video)
+Learn Python by Building a Blockchain and Cryptocurrency (video)
 Learn You A Haskell for Great Good!
 Learn You Some Erlang for Great Good!
-Learning Apache Cassandra
+Learning Apache Cassandra (video)
 Learning Apache Drill
-Learning Blockchain Application Development
+Learning Blockchain Application Development (video)
 Learning Continuous Integration with Jenkins
 Learning Elastic Stack 6.0
-Learning ElasticSearch 5.0
+Learning ElasticSearch 5.0 (video)
 Learning GNU Emacs, 3rd Edition
 Learning GraphQL
 Learning Hadoop 2
 Learning HTTP/2
 Learning Java
-Learning Kubernetes
+Learning Kubernetes (video)
 Learning PHP, MySQL & JavaScript
-Learning R for Data Visualization
+Learning R for Data Visualization (video)
 Learning React Native
 Learning React1
 Learning Scala
@@ -401,7 +401,7 @@ Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort
 Linux for Makers
 Linux Pocket Guide, 3rd Edition
 Linux Server Security: Hack and Defend
-Linux Shell Scripting Solutions
+Linux Shell Scripting Solutions (video)
 Little Nemo: Return to Slumberland
 Living Clojure
 Locke and Key: Grindhouse
@@ -471,15 +471,15 @@ The Manga Guide to Physics
 Mastering Ansible
 Mastering Apache Spark 2.x
 Mastering Blockchain
-Mastering DevOps
+Mastering DevOps (video)
 Mastering Docker
 Mastering Kubernetes
 Mastering Modular JavaScript
 Mastering MongoDB 3.x
-Mastering Puppet for Large Infrastructures
-Mastering PyCharm
-Mastering Tableau 10
-Mastering Windows PowerShell 5 Administration
+Mastering Puppet for Large Infrastructures (video)
+Mastering PyCharm (video)
+Mastering Tableau 10 (video)
+Mastering Windows PowerShell 5 Administration (video)
 Math Adventures with Python
 The Maxx: Maxximized, Vol. 1
 The Maxx: Maxximized, Vol. 2
@@ -718,7 +718,7 @@ Windows Server 2016 Automation with PowerShell Cookbook
 Winterworld
 The Witness
 Woodworking for Young Makers
-Working with Big Data in Python
+Working with Big Data in Python (video)
 Working with Static Sites
 Works of Game: On the Aesthetics of Games and Art
 World of Goo
@@ -726,7 +726,7 @@ World Of Goo
 The Wraith: Welcome to Christmasland
 Write Great Code, Volume 1: Understanding the Machine
 Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
-Write Pythonic Code Like a Seasoned Developer
+Write Pythonic Code Like a Seasoned Developer (video)
 Wynonna Earp Legends: Doc Holliday #1
 Wynonna Earp Legends: Doc Holliday #2
 Wynonna Earp, Vol. 1: Homecoming
