@@ -5,6 +5,7 @@
 3D Engine Design for Virtual Globes
 3D Math Primer for Graphics and Game Development
 7 Grand Steps
+97 Things Every Programmer Should Know
 A Casual Revolution: Reinventing Video Games and Their Players
 A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
 A Double Fine Adventure Full (video)
@@ -96,6 +97,7 @@ CAPM in Depth
 The Car Hacker's Handbook
 Car PC Hacks
 Cassandra: The Definitive Guide, 2e: Distributed Data at Web Scale
+The Cathedral and the Bazaar
 CEH v9: Certified Ethical Hacker Version 9 Study Guide
 Certified OpenStack Administrator Study Guide
 Chatbots for eCommerce
@@ -240,6 +242,7 @@ Getting Started with Sensors: Measure the World with Electronics, Arduino, and R
 Getting Started with the Internet of Things
 Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
 Girls Like Robots
+Git Pocket Guide
 The GNU Make Book
 GPGPU Programming for Games and Science
 Graph Databases, 2e: New Opportunities for Connected Data
@@ -252,6 +255,7 @@ Guacamelee! Gold Edition
 Guacamelee Super Turbo Championship Edition
 Guns of Icarus Online
 Hacker Bundle 2016 PDF Sampler
+Hackers and Painters
 Hacking: The Art of Exploitation, 2nd Edition
 Hadoop Real-World Solutions Cookbook
 Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale
@@ -329,12 +333,14 @@ Java Cookbook
 Java for Data Science
 Java Generics and Collections
 Java in a Nutshell
+Java in a Nutshell 7e
 Java Message Service
 Java Network Programming
 Java Performance: The Definitive Guide
 Java Pocket Guide
 Java Threads
 Java Web Services: Up and Running
+JavaScript: The Good Parts
 JavaScript Cookbook
 JavaScript for Kids
 Jenkins 2: Up and Running
@@ -562,6 +568,7 @@ Pro Linux High Availability Clustering
 Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
+Programming Perl 4e
 Programming Rust
 Programming Scala
 Programming Voice Interfaces
@@ -602,6 +609,7 @@ RESTful Java with JAX-RS 2.0
 Retro Game Crunch
 Retro Game Crunch (7 game package)
 Retro Gaming Hacks
+Revolution in the Valley
 Richard Stark's Parker: Slayground
 Richard Stark's Parker: The Hunter
 Richard Stark's Parker: The Outfit
@@ -642,6 +650,7 @@ Sproggiwood
 SQL Cookbook
 SQL Hacks
 The Squidder
+SSH: The Definitive Guide 2e
 The Stanley Parable
 Stardew Valley
 Statistics Done Wrong: The Woefully Complete Guide
@@ -699,6 +708,7 @@ Unix Power Tools
 Using SVG with CSS3 and HTML5
 UX Fundamentals for Non-UX Professionals
 Values at Play in Digital Games
+Vi and Vim Editors: Pocket Reference
 Vintage Tomorrows
 Visualizing Streaming Data
 Vue.js: Understanding its Tools and Ecosystem
