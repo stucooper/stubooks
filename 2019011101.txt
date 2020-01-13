@@ -1,0 +1,30 @@
+name: USEFUL POKER
+label: 2019011101
+description: Useful Poker books
+
+Ace on the River                                  Barry Greenstein  LastKnight
+Championship NL & Pot Limit Holdem (1997)         Cloutier/McEvoy   Cardsmith
+Championship NL & Pot Limit Holdem (2004)         Cloutier/McEvoy   Cardoza
+Read em and Reap                                  Joe Navarro       HarperCollins
+Bad Beats and Lucky Draws                         Phil Hellmuth     HarperCollins
+Poker for Seniors                                 Stuart Yarnold    InEasySteps
+Strategies to Beat Small Stakes PLO               Matthias Pum      D&B
+Elements of Poker                                 Tommy Angelo      self
+Farha on Omaha                                    Sam Farha         Triumph
+NLH A Complete Course                             Angel Largay      ECW
+The Poker Mindset                                 Ian Taylor/Hilger Dimat
+Championship Omaha (1999)                         Cloutier/McEvoy   Cardsmith
+Pot Limit and No Limit Poker                      Reuber/Ciaffone   Cardsmith
+Omaha Holdem Poker                                Bob Ciaffone      Cardsmith
+How good is your Pot Limit Omaha?                 Stewart Reuben    D&B
+Secrets of Professional Poker 1                   Rolf Slotboom     D&B
+The Kaizen of Poker                               Shree Bykofsky    ECW
+Secrets of Short-handed PLO                       Slotboom/Hollink  D&B
+Secrets of Professional PLO                       Slotboom          D&B
+Omaha High-Low                                    Shane Smith       Cardoza
+Advanced PLO Vol 1                                Jeff Hwang        Dimat
+PLO Understanding Winning Play                    William Jockusch  TwoPlusTwo
+PLO The Big Play Strategy                         Jeff Hwang        Kensington
+Solo/Sudoku/Solo/Killer Cribbage                  various           various
+
+
