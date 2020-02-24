@@ -1,0 +1,13 @@
+name: PRINT EBOOKS
+label: 2019022201
+description: Printed, spiral bound ebooks
+
+Maximum RPM                      Bailey             RedHat
+Mastering Puppet                 Uphill             Packt
+Extending Puppet                 Franceschi         Packt
+Version Control with Git 2e      Loeliger           ORA
+Site Reliability Engineering     Google             ORA
+ActiveMQ in Action               Snyder             Manning
+Java Message Service             Richards           ORA
+Terracotta Training              Ecetera            Ecetera
+Optus Notebooks                  Cooper             Cooper
