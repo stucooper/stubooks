@@ -1,0 +1,19 @@
+name: MODERN LITERATURE
+label: 2019031601
+description: Modern Literature
+
+Bruce Chatwin                        Nicholas Shakespeare   Harvill
+The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
+A Son of the Circus                  John Irving            Routledge
+Jack Kerouac: King of the Beats      Barry Miles            Virgin
+That old Ace in the Hole             E Annie Proulx         FourthEstate
+Closing Time                         Joseph Heller          SimonSchuster
+The World of Henry Lawson            Henry Lawson           Summit
+In a Different Key                   Donovan/Zucker         AllenLane
+Neurotribes                          Steve Silberman        AllenUnwin
+Proust and the Squid                 Maryanne Wolf          Icon
+Seventy Two Virgins                  Boris Johnson          HarperCollins
+Alexander the Great                  Robin Lane Fox         Penguin
+Travelling Heroes                    Robin Lane Fox         Penguin
+Spell it Out                         David Crystal          Profile
+
