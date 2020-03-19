@@ -1,0 +1,34 @@
+name: SCIENCE
+label: 2019031603
+description: Science Biographies
+
+The Road to Reality                 Roger Penrose          JonathanCape
+Richard Feynman                     John and Mary Gribbin  Viking
+Einstein                            White/Gribbin          SimonSchuster
+Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
+The Fellowship                      John Gribbin           Penguin
+Time Lord                           Clark Blaise           Phoenix
+American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic
+Genius: Feynman and Modern Physics  James Gleick           Abacus
+Chaos                               James Gleick           Cardinal
+The Information                     James Gleick           FourthEstate
+The Earth Moves                     Dan Hofstadter         Norton
+What Just Happened                  James Gleick           Abacus
+The Large, the small and the Human Mind Penrose            Cambridge
+Isaac Newton                        James Gleick           Harper
+Darwin                              Gribbin/White          Pocket
+Shadows ot the Mind                 Penrose                Vintage
+Cosmos                              Cark Sagan             Abacus
+The Emperor's New Mind              Roger Penrose          Vintage
+Atomic                              Jim Baggott            Icon
+Pandora's Keepers                   Brian Van De Mark      BackBay
+Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC
+The Fifth Miracle                   Paul Davies            Penguin
+The Cosmic Blueprint                Paul Davies            Penguin
+Are we alone?                       Paul Davies            Penguin
+The Mind of God                     Paul Davies            Penguin
+God and the new physics             Paul Davies            Penguin
+Infinite in All Directions          Freeman Dyson          Penguin
+The Matter Myth                     Davies/Gribbin         Penguin
+
+
