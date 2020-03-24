@@ -17,6 +17,7 @@ Advanced Analytics with Spark
 The Agile Enterprise
 AI War: Fleet Command
 AI War: Fleet Command+3 DLCs
+Algoriths in a Nutshell, 2nd Edition
 Amazing Forest
 Android Cookbook
 Android Security Internals
@@ -29,6 +30,7 @@ Apache Hive Essentials
 Apache Spark with Scala (video)
 Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
 Applied Text Analysis with Python
+Apprenticeship Patterns
 Archangel #1
 Archangel #2
 Archangel #3
@@ -40,6 +42,7 @@ The Art of Failure: An Essay on the Pain of Playing Video Games
 The Art of Fluid Animation
 The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
 The Art of R Programming
+The Art of Readable Code
 Artificial Intelligence for Big Data
 The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
 Assembly Language Step-by-Step: Programming with Linux
@@ -59,6 +62,7 @@ Bayesian Statistics the Fun Way: Understanding Statistics and Probability with S
 Beat Hazard Ultra
 Beautiful LEGO
 Become ITIL Foundation Certified in 7 Days
+Becoming a Better Programmer
 Becoming Functional
 Beginning Blockchain
 Beginning Linux Programming
@@ -109,6 +113,7 @@ Clojure for the Brave and True: Learn the Ultimate Language and Become a Better 
 Clojure Programming
 Cloud Computing
 Cloud Foundry: The Definitive Guide
+Cloud Native
 Cloud Native Infrastructure
 Code Craft
 Codename Revolution: The Nintendo Wii Platform
@@ -320,6 +325,7 @@ Introducing Elixir
 Introducing Erlang
 Introducing Ethereum and Solidity
 Introducing Linux Distros
+Introduction to Machine Learning with Python
 Introducing Python
 Intrusion Detection and Prevention for Mobile Ecosystems
 Intrusion Detection Networks
@@ -374,6 +380,7 @@ Learning Apache Cassandra (video)
 Learning Apache Drill
 Learning Blockchain Application Development (video)
 Learning Continuous Integration with Jenkins
+Learning CoreDNS
 Learning Elastic Stack 6.0
 Learning ElasticSearch 5.0 (video)
 Learning GNU Emacs, 3rd Edition
@@ -569,6 +576,7 @@ Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
 Programming Perl 4e
+Programming Quantum Computing
 Programming Rust
 Programming Scala
 Programming Voice Interfaces
@@ -598,6 +606,7 @@ Real World Haskell
 Realm of Racket: Learn to Program, One Game at a Time!
 Real-Time Shadows
 Real-Time Volume Graphics
+Real-World Software Development
 Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
 Refactoring JavaScript
 Regular Expressions Cookbook
@@ -679,6 +688,7 @@ Team Indie
 The Technological Singularity
 Ten Steps to Linux Survival
 TensorFlow For Machine Intelligence
+Test-Driven Development with Python
 Testing in Scala
 Think Bayes: Bayesian Statistics in Python
 Think Java
