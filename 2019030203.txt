@@ -1,0 +1,21 @@
+name: MEDIA ECO
+label: 2019030203
+description: Media and Umberto Eco
+
+Rupert Murdoch: Political Power      David McKnight         AllenUnwin
+Stop the Presses!                    Ben Hills              ABC
+Murdoch's World                      Davlid Folkenfilk      PublicAffairs
+Breaking News                        Paul Barry             AllenUnwin
+Fairfax: The Rise and Fall           Colleen Ryan           Miegunyah
+The Rise and Rise of Kerry Packer    Paul Barry             AllenUnwin
+Mysterious Flame of Queen Loana      Umberto Eco            SeckerWarburg
+This is not the end of the book      Eco/Carriere           HarvillSecker
+Baudolino                            Umberto Eco            Vintage
+Apocalypse Postponed                 Umberto Eco            Flamingo
+The Prague Cemetery                  Umberto Eco            HarvillSecker
+How to travel with a Salmon          Umberto Eco            HarvillSecker
+The Name of the Rose                 Umberto Eco            Picador
+Focault's Pendulum                   Umberto Eco            Picador
+The Island of the Day Before         Umberto Eco            Minerva
+Misreadings                          Umberto Eco            Picador
+Haroun and the Sea of Stories        Salman Rushdie         Puffin
