@@ -1,0 +1,35 @@
+name: K AMIS FLEMING
+label: 2019030301
+description: Kingsley Amis and Ian Fleming
+
+Amis and Son                        Neil Powell             Pan
+Stanley and the Women               Kingsley Amis           Vintage
+Kingsley Amis Memoirs               Kingsley Amis           Penguin
+Everyday Drinking                   Kingsley Amis           Routledge
+What Became of Jane Austen?         Kingsley Amis           Penguin
+Jake's Thing                        Kingsley Amis           Penguin
+The Anti-Death League               Kingsley Amis           Penguin
+The Alteration                      Kingsley Amis           Penguin
+Girl, 20                            Kingsley Amis           Penguin
+Difficulties with Girls             Kingsley Amis           Penguin
+Collected Short Stories             Kingsley Amis           Penguin
+The Egyptologists                   Conquest/K Amis         Penguin
+The King's English                  Kingsley Amis           HarperCollins
+The Life of Kingsley Amis           Zachary Leader          JonathanCape
+The Letters of Kingsley Amis        ed Zachary Leader       HarperCollins
+Man with the Golden Touch:Bond films Sinclair McKay         Aurum
+Colonel Sun                         Kingsley Amis           Pan
+Casino Royale                       Ian Fleming             TriadGranada
+Live and Let Die                    Ian Fleming             TriadGranada
+Moonraker                           Ian Fleming             Pan
+Diamonds are Forever                Ian Fleming             TriadGranada
+From Russia with Love               Ian Fleming             Pan
+Dr No                               Ian Fleming             Penguin
+Goldfinger                          Ian Fleming             BookClub
+For Your Eyes Only                  Ian Fleming             Penguin
+Thunderball                         Ian Fleming             TriadGranada
+The Spy Who Loved Me                Ian Fleming             Pan
+On Her Majesty's Secret Service     Ian Fleming             Pan
+You Only Live Twice                 Ian Fleming             Penguin
+The Man with the Golden Gun         Ian Fleming             Penguin
+Octopussy and the Living Daylights  Ian Fleming             TriadGranada
