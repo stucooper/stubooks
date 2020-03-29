@@ -1,0 +1,26 @@
+name: USA POLITICS
+label: 2019030302
+description: Politics books mostly US
+
+Scared to Death                    Brooker/North           continuum
+The Real Global Warming Disaster   Christopher Brooker     continuum
+Shattered: Hillary Clinton campaign Allen/Parnes           Crown
+Devil's Bargain: Bannon and Trump  Joshua Green            PenguinPress
+Fire and Fury                      Michael Wolff           LittleBrown
+Alt America                        David Niewert           Verso
+Dangerous                          Milo Yiannopoulos       Wilkinson
+The Truth with Jokes               Al Franken              Penguin
+Rush Limbaugh is a Big Fat Idiot   Al Franken              Penguin
+Why not me?                        Al Franken              Penguin
+Lies and Lying Liars who tell them Al Franken              Plume
+Renegade History of the US         Thaddeus Russell        SimonSchuster
+100 People who are screwing up US  Bernard Goldberg        HarperCollins
+Spoilt Rotten                      Theodore Dalrymple      GibsonSquare
+Life at the Bottom                 Theodore Dalrymple      IvanDee
+Listen Liberal                     Thomas Frank            Picador
+If Democrats had brains            Ann Coulter             ThreeRivers
+Not Cool                           Greg Gutfeld            CrownForum
+The Joy of Hate                    Greg Gutfeld            CrownForum
+Godless: Church of Liberalism      Ann Coulter             CrownForum
+Skeptical Environmentalist         Bjorn Lomberg           Cambridge
+
