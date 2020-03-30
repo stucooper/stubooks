@@ -1,0 +1,35 @@
+name: WAUGH CAREY
+label: 2019030401
+description: Evelyn Waugh and Peter Carey
+
+Decline and Fall                    Evelyn Waugh              Penguin
+Brideshead Revisited                Evelyn Waugh              Penguin
+EW Complete Short Stories           Evelyn Waugh              Penguin
+Black Mischief                      Evelyn Waugh              Penguin
+The Loved One                       Evelyn Waugh              Penguin
+Vile Bodies                         Evelyn Waugh              Penguin
+Put Out More Flags                  Evelyn Waugh              Penguin
+Ordeal of Gilbert Pinfold           Evelyn Waugh              Penguin
+Scoop                               Evelyn Waugh              Penguin
+Officers and Gentlemen              Evelyn Waugh              Penguin
+Sword of Honour                     Evelyn Waugh              Penguin
+Nancy Mitford Omnibus               Nancy Mitford             Penguin
+American Way of Death               Jessica Mitford           Penguin
+Hons and Rebels                     Jessica Mitford           Penguin
+Amnesia                             Peter Carey               Penguin
+Theft                               Peter Carey               Knopf
+Jack Maggs                          Peter Carey               UQP
+Tax Inspector                       Peter Carey               UQP
+Unusual Life of Tristan Smith       Peter Carey               UQP
+Oscar and Lucinda                   Peter Carey               UQP
+Illywhacer                          Peter Carey               Faber
+Wrong About Japan                   Peter Carey               Faber
+Parrot and Olivier in America       Peter Carey               Faber
+My Life as a Fake                   Peter Carey               Vintage
+His Illegal Self                    Peter Carey               Vintage
+The Chemistry of Tears              Peter Carey               Penguin
+Bliss                               Peter Carey               Picador
+A Room with a View                  E M Forster               Penguin
+Howard's End                        E M Forster               Penguin
+Maurice                             E M Forster               Penguin
+Maurice                             E M Forster               SoftbackPreview
