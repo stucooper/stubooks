@@ -1,0 +1,40 @@
+name: CLASSICS
+label: 2019030402
+description: Assorted Classics
+
+Marco Polo The Travels              Marco Polo                Penguin
+Animal Farm                         George Orwell             Penguin
+Down and Out in Paris and London    George Orwell             Penguin
+For Whom the Bell Tolls             Ernest Hemingway          Penguin
+Afternoon Light                     Robert Menzies  	      Penguin
+Erewhon                             Samuel Butler             Penguin
+Metamorphosis and Other Stories     Franz Kafka               Penguin
+Joys of Yiddish                     Leo Rosten                Penguin
+Death in Venice/Tristan/Kroger      Thomas Mann               Penguin
+The Great Gatsby                    F Scott Fitzgerald        Penguin
+Tender is the Night                 F Scott Fitzgerald        Penguin
+The Lose Decade                     F Scott Fitzgerald        Penguin
+The Pat Hobby Stories               F Scott Fitzgerald        Penguin
+The Last Tycoon                     F Scott Fitzgerald        Penguin
+The Crack-Up                        F Scott Fitzgerald        Penguin
+The Beautiful and Damned            F Scott Fitzgerald        Penguin
+Palimpsest                          Gore Vidal                Abacus
+On the Road                         Jack Kerouac              Penguin
+The Glass Bead Game                 Hermann Hesse             Picador
+The House of the Dead               Fyodor Dostoyevsky        Penguin
+Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin 2copies
+Crime and Punishment                Fyodor Dostoyevsky        Vintage
+On the Origin of Species            Charles Darwin            Penguin
+Voyage of the Beagle                Charles Darwin            Penguin
+Ruba'iyat of Omar Khayyam           Omar Khayyam              Penguin
+Seven Pillars of Wisdom             T E Lawrence              Penguin
+King Jesus                          Robert Graves             Arena
+Invisible Man                       H G Wells                 Penguin
+Homer: The Iliad                    Robert Fagles             Penguin
+Mozart: A Life in Letters           Mozart                    Penguin
+The Three Musketeers                Alexander Dumas           Penguin
+The Discourses                      Machiavelli               Penguin
+The Canterbury Tales                Geoffrey Chaucer          Penguin
+Anna Karenina                       Leo Tolstoy               Penguin
+Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
+The Odyssey                         Homer                     Arcturus
