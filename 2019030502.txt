@@ -1,0 +1,26 @@
+name: BLACK PENGUIN CLASSICS
+label: 2019030502
+description: Black Penguin Classics
+
+The Count of Monte Cristo         Alexandre Dumas           PengClassics
+Plays Unpleasant                  George Bernard Shaw       PengClassics
+The Cantebury Tales               Chaucer/Nevill Coghill    PengClassics
+Sense and Sensibility             Jane Austen               PengClassics
+Emma                              Jane Austen               PengClassics
+The Arabian Nights Vol 1          Malcolm C Lyons           PengClassics
+The Arabian Nights Vol 2          Malcolm C Lyons           PengClassics
+The Arabian Nights Vol 3          Malcolm C Lyons           PengClassics
+War and Peace                     Leo Tolstoy               PengClassics
+The Phantom of the Opera          Gaston Leroux             PengClassics
+Max Havelaar                      Multatuli                 PengClassics
+The Descent of Man                Charles Darwin            PengClassics
+Sons and Lovers                   D H Lawrence              PengClassics
+Morrissey: Autobiography          Morrissey                 PengClassics
+Vanity Fair                       Willaim Thackeray         PengClassics
+Nights with Uncle Remus           Joel Chandler Harris      PengClassics
+Le Morte d'Arthur Vol 2           Thomas Malory             PengClassics
+Crime and Punishment              Fyodor Dostoyevsky        PengClassics
+The Bostonians                    Henry James               PengClassics
+Treatise of Human Nature          David Hume                PengClassics
+The Life of Samuel Johnson unabrd James Boswell             PengClassics
+London Diary 1762-1763            James Boswell             PengClassics
