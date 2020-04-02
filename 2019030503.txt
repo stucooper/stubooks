@@ -1,0 +1,24 @@
+name: IT - ORA GREEN WEB
+label: 2019030503
+description: ORA web books
+
+Learning Web Design               Jennifer Mederst          ORA
+Designing with JavaScript         Nick Heinle               ORA
+Designing with JavaScript 2e      Heinle/Pena               ORA
+SVG Essentials                    J David Eisenberg         ORA
+Ambient Findability               Peter Morville            ORA
+HTML/XHTML Definitive Guide 4e    Musciano/Kennedy          ORA
+Learning JavaScript 2e            Shelly Powers             ORA
+Cascading Style Sheets Def Guide  Eric A Meyer              ORA
+SEO Warrior                       John I Jerkovic           ORA
+JavaScript Application Cookbook   Jerry Bradenbaugh         ORA
+Web Site Cookbook                 Doug Addison              ORA
+CSS Cookbook                      Christopher Schitt        ORA
+HTML5: Up and Running             Mark Pilgrim              ORA
+Designing with Web Standards 2e   jeffrey zeldman           NewRiders
+Dynamic HTML: Definitive Guide 3e Danny Goodman             ORA
+Web 2.0 Architectures             Governon/Hinchcliffe      ORA
+Building Scalable Web Sites       Cal Henderson             ORA
+JavaScript: Definitive Guide 5e   David Flanagan            ORA
+Using Drupal                      Byron/Berry               ORA
+Understanding AJAX                Joshua Eichorn            PTR
