@@ -1,0 +1,15 @@
+name: IT - FLAT
+label: 2019030604
+description: IT books, smaller box
+
+Pulling strings with Puppet       James Turnbull        APress
+Art of Unix Programming           Eric S Raymond        AWL
+Linux Firewalls 2e                Robert Ziegler        NewRiders
+PostgreSQL 2e                     Korry Douglas         SAMS
+Maximum RPM                       Edward C Bailey       SAMS
+tmux                              Brian P Hogan         PragProg
+Applied Cryptography              Bruce Schneier        JohnWiley
+DevOps with Open Shift            Picozzi/Hepurn        ORA
+OpenShift for DevOps              Shiopton/Dumpleton    ORA
+Practice of System/Network Admin  Thomas Limoncelli     AWL
+MongoDB in Action                 Kyle Banker           Manning
