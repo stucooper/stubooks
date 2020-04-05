@@ -1,0 +1,38 @@
+name: ASIA TRAVEL
+label: 2019030601
+description: Books on Asia and Travel
+
+Mao: The Unknown Story           Jung Chang/Halliday      Vintage
+The New Emperors: Mao and Deng   Harrison E Salisbury     HarperCollins
+Culture Shock! Australia         Ilsa Sharp               Kuperand
+A History of Hong Kong           Frank Welsh              HarperCollins
+Penguin History of New Zealand   Michael King             Penguin
+Culture Shock! Hong Kong         Wei/Li                   Times
+A Many-Splendoured Thing         Han Suyin                Sheridan
+A Mortal Flower                  Han Suyin                Panther
+Journey to the West Vol 1        Wu Chengen               FLP Beijing
+Journey to the West Vol 2        Wu Chengen               FLP Beijing
+Journey to the West Vol 3        Wu Chengen               FLP Beijing
+Journey to the West Vol 4        Wu Chengen               FLP Beijing
+Full Circle                      Michael Palin            BBC
+The Rape of Nanking              Iris Chang               Penguin
+Private Dancer                   Stephen Leather          Monsoon
+Gaysia                           Benjamin Law             BlackInc
+Shannon Bennett's New York       Shannon Bennett          Miegunyah
+Memories and Adventures          Arthur Conan Doyle       Oxford
+Frangipani                       Celestine Hitura Vaite   text
+Tiare                            Celestine Hitura Vaite   Hutchinson
+Out of Africa                    Karen Blixen             Penguin
+The Kitchen God's Wife           Amy Tan                  Flamingo
+Southeast Asia 20e               Fodor                    Fodor
+Singapore Handbook               Eliot/Bickersteth        footprint
+Traveler's Phillippines Companion Kirsten Ellis           GlobePequot
+Teach yourself Chinese           Elizabeth Scorfield      HodderStoughton
+How Starbucks Saved My Life      Michael GatesGill        Bantam
+Wild Swans                       Jung Chang               Flamingo
+This Earth of Mankind            Pramoedya Anata Toer     Penguin
+Child of All Nations             Pramoedya Anata Toer     Penguin
+Footsteps                        Pramoedya Anata Toer     Penguin
+Cambodia Handbook                Colet/Eliot              footprint
+New York City for Dummies        Myka Carroll             JohnWiley
+Essential Guide to Singlish      Miel                     Gartbooks
