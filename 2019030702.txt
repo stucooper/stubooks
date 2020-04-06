@@ -1,0 +1,34 @@
+name: IT LIFESTYLE
+label: 2019030702
+description: IT Lifestyle books
+
+I live in the future              Nick Bilton           Crown
+Wikinomics                        Don Tapscott/Williams Atlantic
+CrowdSourcing                     Jeff Howe             rhBusiness
+Nudist on the Late Shift          Po Bronson            Vintage
+The Hacker Ethic                  Pekka Himanen         RandomHouse
+Future and #relatednonsense       Anthony Funnell       ABC
+Cult of the Amateur               Andrew Keen           nichoasBrealey
+Sonic Boom Napster                John Alderman         FourthEstate
+Google Speaks                     Janet Lowe            JohnWiley
+Does I.T Matter?                  Nicholas Carr         Harvard
+Big Data                          Schonberger/Cukier    JohnMurray
+dot.bomb                          Cellan-Jones          Aurum
+Most Dangerous Man in the World (Assange) Andrew Fowler MUP
+Here Comes Everybody              Clay Shirky           AllenLane
+Sleeping with your Smartphone     Leslie A Perlow       HarvardBusiness
+grown up digital                  Don Tapscott          McGraw Hill
+Thr Media Lab (MIT)               Steward Brand         Penguin
+Google and Myth of Universal Knowledge Jeanneney        UniChicago
+Dynamic Collaboration             Schwemmer/Havrilla    ThirdBridge
+Silicon Snake Oil                 Clifford Stoll        Macmillan
+Things a Little Bird Told Me      Biz Stone             Macmillan
+How Music Got Free                Stephen Witt          Viking
+The Brain Makers                  H P Newquist          SAMS
+Computing with Quantum Cats       John Gribbin          Prometheus
+Copyfight                         ed PhillipaMcGuinness NewSouth
+Internet is not the Answer        Andrew Keen           Atlantic
+content                           Cory Doctorow         Tachyon
+We-Think                          Charles Leadbeater    Profile
+The Future Just Happened          Michael Lewis         coronet
+Planet Google                     Randall Stross        Atlantic
