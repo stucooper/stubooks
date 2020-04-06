@@ -1,0 +1,25 @@
+name: IT - WEB
+label: 2019030701
+description: IT web book, mostly O'Reilly
+
+jQuery Cookbook                   Community Expertys    ORA
+The Whole Internet                Ed Krol               ORA
+The Whole Internet 2e             Ed Krol               ORA
+jQuery in Action                  Bibeault/Katz         Manning
+Missing Manual: Google            Milstein/Dornfest     ORA/Pogue
+Principles of Web Design          Joel Sklar            CourseTech
+Pro HTML5/CSS3 Design Patterns    Bowers/Syndines       APress
+Dont make me think: Web Usability 2e Steve Krug         NewRiders
+Build a Website for Free          Mark Bell             QUE
+Webgeek's Guide to Google Chrome  Ledford/Davis         QUE
+WebDesign in a Nutshell           Jennifer Niederst     ORA
+Publishing a Blog with Blogger    Elizabeth Castro      Peachpit
+HTML & CSS The Right Way 2e       Ian Lloyd             Sitepoint
+Firefox Secrets                   Cheah Chu Yeow        Sitepoint
+Principles of Beautiful WebDesign Jason Beaird          Sitepoint
+Head First HTML and CSS           Robson/Freeman        ORA
+Google Apps Hacks                 Phillip Lenssen       ORA
+Unicode Explained                 Jukka Korpela         ORA
+Information Arch for WWW 3e       Murville/Rosenfeld    ORA
+Algorithms of the Intelligent Web Murmanis/Babenko      Manning
+The Opera 5.x Book                J S Lyster            NoStarch
