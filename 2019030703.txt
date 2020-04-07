@@ -1,0 +1,24 @@
+name: AFL
+label: 2019030703
+description: AFL books
+
+Side by Side: A Season with Collingwood      Peter Ryan          Slattery
+Barassi: The Biography                       Peter Laylor        AllenUnwin
+Big Jack: My Sporting Life                   John Elliott        Schwartz
+Perform- Or Else!                            David Parkin        InfoAust
+After Bali                                   Jason McCartney     Slattery
+Rocket Science (Rodney Eade)                 Kevin Hillier       Macmillan
+Malcolm Blight                               Watson/Weston       HardieGrant
+Open Mike                                    Mike Sheahan        Slattery
+Jim Stynes: My Journey                       Jim Stynes          Penguin
+The Champions                                Ben Collins         Slattery
+EJ (Ted Whitten)                             Ted Whitten         Macmillan
+Plugger and the Mighty Swans                 Jim Main            Macmillan
+Unfinished Business                          Tadhg Kennelly      HardieGrant
+Micky O                                      Michael O'Loughlin  ABC
+My Life                                      Tony Lockett        Macmillan
+The Truth Hurts                              Wayne Carey         Macmillan
+Fev: In my Own Words                         Brendan Fevola      HardieGrant
+All Bets are Off                             David Schwarz       HardieGrant
+Night Games                                  Anna Krien          BlackInc
+The Centurions                               Brian Hansen        BrianHansen
