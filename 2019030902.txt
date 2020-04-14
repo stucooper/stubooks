@@ -1,0 +1,54 @@
+name: ORANGE PENGUINS
+label: 2019030902
+description: Orange Popular Penguins
+
+The Secret History                 Donna Tart              Penguin
+The Periodic Table                 Primo Levi              Penguin
+In the Winter Dark                 Tim Winton              Penguin
+The Big Sleep                      Raymond Chandler        Penguin
+Philosophy of Andy Warhol          Andy Warhol             Penguin
+Consolations of Philosophy         Alain de Botton         Penguin
+Scoop                              Evelyn Waugh            Penguin
+The Fabric of the Cosmos           Brian Greene            Penguin
+A Room of One's Own                Virginia Woolf          Penguin
+The Lucky Country                  Donald Horne            Penguin
+The Art of War                     Sun-Tzu                 Penguin
+The Chimney Sweeper's Boy          Barbara Vine            Penguin
+The Great Railway Bazaar           Paul Theroux            Penguin
+The Plague                         Albert Camus            Penguin
+The Shadow of the Sun              Ryszard Kapuscinski     Penguin
+A Christmas Carol                  Charles Dickens         Penguin
+The Prime of Miss Jean Brodie      Muriel Spark            Penguin
+Twitterature                       Aciman/Rensin           Penguin
+Love in the Time of Cholera        Gabriel Garcia Marquez  Penguin
+The Chrysalids                     John Wyndham            Penguin
+Howl, Kaddish etc.                 Allen Ginsberg          Penguin
+The Haunted Hotel                  Wilkie Collins          Penguin
+Tales of the Unexpected            Roald Dahl              Penguin
+What is History?                   E H Carr                Penguin
+Eva Luna                           Isabel Allende          Penguin
+The Lady in the Lake               Raymond Chandler        Penguin
+High Fidelity                      Nick Horny              Penguin
+The Book of Longing                Leonard Cohen           Penguin
+Man Alone (NZ)                     John Mulgan             Penguin
+Frankenstein                       Mary Shelley            Penguin
+Everything is Illuminated          Jonathan Safran Foer    Penguin
+And the Ass Saw the Angel          Nick Cave               Penguin
+The Mind of God                    Paul Davies             Penguin
+The Time Machine                   H G Wells               Penguin
+The Getting of Wisdom              Henry Handel Richardson Penguin
+Perfume                            Patrick Suskind         Penguin
+Steppenwolf                        Hermann Hesse           Penguin
+I Can Jump Puddles                 Alan Marshall           Penguin
+Kingdom of Fear                    Hunter S Thomspn        Penguin
+Flesh in Armour                    Leonard Mann            Penguin
+Ten Days that Shook the World      John Reed               Penguin
+The Alphabet Sisters               Monica Mcinerney        Penguin
+Obernewtyn                         Isobelle Carmondy       Penguin
+The Magician of Lublin             Isaac Bashevis Singer   Penguin
+I, Claudius                        Robert Graves           Penguin
+Claudius the God                   Robert Graves           Penguin
+Tender is the Night                F Scott Fitzgerald      Penguin
+Curious Case of Benjamin Button    F Scott Fitzgerald      Penguin
+The Beautiful and Damned           F Scott Fitzgerald      Penguin
+The Complete Father Brown          G K Chesterton          Penguin
