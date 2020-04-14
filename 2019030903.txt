@@ -1,0 +1,55 @@
+name: PENGUIN CLASSICS: YELLOW, SMALL
+label: 2019030903
+description: small Penguin Classics, many of which I've read already
+
+The Portrait of a Lady            Henry James             Penguin
+Sir Gawain and the Green Knight   trans Brian Stone       Penguin
+The Mill on the Floss             George Eliot            Penguin
+Jane Eyre                         Charlotte Bronte        Penguin
+The Idiot                         Fyodor Dostoyevsky      Penguin
+Old Mortality                     Walter Scott            Penguin
+Adventures of Huckleberry Finn    Mark Twain              Penguin
+History of the Peloponnesian War  Thuycides               Penguin
+Three Jacobean Tragedies          various                 Penguin
+The Europeans                     Henry James             Penguin
+Dr Jekyll and Mr Hyde etc         Robert Louis Stevenson  Penguin
+Ivanhoe                           Walter Scott            Penguin
+Crime and Punishment              Fyodor Dostoyevsky      Penguin
+Adventures of Tom Sawyer          Mark Twain              Penguin
+The Professor                     Charlotte Bronte        Penguin
+New Grub Street                   George Gissing          Penguin
+Far from the Madding Crowd        Thomas Hardy            Penguin
+The Return of the Native          Thomas Hardy            Penguin
+Tess of the D'Urbervilles         Thomas Hardy            Penguin
+Vilette                           Charlotte Bronte        Penguin
+Gulliver's Travels                Jonathan Swift          Penguin
+Chekov Plays                      Anton Chekov            Penguin
+The Kiss etc.                     Anton Chekov            Penguin
+The Woman in White                Wilkie Collins          Penguin
+Moll Flanders                     Daniel Defoe            Penguin
+Robinson Crusoe                   Daniel Defoe            Penguin
+Three Comedies                    Ben Jonson              Penguin
+Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
+Peer Gynt                         Henrik Ibsen            Penguin
+Dolls House/LeagueYouth/LadySea   Henrik Ibsen            Penguin
+Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
+Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
+Aspern Papers/Turn of the Screw   Henry James             Penguin
+Washington Square                 Henry James             Penguin
+Daisy Miller                      Henry James             Penguin
+Vicar of Wakefield                Oliver Goldsmith        Penguin
+The Theban Plays                  Sophocles(E F Watling)  Penguin
+Shirley                           Charlotte Bronte        Penguin
+Three Resotration Comedies        various                 Penguin
+Four English comedies             various                 Penguin
+Lord Jim                          Joseph Conrad           Penguin
+The Way of All Flesh              Samuel Butler           Penguin
+Poems and Prose                   Gerard Manley Hopkins   Penguin
+Kreutzer Sonata etc               Leo Tolstoy             Penguin
+Pride and Prejudice               Jane Austen             Penguin
+Tom Jones                         Henry Fielding          Penguin
+Paradise Lost                     John Milton             Penguin
+De Profundis etc.                 Oscar Wilde             Penguin
+Barchester Towers                 Antony Trollope         Penguin
+Framley Parsonage                 Antony Trollope         Penguin
+Don Quixote                       Cervantes               Penguin
