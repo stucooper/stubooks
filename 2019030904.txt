@@ -1,0 +1,41 @@
+name: PENGUIN CLASSICS
+label: 2019030904
+description: Penguin Classics
+
+Trilby                            George DuMaurier        Penguin
+Salammbo                          Gustave Flaubert        Penguin
+Government Inspector etc          various Russians        Penguin
+Divine Comedy Vol 1: Inferno      Dante (Mark Musa)       Penguin
+Sci Fi of Edgar Allan Poe         Edgar Allan Poe         Penguin
+Daniel Deronda                    George Eliot            Penguin
+Middlemarch                       George Eliot            Penguin
+Uncle Tom's Cabin                 Harriet Beecher Stowe   Penguin (piano)
+Prisoner of Zenda/Rupert of Hentzau Anthony Hope          Penguin
+The Beggar's Opera                John Gay                Penguin
+Connecticut Yankee King Arthur's Court Mark Twain         Penguin
+The Decameron                     Giovanni Boccacio       Penguin
+Five Italian Renaissance Comedies various                 Penguin
+The Odyssey                       Homer (E V Rieu)        Penguin
+Caleb Williams                    William Godwin          Penguin
+Sir Garwain and the Green Knight  traditional             Penguin
+Madame Bovary                     Gustave Flaubert        Penguin
+The Miser etc                     Moliere                 Penguin
+Scarlett Letter etc               Nathaniel Hawthorne     Penguin
+Faust Part One                    Goethe                  Penguin
+Faust Part Two                    Goethe                  Penguin
+The Campaigns of Alexander        Arrian                  Penguin
+The Federalist Papers             Madison/Hamilton/Jay    Penguin
+Against Nature                    J-K Huysmans            Penguin
+Count of Monte Cristo             Alexandre Dumas         Penguin
+The Discourses                    Niccolo Machiavelli     Penguin
+Lost World and other thrilling tales Arthur Conan Doyle   Penguin
+Don Quixote: New Translation      Cervantes (J Rutherford)Penguin
+Gambler/Bobok/Nasty Story         Fyodor Dostoyevsky      Penguin
+Kidnapped                         Robert Louis Stephenson Penguin
+Weir of Hermiston etc.            Robert Louis Stephenson Penguin
+Monkey                            Wu Chengen (Arthur Waley) Penguin
+Last of the Mohicans              James Fenimore Cooper   Penguin
+A Month in the Country            Ivan Turgenev           Penguin
+Medea/Hecabe/Electra/Heracles     Euripides               Penguin
+
+
