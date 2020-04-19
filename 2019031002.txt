@@ -1,0 +1,18 @@
+name: IT - JAVA, PATTERNS
+label: 2019031002
+description: Heavy IT books
+
+Head First EJB                    Sierra/Bates            ORA
+Quartz Job Scheduling Framework   Chuck Cavaness          PTR
+Technical Java                    Grant Palmer            PTR
+Just Java 2 6e                    Peter van der Linden    PTR
+Pattern-oriented Soft Arch vol1   various                 JohnWiley
+Pattern-oriented Soft Arch vol4   various                 JohnWiley
+Design Patterns                   Gamma/Helm/Johasson/Vlissides AWL
+not Just Java 2e                  Peter van der Linden    PTR
+JSP and Java                      Art Taylor              PTR
+Java in a Nutshell 4e             David Flanagan          ORA
+Java Servlet Programming          Jason Hunter            ORA
+XML and Java                      Maruyama/Tamura         AWL
+Java Appl Development on Linux    Albing/Schwarz          PTR
+Practical Java                    Peter Haggar            AWL
