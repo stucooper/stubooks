@@ -1,0 +1,20 @@
+name: IT - LINUX ADMIN, INTERNALS
+label: 2019031202
+description: Linux kernel books some Admin
+
+Linux Programming Unleashed                Various             SAMS
+Linux Unleashed                            Various             SAMS
+Linux Device Drivers                       Alessandro Rubini   ORA
+Learning Debian GNU/Linux                  Bill McCarty        ORA
+Understanding the Linux Kernel             Bovet/Cesati        ORA
+Linux Multimedia Guide                     Jeff Tranter        ORA
+Running Linux                              Welsh/Kaufman       ORA
+Linux in a Nutshell 2e                     Ellen Siever        ORA
+Systems Performance                        Brendan Gregg       PTR
+Self-Service Linux                         Wilding/Behman      PTR
+Life with Unix                             Libes/Ressler       PTR
+Design of the UNIX Operating System        Maurice J Bach      PTR
+UNIX Internals                             Pate                AWL
+LINUX Kernel Internals                     various Germans     AWL
+Linux Install/Configuration/Using          Michael Kofler      AWL
+Linux File Systems                         Moshe Bar           McGrawHill
