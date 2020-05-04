@@ -1,6 +1,8 @@
 name: BOOKS - GENERAL
 label: 2019042602
 description: assorted
+notes: BOX BUSTED AND THE BOOKS IN IT HAVE BEEN RE-HOUSED. THIS ENTRY IS
+notes: OUT OF DATE AND WILL BE DELETED SOON
 
 Uncle Tungsten                     Sachs              Picador
 Musicophilia                       Sachs              Picador
