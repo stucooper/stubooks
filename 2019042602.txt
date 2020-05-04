@@ -10,7 +10,6 @@ Man who mistook his wife for a hat Sachs              Picador
 Watch this space: Aus Journalism   Deitz              Cambridge
 Unsentimental Bloke C J Dennis bio Buttress           Wakefield
 Hit Factory                        Stock              NewHolland
-The Slap                           Tsiolkas           TuskarRock
 The Emperor's Codes                Smith              Bantam
 Mathematics for the Million        Hogben             AllenUnwin
 Nasty Brutish and Long: Eldercare  Rosofsky           Penguin
@@ -28,5 +27,3 @@ Practical Cryptography             Ferguson/Schneier  JohnWiley
 Raspberry Pi User Guide            Upton/Halfacree    JohnWiley
 The Blender Gamekit 2e             Wartmann           Blender
 The Quants                         Patterson          CrownBusiness
-The Lay of the Land                Ford               Bloomsbury
-Canada                             Ford               Bloomsbury
