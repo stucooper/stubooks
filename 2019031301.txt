@@ -1,0 +1,27 @@
+name: CYBERTODD
+label: 2019031301
+descrption: Sci-fi books many from Todd Hunter
+
+The Reality Dysfunction                  Peter F Hamilton    Pan
+The Naked God                            Peter F Hamilton    Pan
+The Neutronium Alchemist                 Peter F Hamilton    Pan
+The Red Men                              Matthew De Abaitua  snowbooks
+The Osiris Ritual                        George Mann         snowbooks
+The Affinity Bridge                      George Mann         snowbooks
+Spring Heeled Jack                       Mark Hodder         Pyr
+The Long Earth                           Prachett/Baxter     transworld
+Redshirts                                John Scalzi         Tor
+The Ghost Brigades                       John Scalzi         Tor
+Colony                                   Rob Grant           Penguin
+Red Dwarf Programme Guide                Howarth/Lyons       Virgin
+The Dice Man                             Luke Rhinehart      HarperCollins
+Engineering Infinity                     various             Solaris
+The Court of the Air                     Stephen Hunt        Harper
+Peter and the Starcatchers               Dave Barry/Pearson  Disney
+Erebos                                   Ursula Poznanski    AllenUnwin
+Daemon                                   Daniel Suarez       Quercus
+Dave Barry in Cyberspace                 Dave Barry          Fawcett Columbine
+Infoquake                                David Louis Edelman Pyr
+The Strain                               DelToro/Chuck Hogan HarperCollins
+Feed                                     M T Anderson        Candlewick
+The Circle                               Dave Eggers         Vintage
