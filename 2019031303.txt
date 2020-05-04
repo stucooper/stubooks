@@ -1,0 +1,31 @@
+name: PHILOSOPHY
+label: 2019031303
+description: Books on Philosophy
+
+Inventing Individual: West Liberalism  Larry Siedentop      AllenLane
+Modern Philosophy                      Roger Scruton        Sinclair
+The Possibility of an Island           Michel Houllebecq    W&N
+Uncle Tungsten                         Oliver Sachs         Picador
+Musicophilia                           Oliver Sachs         Picador
+Man who mistook his wife for a hat     Oliver Sachs         Picador
+Voltaire's Bastards                    John Ralston Saul    Penguin
+The Roger Scruton Reader               Roger Scruton        continuum
+The Special Theory of Relativity       David Bohm           Routledge
+Submission                             Michel Houllebecq    Picador
+Mortality                              Christopher Hitchens AllenUnwin
+The Passion of the Western Mind        Richard Tarnas       Pimlico
+How Proust Can Change Your Life        Alain de Botton      Picador
+The Unconscious Civilization           John Ralston Saul    Penguin
+Principles of Mathematics              Bertrand Russell     Routledge
+Religion and Science                   Bertrand Russell     Oxford
+Atomised                               Michel Houllebecq    Vintage
+the map and the territory              Michel Houllebecq    Vintage
+The West and the Rest                  Roger Scruton        continuum
+The Doubter's Companion                John Ralston Saul    Penguin
+Orwell's Victory                       Christopher Hitchens Penguin
+On Equilibrium                         John Ralston Saul    Penguin
+Discourse on Free Will                 Erasmus/Luther       continuum
+Hamlet's BlackBerry                    Powers               Scribe
+The End of Faith                       Sam Harris           freePress
+Jonathan Livingston Seagull            Richard Bach         scribner
+The Insights of Hermits                Peter France         Pimlico
