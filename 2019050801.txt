@@ -22,8 +22,6 @@ The Theory of the Modern Stage                  ed Bentley       Pelican
 Mathematics in Western Culture                  Kline            Pelican
 The Theory of Evolution                         MaynardSmith     Pelican
 In a Critical Condition Aus Lit                 Docker           Pelican
-Lives of the Great Composers Vol 2              ed Bacharach     Pelican
-Lives of the Great Composers Vol 3              ed Bacharach     Pelican
 The Long Revolution                             Williams         Pelican
 Facts from Figures                              Moroney          Pelican
 The Psychology of Consciousness                 Ornstein         Pelican
