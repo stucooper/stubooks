@@ -9,15 +9,18 @@
 A Casual Revolution: Reinventing Video Games and Their Players
 A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
 A Double Fine Adventure Full (video)
+A Guide to Convolutional Neural Networks for Computer Vision (MandC)
 A Little Gold Book of Ghastly Stuff 
 A Virus Named Tom
 Absolute FreeBSD: The Complete Guide to FreeBSD
 Absolute OpenBSD
 Advanced Analytics with Spark
+Adversarial Machine Learning (MandC)
 The Agile Enterprise
 AI War: Fleet Command
 AI War: Fleet Command+3 DLCs
-Algoriths in a Nutshell, 2nd Edition
+Algorithms for Reinforcement Learning (MandC)
+Algorithms in a Nutshell, 2nd Edition
 Amazing Forest
 Android Cookbook
 Android Security Internals
@@ -326,6 +329,7 @@ Introducing Erlang
 Introducing Ethereum and Solidity
 Introducing Linux Distros
 Introduction to Machine Learning with Python
+Introduction to Semi-Supervised Learning (MandC)
 Introducing Python
 Intrusion Detection and Prevention for Mobile Ecosystems
 Intrusion Detection Networks
@@ -504,6 +508,7 @@ The Maxx: Maxximized, Vol. 7
 Memes in Digital Culture
 Metadata
 Metasploit: A Penetration Tester's Guide
+Metric Learning (MandC)
 Mind Hacks
 Mindful Design
 Minecraft Modding with Forge
@@ -519,6 +524,7 @@ MOOCs
 Moving Hadoop to the Cloud
 Multithreading for Visual Effects
 Mushroom 11
+Natural Language Processing for Social Media 2e (MandC)
 Natural Language Processing with Python
 Natural Language Processing with PyTorch
 Navigating Hybrid Scrum Environments
@@ -641,6 +647,7 @@ Security Strategy
 sed & awk, 2nd Edition
 Seeking SRE
 Self-Tracking
+Sentient Analysis and Opinion Mining (MandC)
 Serious Python
 Shell Scripting: Expert Recipes for Linux, Bash, and more
 The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition
@@ -661,6 +668,7 @@ The Squidder
 SSH: The Definitive Guide 2e
 The Stanley Parable
 Stardew Valley
+Statistical Relationship AI: Logic, Probability and Computation (MandC)
 Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
