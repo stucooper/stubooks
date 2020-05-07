@@ -14,6 +14,7 @@ A Little Gold Book of Ghastly Stuff
 A Virus Named Tom
 Absolute FreeBSD: The Complete Guide to FreeBSD
 Absolute OpenBSD
+Active Learning (MandC)
 Advanced Analytics with Spark
 Adversarial Machine Learning (MandC)
 The Agile Enterprise
@@ -130,7 +131,9 @@ Computer Security Literacy
 Computing
 Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
+Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
+Creating Autonomous Vehicle Systems (MandC)
 Creating Interfaces with Bulma
 Critical Play: Radical Game Design
 Crowdsourcing
@@ -146,6 +149,8 @@ D4VEocracy #1
 Dangerous High School Girls in Trouble
 Darkness Visible #1
 Data Analytics for Internal Auditors
+Data-Intensive Text Processing with MapReduce (MandC)
+Data Management in Machine Learning Systems (MandC)
 Data Science
 Data Visualization with Javascript
 Data Visualization with Python & JavaScript
@@ -159,6 +164,7 @@ Deploying to OpenShift
 Deployment with Docker
 Designing Distributed Systems
 Designing Web APIs
+Detecting Fake News on Social Media (MandC)
 Developer's Dilemma: The Secret World of Videogame Creators
 Developing a gulp Edge
 Developing a hapi Edge
@@ -218,6 +224,7 @@ Encyclopedia of Electronic Components, Vol. 3: Sensors
 Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
 Essential System Administration, 3rd Edition
+Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
 Ethereum Cookbook
 Ethereum Projects (video)
 Ethical Hacking and Penetration Testing Guide
@@ -302,6 +309,7 @@ How Games Move Us: Emotion by Design
 How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
 HTML5 Hacks
+Human Computation (MandC)
 Human Resource Machine
 Hyperledger for Blockchain Applications (video)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform
@@ -328,6 +336,7 @@ Introducing Elixir
 Introducing Erlang
 Introducing Ethereum and Solidity
 Introducing Linux Distros
+Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python
 Introduction to Semi-Supervised Learning (MandC)
 Introducing Python
@@ -408,6 +417,7 @@ LEGO Build-It Book, Vol. 1: Amazing Vehicles
 The LEGO Neighborhood Book: Build Your Own Town!
 LEGO Space: Building the Future
 lex and yacc, 2nd Edition
+Lifelong Machine Learning 2e (MandC)
 Linux All-In-One For Dummies
 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
 Linux Bible
@@ -531,6 +541,7 @@ Navigating Hybrid Scrum Environments
 Nest.js: A Progressive Node.js Framework
 Network and Data Security for Non-Engineers
 Network Troubleshooting Tools
+Neural Network Methods for Natural Language Processing (MandC)
 Nginx: From Beginner to Pro
 Night of 1,000 Wolves
 Ninja Pizza Girl
