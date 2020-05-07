@@ -1,0 +1,23 @@
+name: SCIENCE
+label: 2019031401
+description: Science bios and History
+
+Seeing futher: Science and the Royal Society ed Bryson       HarperPress
+The Making of the Atomic Bomb                Richard Rhodes  SimonSchuster
+Dark Sun: Making of the Hydrogen Bomb        Richard Rhodes  SimonSchuster
+Arsenals of Folly: Nuclear Arms Race         Richard Rhodes  Knopf
+The Ruin of J Robert Oppenheimer             Priscilla McMillan Viking
+Maverick Genius: Freeman Dyson               Phillip Schewe  ThomasDunne
+Inside the Centre: Life of Oppenheimer       Ray Monk        JonathanCape
+Now it can be told: Manhattan Project        Gen Leslie Groves DaCapo
+The Lunar Men                                Jenny Unglow    FSG
+The Science Class You Wish You Had           Brody/Brody     AllenUnwin
+Surely you're joking Mr Feynman              Richard Feynman Norton
+Six Easy Pieces                              Richard Feynman AWL
+Why People Believe Weird Things              Michael Shermer souvenir
+Enigma                                       Hugh Sebag-Mintefiore Cassell
+The Search for Philip K Dick                 Anne R Dick     Tachyon
+Beginner's Guide to winning Nobel Prize      Peter Doherty   Miegunyah
+The Emperor's Code: Bletchley Park           Michael Smith   Bantam
+The Age of Entanglement                      Louisa Gilder   Vintage
+FIXME: box not finished yet; more books to be added
