@@ -576,7 +576,7 @@ Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
 Programming Perl 4e
-Programming Quantum Computing
+Programming Quantum Computers
 Programming Rust
 Programming Scala
 Programming Voice Interfaces
@@ -686,6 +686,7 @@ TCP/IP Network Administration, 3rd Edition
 Teach Your Kids to Code
 Team Indie
 The Technological Singularity
+Technology Strategy Patterns
 Ten Steps to Linux Survival
 TensorFlow For Machine Intelligence
 Test-Driven Development with Python
