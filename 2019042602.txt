@@ -17,7 +17,4 @@ Whiter Shades of Pale              Lander             hardiegrant
 Trivial Pursuit Quiz Book                             Carlton
 Language and the Internet          Crystal            Cambridge
 Convergence Culture                Jenkins            NewYorkUni
-Practical Cryptography             Ferguson/Schneier  JohnWiley
-Raspberry Pi User Guide            Upton/Halfacree    JohnWiley
-The Blender Gamekit 2e             Wartmann           Blender
 The Quants                         Patterson          CrownBusiness
