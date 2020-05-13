@@ -15,7 +15,6 @@ Listen, Liberal                    Franks             Scribe
 Journey to the Centre of the Earth Verne              WardLock
 Whiter Shades of Pale              Lander             hardiegrant
 Trivial Pursuit Quiz Book                             Carlton
-Ira Gershwin bio                   Furia              Oxford
 Language and the Internet          Crystal            Cambridge
 Convergence Culture                Jenkins            NewYorkUni
 Practical Cryptography             Ferguson/Schneier  JohnWiley
