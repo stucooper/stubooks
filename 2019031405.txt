@@ -1,0 +1,59 @@
+name: WODEHOUSE SINGLES
+label: 2019031405
+desc: P G Wodehouse single volumes
+
+Leave it to Psmith                    P G Wodehouse         Penguin
+Ring for Jeeves                       P G Wodehouse         Penguin
+Money in the Bank                     P G Wodehouse         Penguin
+Uneasy Money                          P G Wodehouse         Penguin
+The Girl in Blue                      P G Wodehouse         Penguin
+Psmith Journalist                     P G Wodehouse         Penguin
+Code of the Woosters                  P G Wodehouse         Penguin
+The Inimitable Jeeves                 P G Wodehouse         Penguin
+Something Fresh                       P G Wodehouse         Penguin
+Carry on Jeeves                       P G Wodehouse         Penguin
+Very Good Jeeves                      P G Wodehouse         Penguin
+Money for Nothing                     P G Wodehouse         Penguin
+Blandings Castle                      P G Wodehouse         Penguin
+Jeeves in the Offing                  P G Wodehouse         Penguin
+A Damsel in Distress                  P G Wodehouse         Penguin
+Thank you Jeeves                      P G Wodehouse         Penguin
+Picadilly Jim                         P G Wodehouse         Penguin
+The Adventures of Sally               P G Wodehouse         Penguin
+Much Obliged Jeeves                   P G Wodehouse         Penguin
+Doctor Sally                          P G Wodehouse         Penguin
+Right Ho Jeeves                       P G Wodehouse         Penguin
+Sam the Sudden                        P G Wodehouse         Penguin
+Eggs Beans and Crumpets               P G Wodehouse         Penguin
+Do Butlers Burgle Banks?              P G Wodehouse         Penguin
+Ukridge                               P G Wodehouse         Arrow
+Leave it to Psmith                    P G Wodehouse         Arrow
+Hot Water                             P G Wodehouse         Arrow
+Aunts aren't gentlemen                P G Wodehouse         Arrow
+Laughing Gas                          P G Wodehouse         Arrow
+Young Men in Spats                    P G Wodehouse         Arrow
+Meet Mr Mulliner                      P G Wodehouse         Arrow
+Big Money                             P G Wodehouse         Arrow
+Full Moon                             P G Wodehouse         Arrow
+Pigs Have Wings                       P G Wodehouse         Arrow
+A Pelican at Blandings                P G Wodehouse         Arrow
+Service with a Smile                  P G Wodehouse         Arrow
+The Inimitable Jeeves                 P G Wodehouse         Arrow
+The Small Bachelor                    P G Wodehouse         Arrow
+Stiff Upper Lip, Jeeves               P G Wodehouse         Arrow
+Uncle Fred in the Springtime          P G Wodehouse         Arrow
+Sunset at Blandings                   P G Wodehouse         Corgi
+Barmy in Wonderland                   P G Wodehouse         Corgi
+A Gentleman of Leisure                P G Wodehouse         Star
+Psmith in the City                    P G Wodehouse         Overlook NewYork
+Right Ho, Jeeves                      P G Wodehouse         Overlook NewYork
+Stiff Upper Lip, Jeeves               P G Wodehouse         Overlook NewYork
+The Girl on the Boat                  P G Wodehouse         HerbertJenkins
+Spring Fever                          P G Wodehouse         HerbertJenkins
+French Leave                          P G Wodehouse         HerbertJenkins
+Indiscretions of Archie               P G Wodehouse         HerbertJenkins
+Jeeves and the Feudal Spirit          P G Wodehouse         HerbertJenkins
+Love Among the Chickens               P G Wodehouse         HerbertJenkins
+Mulliner Nights                       P G Wodehouse         HerbertJenkins
+Cocktail Time                         P G Wodehouse         BarrieJenkins
+A Few Quick Ones                      P G Wodehouse         HerbertJenkins
