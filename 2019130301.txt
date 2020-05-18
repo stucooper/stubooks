@@ -1,0 +1,31 @@
+name: CLASSICAL MUSIC
+label: 2019130301
+description: Composer bios mostly
+
+Johannes Brahms bio                      Jan Swafford       Knopf
+Give me excess of it                     Richard Gill       MacMillan
+George Gershwin bio                      Edward Jablonski   SimonSchuster
+Sergei Prokofiev bio                     Victor Seroff      LesleFrewin
+Prokofiev: Materials/Articles/Interviews various            Progress(soviet)
+Chopin's Funeral                         Benita Eisler      Abacus
+Music for the piano survey               Friskin/Freundlich dover
+Timing is Everything                     Moffat Oxenbould   ABC
+The rest is noise                        Alex Ross          HarperPerennial
+Illegal Harmonies                        Andrew Ford        ABC
+The Sound of Pictures                    Andrew Ford        BlackInc
+A Natural History of the Piano           Stuart Isacoff     souvenir
+Percy Grainger bio                       John Bird          currency
+There's Music in My Madness              John Cargher       ABC
+Believing in Opera                       Tom Sutcliffe      faber
+Simon Rattle bio                         Nicholas Kenyon    faber
+Inside Music                             Karl Haas          ABC
+When the Music Stops                     Norman Lebrecht    pocket
+The Maestro Myth                         Norman Lebrecht    pocket
+Beethoven bio                            Martin Geck        haus
+Gershwin bio                             Ruth Leon          haus
+Verdi bio                                Barbara Meier      haus
+Prokofiev bio                            Thomas Schipperges haus
+Eileen Joyce bio                         Richard Davis      fremantle art
+Mendelssohn letters                      ed Selden-Goth     ViennaHouse
+The book of David (Helfgott)             Beverley Eley      HarperCollins
+A Knight at the Opera                    Sir Geraint Evans  futura
