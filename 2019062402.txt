@@ -19,3 +19,6 @@ Discrete & Combinatorial Mathematics 3e             Grimaldi    AWL
 Wikinomics                                 Tapscott/Williams    Penguin
 MySQL Tutorial                             Welling/Thompson     MySQL
 
+notes: LaTex books and the texbook are in Carlingford at the moment
+notes: together with other LaTeX books.. might reorganise this into
+notes: a full LaTex/TeX box (as much as possible) and another general IT box
