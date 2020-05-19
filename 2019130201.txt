@@ -1,0 +1,19 @@
+name: NEAL STEPHENSON
+label: 2019130201
+description: Neal Stephenson books
+
+Zodiac                                   Neal Stephenson    Arrow
+Interface                                Neal Stephenson    Arrow
+Cryptonomicon                            Neal Stephenson    Arrow
+Cobweb                                   Neal Stephenson    Arrow
+some remarks                             Neal Stephenson    Atlantic
+REAMDE                                   Neal Stephenson    Atlantic
+The Diamond Age                          Neal Stephenson    Penguin
+Snow Crash                               Neal Stephenson    Penguin
+Quicksilver                              Neal Stephenson    WilliamHeinemann
+The Confusion                            Neal Stephenson    WilliamHeinemann
+The System of the World                  Neal Stephenson    WilliamHeinemann
+The Confusion                            Neal Stephenson    WilliamMorrow
+The System of the World                  Neal Stephenson    WilliamMorrow
+Anathem                                  Neal Stephenson    Atlantic
+Anathem (hb)                             Neal Stephenson    Atlantic
