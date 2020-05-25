@@ -50,6 +50,7 @@ The Art of Readable Code
 Artificial Intelligence for Big Data
 The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
 Assembly Language Step-by-Step: Programming with Linux
+Asterisk: The Definitive Guide 5e
 Astronomy Hacks
 Atari Age: The Emergence of Video Games in America
 Atmospheric Monitoring with Arduino
@@ -139,6 +140,7 @@ Critical Play: Radical Game Design
 Crowdsourcing
 Cryptography Engineering: Design Principles and Practical Applications
 The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
+CSS: The Definitive Guide
 CSS Cookbook
 CSS Pocket Reference
 CSS Refactoring
@@ -227,6 +229,7 @@ Essential System Administration, 3rd Edition
 Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
 Ethereum Cookbook
 Ethereum Projects (video)
+Ethernet: The Definitive Guide 2e
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
@@ -259,6 +262,7 @@ Getting Started with the Photon: Making Things with the Affordable, Compact, Hac
 Girls Like Robots
 Git Pocket Guide
 The GNU Make Book
+Google BigQuery: The Definitive Guide
 GPGPU Programming for Games and Science
 Graph Databases, 2e: New Opportunities for Connected Data
 Graphics Shaders
@@ -360,6 +364,7 @@ Java Pocket Guide
 Java Threads
 Java Web Services: Up and Running
 JavaScript: The Good Parts
+JavaScript: The Definitive Guide 6e
 JavaScript Cookbook
 JavaScript for Kids
 Jenkins 2: Up and Running
@@ -508,6 +513,7 @@ Mastering PyCharm (video)
 Mastering Tableau 10 (video)
 Mastering Windows PowerShell 5 Administration (video)
 Math Adventures with Python
+Maven: The Definitive Guide
 The Maxx: Maxximized, Vol. 1
 The Maxx: Maxximized, Vol. 2
 The Maxx: Maxximized, Vol. 3
@@ -528,6 +534,7 @@ MIT Press Essential Knowledge Series
 Mobile App Development with Ionic
 Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
+MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
 Monster Loves You
 MOOCs
@@ -670,6 +677,7 @@ Social Engineering: The Art of Human Hacking
 Social Media Warfare
 Solidity Programming Essentials
 Song of the Deep
+Spark: The Definitive Guide
 Spirits
 Splunk Essentials
 Sproggiwood
