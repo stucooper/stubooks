@@ -1,0 +1,30 @@
+name: SCI FI
+label: 2019130402
+description: science fiction
+
+Foundation                               Isaac Asimov       Panther
+Foundation and Empire                    Isaac Asimov       Panther
+Second Foundation                        Isaac Asimov       Panther
+I, Robot                                 Isaac Asimov       Panther
+Bit Rot                                  Douglas Coupland   Heinemann
+JPod                                     Douglas Coupland   bloomsbury
+Worst.Person.Ever                        Douglas Coupland   Heinemann
+Kipps                                    H G Wells          W&N
+Love and Mr Lewisham                     H G Wells          W&N
+The History of Mr Polly                  H G Wells          W&N
+Ann Veronica                             H G Wells          W&N
+Tono-Bungay                              H G Wells          W&N
+Lord of Light                            Roger Zelazny      Gollancz
+Redshirts                                John Scalzi        TOR
+Walkaway                                 Cory Doctorow      HeadOfZeus
+Generation X                             Douglas Coupland   Abacus
+House Atreides                           Herbert/Anderson   nel
+House Harkonnen                          Herbert/Anderson   nel
+House Corrono                            Herbert/Anderson   nel
+Microserfs                               Douglas Coupland   flamingo
+The Ocean at the End of the Lane         Neil Gaiman        headline
+Blakes 7 Lucifer Genesis                 Paul Darrow        BBC
+Matt Smith: The Biography                Emily Herbert      johnBlake
+Time Machine                             Adam Spencer       Xoum
+Throwing Rocks at the Google Bus         Douglas Rushkoff   Penguin
+Doctor Who The Shooting Scripts          Eussell T Davies   BBC
