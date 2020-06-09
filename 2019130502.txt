@@ -1,0 +1,23 @@
+name: POLITICS
+label: 2019130502
+description: Politics, US and Australia
+
+Loner (Mark Latham)                      Bernard Lagan          AllenUnwin
+Politics Lost                            Joe Klein              doubleday
+Killing Kennedy                          Bill O'Reilly          Macmillan
+Top Price                                Matt Price             HarperCollins
+Rupert Murdoch: A Reassessment           Rodney Tiffen          NewSouth
+Things I didn't know                     Robert Hughes          Vintage
+Nixon and Kissinger                      Robert Dallek          Harper
+The Clinton Wars                         Sidney Blumenthal      Viking
+Triumph and Demise                       Paul Kelly             MUP
+Paul Hasluck: A Life                     Geoffrey Bolton        UWAP
+The Great Unravelling                    Paul Krugman           Penguin
+Blaming Ourselves                        ed Melleuish           DuffySnellgrove
+The Reagen I Knew                        William F Buckley Jr   Basic
+Atlas Shrugged                           Ayn Rand               Signet
+The New Left                             Ayn Rand               Signet
+In a different key                       Donvan/Zucker          AllenLane
+The Man who couldn't stop                David Adam             Picador
+A Biased Memoir                          Ruth Cracknell         Viking
+
