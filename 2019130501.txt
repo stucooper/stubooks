@@ -1,0 +1,20 @@
+name: BEATLES POP MUSIC
+label: 2019130501
+description: Beatles and pop bios
+
+The Beatles bio                          Hunter Davies          JonathanCape
+Live through this (US 90s music)         Everett True           Virgin
+The Love you make                        Peter Brown/Gaines     McGrawHill
+The Walrus was Paul                      Gary Patterson         fireside
+Entertain us!                            Craig Shuftan          ABC
+Born to run                              Bruce Springsteen      SimonSchuster
+The Beatles bio                          Bob Spitz              LittleBrown
+Fab: Intimate Life of Paul McCartney     Howard Sounes          HarperCollins
+Tune in: All these years Vol 1           Mark Lewisohn          LittleBrown
+Helter Skelter: The Manson Murders       Vincent Bugliosi       Penguin
+Mc Cartney bio                           Chet Flippo            Fontana
+The Hit Factory: Stock/Aitken/Waterman   Mike Stock             NewHolland
+Shirl: Graeme 'Shirley' Strachan         Jeff Apter             hardiegrant
+Blood and Tinsel                         Jim Sharman            Miegunyah
+Showgirls, Teen Wolves and Astro Zombies Michael Adams          Pier 9
+Give my regards to Broad Street          Paul McCartney         Pavillion
