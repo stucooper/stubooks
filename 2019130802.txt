@@ -1,0 +1,35 @@
+name: CREAMY PENGUINS
+label: 2019130802
+description: Creamy Penguins
+
+Time Reborn                   Lee Smolin         Penguin
+In Defence of Food            Michael Pollan     Penguin
+First Confession              Chris Patten       Penguin
+The Square and the Tower      Niall Fergusson    Penguin
+The Origins of Sex            Faramerz Dubhoiwala Penguin
+Stalin: Waiting for Hitler    Stephen Kotkin     Penguin
+The Great Sea                 David Abulafia     Penguin
+Thinking Fast and Slow        Daniel Kahneman    Penguin
+Zero Zero Zero                Roberto Saviano    Penguin
+The Undoing Project           Michael Lewis      Penguin
+Scarcity                      Mullainathan/Shafir Penguin
+Civilization                  Niall Ferguson      Penguin
+Freakonomics                  Levitt/Dubner       Penguin
+Winter King                   Thomas Penn         Penguin
+The Spark of Life             Frances Ashcroft    Penguin
+Engineers of Victory          Paul Kennedy        Penguin
+Turing's Cathedral            George Dyson        Penguin
+China's War with Japan        Rana Mitter         Penguin
+The English and their History Robert Tombs        Penguin
+The Quest                     Daniel Yergin       Penguin
+When China Rules the World    Martin Jacques      Penguin
+The Better Angels of Our Nature Stephen Pinker    Penguin
+Enemies (FBI)                 Tim Weiner          Penguin
+The Craftsman                 Richard Sennett     Penguin
+The Road to Character         David Brooks        Penguin
+The Anatomy of Violence       Adrian Raine        Penguin
+The Party (Communist China)   Richard McGregor    Penguin
+Blood and Guts (medicine)     Roy Porter          Penguin
+Think like a Freak            Levitt/Dubner       Penguin
+In Wartime                    Tim Judah           Penguin
+My Italians                   Roberto Saviano     Penguin
