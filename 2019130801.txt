@@ -1,0 +1,19 @@
+name: SPORTS
+label: 2019130801
+description: Sports books, non-AFL
+
+Golden Boy (Kim Hughes)          Christian Ryan          AllenUnwin
+(Muhammad) Ali                   Jonathan Eig            SimonSchuster
+The Voice                        Ray Warren              Nero
+The Game is not the Same         Alan McGilvray          ABC
+An unhelpful history of Aus Sport Titus O Reily          Penguin
+Running                          Ronnie O'Sullivan       Orion
+Daly's Billiard Book             Daly                    Dover
+Ronnie                           Ronnie O'Sullivan       Orion
+Waterhouse and Smith             John Elicott            hardiegrant
+Everyone loves you when youre dead Neil Strauss          HarperCollins
+Keith Miller                     Roland Perry            Aurum
+White King and Red Queen         Daniel Johnson          Atlantic
+The Kingdom of the Cults         Walter Martin           BethanyHouse
+The North (of England)           Paul Morley             bloomsbury
+The Beer Bible                   Willie Simpson          smh
