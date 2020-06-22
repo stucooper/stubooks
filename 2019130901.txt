@@ -1,0 +1,23 @@
+name: MIDDLE EAST
+label: 2019130901
+description: Middle East books
+
+Orientalism                        Edward W Said          Vintage
+From Beirut to Jerusalem           Thomas L Friedman      Anchor
+Israel: A History                  Martin Gilbert         BlackSwan
+My Israel Question                 Anthony Lowenstein     MUP
+The Cawse for Israel               Alan Dershowitz        JohnWiley
+My Promised Land                   Ari Shavit             Scribe
+Essential Judaism                  Geroge Robinson        Pocket
+From Beirut to Jerusalem 2e        Thomas L Friedman      HarperCollins
+Fortress Israel                    Patrick Tyler          portobello
+Hot, Flat and Crowded              Thomas L Friedman      Penguin
+The Lexus and the Olive Tree       Thomas L Friedman      Anchor
+A History of the Arab Peoples      Albert Hourani         faber
+Cry Palestine                      Said K Arburish        bloomsbury
+Muslim Women Reformers             Ida Lichter            prometheus
+The Case for Peace                 Alan Dershowitz        JohnWiley
+Culture and Imperialism            Edward W Said          TSP
+The Great War for Civilisation     Robert Fisk            Harper
+Total War                          Calvocoressi/Wint      Pelican
+
