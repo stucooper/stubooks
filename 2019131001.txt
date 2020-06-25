@@ -1,0 +1,27 @@
+name: MATHS - SCIENCE
+label: 2019131001
+description: Maths books
+
+I am a Strange Loop               Douglas Hofstadter     BasicBooks
+The Simpsons and their Maths secrets Simon Singh         bloomsbury
+Introduction to Geometry          H S M Coxeter          JohnWiley
+The Man Who Loved Only Numbers (Erdos) Paul Hoffman      FourthEstate
+The Man who Knew Infinity         Robert Kanigel         Abacus
+The Cracking Codebook             Simon Singh            HerperCollins
+Born on a Blue Day                Daniel Tammet          Hodder
+Big Book of Numbers               Adam Spencer           Xoum
+A Brief History of Math Thought   Luke Henton            robinson
+The Calculus Wars                 Jason Bardi            HighStakes
+Elementary Numberical Analysis    Conte/DeBoor           McGraw Hill
+How to Solve Problems             Wickelgren             Freeman
+Alan Turing: The Enigma           Andrew Hodges          Vintage
+Adventures of a Mathematician     Stanislaw Ulam         Scribners
+Alex's Adventures in Numberland   Alex Bellos            bloomsbury
+When you were a tadpole I was a fish Martin Gardner      HillWang
+The Genius in my Basement         Alexander Masters      FourthEstate
+Thinking in Numbers               Daniel Tammet          Hodder
+My Brain is Open (Erdos)          Bruce Schechter        SimonSchuster
+Fluke: Maths and Myths of Conicidences Joseph Mazur      OneWorld
+Struck by Genius                  Jason Padgett          headline
+Curious Incident of Dog Nighttime Mark Haddon            Definitions
+God Created the Integers          Stephen Hawking        RunningPress
