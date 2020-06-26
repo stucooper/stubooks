@@ -1,0 +1,24 @@
+name: SPORT
+label: 2019131002
+description: Sports books
+
+The Cricket War                   Gideon Haigh            text
+The Summer Game                   Gideon Haigh            ABC
+All Out Ashes 2006-07             Gideon Haigh            Black Inc
+Playing Through                   Earl Woods              HarperCollins
+Unplayable                        Tiger Woods             SimonSchuster
+My life in Shorts                 H G Nelson              Macmillan
+Bart: My Life                     J B Cummings            Macmillan
+High Strung: Borg and McEnroe     Stephen Tignor          Harper
+Fairway to Hell                   Carl Hiaasen            Bantam
+The Meaning of Sport              Simon Barnes            ShortBooks
+Harvey Penick's Little Red Book   Harvey Penick           SimonSchuster
+Serious                           John McEnroe            timewarner
+McEnroe                           Richard Evans           bloomsbury
+On Warne                          Gideon Haigh            Penguin
+King of the World                 David Remnick           Picador
+And God Created Cricket           Simon Barnes            BlackSwan
+Eddie Charlton Book of Snooker    Eddie Charlton          Viking O'Neil
+How to be really interesting      Steve Davis             Penguin
+Bradman's War                     Malcolm Knox            Penguin
+The Hurricane                     Alex Higgins            Atlantic
