@@ -101,6 +101,7 @@ Brutal Nature
 BSD Hacks
 Build scalable applications with Apache Kafka (video)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress
+Build a Career in Data Science
 Building Apps with Riot
 CAPM in Depth
 The Car Hacker's Handbook
@@ -212,6 +213,7 @@ Drone Revolution: Vol. 51
 Dusty Revenge: Co-Op Edition
 Effective DevOps
 egghead.io
+Elastic Leadership
 The Electric Sublime #1
 The Electric Sublime #2
 The Electric Sublime #3
@@ -250,6 +252,8 @@ Functional Thinking
 The Future
 Game Hacking
 Gaming Hacks
+Get Programming
+Get Programming with Javascript
 Getting Started with 3D Printing
 Getting Started with Docker (video)
 Getting Started with Hadoop 2.x (video)
@@ -270,6 +274,8 @@ Graphing Data with R
 GRAV (Early Access)
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
+Grokking Bitcoin
+Grokking Deep Learning
 Guacamelee! Gold Edition
 Guacamelee Super Turbo Championship Edition
 Guns of Icarus Online
@@ -302,6 +308,10 @@ Head First Python
 Head First Ruby
 Head First SQL
 Head First Statistics
+Hello! HTML5 and CSS3
+Hello! Python
+Hello! Raspberry Pi
+Hello! Scratch
 High Performance Images
 High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
 The Hitchhiker's Guide to Python
@@ -336,6 +346,7 @@ Intellectual Property Strategy
 Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
 Interactive Data Visualization for the Web
 The Internet of Things
+Introducing Data Science
 Introducing Elixir
 Introducing Erlang
 Introducing Ethereum and Solidity
@@ -694,6 +705,7 @@ Statistics Hacks
 Steampunk LEGO
 Streaming Systems
 Streamline Early Access
+Succeeding with AI
 Super Galaxy Squadron EX
 Super Hexagon
 Super Meat Boy
@@ -756,6 +768,7 @@ Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition
+Web Design Playground
 Web Security
 The Well-Played Game: A Player's Philosophy
 Wicked Cool Shell Scripts
@@ -785,5 +798,6 @@ You Don't Know JS: ES6 & Beyond
 You Don't Know JS: Scope & Closures
 You Don't Know JS: Up & Going
 Your Linux Toolbox
+Zero to AI
 Zombies vs Robots: Warbook Omnibus
 2064: Read Only Memories
