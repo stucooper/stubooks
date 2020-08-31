@@ -16,8 +16,9 @@ The Strange Death of Europe              Douglas Murray      bloomsbury
 Coke: The Biography                      Natalia Naish       RobsonPress
 Great Answers to Tough Interview Questions Martin John Yate  KoganPage
 In the time of the Americans             David Fromkin       Macmillan
-Can of Worms II                          Evan Whitton        fairfax
 King Leopold's Ghost                     Adam Hochschild     Pan
 Al Franken: Giant of the Senate          Al Franken          Twelve hbg
-The Fixer: Graham Richardson             Marian Wilkinson    WilliamHeinemann
 The Subtle Art of Not Giving a Fuck      Mark Manson         HarperOne
+
+(CFORD) Can of Worms II                          Evan Whitton        fairfax
+(CFORD) The Fixer: Graham Richardson             Marian Wilkinson    WilliamHeinemann
