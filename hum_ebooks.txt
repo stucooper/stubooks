@@ -6,6 +6,7 @@
 3D Math Primer for Graphics and Game Development
 7 Grand Steps
 97 Things Every Programmer Should Know
+97 Things Every Java Programmer Should Know
 A Casual Revolution: Reinventing Video Games and Their Players
 A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
 A Double Fine Adventure Full (video)
@@ -301,6 +302,7 @@ Head First Design Patterns
 Head First HTML and CSS
 Head First Java
 Head First JavaScript Programming
+Head First Kotlin
 Head First Learn to Code
 Head First Object-Oriented Analysis and Design
 Head First PMP
@@ -350,6 +352,7 @@ Introducing Data Science
 Introducing Elixir
 Introducing Erlang
 Introducing Ethereum and Solidity
+Introducing Go
 Introducing Linux Distros
 Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python
@@ -418,12 +421,14 @@ Learning Hadoop 2
 Learning HTTP/2
 Learning Java
 Learning Kubernetes (video)
+Learning Perl 7e
 Learning PHP, MySQL & JavaScript
 Learning R for Data Visualization (video)
 Learning React Native
 Learning React1
 Learning Scala
 Learning Spark: Lightning-Fast Big Data Analysis
+Learning SQL 3e
 Learning TensorFlow, 1Ed
 Learning the bash Shell, 3rd Edition
 Learning the vi and Vim Editors, 7th Edition
@@ -611,9 +616,10 @@ Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
 Programming Perl 4e
+Programming PHP 4e
 Programming Quantum Computers
 Programming Rust
-Programming Scala
+Programming Scala 2e
 Programming Voice Interfaces
 Progressive Web Apps with Preact
 Prometheus: Up and Running
@@ -731,6 +737,7 @@ Test-Driven Development with Python
 Testing in Scala
 Think Bayes: Bayesian Statistics in Python
 Think Java
+Think Julia
 Think Like a Programmer: An Introduction to Creative Problem Solving
 Think Stats, 2e: Exploratory Data Analysis
 Thirty Flights of Loving
@@ -754,6 +761,7 @@ Uncertainty in Games
 Understanding the New European Data Protection Rules
 Unix in a Nutshell, 4th Edition
 Unix Power Tools
+Using Asyncio in Python
 Using SVG with CSS3 and HTML5
 UX Fundamentals for Non-UX Professionals
 Values at Play in Digital Games
