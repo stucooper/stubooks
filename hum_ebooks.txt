@@ -23,6 +23,7 @@ AI War: Fleet Command
 AI War: Fleet Command+3 DLCs
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
+The Allure of Machinic Life (mitp)
 Amazing Forest
 Android Cookbook
 Android Security Internals
@@ -48,7 +49,9 @@ The Art of Fluid Animation
 The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
 The Art of R Programming
 The Art of Readable Code
+Artificial Intelligence: The Very Idea (mitp)
 Artificial Intelligence for Big Data
+Artificial Minds (mitp)
 The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
 Assembly Language Step-by-Step: Programming with Linux
 Asterisk: The Definitive Guide 5e
@@ -147,6 +150,7 @@ CSS Cookbook
 CSS Pocket Reference
 CSS Refactoring
 CSS: The Definitive Guide
+Cybernetics: Control and Communication in the Animal and the Machine (mitp)
 D4VE, Vol. 1
 D4VE2
 D4VEocracy #1
@@ -158,9 +162,11 @@ Data Management in Machine Learning Systems (MandC)
 Data Science
 Data Visualization with Javascript
 Data Visualization with Python & JavaScript
+Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
 Day of the Tentacle
 Deep Learning Cookbook
+The Deep Learning Revolution (mitp)
 Deep Learning in the Browser
 Defense Against the Black Arts
 Deploying and Running Docker Containers (video)
@@ -179,6 +185,7 @@ DevOps for Web Developers (video)
 DevOps with Kubernetes
 Digital Character Development: Theory and Practice
 Digital Culture, Play, and Identity: A World of Warcraft® Reader
+The Digial Mind: How Science is Redefining Humanity (mitp)
 Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
 Disruptive Analytics
 DIY Drone and Quadcopter Projects
@@ -319,6 +326,7 @@ High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
 The Hitchhiker's Guide to Python
 The Hollows
 Home Theater Hacks
+The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
 Hot Tin Roof
 How Games Move Us: Emotion by Design
@@ -419,6 +427,7 @@ Learning GNU Emacs, 3rd Edition
 Learning GraphQL
 Learning Hadoop 2
 Learning HTTP/2
+Learning in Embedded Systems (mitp)
 Learning Java
 Learning Kubernetes (video)
 Learning Perl 7e
@@ -465,6 +474,8 @@ LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 10
 LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
 Luna's Wandering Stars
 Machine Translation
+The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
+Made-Up Minds: Constructivist Approach to AI (mitp)
 Make a Mind-Controlled Arduino Robot
 Make: A Raspberry Pi-Controlled Robot
 Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi
@@ -570,6 +581,7 @@ Night of 1,000 Wolves
 Ninja Pizza Girl
 No Starch Sampler
 No Time to Explain
+Norbert Wiener: A Life in Cybernetics (mitp)
 Nuclear Throne
 The October Faction, Vol. 1
 The October Faction, Vol. 2
@@ -665,6 +677,7 @@ Richard Stark's Parker: The Hunter
 Richard Stark's Parker: The Outfit
 Richard Stark's Parker: The Score
 Rituals
+Robot Sex: Social and ethical implications (mitp)
 Robot Roller-Derby Disco Dodgeball
 Robots
 Rocket Birds: Hardboiled Chicken
@@ -674,6 +687,7 @@ Rot and Ruin: Warrior Smart
 Ruby Wizardry: An Introduction to Programming for Kids
 Sampler
 Scala Cookbook
+The Sciences of the Artifical (mitp)
 Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition
 Secrets of Raetikon
 Security De-Engineering
@@ -751,6 +765,7 @@ TIMEframe
 Tokenomics
 Tower of Guns
 Truffle Quick Start Guide
+The Turing Test: Verbal Behaviour as Hallmark of Intelligence (mitp)
 Ubuntu Linux Toolbox: 1000+ Commands for Power Users
 Ultimate Guide to Desktop Fabrication 2017: Vol. 54 
 Ultra-Realistic Imaging
@@ -758,6 +773,7 @@ Unauthorised Access: Physical Penetration Testing For IT Security Teams
 Unauthorized Access
 The Uncanny Valley in Games and Animation
 Uncertainty in Games
+Understanding Intelligence
 Understanding the New European Data Protection Rules
 Unix in a Nutshell, 4th Edition
 Unix Power Tools
@@ -779,6 +795,7 @@ The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2n
 Web Design Playground
 Web Security
 The Well-Played Game: A Player's Philosophy
+What Computers Still Can't do: Critique of Artificial Reason (mitp)
 Wicked Cool Shell Scripts
 Wild Blue Yonder
 Windows PowerShell Cookbook
