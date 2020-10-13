@@ -107,6 +107,7 @@ Build scalable applications with Apache Kafka (video)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress
 Build a Career in Data Science
 Building Apps with Riot
+Building Machine Learning Powered Applications (ora)
 CAPM in Depth
 The Car Hacker's Handbook
 Car PC Hacks
@@ -160,12 +161,14 @@ Data Analytics for Internal Auditors
 Data-Intensive Text Processing with MapReduce (MandC)
 Data Management in Machine Learning Systems (MandC)
 Data Science
+Data Science From Scratch (ora)
 Data Visualization with Javascript
 Data Visualization with Python & JavaScript
 Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
 Day of the Tentacle
 Deep Learning Cookbook
+Deep Learning From Scratch (ora)
 The Deep Learning Revolution (mitp)
 Deep Learning in the Browser
 Defense Against the Black Arts
@@ -271,6 +274,7 @@ Getting Started with Netduino
 Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi
 Getting Started with the Internet of Things
 Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
+Generative Deep Learning (ora)
 Girls Like Robots
 Git Pocket Guide
 The GNU Make Book
@@ -527,6 +531,7 @@ Managing Humans
 The Manga Guide to Calculus
 The Manga Guide to Electricity
 The Manga Guide to Physics
+Machine Learning Pocket Reference (ora)
 Mastering Ansible
 Mastering Apache Spark 2.x
 Mastering Blockchain
@@ -537,6 +542,7 @@ Mastering Modular JavaScript
 Mastering MongoDB 3.x
 Mastering Puppet for Large Infrastructures (video)
 Mastering PyCharm (video)
+Mastering Spark with R (ora)
 Mastering Tableau 10 (video)
 Mastering Windows PowerShell 5 Administration (video)
 Math Adventures with Python
@@ -603,7 +609,10 @@ Play Between Worlds: Exploring Online Game Culture
 Play Matters
 Postman PRO
 Potatoman Seeks the Troof
+Practical Automated Machine Learning on Azure (ora)
 Practical Data Science
+Practical Data Science with SAP (ora)
+Practical Deep Learning for Cloud, Mobile and Edge (ora)
 Practical Forensic Imaging
 Practical Google Analytics and Google Tag Manager for Developers
 Practical gRPC
@@ -618,6 +627,7 @@ Practical Packet Analysis
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
 Practical SQL: A Beginner’s Guide to Storytelling with Data
 Practical Statistics for Data Scientists
+Practical Synthetic Data Generation (ora)
 Practical Tableau
 The Practice of Network Security Monitoring
 The Principles of Object-Oriented JavaScript
@@ -725,6 +735,7 @@ Statistics Hacks
 Steampunk LEGO
 Streaming Systems
 Streamline Early Access
+Strengthening Deep Neural Networks (ora)
 Succeeding with AI
 Super Galaxy Squadron EX
 Super Hexagon
