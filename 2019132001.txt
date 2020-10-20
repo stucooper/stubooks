@@ -1,0 +1,15 @@
+name: CARLINGFORD IT
+label: 2019132001
+description: mostly IT in Carlingford
+
+The Second Machine Age                Brynjolfsson/McAfee        Norton
+Chaos Monkeys: Inside Silicon Valley  Antonio Garcia Martinez    ebury
+Click here to Kill Everybody          Bruce Schneier             Norton
+Tomorrows vs Yesterdays               ed Andrew Keen             Atlantic
+Coders                                Clive Thompson             Picador
+Internet Wars                         Fergus Hanson              Longueville
+Practical Guide to Designing with Data Brian Suda                FiveSimple
+Game Design: Secrets of the Sages     ed. Marc Saltzman          Macmillan
+Wikis for Dummies                     Woods/Thoeny               JohnWiley
+Burning with Desire: Photography      Geoffrey Batchen           mitp
+Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon
