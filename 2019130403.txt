@@ -26,3 +26,7 @@ The Pilgrim's Progress                  John Bunyan        PengClassics
 Divine Comedy Vol 1 Inferno             Dante trans Musa   PengClassics
 Divine Comedy Vol 2 Purgatory           Dante trans Musa   PengClassics
 Le Morte d'Arthur                       Sir Thomas Malory  PengClassics
+Adventures of Tom Sawyer                Mark Twain         PengClassics
+Adventures of Huckleberry Finn          Mark Twain         PengClassics
+Three Men in a Boat                     Jerome K Jerome    PengClassics
+Henry Lawson Short Stories              Henry Lawson       PengClassics
