@@ -2,15 +2,15 @@ name: SPORTS
 label: 2019130801
 description: Sports books, non-AFL
 
-Golden Boy (Kim Hughes)          Christian Ryan          AllenUnwin
+Golden Boy (Kim Hughes)          Christian Ryan          AllenUnwin (CFORD)
 (Muhammad) Ali                   Jonathan Eig            SimonSchuster
 The Voice                        Ray Warren              Nero
 The Game is not the Same         Alan McGilvray          ABC
-An unhelpful history of Aus Sport Titus O Reily          Penguin
+An unhelpful history of Aus Sport Titus O Reily          Penguin (CFORD)
 Running                          Ronnie O'Sullivan       Orion
 Daly's Billiard Book             Daly                    Dover
 Ronnie                           Ronnie O'Sullivan       Orion
-Waterhouse and Smith             John Elicott            hardiegrant
+Waterhouse and Smith             John Elicott            hardiegrant (CFORD?)
 Everyone loves you when youre dead Neil Strauss          HarperCollins
 Keith Miller                     Roland Perry            Aurum
 White King and Red Queen         Daniel Johnson          Atlantic
