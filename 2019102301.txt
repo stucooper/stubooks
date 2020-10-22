@@ -1,0 +1,31 @@
+name: FUN FICTION
+label: 2019102301
+description: amusing fiction works
+
+Whatever it is, I don't like it            Howard Jacobson   Bloomsbury
+The Finkler Question                       Howard Jacobson   Bloomsbury
+Shylock is My Name                         Howard Jacobson   Vintage
+Coming From Behind                         Howard Jacobson   Vintage
+The Making of Henry                        Howard Jacobson   Vintage
+Selected Works of T.S. Spivet              Reif Larsen       HarvillSecker
+I am Radar                                 Reif Larsen       HarvillSecker
+Comedy at the Edge                         Richard Zoglin    Bloomsbury
+Espresso Tales                             Alex McCall Smith Polygon
+The 100-Year-Old Man Who Climbed out of the window Jonas Jonasson hesperus
+The Girl Who Saved the King of Sweden      Jonas Jonasson    FourthEstate
+Moab is my Washpot                         Stephen Fry       arrow
+Making History                             Stephen Fry       arrow
+The Hippopotamus                           Stephen Fry       arrow
+The Star's Tennis Balls                    Stephen Fry       arrow
+The Carnal Prayer Mat                      Li Yu             Wordsworth
+Short History of Tractors in Ukranian      Monica Lewycka    Penguin
+Two Caravans                               Monica Lewycka    Penguin
+We are all Made of Glue                    Monica Lewycka    Penguin
+Various Pets Alive and Dead                Monica Lewycka    Penguin
+The Fry Chronicles                         Stephen Fry       Penguin
+White Teeth                                Zadie Smith       Penguin
+Oxford Book of Humorous Prose              ed. Frank Muir    Oxford
+A Widow for One Year                       John Irving       Seal
+Trying to save Piggy Sneed                 John Irving       Bloomsbury
+The Quincunx                               Charles Palliser  Penguin
+The Greedy Bastard Diary                   Eric Idle         W&N
