@@ -13,6 +13,7 @@ The Alteration                      Kingsley Amis           Penguin
 Girl, 20                            Kingsley Amis           Penguin
 Difficulties with Girls             Kingsley Amis           Penguin
 Collected Short Stories             Kingsley Amis           Penguin
+Lucky Jim                           Kingsley Amis           Penguin
 The Egyptologists                   Conquest/K Amis         Penguin
 The King's English                  Kingsley Amis           HarperCollins
 The Life of Kingsley Amis           Zachary Leader          JonathanCape
@@ -21,7 +22,6 @@ Man with the Golden Touch:Bond films Sinclair McKay         Aurum
 Colonel Sun                         Kingsley Amis           Pan
 Casino Royale                       Ian Fleming             TriadGranada
 Live and Let Die                    Ian Fleming             TriadGranada
-Moonraker                           Ian Fleming             Pan
 Diamonds are Forever                Ian Fleming             TriadGranada
 From Russia with Love               Ian Fleming             Pan
 Dr No                               Ian Fleming             Penguin
