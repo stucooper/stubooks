@@ -2,8 +2,9 @@ name: SCI-FICTION
 label: 2019042301
 description: science fiction
 
-Tales of Wonder                  Wells              Collins
-War of the Worlds                Wells              GoldenPress
+Tales of Wonder                  H G Wells          Collins
+War of the Worlds                H G Wells          GoldenPress
+When the Sleeper Wakes           H G Wells          ModernLibrary
 Last and First Men               Stapledon          Gollancz
 Ilium                            Simmons            Gollancz
 Olympos                          Simmons            Gollancz
@@ -27,10 +28,13 @@ The Day of the Triffids          Wyndham            Penguin
 Chocky                           Wyndham            Penguin
 Babel-17                         Delany             Sphere
 Nova                             Delany             Gollancz
+Limbo                            Bernard Wolfe      Gollancz
+Neuromancer                      Gibson             HarperCollins
 Count Zero                       Gibson             HarperCollins
 Mona Lisa Overdrive              Gibson             HarperCollins
 Burning Chrome                   Gibson             HarperCollins
 Virtual Light                    Gibson             Penguin
+Pattern Recognition              William Gibson     Penguin
 Spook Country                    Gibson             Berkley
 Foundation                       Asimov             Granada
 Foundation and Empire            Asimov             HarperCollins
