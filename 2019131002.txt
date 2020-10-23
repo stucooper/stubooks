@@ -5,10 +5,11 @@ description: Sports books
 The Cricket War                   Gideon Haigh            text
 The Summer Game                   Gideon Haigh            ABC
 All Out Ashes 2006-07             Gideon Haigh            Black Inc
+Ashes 2005: Greatest Test Series  Gideon Haigh            Aurum
 Playing Through                   Earl Woods              HarperCollins
 Unplayable                        Tiger Woods             SimonSchuster
 My life in Shorts                 H G Nelson              Macmillan
-Bart: My Life                     J B Cummings            Macmillan
+Bart: My Life                     J B Cummings            Macmillan (CFORD)
 High Strung: Borg and McEnroe     Stephen Tignor          Harper
 Fairway to Hell                   Carl Hiaasen            Bantam
 The Meaning of Sport              Simon Barnes            ShortBooks
@@ -22,3 +23,4 @@ Eddie Charlton Book of Snooker    Eddie Charlton          Viking O'Neil
 How to be really interesting      Steve Davis             Penguin
 Bradman's War                     Malcolm Knox            Penguin
 The Hurricane                     Alex Higgins            Atlantic
+Amen: Adam Scott/US Masters       Will Swanton/Brent Read AllenUnwin
