@@ -29,13 +29,13 @@ Chocky                           Wyndham            Penguin
 Babel-17                         Delany             Sphere
 Nova                             Delany             Gollancz
 Limbo                            Bernard Wolfe      Gollancz
-Neuromancer                      Gibson             HarperCollins
-Count Zero                       Gibson             HarperCollins
-Mona Lisa Overdrive              Gibson             HarperCollins
-Burning Chrome                   Gibson             HarperCollins
-Virtual Light                    Gibson             Penguin
+Neuromancer                      William Gibson     HarperCollins
+Count Zero                       William Gibson     HarperCollins
+Mona Lisa Overdrive              William Gibson     HarperCollins
+Burning Chrome                   William Gibson     HarperCollins
+Virtual Light                    William Gibson     Penguin
 Pattern Recognition              William Gibson     Penguin
-Spook Country                    Gibson             Berkley
+Spook Country                    William Gibson     Berkley
 Foundation                       Asimov             Granada
 Foundation and Empire            Asimov             HarperCollins
 Second Foundation                Asimov             Granada
