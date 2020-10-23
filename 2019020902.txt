@@ -19,3 +19,8 @@ Untangling the Web                           Aleks Krutoski        Faber
 Linux Server Hacks                           Flickenger            ORA
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
+Top-Down Network Design 3e            Priscilla Oppenheimer      CiscoPress
+Art of Compiler Design                Pittman/Peters             PTR
+Programming in Objective C 6e         Kochan                     AWL
+Processing                            Reas/Fry                   MITP
+Learning Processing                   Daniel Shiffman            MK

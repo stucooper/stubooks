@@ -2,10 +2,4 @@ name: IT FOREVER
 label: 2019110801
 description: IT books
 
-Top-Down Network Design 3e            Priscilla Oppenheimer      CiscoPress
-Art of Compiler Design                Pittman/Peters             PTR
-Programming in Objective C 6e         Kochan                     AWL
 Nagios 2e                             Wolfgang Barth             NoStarch
-Artists' Guide to the GIMP            Michael J Hammel           SSC
-Processing                            Reas/Fry                   MITP
-Learning Processing                   Daniel Shiffman            MK
