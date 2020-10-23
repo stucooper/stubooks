@@ -14,7 +14,6 @@ Information Ecologies                        Nardi/O'Day           MITP
 A Software Tools Sampler                     Webb Miller           PTR
 Data Structures Using C                      Esakov/Weiss          PTR
 OpenVPN                                      Markus Fielner        Packt
-A Little Java, A Few Patterns                Felleisen/Friedman    MITP
 The Wikipedia Revolution                     Andrew Lih            Aurum
 Untangling the Web                           Aleks Krutoski        Faber
 Linux Server Hacks                           Flickenger            ORA

@@ -8,6 +8,4 @@ Programming in Objective C 6e         Kochan                     AWL
 Nagios 2e                             Wolfgang Barth             NoStarch
 Artists' Guide to the GIMP            Michael J Hammel           SSC
 Processing                            Reas/Fry                   MITP
-Realm of Racket                       Matthias Felleisen et al   NoStarch
 Learning Processing                   Daniel Shiffman            MK
-Unix Hater's Handbook                 Garfinker/Weise            IDG

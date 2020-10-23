@@ -19,3 +19,7 @@ Compilers: Principles/Techniques Aho/Sehti/Ullman         AWL
 Handbook of ProgLangs Vol3: Little Langs                  MacmillanTech
 Handbook of ProgLangs Vol4: Functional and Logic Progs    MacmillanTech
 Successful Lisp                  David B Lamkins          bookfix.com
+A Little Java, A Few Patterns    Felleisen/Friedman       MITP
+Realm of Racket                  Matthias Felleisen et al NoStarch
+Unix Hater's Handbook            Garfinker/Weise          IDG
+Artists' Guide to the GIMP       Michael J Hammel         SSC
