@@ -4,7 +4,6 @@ description: HUMOUR
 
 Complete Prose of Woody Allen                Allen              Wings
 Without Feathers                             Allen              Sphere
-The Players                                  Martin             arrow
 Stark                                        Elton              Sphere
 Meaning of Liff                              Adams              Pan
 Land of Green Ginger                         Langley            Puffin
@@ -18,10 +17,8 @@ Lolly Scramble                               Tony  Martin       Pan
 A Nest of Occasionals                        Tony  Martin       Picador
 The Hell of it All                           Brooker            faber
 Dawn of the Dumb                             Brooker            faber
-QI Book of General Ignorance                 Lloyd/Mitchinson   faber
 Dave Barry is from Mars and Venus            Barry              Crown
 tricky business                              Barry              putnam
-Any danger?                                  Marmalade          HGB
 Born standing up                             Steve Martin       pocket
 semi-detached                                Griff Rhys-Jones   penguin
 things snowball                              Hall               abacus
@@ -30,4 +27,3 @@ Lucky You                                    Hiaasen            Pan
 Skinny Dip                                   Hiaasen            BlackSwan
 Nature Girl                                  Hiaasen            BlackSwan
 Basket Case                                  Hiaasen            Pan
-Spectator Columns                            Taki               Quartet
