@@ -3,7 +3,6 @@ label: 2019131301
 description: Near Piano in Flemington
 
 Blake                                       Peter Ackroyd       Minerva
-A Blake Dictionary                          Damon               ThamesHudson
 Compendium                                  Eric Sykes          Virgin
 Candy is Dandy: Best of Ogden Nash          Ogden Nash          AndreDeutsch
 The World From Islam                        George Negus        HarperCollins
