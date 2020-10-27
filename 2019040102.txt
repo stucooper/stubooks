@@ -16,7 +16,7 @@ Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA
 Programming Pearls 2e         Bentley          AWL
-Web Security Privacy Commerce 2e Garfinkel/Spafford ORA CFO
+Web Security Privacy Commerce 2e Garfinkel/Spafford ORA (FLEMDESK)
 Learning PHP5                Sklar            ORA
 Internet in a Nutshell       Quercia          ORA
 Linux Cookbook               Stutz            NoStarch
@@ -24,7 +24,7 @@ Linux Routers                Mancill          PTR
 Broadband Network Architectures Hellberg/Green/Bayes PTR
 SQLite                       Newman           SAMS
 Energy Efficiency for IT     Minas/Ellison    Intel
-Linux Enterprise Cluster     Kopper           NoStarch CFO
+Linux Enterprise Cluster     Kopper           NoStarch CFO (FLEMDESK)
 How Linux Works 2e           Ward             NoStarch
 
 
