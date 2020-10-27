@@ -3,7 +3,6 @@ label: 2019031406
 desc: comedy books
 
 Life and Laughing: My Story          Michael McIntyre      Penguin
-Chomp                                Carl Hiaasen          Orion
 And it's Goodnight from Him          Ronnie Corbett        Penguin
 Small Dreams of a Scorpion           Spike Milligan        Penguin
 Punch Down Under                     ed Barry Humphries    Robson
