@@ -4,7 +4,6 @@ description: Literature and bios
 
 Hunter                            E Jean Carroll             dutton
 Anthony Burgess                   Roger Lewis                faber
-Golden House                      Salman Rushdie             JonathanCape
 Bleeding Edge                     Thomas Pynchon             JonathanCape
 Love as always: Kurt (Vonnegut)   Loree Rackstraw            DaCapo
 The Parade                        Dave Eggers                HamishHamilton
@@ -23,4 +22,3 @@ The Little Drummer Girl                    John le Carre     Penguin
 The Great Gatsby (hb)             F Scott Fitzgerald         PengClassics
 News from Nowhere                 William Morris             PengClassics
 The Crying of Lot 49              Thomas Pynchon             Vintage
-Imaginary Homelands               Salman Rushdie             Vintage
