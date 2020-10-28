@@ -1,6 +1,7 @@
 name: MATHS - SCIENCE
 label: 2019131001
 description: Maths books
+OCT2020CHECKED
 
 I am a Strange Loop               Douglas Hofstadter     BasicBooks
 The Simpsons and their Maths secrets Simon Singh         bloomsbury
