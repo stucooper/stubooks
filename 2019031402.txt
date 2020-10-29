@@ -14,18 +14,14 @@ Utz                                    Bruce Chatwin          Picador
 What am I doing Here                   Bruce Chatwin          Picador
 Bad Dirt                               E Annie Proulx         Harper
 The Trial                              Franz Kafka            Picador
-Time of Secrets/Time of Love           Marcel Pagnol          Picador
 Picture This                           Joseph Heller          Picador
-The Game                               A S Byatt              Vintage
-Oyster                                 Jannette Turner Hospital Vintage
 lies of silence                        Brian Moore            Vintage
 Dirt Music                             Tim Winton             Picador
 Leaving Las Vegas                      John I'Brien           Picador
 Innocent Erndira                       Gabriel Garcia Marquez Picador
 One Hundred Years of Solitude          Gabriel Garcia Marquez Picador
 The Autumn of the Patriarch            Gabriel Garcia Marquez Picador
-The Hobbit                             J R R Tolkien          Guild
-The Ohter Side of the Story            Marian Keyes           Penguin
+The Other Side of the Story            Marian Keyes           Penguin
 Divine Comedy                          Dante                  Oxford
 The Art of War                         Sun Tzu                Oxford
 Meditations (hb)                       Marcus Aurelius        Penguin
@@ -35,10 +31,8 @@ House of Glass                         Pramoedya Anata Toer   Penguin
 Tinker Tailor Soldier Spy              John Le Carre          Penguin
 The Complete Saki                      Saki                   Penguin
 Last Orders                            Graham Swift           Picador
-The Unquiet Grave                      Cyril Connolly         Penguin
 The Good Soldier Svejk                 Jaroslav Hasek         Penguin
 Sebastian Faulks on Fiction            Sebastian Faulks       BBC
 Miss Julie/Father/Ghost Sonata etc     August Strindberg      Oxford
 What I talk about when I talk about Running Haruki Murakami   HarvellSecker
-The Snow Queen                         Michael Cunningham     FourthEstate
 FIXME: box not finished yet; more books to be added
