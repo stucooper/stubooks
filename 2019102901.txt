@@ -3,7 +3,6 @@ label: 2019102901
 description: various books
 
 china modern (cookbook)                  ching-he huang        kylebooks
-Dangerous Book for Boys                  Iggulden              HarperCollins
 Data Mining 2e                           Witten/Frank          MK Elsevier
 M                                        Peter Robb            DuffySnellgrove
 The Office: A Hardworking History        Gideon Haigh          Miegunyah
@@ -13,14 +12,12 @@ The Foodie Handbook                      Techamuanvivit        Conran
 Tools: A Field Guide                     Dodds                 ABC
 Fantastic Home Maintenance Manual        Paul                  Aurum
 Confessions of an Economic HitMan        Perkins               Ebury
-Harmony (Project Itoh)                   Itoh                  HaikaSobu
 The Catcher in the Rye                   Salinger              Penguin
 Behind the Candelabra                    Thorson               HeadZeus
 Illumination                             Plampin               Harper
 The Outsider                             Camus                 Penguin
 You don't have to be born brilliant      McGrath               Hodder
 Things Bogans Like                       various               hachette
-Orfeo                                    Powers                Atlantic
 Five People you meet in heaven           Albom                 timewarner
 Gittinomics                              Gittins               AllenUnwin
 1066 and all that (illustrated)          Sellar/Yeatman        AllanSutton
