@@ -5,13 +5,10 @@ description: Books from above my bookshelves in the garage
 The Oxbridge Conspiracy                  Walter Ellis        MichaelJoseph
 The House (Sydney Opera House)           Helen Pitt          AllenUnwin
 Down and Dirty in Pictures               Peter Biskind       SimonSchuster
-Brief Interviews with Hideous Men        David Foster Wallace BackBox
 Big Science (Ernest Lawrence)            Michael Hiltzik     SimonSchuster
-Constance: Mrs Oscar Wilde               Franny Moyle        JohnMurray
 Homo Deus: Brief History of Tomorrow     Yuval Noah Harari   Vintage
 The Menzies Era (hb)                     John Howard         HarperCollins
 The Strange Death of Europe              Douglas Murray      bloomsbury
-Coke: The Biography                      Natalia Naish       RobsonPress
 The Subtle Art of Not Giving a Fuck      Mark Manson         HarperOne
 
 (CFORD) Can of Worms II                          Evan Whitton        fairfax
