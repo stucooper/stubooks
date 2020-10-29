@@ -2,4 +2,3 @@ name: IT FOREVER
 label: 2019110801
 description: IT books
 
-Nagios 2e                             Wolfgang Barth             NoStarch
