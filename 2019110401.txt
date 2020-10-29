@@ -1,4 +1,0 @@
-name: US POLITICS
-label: 2019110401
-description: US Political books
-
