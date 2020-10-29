@@ -2,7 +2,6 @@ name: MODERN LITERATURE
 label: 2019031604
 description: Modern Lit
 
-Stories of John Cheever             John Cheever           Vintage
 Posession                           A S Byatt              Vintage
 Mrs Dalloway                        Virginia Woolf         Vintage
 A Death in the Family (MS3)         Karl Ove Knausgaard    Vintage
