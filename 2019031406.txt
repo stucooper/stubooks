@@ -4,7 +4,6 @@ desc: comedy books
 
 Life and Laughing: My Story          Michael McIntyre      Penguin
 And it's Goodnight from Him          Ronnie Corbett        Penguin
-Small Dreams of a Scorpion           Spike Milligan        Penguin
 Punch Down Under                     ed Barry Humphries    Robson
 Love, Sex and other Natural Disasters The Onion            Quirk
 Whiter Shades of Pale                Christian Lander      hardieGrant
