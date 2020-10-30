@@ -3,7 +3,6 @@ label: 2019102901
 description: various books
 
 china modern (cookbook)                  ching-he huang        kylebooks
-M                                        Peter Robb            DuffySnellgrove
 The Office: A Hardworking History        Gideon Haigh          Miegunyah
 This Fabulous Century                    Peter Luck            NewHolland
 The Foodie Handbook                      Techamuanvivit        Conran
