@@ -3,7 +3,6 @@ label: 2019031406
 desc: comedy books
 
 Life and Laughing: My Story          Michael McIntyre      Penguin
-And it's Goodnight from Him          Ronnie Corbett        Penguin
 Punch Down Under                     ed Barry Humphries    Robson
 Love, Sex and other Natural Disasters The Onion            Quirk
 Whiter Shades of Pale                Christian Lander      hardieGrant
@@ -14,3 +13,4 @@ Blue Shoes and Happiness             Alexander McCall Smith Anchor
 Kinky Friedman Crime Club            Kinky Friedman        faber (CFORD)
 Mere Anarchy                         Woody Allen           ebury
 The Liar                             Stephen Fry           Heinemann
+And it's Goodnight from Him          Ronnie Corbett        michaelJoseph
