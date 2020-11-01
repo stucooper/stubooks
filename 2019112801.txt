@@ -5,7 +5,6 @@ description: Sci fi books
 The Quanderhorn Xperimentations              Rob Grant/Marshall      Gollancz
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
-Paul of Dune                                 Brian Herbert/Kevin A   HodderStou
 Infoquake                                    David Louis Edelman     Solaris
 Multireal                                    David Louis Edelman     PYR
 The Peripheral                               William Gibson          Viking
