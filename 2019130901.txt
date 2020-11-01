@@ -3,7 +3,6 @@ label: 2019130901
 description: Middle East books
 
 Orientalism                        Edward W Said          Vintage
-From Beirut to Jerusalem           Thomas L Friedman      Anchor
 Israel: A History                  Martin Gilbert         BlackSwan
 My Israel Question                 Anthony Lowenstein     MUP
 From Beirut to Jerusalem 2e        Thomas L Friedman      HarperCollins
@@ -12,7 +11,6 @@ The Lexus and the Olive Tree       Thomas L Friedman      Anchor
 Cry Palestine                      Said K Arburish        bloomsbury
 Muslim Women Reformers             Ida Lichter            prometheus
 Culture and Imperialism            Edward W Said          TSP
-The Great War for Civilisation     Robert Fisk            Harper
 Total War                          Calvocoressi/Wint      Pelican
 The Storm of War                   Andrew Roberts         Penguin
 Zeitoun                            Dave Eggers            Penguin
