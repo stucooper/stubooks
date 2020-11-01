@@ -2,7 +2,6 @@ name: LIT GRAHAME
 label: 2019031402
 desc: Modern lit, lots from Grahame
 
-Laughable Loves                        Milan Kundera          Penguin
 The Shipping News                      E Annie Proulx         FourthEstate
 Anatomy of Restlessness                Bruce Chatwin          JonathanCape
 The Trial                              Franz Kafka            Picador
