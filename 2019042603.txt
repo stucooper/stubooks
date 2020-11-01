@@ -2,7 +2,6 @@ name: SCI - FICTION
 label: 2019042603
 description: science fiction
 
-Jonathan Strange and Mr Norrell        Clarke          Bloomsbury
 American Gods                          Gaiman          headline
 Trigger Warning                        Gaiman          headline
 The Red Men                            DeAbaitua       snowbooks
