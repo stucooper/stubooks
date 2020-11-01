@@ -4,7 +4,6 @@ description: Plays mostly
 
 Dante: Divine Comedy                      Clive James            Picador
 Dante: Inferno                            Henry Wadsworth Longfellow Ballantine
-Collected Plays of Neil Simon Vol 1       Neil Simon             Plume
 Freddy Neptune                            Les Murray             BlackInc
 See How it Runs: Nimrod Theatre           Julian Meryrick        Currency
 Collected Plays Vol 1                     David Williamson       Currency
