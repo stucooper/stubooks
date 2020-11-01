@@ -5,9 +5,7 @@ description: Sci fi books
 The Quanderhorn Xperimentations              Rob Grant/Marshall      Gollancz
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
-The Peripheral                               William Gibson          Viking
 Shampoo Planet                               Douglas Coupland        WSP
-All Tomorrows Parties                        William Gibson          Viking
 Norse Mythology                              Neil Gaiman             bloomsbury
 Miss Wyoming                                 Douglas Coupland        Flamingo
 God Emperor of Dune                          Frank Herbert           NewEnglish
