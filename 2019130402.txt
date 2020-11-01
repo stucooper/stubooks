@@ -2,9 +2,6 @@ name: SCI FI
 label: 2019130402
 description: science fiction
 
-Foundation                               Isaac Asimov       Panther
-Foundation and Empire                    Isaac Asimov       Panther
-Second Foundation                        Isaac Asimov       Panther
 I, Robot                                 Isaac Asimov       Panther
 Bit Rot                                  Douglas Coupland   Heinemann
 JPod                                     Douglas Coupland   bloomsbury
