@@ -2,7 +2,6 @@ name: MODERN LITERATURE
 label: 2019031601
 description: Modern Literature
 
-Bruce Chatwin                        Nicholas Shakespeare   Harvill
 The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
 A Son of the Circus                  John Irving            Routledge
 Jack Kerouac: King of the Beats      Barry Miles            Virgin
