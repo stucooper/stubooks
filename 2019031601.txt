@@ -5,9 +5,7 @@ description: Modern Literature
 The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
 A Son of the Circus                  John Irving            Routledge
 Jack Kerouac: King of the Beats      Barry Miles            Virgin
-That old Ace in the Hole             E Annie Proulx         FourthEstate
 Closing Time                         Joseph Heller          SimonSchuster
-The World of Henry Lawson            Henry Lawson           Summit
 In a Different Key                   Donovan/Zucker         AllenLane (DUPE)
 Neurotribes                          Steve Silberman        AllenUnwin
 Proust and the Squid                 Maryanne Wolf          Icon
