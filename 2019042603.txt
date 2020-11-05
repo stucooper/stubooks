@@ -6,7 +6,6 @@ American Gods                          Gaiman          headline
 Trigger Warning                        Gaiman          headline
 The Red Men                            DeAbaitua       snowbooks
 Century Rain                           Reynolds        Gollancz
-Zoo City                               Beukes          AngryRobot
 2312                                   StanleyRobinson Orbit
 The Fellowship of the Ring             Tolkien         AllenUnwin
 The Two Towers                         Tolkien         AllenUnwin
@@ -24,7 +23,6 @@ Backwards Red Dwarf                    Grant           Penguin
 Last Human Red Dwarf                   Naylor          Penguin
 Mammoth Book Best New SF 24            ed Dozios       Robinson
 Doctor Who Dalek Handbook              Tribe/Goss      BBC
-Leviathan                              Westerfeld      SimonPulse
 The Peripheral                         William Gibson          Viking
 All Tomorrows Parties                  William Gibson          Viking
 2023: A Trilogy by the JAM                  JAM                     faber
