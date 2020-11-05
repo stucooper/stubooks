@@ -2,9 +2,6 @@ name: PENGUIN CLASSICS: YELLOW, SMALL
 label: 2019030903
 description: small Penguin Classics, many of which I've read already
 
-The Portrait of a Lady            Henry James             Penguin
-Sir Gawain and the Green Knight   trans Brian Stone       Penguin
-The Mill on the Floss             George Eliot            Penguin
 Jane Eyre                         Charlotte Bronte        Penguin
 The Idiot                         Fyodor Dostoyevsky      Penguin
 Old Mortality                     Walter Scott            Penguin
@@ -39,7 +36,6 @@ Washington Square                 Henry James             Penguin
 Daisy Miller                      Henry James             Penguin
 Vicar of Wakefield                Oliver Goldsmith        Penguin
 The Theban Plays                  Sophocles(E F Watling)  Penguin
-Shirley                           Charlotte Bronte        Penguin
 Three Resotration Comedies        various                 Penguin
 Four English comedies             various                 Penguin
 Lord Jim                          Joseph Conrad           Penguin
