@@ -9,10 +9,8 @@ Adventures of Huckleberry Finn    Mark Twain              Penguin
 History of the Peloponnesian War  Thuycides               Penguin
 The Europeans                     Henry James             Penguin
 Dr Jekyll and Mr Hyde etc         Robert Louis Stevenson  Penguin
-Ivanhoe                           Walter Scott            Penguin
 Crime and Punishment              Fyodor Dostoyevsky      Penguin
 Adventures of Tom Sawyer          Mark Twain              Penguin
-The Professor                     Charlotte Bronte        Penguin
 New Grub Street                   George Gissing          Penguin
 Far from the Madding Crowd        Thomas Hardy            Penguin
 The Return of the Native          Thomas Hardy            Penguin
