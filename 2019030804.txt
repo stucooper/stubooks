@@ -5,7 +5,6 @@ description: Plays mostly
 Dante: Divine Comedy                      Clive James            Picador
 Dante: Inferno                            Henry Wadsworth Longfellow Ballantine
 Freddy Neptune                            Les Murray             BlackInc
-See How it Runs: Nimrod Theatre           Julian Meryrick        Currency
 Collected Plays Vol 1                     David Williamson       Currency
 Collected Plays Vol 3                     David Williamson       Currency
 The Removalists                           David Williamson       Currency
@@ -26,8 +25,6 @@ Butley                                    Simon Gray             methuen
 A View from the Bridge/All My Sons        Arthur Miller          penguin
 Death of a Salesman                       Arthur Miller          penguin
 Portable Arthuer Miller                   Arthur Miller          penguin
-Four Revenge Tragedies                    various                Oxford
-Four Revenge Tragedies                    various                Methuen
 Peter Shaffer Three Plays                 Peter Shaffer          penguin
 Peter Shaffer Four Plays                  Peter Shaffer          penguin
 Oscar Wilde Complete Plays                Oscar Wilde            penguin
