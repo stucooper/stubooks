@@ -2,10 +2,3 @@ name: VARIOUS
 label: 2019112702
 description: Various books
 
-Plenty more fish in the CBD                 David Rhind/Neal        RHNewZeal
-Shooting the Picture (press photography)    Fay Anderson            Miegunyah
-A Fiery Peace in a Cold War                 Neil Sheehan            RandomHouse
-Playing the Moldovians at Tennis            Tony Hawks              ebury
-Lost at Sea                                 Jon Ronson              Picador
-What a croc!                                NT News                 hachette
-150 Great Australian Beers                  James Smith             hardieGrant
