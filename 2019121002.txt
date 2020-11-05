@@ -2,7 +2,6 @@ name: SMALLBOX
 label: 2019121002
 description: Small flat box of various books
 
-Flying Visits                             Clive James          Picador
 A is for Armageddon                       Richard Horne        SquarePeg
 V for Vendetta                            Alan Moore/Lloyd     Vertigo
 If you don't mind Umpire! (AFL)           Brian Hansen/Dyer    Hansen
