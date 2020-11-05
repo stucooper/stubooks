@@ -1,7 +1,0 @@
-name: BLAKE LITERARY
-label: 2019131301
-description: Near Piano in Flemington
-
-Compendium                                  Eric Sykes          Virgin
-Oscar Wilde                                 Richard Ellmann     Penguin
-
