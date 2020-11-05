@@ -3,7 +3,6 @@ label: 2019031301
 descrption: Sci-fi books many from Todd Hunter
 
 The Red Men                              Matthew De Abaitua  snowbooks
-Redshirts                                John Scalzi         Tor
 Erebos                                   Ursula Poznanski    AllenUnwin
 Daemon                                   Daniel Suarez       Quercus
 Feed                                     M T Anderson        Candlewick
