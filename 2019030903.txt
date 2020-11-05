@@ -14,10 +14,8 @@ New Grub Street                   George Gissing          Penguin
 Far from the Madding Crowd        Thomas Hardy            Penguin
 The Return of the Native          Thomas Hardy            Penguin
 Tess of the D'Urbervilles         Thomas Hardy            Penguin
-Vilette                           Charlotte Bronte        Penguin
 Gulliver's Travels                Jonathan Swift          Penguin
 Chekov Plays                      Anton Chekov            Penguin
-The Kiss etc.                     Anton Chekov            Penguin
 The Woman in White                Wilkie Collins          Penguin
 Moll Flanders                     Daniel Defoe            Penguin
 Robinson Crusoe                   Daniel Defoe            Penguin
