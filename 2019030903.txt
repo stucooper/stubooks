@@ -11,9 +11,6 @@ Dr Jekyll and Mr Hyde etc         Robert Louis Stevenson  Penguin
 Crime and Punishment              Fyodor Dostoyevsky      Penguin
 Adventures of Tom Sawyer          Mark Twain              Penguin
 New Grub Street                   George Gissing          Penguin
-Far from the Madding Crowd        Thomas Hardy            Penguin
-The Return of the Native          Thomas Hardy            Penguin
-Tess of the D'Urbervilles         Thomas Hardy            Penguin
 Gulliver's Travels                Jonathan Swift          Penguin
 Chekov Plays                      Anton Chekov            Penguin
 The Woman in White                Wilkie Collins          Penguin
