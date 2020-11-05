@@ -4,6 +4,7 @@ description: Plays mostly
 
 Dante: Divine Comedy                      Clive James            Picador
 Dante: Inferno                            Henry Wadsworth Longfellow Ballantine
+Divine Comedy                             Dante                  Oxford
 Freddy Neptune                            Les Murray             BlackInc
 Collected Plays Vol 1                     David Williamson       Currency
 Collected Plays Vol 3                     David Williamson       Currency
