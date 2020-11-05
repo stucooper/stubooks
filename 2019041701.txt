@@ -10,7 +10,6 @@ Look at the Harlequins        Nabokov                   Vintage
 Annotated Lolita              Nabokov                   PenguinSilverClassics
 Thomas Mann Selected Stories  Mann                      Penguin20CClassics
 Doctor Faustus                Mann                      Penguin20CClassics
-Pnin                          Nabokov                   Penguin
 Nostromo                      Conrad                    Oxford
 Day in the life of Ivan Denisovich Solzhenitsyn         Penguin
 To the Lighthouse             Woolf                     Penguin
@@ -19,7 +18,6 @@ How Late it Was, How Late     Kelman                    Vintage
 Disgrace                      Coetzee                   Vintage
 The Gathering                 Enright                   Vintage
 Bullet Park                   Cheever                   Penguin
-Les Enfants Terribles         Cocteau                   PenguinModClassics
 Bride Stripped Bare           Anonymous/Gemmell         FourthEstate
 Merry Go Round in the Sea     Stow                      Penguin
 Sound of One Hand Clapping    Flanagan                  Picador
@@ -28,7 +26,6 @@ Night train to Lisbon         Mercier                   Atlantic
 Perlmann's Silence            Mercier                   Atlantic
 feeding frenzy                Will Self                 Viking
 Steppenwolf                   Hesse                     PenguinSilverClassics
-The Remains of the Day        Ishiguro                  Faber
 Vernon God Little             Pierre                    Faber
 Lights out in Wonderland      Pierre                    Faber
 Gould's Book of Fish          Flanagan                  Picador
