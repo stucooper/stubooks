@@ -4,7 +4,6 @@ description: Orange Popular Penguins
 
 The Secret History                 Donna Tart              Penguin
 The Periodic Table                 Primo Levi              Penguin
-In the Winter Dark                 Tim Winton              Penguin
 The Big Sleep                      Raymond Chandler        Penguin
 Philosophy of Andy Warhol          Andy Warhol             Penguin
 Consolations of Philosophy         Alain de Botton         Penguin
@@ -30,7 +29,6 @@ Eva Luna                           Isabel Allende          Penguin
 The Lady in the Lake               Raymond Chandler        Penguin
 High Fidelity                      Nick Horny              Penguin
 The Book of Longing                Leonard Cohen           Penguin
-Man Alone (NZ)                     John Mulgan             Penguin
 Frankenstein                       Mary Shelley            Penguin
 Everything is Illuminated          Jonathan Safran Foer    Penguin
 And the Ass Saw the Angel          Nick Cave               Penguin
