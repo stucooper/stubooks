@@ -7,7 +7,6 @@ The Idiot                         Fyodor Dostoyevsky      Penguin
 Old Mortality                     Walter Scott            Penguin
 Adventures of Huckleberry Finn    Mark Twain              Penguin
 History of the Peloponnesian War  Thuycides               Penguin
-Three Jacobean Tragedies          various                 Penguin
 The Europeans                     Henry James             Penguin
 Dr Jekyll and Mr Hyde etc         Robert Louis Stevenson  Penguin
 Ivanhoe                           Walter Scott            Penguin
@@ -36,14 +35,12 @@ Washington Square                 Henry James             Penguin
 Daisy Miller                      Henry James             Penguin
 Vicar of Wakefield                Oliver Goldsmith        Penguin
 The Theban Plays                  Sophocles(E F Watling)  Penguin
-Three Resotration Comedies        various                 Penguin
 Four English comedies             various                 Penguin
 Lord Jim                          Joseph Conrad           Penguin
 The Way of All Flesh              Samuel Butler           Penguin
 Poems and Prose                   Gerard Manley Hopkins   Penguin
 Kreutzer Sonata etc               Leo Tolstoy             Penguin
 Pride and Prejudice               Jane Austen             Penguin
-Tom Jones                         Henry Fielding          Penguin
 Paradise Lost                     John Milton             Penguin
 De Profundis etc.                 Oscar Wilde             Penguin
 Barchester Towers                 Antony Trollope         Penguin
