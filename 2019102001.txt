@@ -3,7 +3,6 @@ label: 2019102001
 description: Large big novels
 
 Force of Nature: Life of Linus Pauling             Hager     SimonShuster
-The Mitfords: Letters between 6 Sisters         ed Mosley    FourthEstate
 Joseph Anton                                   Rushdie       JonathanCape
 Back to Blood                                  Wolfe         JonathanCape
 Cultural Amnesia                               Clive James   Norton
