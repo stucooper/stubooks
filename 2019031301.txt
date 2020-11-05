@@ -3,10 +3,6 @@ label: 2019031301
 descrption: Sci-fi books many from Todd Hunter
 
 The Red Men                              Matthew De Abaitua  snowbooks
-The Osiris Ritual                        George Mann         snowbooks
-The Affinity Bridge                      George Mann         snowbooks
-Spring Heeled Jack                       Mark Hodder         Pyr
-The Long Earth                           Prachett/Baxter     transworld
 Redshirts                                John Scalzi         Tor
 Colony                                   Rob Grant           Penguin
 Red Dwarf Programme Guide                Howarth/Lyons       Virgin
@@ -14,7 +10,6 @@ Peter and the Starcatchers               Dave Barry/Pearson  Disney
 Erebos                                   Ursula Poznanski    AllenUnwin
 Daemon                                   Daniel Suarez       Quercus
 Dave Barry in Cyberspace                 Dave Barry          Fawcett Columbine
-Infoquake                                David Louis Edelman Pyr
 Feed                                     M T Anderson        Candlewick
 The Circle                               Dave Eggers         Vintage
 Affluenza                                Oliver James        vermillion
