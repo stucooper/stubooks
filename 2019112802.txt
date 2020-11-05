@@ -3,7 +3,6 @@ label: 2019112802
 description: Various books
 
 To be or not to be: Chooseable Hamlet        Ryan North         breadpig
-Understanding Plays 3e                       Milly Barranger    Pearson
 Head First 2D Geometry                       Lindsey Fallow     ORA
 Hardware Hacking Projects for Geeks          Scott Fullam       ORA
 Making Things Talk                           Tom Ioge           ORA
@@ -18,7 +17,6 @@ Macbeth                                      Shakespeare        Cambridge
 Shakespeare: The Biography                   Peter Ackroyd      Doubleday
 China Rich Girlfriend                        Kevin Kwan         AllenUnwin
 Crazy Rich Asians                            Kevin Kwan         AllenUnwin
-Balancing Acts                               Nicholas Hytner    JonathanCape
 Mozart (bio)                                 Wolfgang Hildescheimer JMDent
 McLuhan Pros and Cons                        ed Rosenthal       Pelican
 Richard III                                  Shakespeare        Penguin
