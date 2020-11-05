@@ -4,7 +4,6 @@ description: small Penguin Classics, many of which I've read already
 
 Jane Eyre                         Charlotte Bronte        Penguin
 The Idiot                         Fyodor Dostoyevsky      Penguin
-Old Mortality                     Walter Scott            Penguin
 Adventures of Huckleberry Finn    Mark Twain              Penguin
 History of the Peloponnesian War  Thuycides               Penguin
 The Europeans                     Henry James             Penguin
@@ -35,8 +34,6 @@ Vicar of Wakefield                Oliver Goldsmith        Penguin
 The Theban Plays                  Sophocles(E F Watling)  Penguin
 Four English comedies             various                 Penguin
 Lord Jim                          Joseph Conrad           Penguin
-The Way of All Flesh              Samuel Butler           Penguin
-Poems and Prose                   Gerard Manley Hopkins   Penguin
 Kreutzer Sonata etc               Leo Tolstoy             Penguin
 Pride and Prejudice               Jane Austen             Penguin
 Paradise Lost                     John Milton             Penguin
