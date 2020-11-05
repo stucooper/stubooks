@@ -4,7 +4,6 @@ descrption: Sci-fi books many from Todd Hunter
 
 The Red Men                              Matthew De Abaitua  snowbooks
 Redshirts                                John Scalzi         Tor
-Peter and the Starcatchers               Dave Barry/Pearson  Disney
 Erebos                                   Ursula Poznanski    AllenUnwin
 Daemon                                   Daniel Suarez       Quercus
 Feed                                     M T Anderson        Candlewick
