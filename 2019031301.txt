@@ -4,8 +4,6 @@ descrption: Sci-fi books many from Todd Hunter
 
 The Red Men                              Matthew De Abaitua  snowbooks
 Redshirts                                John Scalzi         Tor
-Colony                                   Rob Grant           Penguin
-Red Dwarf Programme Guide                Howarth/Lyons       Virgin
 Peter and the Starcatchers               Dave Barry/Pearson  Disney
 Erebos                                   Ursula Poznanski    AllenUnwin
 Daemon                                   Daniel Suarez       Quercus
