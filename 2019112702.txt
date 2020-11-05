@@ -4,8 +4,6 @@ description: Various books
 
 Plenty more fish in the CBD                 David Rhind/Neal        RHNewZeal
 Shooting the Picture (press photography)    Fay Anderson            Miegunyah
-Hoffa                                       Arthur A Sloane         MITP
-A Point of View                             Clive James             Picador
 A Fiery Peace in a Cold War                 Neil Sheehan            RandomHouse
 Playing the Moldovians at Tennis            Tony Hawks              ebury
 The Rise and Fall of D.I.D.O                Neal Stephenson/Gallard borough
