@@ -5,7 +5,6 @@ description: Classical Music Bios and Culture books
 Tennessee Williams bio                 John Lahr              bloomsbury
 Verdi and/or Wagner                    Peter Conrad           ThomasHudson
 The Ring of Truth (Wagner's Ring)      Roger Scruton          AllenLane
-Mendelssohn bio                        R Larry Todd           OUP
 Heart/Stamboul/BurntOut/3rd/Quiet/Loser/Power Graham Greene   Heinemann
 Life in His Hands: Neurosurgeon and Pianist Susan Wyndham     Picador
 Music Notation: A Manual of Modern Practice Gardner Read      Taplinger
