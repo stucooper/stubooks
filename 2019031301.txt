@@ -2,10 +2,6 @@ name: CYBERTODD
 label: 2019031301
 descrption: Sci-fi books many from Todd Hunter
 
-Erebos                                   Ursula Poznanski    AllenUnwin
-Daemon                                   Daniel Suarez       Quercus
-Feed                                     M T Anderson        Candlewick
-The Circle                               Dave Eggers         Vintage
 Affluenza                                Oliver James        vermillion
 Geek Nation (Indian Science)             Angela Saini        Hodder
 Bull                                     Douglas Rushkoff    Sceptre
