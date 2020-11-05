@@ -5,7 +5,6 @@ description: Small flat box of various books
 Flying Visits                             Clive James          Picador
 A is for Armageddon                       Richard Horne        SquarePeg
 V for Vendetta                            Alan Moore/Lloyd     Vertigo
-Dark Sacred Night                         Michael Connelly     AllenUnwin
 If you don't mind Umpire! (AFL)           Brian Hansen/Dyer    Hansen
 Backlash                                  Susan Faludi         ChattoWindus
 Shiprocked                                Steve Conway         Liberties
