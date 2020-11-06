@@ -5,7 +5,6 @@ description: Modern Literature
 The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
 A Son of the Circus                  John Irving            Routledge
 Jack Kerouac: King of the Beats      Barry Miles            Virgin
-Closing Time                         Joseph Heller          SimonSchuster
 In a Different Key                   Donovan/Zucker         AllenLane (DUPE)
 Neurotribes                          Steve Silberman        AllenUnwin
 Proust and the Squid                 Maryanne Wolf          Icon
