@@ -3,7 +3,7 @@ label: 2019031601
 description: Modern Literature
 
 The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
-A Son of the Circus                  John Irving            Routledge
+A Son of the Circus (pb)             John Irving            BlackSwan
 Jack Kerouac: King of the Beats      Barry Miles            Virgin
 In a Different Key                   Donovan/Zucker         AllenLane (DUPE)
 Neurotribes                          Steve Silberman        AllenUnwin
