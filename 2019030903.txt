@@ -6,7 +6,6 @@ Jane Eyre                         Charlotte Bronte        Penguin
 The Idiot                         Fyodor Dostoyevsky      Penguin
 Adventures of Huckleberry Finn    Mark Twain              Penguin
 History of the Peloponnesian War  Thuycides               Penguin
-The Europeans                     Henry James             Penguin
 Dr Jekyll and Mr Hyde etc         Robert Louis Stevenson  Penguin
 Crime and Punishment              Fyodor Dostoyevsky      Penguin
 Adventures of Tom Sawyer          Mark Twain              Penguin
@@ -20,9 +19,6 @@ Peer Gynt                         Henrik Ibsen            Penguin
 Dolls House/LeagueYouth/LadySea   Henrik Ibsen            Penguin
 Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
 Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
-Aspern Papers/Turn of the Screw   Henry James             Penguin
-Washington Square                 Henry James             Penguin
-Daisy Miller                      Henry James             Penguin
 Vicar of Wakefield                Oliver Goldsmith        Penguin
 Four English comedies             various                 Penguin
 Lord Jim                          Joseph Conrad           Penguin
