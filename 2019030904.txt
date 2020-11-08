@@ -2,7 +2,6 @@ name: PENG CLASSICS
 label: 2019030904
 description: Penguin Classics
 
-Trilby                             George DuMaurier        Penguin
 Govt Inspector etc.                various Russians        Penguin
 Sci Fi of Edgar Allan Poe          Edgar Allan Poe         Penguin
 Daniel Deronda                     George Eliot            Penguin
@@ -12,7 +11,6 @@ Connecticut Yankee King Arthurs Court Mark Twain           Penguin
 The Decameron                      Giovanni Boccacio       Penguin
 The Odyssey                        Homer (E V Rieu)        Penguin
 Caleb Williams                     William Godwin          Penguin
-Sir Garwain and Green Knight       traditional             Penguin
 Madame Bovary                      Gustave Flaubert        Penguin
 Scarlet Letter etc.                Nathaniel Hawthorne     Penguin
 The Campaigns of Alexander         Arrian                  Penguin
@@ -24,6 +22,4 @@ Lost World and Thrilling Tales     Arthur Conan Doyle      Penguin
 Don Quixote New Translation        Cervantes/JohnRford     Penguin
 Gambler/Bobok/NastyStory           Fyodor Dostoyevsky      Penguin
 Kidnapped                          Robert Louis Stevenson  Penguin
-Weir of Hermiston etc              Robert Louis Stevenson  Penguin
 Monkey                             Arthur Waley            Penguin
-Medea/Hecabe/Electra/Heracles      Euripides               Penguin
