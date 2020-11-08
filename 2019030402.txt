@@ -4,12 +4,8 @@ description: Assorted Classics
 
 Animal Farm                         George Orwell             Penguin
 Down and Out in Paris and London    George Orwell             Penguin
-For Whom the Bell Tolls             Ernest Hemingway          Penguin
 Afternoon Light                     Robert Menzies  	      Penguin
-Erewhon                             Samuel Butler             Penguin
 Metamorphosis and Other Stories     Franz Kafka               Penguin
-Joys of Yiddish                     Leo Rosten                Penguin
-Death in Venice/Tristan/Kroger      Thomas Mann               Penguin
 The Great Gatsby                    F Scott Fitzgerald        Penguin
 Tender is the Night                 F Scott Fitzgerald        Penguin
 The Lose Decade                     F Scott Fitzgerald        Penguin
