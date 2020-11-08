@@ -3,10 +3,8 @@ label: 2019030402
 description: Assorted Classics
 
 Palimpsest                          Gore Vidal                Abacus
-On the Road                         Jack Kerouac              Penguin
-The Glass Bead Game                 Hermann Hesse             Picador
 The House of the Dead               Fyodor Dostoyevsky        Penguin
-Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin 2copies
+Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin
 Crime and Punishment                Fyodor Dostoyevsky        Vintage
 On the Origin of Species            Charles Darwin            Penguin
 Voyage of the Beagle                Charles Darwin            Penguin
