@@ -2,7 +2,6 @@ name: CLASSICS
 label: 2019030402
 description: Assorted Classics
 
-Marco Polo The Travels              Marco Polo                Penguin
 Animal Farm                         George Orwell             Penguin
 Down and Out in Paris and London    George Orwell             Penguin
 For Whom the Bell Tolls             Ernest Hemingway          Penguin
@@ -33,7 +32,6 @@ Invisible Man                       H G Wells                 Penguin
 Homer: The Iliad                    Robert Fagles             Penguin
 Mozart: A Life in Letters           Mozart                    Penguin
 The Three Musketeers                Alexander Dumas           Penguin
-The Discourses                      Machiavelli               Penguin
 The Canterbury Tales                Geoffrey Chaucer          Penguin
 Anna Karenina                       Leo Tolstoy               Penguin
 Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
