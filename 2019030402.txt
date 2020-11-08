@@ -5,7 +5,6 @@ description: Assorted Classics
 Animal Farm                         George Orwell             Penguin
 Down and Out in Paris and London    George Orwell             Penguin
 Afternoon Light                     Robert Menzies  	      Penguin
-Metamorphosis and Other Stories     Franz Kafka               Penguin
 The Great Gatsby                    F Scott Fitzgerald        Penguin
 Tender is the Night                 F Scott Fitzgerald        Penguin
 The Lost Decade                     F Scott Fitzgerald        Penguin
