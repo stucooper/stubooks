@@ -2,12 +2,6 @@ name: CLASSICS
 label: 2019030402
 description: Assorted Classics
 
-The Great Gatsby                    F Scott Fitzgerald        Penguin
-Tender is the Night                 F Scott Fitzgerald        Penguin
-The Lost Decade                     F Scott Fitzgerald        Penguin
-The Pat Hobby Stories               F Scott Fitzgerald        Penguin
-The Last Tycoon                     F Scott Fitzgerald        Penguin
-The Crack-Up                        F Scott Fitzgerald        Penguin
 Palimpsest                          Gore Vidal                Abacus
 On the Road                         Jack Kerouac              Penguin
 The Glass Bead Game                 Hermann Hesse             Picador
