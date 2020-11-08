@@ -8,8 +8,6 @@ Object-Oriented Analysis and Design with Applications Booch    BenjaminCummins
 Beginning Android 4                               Allen             Apress
 Mac OSX The Missing Manual 2e                     Pogue             ORA
 The Definitive Guide to the Xen Hypervisor        Chisnall          PTR
-The Age of Spiritual Machines                     Kurzweil       OrionBusiness
-The Ultimate Question 2.0                         Reichheld      Harvard
 Suse Linux Professional 9.1 User Guide            SuseLinux      SuSE
 Suse Linux Professional 9.1 Administration Guide  SuseLinux      SuSE
 Storm Real-time Processing Cookbook               Anderson       Packt
