@@ -6,10 +6,8 @@ Brideshead Revisited                Evelyn Waugh              Penguin
 Black Mischief                      Evelyn Waugh              Penguin
 The Loved One                       Evelyn Waugh              Penguin
 Vile Bodies                         Evelyn Waugh              Penguin
-Put Out More Flags                  Evelyn Waugh              Penguin
 Scoop                               Evelyn Waugh              Penguin
 Sword of Honour                     Evelyn Waugh              Penguin
-A little learning                   Evelyn Waugh              Penguin
 Nancy Mitford Omnibus               Nancy Mitford             Penguin
 Hons and Rebels                     Jessica Mitford           Penguin
 Amnesia                             Peter Carey               Penguin
@@ -27,6 +25,4 @@ The Chemistry of Tears              Peter Carey               Penguin
 Bliss                               Peter Carey               Picador
 A Room with a View                  E M Forster               Penguin
 Howard's End                        E M Forster               Penguin
-Maurice                             E M Forster               Penguin
-Maurice                             E M Forster               SoftbackPreview
 The Fat Man in History              Peter Carey               UQP
