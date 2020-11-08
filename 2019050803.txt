@@ -5,8 +5,6 @@ description: random books, some coffee table sized
 Fury                               Rushdie                  Vintage
 The Moor's Last Sigh               Rushdie                  Vintage
 Shame                              Rushdie                  Vintage
-Collected Poems                    Thomas                   Phoenix
-Under Milk Wood                    Thomas                   Everyman
 Shakespeare Staging the World      Bate/Thornton            Oxford
 No Ordinary Genius: Illustrated Feynman  ed Sykes           Weidenfeld
 Max Hits: Building Promoting Websites Slocombe              Rotovision
