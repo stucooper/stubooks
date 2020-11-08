@@ -5,7 +5,6 @@ description: Small flat box of various books
 A is for Armageddon                       Richard Horne        SquarePeg
 V for Vendetta                            Alan Moore/Lloyd     Vertigo
 If you don't mind Umpire! (AFL)           Brian Hansen/Dyer    Hansen
-Backlash                                  Susan Faludi         ChattoWindus
 Shiprocked                                Steve Conway         Liberties
 Borders Up!                               Vitali Vitaliev      Scribner
 Diamond Louisiana Chemical Corridor       Steve Lerner         MITP
