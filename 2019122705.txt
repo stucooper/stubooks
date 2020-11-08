@@ -14,9 +14,3 @@ Decline and Fall of Roman Empire II            Edward Gibbon    BrittanicaGt
 Ptolemy/Copernicus/Kepler                                       BrittanicaGt
 Gilbert/Galileo/Harvey                                          BrittanicaGt
 Lavoisier/Fourier/Faraday                                       BrittanicaGt
-The Autobiography of Benjamin Franklin                          ProgrammedClas
-The Autobiography of Benjamin Franklin                          ProgrammedClas
-Last Days of Pompeii                      Edward Butler Lytton  ProgrammedClas
-Homer Iliad                           trans Richmond Lattimore  ProgrammedClas
-Plutarch's Lives                          Plutarch              Harvard
-Dante Divine Comedy                       trans Henry F Cary    Harvard
