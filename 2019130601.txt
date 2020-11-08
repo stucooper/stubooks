@@ -2,7 +2,6 @@ name: BLACK PENGUIN CLASSICS
 label: 2019130601
 description: Black Penguin Classics
 
-The Histories                            Herodotus               Penguin
 The Ladies of the Corridor               Dorothy Parker/D'usswau Penguin
 The Brothers Karamazov                   Dostoyevsky (McDuff)    Penguin
 A Short History of the World             H G Wells               Penguin
@@ -10,13 +9,11 @@ Selected Essays                          Samuel Johnson          Penguin
 The Riddle of the Sands                  Erskine Childers        Penguin
 Under Western Eyes                       Joseph Conrad           Penguin
 The Prince                               Niccolo Machiavelli     Penguin
-Turn of the Screw/Aspern Papers          Henry James             Penguin
 Candide                                  Voltaire                Penguin
 Last Days of Socrates                    Plato                   Penguin
 The Portable Conrad                      Joseph Conrad           Penguin
 Complete Poems                           Walt Whitman            Penguin
 Democracy in America                     Alexis de Tocqueville   Penguin
-Plays                                    Anton Chekhov           Penguin
 Nutcracker/Mouse King                    Hoffman/Dumas           Penguin
 Pinocchio                                Carlo Collodi           Penguin
 The Red and the Black                    Stendhal                Penguin
