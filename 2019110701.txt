@@ -3,8 +3,6 @@ label: 2019110701
 description: History books and bios
 
 Spies and Commissars                     Robert Service        Pan
-Theodore Rex                             Edmund Morris         RandomHouse
-A History of the Roman World 30BC-AD138  E T Salmon            Methuen
 Menzies and Churchill at War             David Day             AngusRobertson
 Modern Times Modern Places               Peter Conrad          ThomasHudson
 Six Minutes in May                       Nicholas Shakespeare  HarvillSecker
