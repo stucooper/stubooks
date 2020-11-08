@@ -5,7 +5,6 @@ description: random books, some coffee table sized
 Fury                               Rushdie                  Vintage
 The Moor's Last Sigh               Rushdie                  Vintage
 Shame                              Rushdie                  Vintage
-School for Scandal/The Critic      Sheridan                 Longman
 Collected Poems                    Thomas                   Phoenix
 Under Milk Wood                    Thomas                   Everyman
 Shakespeare Staging the World      Bate/Thornton            Oxford
