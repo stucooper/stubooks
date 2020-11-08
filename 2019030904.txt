@@ -4,7 +4,6 @@ description: Penguin Classics
 
 Govt Inspector etc.                various Russians        Penguin
 Sci Fi of Edgar Allan Poe          Edgar Allan Poe         Penguin
-Daniel Deronda                     George Eliot            Penguin
 Middlemarch                        George Eliot            Penguin
 Prisoner of Zenda/Rupert Hentzau   Anthony Hope            Penguin
 Connecticut Yankee King Arthurs Court Mark Twain           Penguin
@@ -13,8 +12,6 @@ The Odyssey                        Homer (E V Rieu)        Penguin
 Caleb Williams                     William Godwin          Penguin
 Madame Bovary                      Gustave Flaubert        Penguin
 Scarlet Letter etc.                Nathaniel Hawthorne     Penguin
-The Campaigns of Alexander         Arrian                  Penguin
-The Federalist Papers              Madison/Hamilton/Jay    Penguin
 Against Nature                     J-K Huysmans            Penguin
 The Count of Monte Cristo          Alexandre Dumas         Penguin
 The Discourses                     Niccolo Machievelli     Penguin
