@@ -2,24 +2,16 @@ name: IT - MODERN LIT
 label: 2019041701
 description: Modern literature
 
-When we were orphans          Ishiguro                  Faber
 God of Small things           Roy                       Flamingo
 All the Pretty Horses         McCarthy                  Picador
 Look at the Harlequins        Nabokov                   Vintage
 Annotated Lolita              Nabokov                   PenguinSilverClassics
-Thomas Mann Selected Stories  Mann                      Penguin20CClassics
 Doctor Faustus                Mann                      Penguin20CClassics
 Nostromo                      Conrad                    Oxford
 Day in the life of Ivan Denisovich Solzhenitsyn         Penguin
 Lolita                        Nabokov                   Penguin
-How Late it Was, How Late     Kelman                    Vintage
-Disgrace                      Coetzee                   Vintage
-The Gathering                 Enright                   Vintage
-Bullet Park                   Cheever                   Penguin
-Bride Stripped Bare           Anonymous/Gemmell         FourthEstate
 feeding frenzy                Will Self                 Viking
 Vernon God Little             Pierre                    Faber
 Lights out in Wonderland      Pierre                    Faber
 Gould's Book of Fish          Flanagan                  Picador
 Falling Man                   DeLillo                   Picador
-Slumberland                   Paul Beatty               OneWorld
