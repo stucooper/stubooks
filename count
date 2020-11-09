@@ -1,0 +1,2 @@
+#!/bin/bash
+cat 2* | egrep -v '^(name|label|desc|$)' | wc -l
