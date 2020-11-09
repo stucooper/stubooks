@@ -5,8 +5,6 @@ description: True crime books
 underbelly The Gangland war                 Silvester/Rule    SlyInk
 leadbelly Inside Australia's Gangland Wars  Silvester/Rule    SlyInk
 underbelly A Tale of Two Cities             Silvester/Rule    SlyInk
-Boganaire Rise and Fall of Nathan Tinkler   Manning           BlackInc
 Border Trilogy: Pretty Horses/Crossing/Cities of Plain McCarthy Picador
-Murder in Mississippi                       Safran            HamishHamilton
 Without Fear or Favour                      Bottom            Sun
 Enemies of the State                        Priest            NewHolland
