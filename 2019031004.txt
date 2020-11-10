@@ -16,12 +16,10 @@ Around the World in Eighty Days   Jules Verne             Penguin
 Picnic at Hanging Rock            Joan Lindsay            Penguin
 Meditations                       Marcus Aurelius         Penguin
 My Family and Other Animals       Gerald Durrell          Penguin
-The Beach                         Alex Garland            Penguin
 Dracula                           Bram Stoker             Penguin
 How Language Works                David Crystal           Penguin
 Nausea                            Jean-Paul Sartre        Penguin
 Congo Journey                     Redmond O'Hanlon        Penguin
-The Age of Reason                 Jean-Paul Sartre        Penguin
 A Clockwork Orange                Anthony Burgess         Penguin
 Mother Tongue                     Bill Bryson             Penguin
 Empire                            Niall Ferguson          Penguin
@@ -33,17 +31,11 @@ South                             Ernest Shackleton       Penguin
 Regeneration                      Pat Barker              Penguin
 Dark Star Safari                  Paul Theroux            Penguin
 Breakfast at Tiffanys             Truman Capote           Penguin
-Summer Crossing                   Truman Capote           Penguin
 Lady Chatterley's Lover           D H Lawrence            Penguin
 The Classical World               Robin Lane Fox          Penguin
 The Language Instinct             Steven Pinker           Penguin
-Rabbit, Run                       John Updike             Penguin
 One Flew Over the Cuckoo's Nest   Ken Kesey               Penguin
-Delta of Venus                    Anais Nin               Penguin
 The Sheltering Sky                Paul Bowles             Penguin
-Another Country                   James Baldwin           Penguin
 Farewell My Lovely                Raymond Chandler        Penguin
 Crimes against Humanity           Geoffrey Robertson      Penguin
-An Anzac's Story                  Roy Kyle A.I.F          Penguin
-Generals Die in Bed               Charles Yale Harrison   Penguin
 
