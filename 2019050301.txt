@@ -3,10 +3,6 @@ label: 2019050301
 description: modern literature shortbox
 
 J                                    Jacobson          Vintage
-The Yiddish Policeman's Union        Chabon            FourthEstate
 Purity                               Franzen           FourthEstate
-Dorian                               WillSelf          Vintage
-Telegraph Avenue                     Chabon            FourthEstate
-Moonglow                             Chabon            FourthEstate
 We need new names                    Bulawyo           ChattoWindus
 Life of Pi                           Mantel            Canongate
