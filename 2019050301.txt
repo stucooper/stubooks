@@ -1,5 +1,0 @@
-name: MODERN LITERATURE
-label: 2019050301
-description: modern literature shortbox
-
-
