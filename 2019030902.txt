@@ -23,7 +23,6 @@ Tales of the Unexpected            Roald Dahl              Penguin
 What is History?                   E H Carr                Penguin
 The Lady in the Lake               Raymond Chandler        Penguin
 High Fidelity                      Nick Horny              Penguin
-Frankenstein                       Mary Shelley            Penguin
 Everything is Illuminated          Jonathan Safran Foer    Penguin
 The Mind of God                    Paul Davies             Penguin
 The Time Machine                   H G Wells               Penguin
@@ -50,7 +49,6 @@ Seven Little Australians          Ethel Turner            Penguin
 Around the World in Eighty Days   Jules Verne             Penguin
 Picnic at Hanging Rock            Joan Lindsay            Penguin
 Meditations                       Marcus Aurelius         Penguin
-Dracula                           Bram Stoker             Penguin
 How Language Works                David Crystal           Penguin
 Congo Journey                     Redmond O'Hanlon        Penguin
 A Clockwork Orange                Anthony Burgess         Penguin
