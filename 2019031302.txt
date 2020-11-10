@@ -2,7 +2,6 @@ name: MODERN LIT
 label: 2019031302
 description: Mostly modern literature
 
-Telegraph Avenue                        Michael Chabon       FourthEstate
 The Other Hand                          Chris Cleave         sceptre
 Freedom                                 Jonathan Franzen     FourthEstate
 Bridget Jones's Diary                   Helen Fielding       Penguin
