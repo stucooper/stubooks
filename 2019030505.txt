@@ -5,7 +5,6 @@ description: Film and TV
 Sticky Fingers: Jann Wenner       Joe Hagan                 Penguin
 The Rolling Stone Interviews      various                   BackBay
 Blind in One Ear                  Patrick Macnee            Harrup
-Face the Music: A life Exposed    Paul Stanley              Harper
 The Naked Truth                   Leslie Nielsen/Fisher     Pocket
 Futuretainment                    Mike Walsh                Phaidon
 A Kentish Lad                     Frank Muir                Bantam
@@ -13,7 +12,6 @@ The Frank Muir Book               Frank Muir                Heinemann
 Altered States                    Ken Russell               Bantam
 Heartbreaking work of Staggering Genius  Dave Eggers        Picador
 Inherent Vice                     Thomas Pynchon            Vintage
-KISS and Make Up                  Gene Simmons              Arrow
 Conversations w/Woody Allen       Eric Lax                  Auruum
 The Best of the Saint: Vol 1      Leslie Charteris          Hodder
-Gravity's Rainbox                 Thomas Pynchon            JonathanCape
+Gravity's Rainbow                 Thomas Pynchon            JonathanCape
