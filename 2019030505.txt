@@ -5,8 +5,6 @@ description: Film and TV
 Sticky Fingers: Jann Wenner       Joe Hagan                 Penguin
 The Rolling Stone Interviews      various                   BackBay
 The Naked Truth                   Leslie Nielsen/Fisher     Pocket
-Futuretainment                    Mike Walsh                Phaidon
 A Kentish Lad                     Frank Muir                Bantam
 The Frank Muir Book               Frank Muir                Heinemann
 Altered States                    Ken Russell               Bantam
-Gravity's Rainbow                 Thomas Pynchon            JonathanCape
