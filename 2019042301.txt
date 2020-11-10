@@ -2,31 +2,19 @@ name: SCI-FICTION
 label: 2019042301
 description: science fiction
 
-Tales of Wonder                  H G Wells          Collins
 War of the Worlds                H G Wells          GoldenPress
 When the Sleeper Wakes           H G Wells          ModernLibrary
 Last and First Men               Stapledon          Gollancz
-Ilium                            Simmons            Gollancz
-Olympos                          Simmons            Gollancz
-Hyperion                         Simmons            Headline
-Drood                            Simmons            Quercus
-Black Hills                      Simmons            Quercus
 Best of Philip K Dick            Dick               DelRey
 Valis                            Dick               Gollancz
 Stranger in a Strange Land       Heinlein           Hodder
-Starship Troopers                Heinlein           AceBooks
 American Gods                    Gaiman             Headline
 The Children of Men              P.D.James          faber
 Galileo's Dream                  StanleyRobinson    Harper
-Gormenghast                      Peake              PenguinModClassics
-Brave New World                  Huxley             PenguinModClassics
 Tron                             Daley              Hodder
-Life the Universe and Everything Adams              Pan
-Master of the World              Verne              Minster
 Fahrenheit 451                   Bradbury           Granada
 The Day of the Triffids          Wyndham            Penguin
 Chocky                           Wyndham            Penguin
-Babel-17                         Delany             Sphere
 Nova                             Delany             Gollancz
 Limbo                            Bernard Wolfe      Gollancz
 Neuromancer                      William Gibson     HarperCollins
@@ -36,9 +24,4 @@ Burning Chrome                   William Gibson     HarperCollins
 Virtual Light                    William Gibson     Penguin
 Pattern Recognition              William Gibson     Penguin
 Spook Country                    William Gibson     Berkley
-Foundation                       Asimov             Granada
-Foundation and Empire            Asimov             HarperCollins
-Second Foundation                Asimov             Granada
-Oceans of Venus                  Asimov             NewEngland
-The Winds of Change              Asimov             Granada
 The Naked Sun                    Asimov             Panther
