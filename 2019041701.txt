@@ -3,12 +3,9 @@ label: 2019041701
 description: Modern literature
 
 God of Small things           Roy                       Flamingo
-All the Pretty Horses         McCarthy                  Picador
-Look at the Harlequins        Nabokov                   Vintage
 Annotated Lolita              Nabokov                   PenguinSilverClassics
 Doctor Faustus                Mann                      Penguin20CClassics
 Nostromo                      Conrad                    Oxford
-Lolita                        Nabokov                   Penguin
 feeding frenzy                Will Self                 Viking
 Vernon God Little             Pierre                    Faber
 Lights out in Wonderland      Pierre                    Faber
