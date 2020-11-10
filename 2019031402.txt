@@ -3,11 +3,8 @@ label: 2019031402
 desc: Modern lit, lots from Grahame
 
 The Shipping News                      E Annie Proulx         FourthEstate
-The Trial                              Franz Kafka            Picador
-Leaving Las Vegas                      John O'Brien           Picador
 The Other Side of the Story            Marian Keyes           Penguin
 The Art of War                         Sun Tzu                Oxford
-Meditations (hb)                       Marcus Aurelius        Penguin
 The Complete Saki                      Saki                   Penguin
 Last Orders                            Graham Swift           Picador
 Sebastian Faulks on Fiction            Sebastian Faulks       BBC
