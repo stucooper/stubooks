@@ -2,7 +2,5 @@ name: MODERN LITERATURE
 label: 2019050301
 description: modern literature shortbox
 
-J                                    Jacobson          Vintage
 Purity                               Franzen           FourthEstate
-We need new names                    Bulawyo           ChattoWindus
 
