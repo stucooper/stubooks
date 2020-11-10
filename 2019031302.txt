@@ -2,7 +2,6 @@ name: MODERN LIT
 label: 2019031302
 description: Mostly modern literature
 
-Cloud Atlas                             David Mitchell       sceptre
 Telegraph Avenue                        Michael Chabon       FourthEstate
 The Other Hand                          Chris Cleave         sceptre
 Freedom                                 Jonathan Franzen     FourthEstate
@@ -10,17 +9,13 @@ Bridget Jones's Diary                   Helen Fielding       Penguin
 Rivers of London                        Ben Aaronovitch      Gollancz
 Elegance                                Kathleen Tessaro     HarperCollins
 In Tasmania                             Nicholas Shakespeare Vintage
-The Lay of the Land                     Ford                 Bloomsbury
-Canada                                  Ford                 Bloomsbury
 The Slap                                Tsiolkas             TuskarRock
 Enchantress of Florence                 Salman Rushdie       JonathanCape
 Shantaram                               Gregory David Roberts StMartins
-Tristram Shandy                         Laurence Sterne      Alma Classics
 Beautiful You                           Chuck Pahulniuk      JonathanCape
 Choke                                   Chuck Pahulniuk      Vintage
 Invisible Monsters                      Chuck Pahulniuk      Vintage
 Survivor                                Chuck Pahulniuk      Vintage
-The Narrow Road to the Deep North       Richard Flanagan     Vintage
 Pygmy                                   Chuck Pahulniuk      Vintage
 Lunar Park                              Bret Easton Ellis    Picador
 The Rules of Attraction                 Bret Easton Ellis    Picador
