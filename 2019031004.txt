@@ -2,40 +2,29 @@ name: ORANGE PENGUINS
 label: 2019031004
 description: Orange Popular Penguins
 
-The Mayor of Casterbridge         Thomas Hardy            Penguin
 The Great Gatsby                  F Scott Fitzgerald      Penguin
 The Adventures of Sherlock Holmes Arthur Conan Doyle      Penguin
 Going Solo                        Roald Dahl              Penguin
 Junky                             William S Burroughs     Penguin
 Monkey Grip                       Helen Garner            Penguin
-A Handful of Dust                 Evelyn Waugh            Penguin
-Keep the Aspidistra Flying        George Orwell           Penguin
 Holding the Man                   Timothy Conigreve       Penguin
 Seven Little Australians          Ethel Turner            Penguin
 Around the World in Eighty Days   Jules Verne             Penguin
 Picnic at Hanging Rock            Joan Lindsay            Penguin
 Meditations                       Marcus Aurelius         Penguin
-My Family and Other Animals       Gerald Durrell          Penguin
 Dracula                           Bram Stoker             Penguin
 How Language Works                David Crystal           Penguin
-Nausea                            Jean-Paul Sartre        Penguin
 Congo Journey                     Redmond O'Hanlon        Penguin
 A Clockwork Orange                Anthony Burgess         Penguin
 Mother Tongue                     Bill Bryson             Penguin
 Empire                            Niall Ferguson          Penguin
-Count Belisarius                  Robert Graves           Penguin
 In Cold Blood                     Truman Capote           Penguin
 The Surgeon of Crowthorne         Simon Winchester        Penguin
-A Confederacy of Dunces           John Kennedy Toole      Penguin
 South                             Ernest Shackleton       Penguin
-Regeneration                      Pat Barker              Penguin
 Dark Star Safari                  Paul Theroux            Penguin
-Breakfast at Tiffanys             Truman Capote           Penguin
-Lady Chatterley's Lover           D H Lawrence            Penguin
 The Classical World               Robin Lane Fox          Penguin
 The Language Instinct             Steven Pinker           Penguin
 One Flew Over the Cuckoo's Nest   Ken Kesey               Penguin
 The Sheltering Sky                Paul Bowles             Penguin
 Farewell My Lovely                Raymond Chandler        Penguin
 Crimes against Humanity           Geoffrey Robertson      Penguin
-
