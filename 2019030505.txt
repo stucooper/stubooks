@@ -3,7 +3,6 @@ label: 2019030505
 description: Film and TV
 
 Sticky Fingers: Jann Wenner       Joe Hagan                 Penguin
-Infinite Jest                     David Foster Wallace      BackBay
 The Rolling Stone Interviews      various                   BackBay
 Blind in One Ear                  Patrick Macnee            Harrup
 Face the Music: A life Exposed    Paul Stanley              Harper
