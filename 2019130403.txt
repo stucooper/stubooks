@@ -3,30 +3,15 @@ label: 2019130403
 description: Penguin Classics, both black and yellow
 
 Three Gothic Novels (Otranto/Vathek/Frankenstein)          PengClassics
-Mayor of Casterbridge                   Thomas Hardy       PengClassics
-Fables of Aesop                         Aesop              PengClassics
 Howard's End                            E M Forster        PengClassics
-Conquest of Gaul                        Julius Caesar      PengClassics
-Death of King Arthur                    trans James Cables PengClassics
-Selected Political Speeches             Cicero             PengClassics
 Northanger Abbey                        Jane Austen        PengClassics
 Oliver Twist                            Charles Dickens    PengClassics
-The Quest of the Holy Grail             trans Matarasso    PengClassics
-On the Nature of the Universe           Lucretius          PengClassics
-Gargantua and Patagruel                 Francois Rabelais  PengClassics
 Complete Poems                          William Blake      PengClassics
-Essays                                  Michel de Montaigne PengClassics
 Silas Marner                            George Eliot       PengClassics
 Complete Stories                        Dorothy Parker     PengClassics
-Three Gothic Novels (Otranto/Vathek/Frankenstein) black ed PengClassics
 Great Expectations                      Charles Dickens    PengClassics
 Complete Poems                          John Keats         PengClassics
 A Christmas Carol                       Charles Dickens    PengClassics
-The Pilgrim's Progress                  John Bunyan        PengClassics
-Divine Comedy Vol 1 Inferno             Dante trans Musa   PengClassics
-Divine Comedy Vol 2 Purgatory           Dante trans Musa   PengClassics
-Le Morte d'Arthur                       Sir Thomas Malory  PengClassics
 Adventures of Tom Sawyer                Mark Twain         PengClassics
 Adventures of Huckleberry Finn          Mark Twain         PengClassics
 Three Men in a Boat                     Jerome K Jerome    PengClassics
-Henry Lawson Short Stories              Henry Lawson       PengClassics
