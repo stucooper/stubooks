@@ -2,13 +2,7 @@ name: MEDIA ECO
 label: 2019030203
 description: Media and Umberto Eco
 
-Rupert Murdoch: Political Power      David McKnight         AllenUnwin
-Stop the Presses!                    Ben Hills              ABC
-Murdoch's World                      Davlid Folkenfilk      PublicAffairs
-Breaking News                        Paul Barry             AllenUnwin
-Fairfax: The Rise and Fall           Colleen Ryan           Miegunyah
 The Rise and Rise of Kerry Packer    Paul Barry             AllenUnwin
-Rupert Murdoch's China Adventures    Bruce Dover            Tattle
 Mysterious Flame of Queen Loana      Umberto Eco            SeckerWarburg
 This is not the end of the book      Eco/Carriere           HarvillSecker
 Baudolino                            Umberto Eco            Vintage
