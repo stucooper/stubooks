@@ -5,15 +5,12 @@ description: science fiction
 American Gods                          Gaiman          headline
 Trigger Warning                        Gaiman          headline
 The Red Men                            DeAbaitua       snowbooks
-Century Rain                           Reynolds        Gollancz
 2312                                   StanleyRobinson Orbit
 Illuminatus Trilogy                    Shea/Wilson     dontcare
-Cities in Flight                       Blish           Gollancz
 The Martians                           StanleyRobinson HarperCollins
 Green Mars                             StanleyRobinson HarperCollins
 Red Mars                               StanleyRobinson HarperCollins
 Blue Mars                              StanleyRobinson HarperCollins
-Blade Runner Electric Sheep            Dick            DelRey
 Brave New World                        Huxley          Granada
 Brave New World Revisited              Huxley          Granada
 Backwards Red Dwarf                    Grant           Penguin
