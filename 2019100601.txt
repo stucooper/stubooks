@@ -2,7 +2,6 @@ name: CANBERRA OLD IT
 label: 2019100601
 description: Old IT books, many from Canberra lifeline
 
-Perl Black Book                                  Holzner          Coriolis
 Information & Software Tech: Project Based Approach Grover/Knights Nelson
 Object-Oriented Analysis and Design with Applications Booch    BenjaminCummins
 Beginning Android 4                               Allen             Apress
