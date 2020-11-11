@@ -1,9 +1,0 @@
-name: USA POLITICS
-label: 2019030302
-description: Politics books mostly US
-
-Devil's Bargain: Bannon and Trump  Joshua Green            PenguinPress
-Alt America                        David Niewert           Verso
-Renegade History of the US         Thaddeus Russell        SimonSchuster
-Spoilt Rotten                      Theodore Dalrymple      GibsonSquare
-Life at the Bottom                 Theodore Dalrymple      IvanDee
