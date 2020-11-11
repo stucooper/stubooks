@@ -2,8 +2,6 @@ name: Various
 label: 2019031602
 description: Various
 
-The Black Book of the American Left  David Horowitz        Encounter
-Left Illusions                       David Horowitz        Spence
 Stealing Fire                        Kotler/Wheal          DeySt
 The Woman who changed her brain      Barbara Arrowsmith-Young FreePress
 The Secret War                       Max Hastings          WilliamCollins
