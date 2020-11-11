@@ -2,8 +2,6 @@ name: USA POLITICS
 label: 2019030302
 description: Politics books mostly US
 
-Scared to Death                    Brooker/North           continuum
-The Real Global Warming Disaster   Christopher Brooker     continuum
 Devil's Bargain: Bannon and Trump  Joshua Green            PenguinPress
 Alt America                        David Niewert           Verso
 The Truth with Jokes               Al Franken              Penguin
