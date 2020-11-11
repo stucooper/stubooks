@@ -6,13 +6,11 @@ You may also like                         Tom Vanderbilt        AlfredKnopf
 Mindhacker                                Ron Hale-Evans        JohnWiley
 Digital Gold (bitcoin)                    Nathaniel Popper      HarperCollins
 Cryptocurrency                            Paul Vigna            BodleyHead
-Death March                               Edward Yourdon        PTR
 Tubes: Behind the scenes at the Internet  Andrew Blum           Penguin
 The Internet Case Study Book              ed Rob Ford           Taschen
 The App & Mobile Case Study Book          ed Rob Ford           Taschen
 Cyberia                                   Douglas Rushkoff      Harper
 Life Inc                                  Douglas Rushkoff      RandomHouse
-Throwing Rocks at the Google Bus          Douglas Rushkoff      Portfolio
 Inside WikiLeaks                          Daniel Domscheit-Berg scribe
 Delete                                    Viktor Schonberger    Princeton
 the mesh                                  Lisa Gansky           Portfolio
