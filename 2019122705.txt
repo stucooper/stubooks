@@ -11,6 +11,3 @@ Lands and Peoples VI:  Canada and the United States             GrolierSociety
 Lands and Peoples VII: Latin America and General Articles       GrolierSociety
 Decline and Fall of Roman Empire I             Edward Gibbon    BrittanicaGt
 Decline and Fall of Roman Empire II            Edward Gibbon    BrittanicaGt
-Ptolemy/Copernicus/Kepler                                       BrittanicaGt
-Gilbert/Galileo/Harvey                                          BrittanicaGt
-Lavoisier/Fourier/Faraday                                       BrittanicaGt
