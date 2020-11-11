@@ -3,7 +3,6 @@ label: 2019030904
 description: Penguin Classics
 
 Govt Inspector etc.                various Russians        Penguin
-Sci Fi of Edgar Allan Poe          Edgar Allan Poe         Penguin
 Middlemarch                        George Eliot            Penguin
 Prisoner of Zenda/Rupert Hentzau   Anthony Hope            Penguin
 Connecticut Yankee King Arthurs Court Mark Twain           Penguin
