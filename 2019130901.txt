@@ -1,4 +1,0 @@
-name: MIDDLE EAST
-label: 2019130901
-description: Middle East books
-
