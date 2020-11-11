@@ -26,3 +26,4 @@ David Copperfield                   Dickens            PenguinYellowClassics
 Old Curiosity Shop                  Dickens            PenguinYellowClassics
 American Notes                      Dickens            Konemann
 Child's History of England etc      Dickens            Everyman
+The Uncommercial Traveller          Dickens            Heron
