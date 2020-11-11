@@ -5,13 +5,5 @@ description: Middle East books
 Orientalism                        Edward W Said          Vintage
 Israel: A History                  Martin Gilbert         BlackSwan
 My Israel Question                 Anthony Lowenstein     MUP
-From Beirut to Jerusalem 2e        Thomas L Friedman      HarperCollins
-Hot, Flat and Crowded              Thomas L Friedman      Penguin
-The Lexus and the Olive Tree       Thomas L Friedman      Anchor
-Cry Palestine                      Said K Arburish        bloomsbury
-Culture and Imperialism            Edward W Said          TSP
-Total War                          Calvocoressi/Wint      Pelican
 The Storm of War                   Andrew Roberts         Penguin
-Zeitoun                            Dave Eggers            Penguin
-Postcapitalism                     Paul Mason             AllenLane
 The Great Tradition                F.R.Leavis             Pelican
