@@ -12,7 +12,6 @@ Adventures of Tom Sawyer          Mark Twain              Penguin
 New Grub Street                   George Gissing          Penguin
 Gulliver's Travels                Jonathan Swift          Penguin
 Chekov Plays                      Anton Chekov            Penguin
-The Woman in White                Wilkie Collins          Penguin
 Robinson Crusoe                   Daniel Defoe            Penguin
 Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
 Peer Gynt                         Henrik Ibsen            Penguin
@@ -25,6 +24,5 @@ Lord Jim                          Joseph Conrad           Penguin
 Pride and Prejudice               Jane Austen             Penguin
 Paradise Lost                     John Milton             Penguin
 De Profundis etc.                 Oscar Wilde             Penguin
-Barchester Towers                 Antony Trollope         Penguin
 Framley Parsonage                 Antony Trollope         Penguin
 Don Quixote                       Cervantes               Penguin
