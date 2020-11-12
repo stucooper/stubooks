@@ -5,6 +5,5 @@ description: Modern Lit
 V                                   Thomas Pynchon         Picador
 The Kingdom of the Wicked           Anthony Burgess        AllisonBusby
 In a Sunburned Country              Bill Bryson            Bloomsbury
-American Adulterer                  Jed Mercurio           Vintage
 Human Traces                        Sebastian Faulks       Vintage
 Vineland                            Thomas Pynchon         Minerva
