@@ -2,7 +2,6 @@ name: PHILOSOPHY
 label: 2019031303
 description: Books on Philosophy
 
-Inventing Individual: West Liberalism  Larry Siedentop      AllenLane
 Uncle Tungsten                         Oliver Sachs         Picador
 Musicophilia                           Oliver Sachs         Picador
 Man who mistook his wife for a hat     Oliver Sachs         Picador
