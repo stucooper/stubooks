@@ -2,11 +2,9 @@ name: IT - MODERN LIT
 label: 2019041701
 description: Modern literature
 
-God of Small things           Roy                       Flamingo
 Annotated Lolita              Nabokov                   PenguinSilverClassics
 Doctor Faustus                Mann                      Penguin20CClassics
 Nostromo                      Conrad                    Oxford
 feeding frenzy                Will Self                 Viking
 Vernon God Little             Pierre                    Faber
 Lights out in Wonderland      Pierre                    Faber
-Falling Man                   DeLillo                   Picador
