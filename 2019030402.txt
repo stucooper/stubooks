@@ -15,4 +15,3 @@ The Three Musketeers                Alexander Dumas           Penguin
 The Canterbury Tales                Geoffrey Chaucer          Penguin
 Anna Karenina                       Leo Tolstoy               Penguin
 Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
-The Odyssey                         Homer                     Arcturus
