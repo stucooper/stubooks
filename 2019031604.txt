@@ -2,19 +2,13 @@ name: MODERN LITERATURE
 label: 2019031604
 description: Modern Lit
 
-Posession                           A S Byatt              Vintage
-Mrs Dalloway                        Virginia Woolf         Vintage
 A Death in the Family (MS3)         Karl Ove Knausgaard    Vintage
-Little Wilson and Big God           Anthony Burgess        Vintage
 V                                   Thomas Pynchon         Picador
 The Kingdom of the Wicked           Anthony Burgess        AllisonBusby
 A Man in Love (MS2)                 Karl Ove Knausgaard    HarvellSecker
 Rant                                Chuck Palahniuck       JonathanCape
-The Regeneration Trilogy            Pat Barker             Penguin
 In a Sunburned Country              Bill Bryson            Bloomsbury
-Fight Club                          Chuck Palahniuck       Vintage
 Tuesdays with Morrie                Mitch Albom            Hodder
-The Odyssey                         Homer/Chapman          Wordsworth
 American Adulterer                  Jed Mercurio           Vintage
 The Road to Wigan Pier              George Orwell          Penguin
 Human Traces                        Sebastian Faulks       Vintage
