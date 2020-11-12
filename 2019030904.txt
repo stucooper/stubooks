@@ -2,7 +2,6 @@ name: PENG CLASSICS
 label: 2019030904
 description: Penguin Classics
 
-Govt Inspector etc.                various Russians        Penguin
 Middlemarch                        George Eliot            Penguin
 Prisoner of Zenda/Rupert Hentzau   Anthony Hope            Penguin
 Connecticut Yankee King Arthurs Court Mark Twain           Penguin
@@ -26,5 +25,4 @@ Democracy in America                     Alexis de Tocqueville   Penguin
 Nutcracker/Mouse King                    Hoffman/Dumas           Penguin
 Pinocchio                                Carlo Collodi           Penguin
 Treasure Island                          Robert Louis Stephenson Penguin
-Diary of Pepys: A Selection              Samuel Pepys            Penguin
 Emma                                     Jane Austen             Penguin
