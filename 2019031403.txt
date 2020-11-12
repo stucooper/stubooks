@@ -3,7 +3,6 @@ label: 2019031403
 desc: Non-fiction Current Affairs
 
 Iron Curtain: Crushing of Eastern Europe Anne Applebaum       doubleday
-Citizens (French Revolution)             Simon Schama         Penguin
 Nothing to envy: Life and Death North Korea Barbara Demick    FourthEstate
 Stasiland                                Anna Funder          text
 Imperium                                 Ryszard Kapuscinski  granta
