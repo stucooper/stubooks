@@ -14,3 +14,4 @@ Practical Cryptography                   Ferguson/Schneier  JohnWiley
 Raspberry Pi User Guide                  Upton/Halfacree    JohnWiley
 The Blender Gamekit 2e                   Wartmann           Blender
 Nagios 2e                                Wolfgang Barth     NoStarch
+Max Hits: Building Promoting Websites    Slocombe              Rotovision

@@ -4,6 +4,5 @@ description: random books, some coffee table sized
 
 Shakespeare Staging the World      Bate/Thornton            Oxford
 No Ordinary Genius: Illustrated Feynman  ed Sykes           Weidenfeld
-Max Hits: Building Promoting Websites Slocombe              Rotovision
 Busted: 17 Mythbuster classics     Tarling                  WP
 The Classics: Brief Insight        Beard/Henderson          Sterling
