@@ -4,13 +4,9 @@ description: Assorted Classics
 
 Palimpsest                          Gore Vidal                Abacus
 The House of the Dead               Fyodor Dostoyevsky        Penguin
-Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin
-Crime and Punishment                Fyodor Dostoyevsky        Vintage
 On the Origin of Species            Charles Darwin            Penguin
 Voyage of the Beagle                Charles Darwin            Penguin
 Ruba'iyat of Omar Khayyam           Omar Khayyam              Penguin
-Homer: The Iliad                    Robert Fagles             Penguin
-Mozart: A Life in Letters           Mozart                    Penguin
 The Three Musketeers                Alexander Dumas           Penguin
 The Canterbury Tales                Geoffrey Chaucer          Penguin
 Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
