@@ -2,4 +2,3 @@ name: CLASSICS
 label: 2019030402
 description: Assorted Classics
 
-Palimpsest                          Gore Vidal                Abacus
