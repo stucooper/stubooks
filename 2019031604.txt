@@ -5,8 +5,6 @@ description: Modern Lit
 V                                   Thomas Pynchon         Picador
 The Kingdom of the Wicked           Anthony Burgess        AllisonBusby
 In a Sunburned Country              Bill Bryson            Bloomsbury
-Tuesdays with Morrie                Mitch Albom            Hodder
 American Adulterer                  Jed Mercurio           Vintage
 Human Traces                        Sebastian Faulks       Vintage
-Malayan Trilogy                     Anthony Burgess        Penguin
 Vineland                            Thomas Pynchon         Minerva
