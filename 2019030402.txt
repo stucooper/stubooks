@@ -3,8 +3,3 @@ label: 2019030402
 description: Assorted Classics
 
 Palimpsest                          Gore Vidal                Abacus
-The House of the Dead               Fyodor Dostoyevsky        Penguin
-On the Origin of Species            Charles Darwin            Penguin
-Voyage of the Beagle                Charles Darwin            Penguin
-Ruba'iyat of Omar Khayyam           Omar Khayyam              Penguin
-The Canterbury Tales                Geoffrey Chaucer          Penguin
