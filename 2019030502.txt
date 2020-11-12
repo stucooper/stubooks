@@ -13,5 +13,3 @@ The Descent of Man                Charles Darwin            PengClassics
 Vanity Fair                       Willaim Thackeray         PengClassics
 Nights with Uncle Remus           Joel Chandler Harris      PengClassics
 Crime and Punishment              Fyodor Dostoyevsky        PengClassics
-The Life of Samuel Johnson unabrd James Boswell             PengClassics
-London Diary 1762-1763            James Boswell             PengClassics
