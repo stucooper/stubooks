@@ -1,9 +1,0 @@
-name: MODERN LITERATURE
-label: 2019031604
-description: Modern Lit
-
-V                                   Thomas Pynchon         Picador
-The Kingdom of the Wicked           Anthony Burgess        AllisonBusby
-In a Sunburned Country              Bill Bryson            Bloomsbury
-Human Traces                        Sebastian Faulks       Vintage
-Vineland                            Thomas Pynchon         Minerva
