@@ -2,7 +2,6 @@ name: PENGUIN CLASSICS: YELLOW, SMALL
 label: 2019030903
 description: small Penguin Classics, many of which I've read already
 
-Jane Eyre                         Charlotte Bronte        Penguin
 The Idiot                         Fyodor Dostoyevsky      Penguin
 Adventures of Huckleberry Finn    Mark Twain              Penguin
 History of the Peloponnesian War  Thuycides               Penguin
