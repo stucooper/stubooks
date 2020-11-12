@@ -3,12 +3,9 @@ label: 2019031302
 description: Mostly modern literature
 
 The Other Hand                          Chris Cleave         sceptre
-Freedom                                 Jonathan Franzen     FourthEstate
 Bridget Jones's Diary                   Helen Fielding       Penguin
 Rivers of London                        Ben Aaronovitch      Gollancz
-Elegance                                Kathleen Tessaro     HarperCollins
 In Tasmania                             Nicholas Shakespeare Vintage
-The Slap                                Tsiolkas             TuskarRock
 Shantaram                               Gregory David Roberts StMartins
 Werewolves in their Youth               Michael Chabon       HarperPerennial
 We need new names                    Bulawyo           ChattoWindus
