@@ -2,28 +2,19 @@ name: ISSUES
 label: 2019031403
 desc: Non-fiction Current Affairs
 
-only the super-Rich can Save us!         Ralph Nader          SevenStories
 Iron Curtain: Crushing of Eastern Europe Anne Applebaum       doubleday
 No Logo                                  Naomi Klein          Flamingo
 Citizens (French Revolution)             Simon Schama         Penguin
 Backlash: Undeclared War Against Women   Susan Faludi         Vintage
-Of the people by the people: Democracy   Roger Osborne        pimlico
 Nothing to envy: Life and Death North Korea Barbara Demick    FourthEstate
 Communism: A Love Story                  Jeff Sparrow         MelbUni
 Stasiland                                Anna Funder          text
 Imperium                                 Ryszard Kapuscinski  granta
-Think!                                   Michael R LeGault    Threshold
-What the Dog Saw                         Malcolm Gladwell     AllenLane
 Nasty, Brutish and Long (eldercare)      Ira Rosofsky         Avery
-Growing up Asian in Australia            ed Alice Pung        BlackInc
-Stupid White Men                         Michael Moore        Penguin
-Lean In                                  Sheryl Sandberg      WHAllen
 The War of the World                     Niall Ferguson       Penguin
 Collapse                                 Jared Diamond        AllenLane
 The World Until Yesterday                Jared Diamond        AllenLane
 The Game                                 Neil Strauss         text
 The Rules of the Game                    Neil Strauss         canongate
 Cities of the Hot Zone                   Greg Sheridan        AllenUnwin
-Infidel                                  Ayaan Hirsi Ali      freePress
-The Caged Virgin                         Ayaan Hirsi Ali      freePress
 Things that can and cannot be said       Cusack/Arundhati Roy PengSpecial
