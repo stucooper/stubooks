@@ -2,9 +2,6 @@ name: COFFEE TABLE
 label: 2019130104
 description: large flat coffee table books
 
-The Whole Earth Catalog                  ed Howard Rheingold  PointFoundation
 Surrealism: Revolution by Night          National Gallery     NGA
 Michelangelo                             Howard Hibberd       folio
-Phaidon Book of the Opera                Phaidon              Phaidon
-Guide to the Opera                       Robin May            viscount
 Kandinsky                                Hajo Duchting        evergreen
