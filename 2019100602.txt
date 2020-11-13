@@ -4,7 +4,6 @@ description: Politics books, US and Australian
 
 Winter is coming: Vladimir Putin                Kasparov         Atlantic
 The Future is History: Russian Totalitarianism  Gessen           Granta
-Clinton Cash                                    Schweizer        Harper
 Tales from the Political Trenches               McKew            MUP
 Don't leave us with the Bill (bill of rights)   ed Leeser/Haddrick Menzies
 Boom: Underground history of Australian (mining) Knox            Viking
@@ -13,7 +12,5 @@ QE19 Relaxed and Comfortable                    Brett            BlackInc
 QE43 Bad News: Murdoch's Australian             Manne            BlackInc
 QE67 Moral Panic 101: Safe Schools              Law              BlackInc
 Oil and Honey                                   McKribben        BlackInc
-American Dreamers: How the Left changed the nation Kazin         Vintage
 The Luck of Politics                            Leigh            BlackInc
-Reclaiming Conservatism                         Edwards          OUP
 Poll Dancing: Story of the 2007 Election        MacCallum        BlackInc
