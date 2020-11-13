@@ -2,7 +2,6 @@ name: IT - POLICY CRYPTO
 label: 2019042303
 description: it books on policy and crypto
 
-Surfing through Hyperspace         Pickover           Oxford
 The Glass Cage                     Carr               BodleyHead
 The Art of Deception               Mitnick            JohnWiley
 Crypto                             Levy               Viking
@@ -14,13 +13,12 @@ Data and Goliath                   Schneier           Norton
 Liars and Outliers                 Schneier           JohnWiley
 Secrets and Lies                   Schneier           JohnWiley
 Who owns the future?               Lanier             AllenLane
-Future of the Internet             Zittrain           Yale
 The Cuckoo's Egg                   Stoll              BodleyHead
 Who can you trust?                 Botsman            Penguin
 ProBlogger 2e                      Rowse/Garrett      JohnWiley
 Boomerang                          Lewis              AllenLane
-Shariah theat to America           teamB              csppress
 Makers                             Anderson           rhbusiness
+Makers                             Cory Doctorow      TOR
 streetlights and shadows           Klein              mitp
 The Invisible Computer             Norman             mitp
 colossus: Bletchley Park           Gannon             Atlantic
