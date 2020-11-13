@@ -2,10 +2,6 @@ name: POLITICS
 label: 2019100602
 description: Politics books, US and Australian
 
-Gough Whitlam: A Moment in History              Hocking          Miegunyah
-Gough Whitlam: His Time                         Hocking          Miegunyah
-Mark Latham: The Circuitbreaker                 Donovan          FiveMile
-ADHD Nation                                     Schwarz          PublicAffairs
 Winter is coming: Vladimir Putin                Kasparov         Atlantic
 The Future is History: Russian Totalitarianism  Gessen           Granta
 Clinton Cash                                    Schweizer        Harper
