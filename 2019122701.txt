@@ -2,26 +2,18 @@ name: VARIOUS
 label: 2019122701
 description: Various books
 
-Do not pass Go                                Tim Moore        YellowJacket
 A Sporting Chance                             Titus O'Reily    Penguin
 In Black and White                            Warren Mundine   Pantera
 Encyclopedia of AFL Footballers 9e            Holmesby/Main    Bas
 Brother Boys, Jim and Philip Krakouer         Sean Gorman      AllenUnwin
 The Family Law                                Benjamin Law     BlackInc
-Rush Limbaugh is a Big Fat Idiot              Al Franken       DellTrade
 Defectors                                     Joseph Kanon     SimonSchuster
 Battle Hymn of the Tiger Mother               Amy Chua         bloomsbury
-Sword of Shannara                             Terry Brooks     orbit
-Power Systems                                 Noam Chomsky     Penguin
-The Quants                                    Scott Patterson  CrownBusiness
-Passage to India                              E M Forster      PenguinModernCla
 Nineteen Eighty-Four                          George Orwell    Penguin
 Bad Blood                                     John Carreyou    Picador
 From Bicycles to Bentleys                     Joseph Chou      selfpublished
 The Undoing Project (hb)                      Michael Lewis    Norton
 Hackers as Painters (hb)                      Paul Graham      ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams     ORA
-Sideways                                      Rex Pickett      StMartins
-Innovators (hb)                               Walter Isaacson  SimonSchuster
 Hawke the PM                                  Blanche d'Apuget MUP
 Hawke: The Early Years                        Blanche d'Apuget MUP
