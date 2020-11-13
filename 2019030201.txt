@@ -2,15 +2,9 @@ name: War
 label: 2019030201
 description: War books
 
-Vietnam: A History                   Stanley Karnow         Penguin
-Fiasco                               Thomas Ricks           PenguinPress
-The Gamble                           Thomas Ricks           PenguinPress
-Hiroshima Nagasaki                   Paul Ham               HarperCollins
 Gideon's Spies (updated 2007)        Gordon Thomas          ThomasDunne
 Berlin: The Downfall                 Anton Beevor           Penguin
-Kokoda                               Paul Ham               HarperCollins
 Battle for Spain: Spanish Civil War  Antony Beevor          Phoenix
 Second World War: Gathering Storm    Winston Churchill      Penguin
 Second World War: Their Finest Hour  Winston Churchill      Penguin
 Stalingrad                           Antony Beevor          Penguin
-Visions of Technology                Richard Rhodes         SimonSchuster
