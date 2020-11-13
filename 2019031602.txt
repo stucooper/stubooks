@@ -2,12 +2,8 @@ name: Various
 label: 2019031602
 description: Various
 
-The Black Book of the American Left  David Horowitz        Encounter
-Left Illusions                       David Horowitz        Spence
-Dunkirk                              Simon Sebag-Montefiore Harvard
 Stealing Fire                        Kotler/Wheal          DeySt
 The Woman who changed her brain      Barbara Arrowsmith-Young FreePress
-Penguin Book of the American Civil War Bruce Catton        Penguin
 The Secret War                       Max Hastings          WilliamCollins
 The Pity of War                      Niall Ferguson        AllenLane
 Our Culture, What's Left of it       Theodore Dalrymple    IvanRDee
@@ -17,6 +13,14 @@ Out of the Mountains                 David Kilcullen       Oxford
 The Greek Myths                      Robert Graves         Penguin
 The Great Escape                     Paul Brickhill        Cassell
 Fighting With America                James Curran          PenguinSpecial
-The Spanish Civil War                Antony Beevor         Cassell
 The Looming Tower: Al Qaeda Road to 9/11 Lawrence Wright   Penguin
 Leonard Da Vinci Biography           Charles Nicholl       Penguin
+The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
+A Son of the Circus (pb)             John Irving            BlackSwan
+Jack Kerouac: King of the Beats      Barry Miles            Virgin
+In a Different Key                   Donovan/Zucker         AllenLane (DUPE)
+Neurotribes                          Steve Silberman        AllenUnwin
+Proust and the Squid                 Maryanne Wolf          Icon
+Alexander the Great                  Robin Lane Fox         Penguin
+Travelling Heroes                    Robin Lane Fox         Penguin
+Spell it Out                         David Crystal          Profile

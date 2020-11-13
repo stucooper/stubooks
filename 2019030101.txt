@@ -2,38 +2,18 @@ name: BARNES AMIS
 label: 2019030101
 description: Julian Barnes and Martin Amis
 
-History of the World in 10.5 Chapters Julian Barnes    Picador
-Cross Channel                         Julian Barnes    Picador
-England, England                      Julian Barnes    Picador
-Something to Declare                  Julian Barnes    Picador
-The Porcupine                         Julian Barnes    Picador
-Talking it Over                       Julian Barnes    Picador
-Staring at the Sun                    Julian Barnes    Picador
-Flaubert's Parrot                     Julian Barnes    Picador
-Before She Met Me                     Julian Barnes    Picador
-Metroland                             Julian Barnes    Picador
 Letters From London                   Julian Barnes    Picador
-Love, etc                             Julian Barnes    JonathanCape
-The Lemon Table                       Julian Barnes    JonathanCape
-The Pedant in the Kitchen             Julian Barnes    Atlantic/Guardian
-The Sense of an Ending                Julian Barnes    Vintage
-Arthur and George                     Julian Barnes    Vintage
-Through the Window                    Julian Barnes    Vintage
-The Noise of Time                     Julian Barnes    Vintage
 Martin Amis: The Biography            Richard Bradford Constable
 Yellow Dog                            Martin Amis      JonathanCape
 Lionel Asbo                           Martin Amis      JonathanCape
 Koba the Dread                        Martin Amis      JonathanCape
 The Zone of Interest                  Martin Amis      JonathanCape
-Heavy Water                           Martin Amis      JonathanCape
 The Rachel Papers                     Martin Amis      Penguin
 Dead Babies                           Martin Amis      Penguin
 Success                               Martin Amis      Penguin
 Other People                          Martin Amis      Penguin
 Money                                 Martin Amis      Penguin
 London Fields                         Martin Amis      Penguin
-Visiting Mrs Nabokov                  Martin Amis      Penguin
-The Information                       Martin Amis      Flamingo
 Experience                            Martin Amis      Vintage
 The Pregnant Widow                    Martin Amis      Vintage
 House of Meetings                     Martin Amis      Vintage

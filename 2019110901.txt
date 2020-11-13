@@ -15,6 +15,5 @@ OS Design and Implementation (MINIX)           Andrew Tanenbaum   PTR
 OpenStack Swift                                Joe Arnold         ORA
 Create your own Blog                           Tris Hussey        SAMS
 Samsung Galaxy 8 for Dummies                   Bill Hughes        JohnWiley
-Solar Collectors,Energy Storage&Materials      ed Winter          MITP
 Diagrammatic Reasoning                         ed Glasgow         MITP
 Advances in Knowledge Discovery&Data Mining    ed Fayyad          MITP

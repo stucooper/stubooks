@@ -2,31 +2,18 @@ name: POLITICS
 label: 2019130502
 description: Politics, US and Australia
 
-Loner (Mark Latham)                      Bernard Lagan          AllenUnwin
 Politics Lost                            Joe Klein              doubleday
 Top Price                                Matt Price             HarperCollins
 Nixon and Kissinger                      Robert Dallek          Harper
 Triumph and Demise                       Paul Kelly             MUP
 Blaming Ourselves                        ed Melleuish           DuffySnellgrove
-The Reagen I Knew                        William F Buckley Jr   Basic
 When we were young and foolish           Greg Sheridan          AllenUnwin
-American Rhapsody                        Joe Eszterhas          Macmillan
-Angel and the Octopus                    Simon Leys             DuffySnellgrove
-Dreamers and Deceivers       Glenn Beck                          Threshold
-Mind of an Outlaw            Norman Mailer                       RandomHouse
-The Enemy at Home: Left 9/11 Dinesh D'Souza                      Broadway
-The Voice of Reason          Ayn Rand                            Meridian
-The Last Empire: Essays      Gore Vidal                          Vintage
-The Joy of Hate              Greg Gutfeld                        CrownForum
-End of Discussion            Ham/Benson                          CrownForum
-The New Road to Serfdom      Daniel Hannan                       Broadside
 Kissinger 1923-1968: The Idealist               Niall Ferguson      Penguin
 Cast of Characters: Golden Age of the New Yorker Thomas Vinciguerra Norton
 About Town: New Yorker and the World it Made    Ben Yagoda          DaCapo
 Life Stories: Profiles from The New Yorker      ed Remnick          Modern
 Style Manual for authors, editors and printers  AusGovt             AGPS
 Proust bio                                      Edmund White        W&N
-Samuel Johnson: A Life                          David Nokes         faber
 Pandora's Box: Life's little nasties            Dr Cindy Pan        HarperColl
 The White Deer                                  James Thurber       Penguin
 igNobel Prizes                                  Marc Abrahams       Orion

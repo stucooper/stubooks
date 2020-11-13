@@ -4,23 +4,11 @@ description: Vintage Classics
 
 Power without Glory               Frank Hardy             Vintage
 The Complete Enderby              Anthony Burgess         Vintage
-Little Women/Good Wives           Louisa May Alcott       Vintage
 The Old Devils                    Kingsley Amis           Vintage
-Death in the Afternoon            Ernest Hemingway        Vintage
-The Master and Margarita          Mikhail Bulgakov        Vintage
 The Wind-Up Bird Chronicle        Haruki Murakami         Vintage
 Catch-22                          Joseph Heller           Vintage
-The Death of Ivan Ilyich etc.     Leo Tolstoy (Pev/Vol)   Vintage
-Life and Fate                     Vasily Grossman         Vintage
 Why read the Classics?            Italo Calvino           Vintage
 Doctor Zhivago                    Boris Pasternak         Vintage
-The Wapshot Chronicle             John Cheever            Vintage
-Oh what a Paradise it seems       John Cheever            Vintage
-Collected Stories John Cheever    John Cheever            Vintage
-Letters of John Cheever           John Cheever            Vintage
-Revolutionary Road                Richard Yates           Vintage
-Young Hearts Crying               Richard Yates           Vintage
-Cold Spring Harbour               Richard Yates           Vintage
 Proust Vol1: Swann's Way          Marcel Proust           Vintage
 Proust Vol2: Budding Grove        Marcel Proust           Vintage
 Proust Vol3: Guermantes Way       Marcel Proust           Vintage
@@ -28,3 +16,8 @@ Proust Vol4: Sodom and Gomorrah   Marcel Proust           Vintage
 Proust Vol5: Captive/Fugitive     Marcel Proust           Vintage
 Proust Vol6: Regained/Guide       Marcel Proust           Vintage
 The Handmaid's Tale               Margaret Attwood        Vintage
+Edith Wharton                     Edith Wharton           LibraryOfAmerica
+William Faulkner                  William Faulkner        LibraryOfAmerica
+Hermann Melville                  Hermann Melville        LibraryOfAmerica
+Alice in Wonderland               Lewis Carroll           PenguinClassics (hb)
+Madame Bovary                     Gustave Flaubert        PenguinClassics (hb)

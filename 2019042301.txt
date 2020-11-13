@@ -2,21 +2,15 @@ name: SCI-FICTION
 label: 2019042301
 description: science fiction
 
-War of the Worlds                H G Wells          GoldenPress
 When the Sleeper Wakes           H G Wells          ModernLibrary
-Last and First Men               Stapledon          Gollancz
 Best of Philip K Dick            Dick               DelRey
 Valis                            Dick               Gollancz
 Stranger in a Strange Land       Heinlein           Hodder
-American Gods                    Gaiman             Headline
 The Children of Men              P.D.James          faber
-Galileo's Dream                  StanleyRobinson    Harper
 Tron                             Daley              Hodder
 Fahrenheit 451                   Bradbury           Granada
 The Day of the Triffids          Wyndham            Penguin
 Chocky                           Wyndham            Penguin
-Nova                             Delany             Gollancz
-Limbo                            Bernard Wolfe      Gollancz
 Neuromancer                      William Gibson     HarperCollins
 Count Zero                       William Gibson     HarperCollins
 Mona Lisa Overdrive              William Gibson     HarperCollins
@@ -25,3 +19,26 @@ Virtual Light                    William Gibson     Penguin
 Pattern Recognition              William Gibson     Penguin
 Spook Country                    William Gibson     Berkley
 The Naked Sun                    Asimov             Panther
+American Gods                          Gaiman          headline
+Trigger Warning                        Gaiman          headline
+The Red Men                            DeAbaitua       snowbooks
+2312                                   StanleyRobinson Orbit
+Illuminatus Trilogy                    Shea/Wilson     dontcare
+The Martians                           StanleyRobinson HarperCollins
+Green Mars                             StanleyRobinson HarperCollins
+Red Mars                               StanleyRobinson HarperCollins
+Blue Mars                              StanleyRobinson HarperCollins
+Brave New World                        Huxley          Granada
+Brave New World Revisited              Huxley          Granada
+Backwards Red Dwarf                    Grant           Penguin
+Last Human Red Dwarf                   Naylor          Penguin
+Colony                                 Rob Grant       Penguin
+Red Dwarf Programme Guide              Howarth/Lyons   Virgin
+Doctor Who Dalek Handbook              Tribe/Goss      BBC
+The Peripheral                         William Gibson          Viking
+All Tomorrows Parties                  William Gibson          Viking
+2023: A Trilogy by the JAM                  JAM                     faber
+Doctor Who: The Pirate Planet               James Goss              BBC
+The Graveyard Book                          Neil Gaiman             Harper
+Feed                                     M T Anderson        Candlewick
+The Circle                               Dave Eggers         Vintage

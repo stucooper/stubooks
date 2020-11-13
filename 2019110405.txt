@@ -4,15 +4,11 @@ description: Art books: museums and exhibition catalogues
 
 Penguin and the Lane Brothers             Stuart Kells    BlackInc
 Penguin Special: Life of Allen Lane       Jeremy Lewis    Penguin
-Robert Helpmann: Servant of Art           Anna Bemrose    UQP
-The Rite of Spring (ABC orchestras)       Martin Buzacott ABC
-Stravinsky's Lunch                        Modjeska        Picador
-The Art of Australia                      Robert Hughes   Penguin
-Rome                                      Robert Hughes   Phoenix
 Whitely: Unauthorised Life                Hilton/Blundell MacMillan
-The Louvre Collections                    various         Louvre
 Penguin Portrait                          ed Hare         Penguin
-Lives                                     Peter Robb      BlackInc
-Australian National Gallery: Intoduction  Various         ANG
-Opera for Lovers                          Kira Te Kanawa  Hodder&Staughton
 American Visions: Art in America          Robert Hughes   Vintage
+Orientalism                        Edward W Said          Vintage
+Israel: A History                  Martin Gilbert         BlackSwan
+My Israel Question                 Anthony Lowenstein     MUP
+The Storm of War                   Andrew Roberts         Penguin
+The Great Tradition                F.R.Leavis             Pelican

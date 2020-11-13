@@ -2,29 +2,19 @@ name: PENG CLASSICS
 label: 2019030904
 description: Penguin Classics
 
-Govt Inspector etc.                various Russians        Penguin
-Sci Fi of Edgar Allan Poe          Edgar Allan Poe         Penguin
 Middlemarch                        George Eliot            Penguin
 Prisoner of Zenda/Rupert Hentzau   Anthony Hope            Penguin
 Connecticut Yankee King Arthurs Court Mark Twain           Penguin
-The Decameron                      Giovanni Boccacio       Penguin
 The Odyssey                        Homer (E V Rieu)        Penguin
-Caleb Williams                     William Godwin          Penguin
 Madame Bovary                      Gustave Flaubert        Penguin
-Scarlet Letter etc.                Nathaniel Hawthorne     Penguin
 Against Nature                     J-K Huysmans            Penguin
-The Count of Monte Cristo          Alexandre Dumas         Penguin
-The Discourses                     Niccolo Machievelli     Penguin
-Lost World and Thrilling Tales     Arthur Conan Doyle      Penguin
 Don Quixote New Translation        Cervantes/JohnRford     Penguin
 Gambler/Bobok/NastyStory           Fyodor Dostoyevsky      Penguin
 Kidnapped                          Robert Louis Stevenson  Penguin
 Monkey                             Arthur Waley            Penguin
-The Ladies of the Corridor               Dorothy Parker/D'usswau Penguin
 The Brothers Karamazov                   Dostoyevsky (McDuff)    Penguin
 A Short History of the World             H G Wells               Penguin
 Selected Essays                          Samuel Johnson          Penguin
-The Riddle of the Sands                  Erskine Childers        Penguin
 Under Western Eyes                       Joseph Conrad           Penguin
 The Prince                               Niccolo Machiavelli     Penguin
 Candide                                  Voltaire                Penguin
@@ -34,7 +24,17 @@ Complete Poems                           Walt Whitman            Penguin
 Democracy in America                     Alexis de Tocqueville   Penguin
 Nutcracker/Mouse King                    Hoffman/Dumas           Penguin
 Pinocchio                                Carlo Collodi           Penguin
-The Red and the Black                    Stendhal                Penguin
 Treasure Island                          Robert Louis Stephenson Penguin
-Diary of Pepys: A Selection              Samuel Pepys            Penguin
 Emma                                     Jane Austen             Penguin
+Los Alamos                                    Kanon          abacus
+Alibi                                         Kanon          sphere
+The Prodigal Spy                              Kanon          abacus
+Stardust                                      Kanon          SimonSchuster
+Istanbul Passage                              Kanon          SimonSchuster
+Leaving Berlin                                Kanon          SimonSchuster
+Four Great Novels Glass Key/Maltese Falcon etc Hammett       Picador
+Murder of Roger Ackroyd                       Christie       Fontana
+Rising Sun                                    Crichton       Ballantine
+Raffles                                       Hornung        PenguinGreen
+Playback                                      Chandler       PenguinGreen
+The Thin Man                                  Hammett        PenguinGreen
