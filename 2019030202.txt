@@ -4,12 +4,9 @@ description: Australian Politics Books
 
 November 1975                        Paul Kelly             AllenUnwin
 Whatever it takes                    Graham Richardson      Bantam
-The Hawke Memoirs                    Bob Hawke              Heinemann
 The Marmalade Files                  Lewis/Uhlmann          FourthEstate
 The Lucky Culture                    Nick Cater             HarperCollins
 The PartnershipL US/Aus Alliance     Greg Sheridan          NewSouth
-The Howard Factor:                   ed Nick Cater          MelbUniPress
-John Winston Howard                  Ermington/Van Onselen  MelbUniPress
 Media&Politics: An Introduction      Ermington/Miragliotta  Oxford
 Rudd v Abbott: 2 Quarterly Essays    David Marr             BlackInc
 The Good,Bad and the Unlikely        Mungo MacCallum        BlackInc
