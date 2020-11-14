@@ -2,15 +2,10 @@ name: HISTORY AND BIOS
 label: 2019110701
 description: History books and bios
 
-Spies and Commissars                     Robert Service        Pan
 Menzies and Churchill at War             David Day             AngusRobertson
 Modern Times Modern Places               Peter Conrad          ThomasHudson
 Six Minutes in May                       Nicholas Shakespeare  HarvillSecker
 The Harbour                              Scott Bevan           SimonSchuster
 The Politics of War                      David Day             HarperCollins
 Rhodes                                   Anthony Thomas        BBC
-Constellation of Genius: 1922            Kevin Jackson         FSG
-1914                                     Paul Ham              WilliamHeinemann
 History of England IV: Revolution        Peter Ackroyd         Macmillan
-The End of the Cold War                  Robert Service        Macmillan
-Global Jihad                             Patrick Sookhdeo      Isaac
