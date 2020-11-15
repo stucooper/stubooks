@@ -8,7 +8,5 @@ David Williamson: Writer's career Brian Kiernan         Heinemann
 Overture Opera Guide: La Boheme   Puccini               OOG
 OOG: Midsummer night's dream      Britten               OOG
 OOG: Don Giovanni                 Mozart                OOG
-OOG: Idomeneo                     Mozart                OOG
 OOG: Carmen                       Bizet                 OOG
-OOG: Fligende Hollander           Wagner                OOG
 Ulysses                           James Joyce           Penguin
