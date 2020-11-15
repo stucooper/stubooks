@@ -4,8 +4,6 @@ description: Penguin Classics
 
 The Prodigy                        Hermann Hesse           Penguin
 Gertrude                           Hermann Hesse           Penguin
-Dead Souls                         Nikolai Gogol           Penguin
-Notre Dame of Paris                Victor Hugo             Penguin
 American Notes                     Charles Dickens         Penguin
 The Voyage of Argo                 Appolonius of Rhodes    Penguin
 Iliad of Homer                     Alexander Pope          Penguin
@@ -13,17 +11,9 @@ Don Juan                           Lord Byron              Penguin
 The War in the Air                 H G Wells               Penguin
 Journey to the Centre of the Earth Jules Verne             Penguin
 The Man in the Iron Mask           Alexandre Dumas         Penguin
-Waverley                           Walter Scott            Penguin
-On Liberty and the Subjection of Women John Stuart Mill    Penguin
-The Republic                       Plato                   Penguin
-Annals of Imperial Rome            Tacitus                 Penguin
 Sketches by Boz                    Charles Dickens         Penguin
 A Passage to India                 E M Forster             Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
-Moby Dick                          Herman Melville         Penguin
-Fanny Hill                         John Cleland            Penguin
 Three Theban Plays                 Sophocles/Fagles        Penguin
 Twelve Caesars                     Suetonius/Graves        Penguin
-Metamorphoses                      Ovid/Innes              Penguin
-Selected Prose of Wordsworth       William Wordsworth      Penguin
 
