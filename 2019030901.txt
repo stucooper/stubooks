@@ -4,24 +4,14 @@ description: Penguin Classics
 
 The Prodigy                        Hermann Hesse           Penguin
 Gertrude                           Hermann Hesse           Penguin
-Cellini Autobiogrphy               Benvenuto Cellini       Penguin
-The Satyricon and Fragments        Petronius               Penguin
-Candide                            Voltaire                Penguin
 Dead Souls                         Nikolai Gogol           Penguin
 Notre Dame of Paris                Victor Hugo             Penguin
-Life of Johnson (abridged)         James Boswell           Penguin
-Dashing Diamond Dick, Dime Novels  various                 Penguin
 American Notes                     Charles Dickens         Penguin
 The Voyage of Argo                 Appolonius of Rhodes    Penguin
-The Koran                          Muslims                 Penguin
-The Decameron                      Giovanni Boccaccio      Penguin
-Life and Opinions of Tristram Shandy Laurence Sterne       Penguin
-Divine Comedy Vol3: Paradise       Dante/Mark Musa         Penguin
 Iliad of Homer                     Alexander Pope          Penguin
 Don Juan                           Lord Byron              Penguin
 The War in the Air                 H G Wells               Penguin
 Journey to the Centre of the Earth Jules Verne             Penguin
-The Pillow Book                    Sei Shonagon            Penguin
 The Man in the Iron Mask           Alexandre Dumas         Penguin
 Waverley                           Walter Scott            Penguin
 On Liberty and the Subjection of Women John Stuart Mill    Penguin
@@ -30,8 +20,6 @@ Annals of Imperial Rome            Tacitus                 Penguin
 Sketches by Boz                    Charles Dickens         Penguin
 A Passage to India                 E M Forster             Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
-The Brothers Karamazov             Fyodor Dostoyevsky      Penguin
-Les Miserables                     Victor Hugo             Penguin
 Moby Dick                          Herman Melville         Penguin
 Fanny Hill                         John Cleland            Penguin
 Three Theban Plays                 Sophocles/Fagles        Penguin
