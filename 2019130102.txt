@@ -3,13 +3,8 @@ label: 2019130102
 description: Hardback books
 
 Lazarus Rising (hb)                      John Howard        HarperCollins
-Hope (Bob Hope bio)                      Richard Zoglin     SimonSchuster
-Joseph Lyons: People's Prime Minister    Anne Henderson     NewSouth
 Hitch 22                                 Christopher Hitchens Twelve
-Live TV: Tellybrats, topless Darts       Horrie/Nathan      SimonSchuster
 Star: Warren Beatty                      Peter Biskind      SimonSchuster
-Robert Graves: Life on the Edge          Miranda Seymour    doubleday
-Robert Graves: His Life and Work         Martin Seymour-Smith bloomsbury
 A Short History of Nearly Everything (hb) Bill Bryson       doubleday
 Empire: How Britain made the modern world Niall Ferguson    AllenLane (hb)
 Doomsday Men                             P. D. Smith        AllenLane
