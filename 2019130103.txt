@@ -3,7 +3,6 @@ label: 2019130103
 description: Winston Churchill and World War 2
 
 Masters and Commanders                   Andrew Roberts       AllenLane
-Burying Caesar: Chamberlain, Churchill   Graham Stewart       phoenix
 Churchill: A Biography                   Roy Jenkins          plume
 Last Lion: Volume 1: Visions of Glory    William Manchester   Dell
 Last Lion: Volume 2: Alone               William Manchester   Dell
@@ -11,9 +10,6 @@ Vietnam: A History                       Stanley Karnow       Pimlico
 The Coming of the Third Reich            Richard J Evans      Penguin
 The Third Reich in Power                 Richard J Evans      Penguin
 The Third Reich At War                   Richard J Evans      Penguin
-WW2: The Gathering Storm                 Winston Churchill    Cassel
-What it is like to go to war             Karl Marlantes       corvus
 Churchill's First War                    Con Coughlin         Pan
 History of the Second World War          Basil Liddell Hart   Pan
-Paris after the liberation               Antony Beevor/Cooper Penguin
 Churchill: The End of Glory              John Charmley        sceptre
