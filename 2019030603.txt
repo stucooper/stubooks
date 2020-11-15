@@ -2,19 +2,9 @@ name: PLAYS GBS JAMES JOYCE
 label: 2019030603
 description: Joyce books plus some Bernard Shaw
 
-Essential James Joyce (dubliners) James Joyce           Paladin
-James Joyce's Ireland             David Pierce          Yale
 The Complete Bernard Shaw plays   George Bernard Shaw   PaulHamlyn
 The Ulysses (Tour) Guide          Robert Nicolson       Routledge
-Here comes Everybody              Anthony Burgess       Arena
-Joyce Annotated 2e (Dub/Portrait) Don Gifford           California
-Joyce for Beginners               Norris/Flint          icon
-Getting Directions                Russ Hope             NickHern
 David Williamson: Writer's career Brian Kiernan         Heinemann
-Bernard Shaw Biography Volume 1   Michael Holroyd       Penguin
-Bernard Shaw Biography Volume 2   Michael Holroyd       Penguin
-Bernard Shaw Biography Volume 3   Michael Holroyd       Penguin
-The Theatre of the Absurd         Martin Esslin         Pelican
 Overture Opera Guide: La Boheme   Puccini               OOG
 OOG: Midsummer night's dream      Britten               OOG
 OOG: Don Giovanni                 Mozart                OOG
@@ -22,5 +12,3 @@ OOG: Idomeneo                     Mozart                OOG
 OOG: Carmen                       Bizet                 OOG
 OOG: Fligende Hollander           Wagner                OOG
 Ulysses                           James Joyce           Penguin
-Accidental Death of an Anarchist  Dario Fo              Pluto
-Power Play: Peter Hall            Stephen Fay                HodderStoughton
