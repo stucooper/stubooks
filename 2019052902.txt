@@ -2,7 +2,6 @@ name: Books - General
 label: 2019052902
 description: Various books including Brit TV
 
-Spike & Co Brit Comedy                         McCann           HodderStoughton
 Life on Mars Official Companion                Adams/Thompson   Pocket
 The Onion Iconic Magazine Covers               TheOnion         LittleBrown
 Psychogeography                                Self/Steadman    bloomsbury
