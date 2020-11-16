@@ -4,11 +4,9 @@ description: Maths bios
 
 A Beautiful Mind                      Sylvia Nasar              faber
 Mathematical Quickies                 Trigg                     Dover
-The Lateral Logician                  Sloane/MacHale            Quality
 Riddles in Mathematics                Eugene Northrop           Penguin
 From Erdos to Kiev: Problems Olympic Caliber Honsberger         MathsAssocUSA
 Maths Olympiads: 2000-2001            various                   MathsAssocUSA
 In Code                               Sarah Flannery            Workman
-Hidden Harmonies: Pythagorean Theorem Robert Kaplan             Bloomsbury
 Revised 4 Unit Maths Course           J. Corroneous             selfpublised
 
