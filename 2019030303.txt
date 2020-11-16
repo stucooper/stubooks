@@ -1,4 +1,0 @@
-name: AUSPOLITICS
-label: 2019030303
-description: Australian Political Books
-
