@@ -2,6 +2,3 @@ name: COFFEE TABLE
 label: 2019130104
 description: large flat coffee table books
 
-Surrealism: Revolution by Night          National Gallery     NGA
-Michelangelo                             Howard Hibberd       folio
-Kandinsky                                Hajo Duchting        evergreen
