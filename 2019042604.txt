@@ -17,7 +17,6 @@ I'm feeling lucky                      Edwards              Penguin
 The Silence of Animals                 Gray                 Penguin
 The Enchanter                          Zanganeh             Penguin
 Permanent Present Tense                Corkin               Permanent
-Gods and Kings                         Thomas               Penguin
 Flash Boys                             Lewis                Penguin
 Poor Economics                         Banerjee             Penguin
 Europe Struggle for Supremacy          Simms                Penguin
@@ -35,5 +34,3 @@ Traces Remain                          Nicholl              Penguin
 Napoleon the Great                     Roberts              Penguin
 The Idea of India                      Khilnani             Penguin
 The Orthodox Church                    Ware                 Penguin
-The Tragedy of Liberation              Dikotter             Bloomsbury
-The Cultural Revolution                Dikotter             Bloomsbury
