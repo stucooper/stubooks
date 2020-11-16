@@ -2,9 +2,7 @@ name: SCI-FICTION
 label: 2019042301
 description: science fiction
 
-When the Sleeper Wakes           H G Wells          ModernLibrary
 Best of Philip K Dick            Dick               DelRey
-Valis                            Dick               Gollancz
 Stranger in a Strange Land       Heinlein           Hodder
 The Children of Men              P.D.James          faber
 Tron                             Daley              Hodder
@@ -24,16 +22,8 @@ Trigger Warning                        Gaiman          headline
 The Red Men                            DeAbaitua       snowbooks
 2312                                   StanleyRobinson Orbit
 Illuminatus Trilogy                    Shea/Wilson     dontcare
-The Martians                           StanleyRobinson HarperCollins
-Green Mars                             StanleyRobinson HarperCollins
-Red Mars                               StanleyRobinson HarperCollins
-Blue Mars                              StanleyRobinson HarperCollins
 Brave New World                        Huxley          Granada
 Brave New World Revisited              Huxley          Granada
-Backwards Red Dwarf                    Grant           Penguin
-Last Human Red Dwarf                   Naylor          Penguin
-Colony                                 Rob Grant       Penguin
-Red Dwarf Programme Guide              Howarth/Lyons   Virgin
 Doctor Who Dalek Handbook              Tribe/Goss      BBC
 The Peripheral                         William Gibson          Viking
 All Tomorrows Parties                  William Gibson          Viking
