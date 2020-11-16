@@ -3,13 +3,9 @@ label: 2019030802
 description: Folio Society Hardbacks
 
 The Moon's a Balloon                      David Niven            Folio
-The English Language                      Robert Burchfied       Folio
 Plums of P G Wodehouse                    P G Wodehouse          Folio
-Cream of Noel Coward                      Noel Coward            Folio
 Genius of James Thurber                   James Thurber		 Folio
 The Secret Agent                          Joseph Conrad          Folio
-Inventions of the Middle Ages             Chiara Frugoni	 Folio
-A Short History of Time                   Leofranc Holroyd-Stevens Folio
 Silent Spring                             Rachel Carson		 Folio
 Name of the Rose                          Umberto Echo		 Folio
 The Twelve Caesars                        Suetonius/Graves	 Folio
