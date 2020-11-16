@@ -3,16 +3,11 @@ label: 2019110404
 description: Maths bios
 
 A Beautiful Mind                      Sylvia Nasar              faber
-Poincares Prize                       George Szpiro             Dutton
 Mathematical Quickies                 Trigg                     Dover
 The Lateral Logician                  Sloane/MacHale            Quality
-Prime Obsession                       John Derbyshire           Plume
-Hoard of Mathematical Treasures       Ian Stewart               Profile
 Riddles in Mathematics                Eugene Northrop           Penguin
 From Erdos to Kiev: Problems Olympic Caliber Honsberger         MathsAssocUSA
-Jungles of Randomness                 Ivars Peterson            Penguin
 Maths Olympiads: 2000-2001            various                   MathsAssocUSA
-Intro to Analysis of Metric Spaces    J. R. Giles               Cambridge
 In Code                               Sarah Flannery            Workman
 Hidden Harmonies: Pythagorean Theorem Robert Kaplan             Bloomsbury
 Revised 4 Unit Maths Course           J. Corroneous             selfpublised
