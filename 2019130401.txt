@@ -2,21 +2,17 @@ name: AFL BIOS
 label: 2019130401
 description: AFL biographies
 
-Polly Farmer bio                         Steve Hawke        FremantleArts
 The General                              Luke Hodge         Penguin
-Lenny                                    Lenny Hayes        hardiegrant
 Nine Lives                               Adam Ramanauskas   Penguin
 Bomber                                   Mark Thompson      Penguin
 Reading the Play                         James Hird         Macmillan
 Fletch                                   Dustin Fletcher    Macmillan
 More than a game                         ed Hess/Stewart    FremantleArts
-Yellow and Black                         Konrad Marshall    Slattery
 Hold the Line                            Matthew Scarlett   Macmillan
 Roo                                      Mark Riccuto       Macmillan
 The Convert                              Peter Lewis        Macmillan
 A Wink from the Universe (WBLDG 2016)    Martin Flanagan    Penguin
 Here it is                               Paul Roos          Penguin
-Sacked Coach                             Stan Alves         CrownContent
 Eddie (McGuire)                          Michael Bodey      hachette
 Play On! (Women's Aussie Rules)          Lenkic/Hess        echo
 Thrown (MMA fighters)                    Kerry Howley       Penguin
