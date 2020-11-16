@@ -2,14 +2,3 @@ name: AFL
 label: 2019030703
 description: AFL books
 
-Open Mike                                    Mike Sheahan        Slattery
-Jim Stynes: My Journey                       Jim Stynes          Penguin
-The Champions                                Ben Collins         Slattery
-Plugger and the Mighty Swans                 Jim Main            Macmillan
-Micky O                                      Michael O'Loughlin  ABC
-My Life                                      Tony Lockett        Macmillan
-The Truth Hurts                              Wayne Carey         Macmillan
-Fev: In my Own Words                         Brendan Fevola      HardieGrant
-All Bets are Off                             David Schwarz       HardieGrant
-Night Games                                  Anna Krien          BlackInc
-The Centurions                               Brian Hansen        BrianHansen
