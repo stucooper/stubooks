@@ -19,7 +19,6 @@ A Short History of English Literature 3e        Evans            Pelican
 The Theory of the Modern Stage                  ed Bentley       Pelican
 Mathematics in Western Culture                  Kline            Pelican
 Facts from Figures                              Moroney          Pelican
-The Psychology of Consciousness                 Ornstein         Pelican
 Domesticated Brain                              Hood             Pelican
 Economics: The User's Guide                     Chang            Pelican
 Outliers                                        Gladwell         Penguin
@@ -35,3 +34,4 @@ Heart of Darkness                               Joseph Conrad    Penguin
 Utzon and the Sydney Opera House                Daryl Dellora    Penguin
 The End of the Party (UK Labour)                Andrew Rawnsley  Penguin
 French Toast                                    Peta Mathias     Penguin
+Consider the Fork                               Bee Wilson       Penguin
