@@ -5,8 +5,6 @@ description: Politics, US and Australia
 Politics Lost                            Joe Klein              doubleday
 Top Price                                Matt Price             HarperCollins
 Nixon and Kissinger                      Robert Dallek          Harper
-Triumph and Demise                       Paul Kelly             MUP
-Blaming Ourselves                        ed Melleuish           DuffySnellgrove
 When we were young and foolish           Greg Sheridan          AllenUnwin
 Kissinger 1923-1968: The Idealist               Niall Ferguson      Penguin
 Cast of Characters: Golden Age of the New Yorker Thomas Vinciguerra Norton
@@ -15,5 +13,4 @@ Life Stories: Profiles from The New Yorker      ed Remnick          Modern
 Style Manual for authors, editors and printers  AusGovt             AGPS
 Proust bio                                      Edmund White        W&N
 Pandora's Box: Life's little nasties            Dr Cindy Pan        HarperColl
-The White Deer                                  James Thurber       Penguin
 igNobel Prizes                                  Marc Abrahams       Orion
