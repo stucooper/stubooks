@@ -2,8 +2,3 @@ name: PLAYS GBS JAMES JOYCE
 label: 2019030603
 description: Joyce books plus some Bernard Shaw
 
-Overture Opera Guide: La Boheme   Puccini               OOG
-OOG: Midsummer night's dream      Britten               OOG
-OOG: Don Giovanni                 Mozart                OOG
-OOG: Carmen                       Bizet                 OOG
-Ulysses                           James Joyce           Penguin
