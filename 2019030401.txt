@@ -5,11 +5,7 @@ description: Evelyn Waugh and Peter Carey
 Brideshead Revisited                Evelyn Waugh              Penguin
 Sword of Honour                     Evelyn Waugh              Penguin
 Nancy Mitford Omnibus               Nancy Mitford             Penguin
-Tax Inspector                       Peter Carey               UQP
-Unusual Life of Tristan Smith       Peter Carey               UQP
-Illywhacer                          Peter Carey               Faber
 Wrong About Japan                   Peter Carey               Faber
-Bliss                               Peter Carey               Picador
 A Room with a View                  E M Forster               Penguin
 Howard's End                        E M Forster               Penguin
 Rubicon                             Tom Holland               Abacus
