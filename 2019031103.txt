@@ -2,10 +2,3 @@ name: CLASSICAL MUSIC
 label: 2019031103
 description: books on Classical Music esp Opera
 
-The Operas of Puccini                      William Ashbrook Oxford
-The Joy of Music                           Leonard Bernstein W&N
-Instrumental                               James Rhodes     Canongate
-Sviatoslav Richter: Notebooks, Conversations Bruno Monsaingeon Faber
-Piano Notes (hb)                           Charles Rosen    Penguin
-Glenn Gould (hb)                           Mark Kingwell    Penguin
-Britten                                    David Matthews   Haus
