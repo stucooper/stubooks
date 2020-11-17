@@ -2,9 +2,6 @@ name: CLASSICAL MUSIC
 label: 2019031103
 description: books on Classical Music esp Opera
 
-Universe Opera Guide Don Giovanni/Idomeneo Mozart           Universe
-Universe Opera Guide NozzeFigaro/Cosi fan Tutte Mozart           Universe
-Universe Opera Guide Zauberflote/Entfuhrung     Mozart           Universe
 The Operas of Puccini                      William Ashbrook Oxford
 The Joy of Music                           Leonard Bernstein W&N
 Instrumental                               James Rhodes     Canongate
