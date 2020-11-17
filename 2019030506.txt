@@ -2,16 +2,3 @@ name: SHRIVER FORD VARIOUS
 label: 2019030506
 description: Fiction books
 
-We need to talk about Kevin      Lionel Shriver           SerpentsTail
-The Post Birthday World          Lionel Shriver           FourthEstate
-The Mandibles                    Lionel Shriver           boroughPress
-So much for that                 Lionel Shriver           boroughPress
-Cbecker and the Derailleurs      Lionel Shriver           boroughPress
-The Female of the Species        Lionel Shriver           boroughPress
-Game Control                     Lionel Shriver           boroughPress
-Leviathan: Bio of Sydney         John Birmingham          Vintage
-The Sex Diaries                  Bettina Arndt            MUP
-Leonardo da Vinci                Walter Isaacson          SimonShuster
-On Shakespeare                   John Bell                AllenUnwin
-Utterly Exasperated Hist Britain John O'Farrell           doubleday
-Fugitive Pieces                  Anne Michaels            bloomsbury
