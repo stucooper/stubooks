@@ -11,7 +11,6 @@ Illegal Harmonies                        Andrew Ford        ABC
 The Sound of Pictures                    Andrew Ford        BlackInc
 A Natural History of the Piano           Stuart Isacoff     souvenir
 Percy Grainger bio                       John Bird          currency
-Believing in Opera                       Tom Sutcliffe      faber
 Inside Music                             Karl Haas          ABC
 When the Music Stops                     Norman Lebrecht    pocket
 The Maestro Myth                         Norman Lebrecht    pocket
@@ -19,5 +18,4 @@ Beethoven bio                            Martin Geck        haus
 Gershwin bio                             Ruth Leon          haus
 Verdi bio                                Barbara Meier      haus
 Prokofiev bio                            Thomas Schipperges haus
-Eileen Joyce bio                         Richard Davis      fremantle art
 The book of David (Helfgott)             Beverley Eley      HarperCollins
