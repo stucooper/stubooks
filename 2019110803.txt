@@ -18,7 +18,6 @@ underground                            Suelette Dreyfus       Mandarin
 50 ways to make google love your website johnston/mcGee       rhBusiness
 Smarter than you think                 Clive Thompson         WilliamCollins
 Fatal System Error                     Joseph Menn            publicAffairs
-Wired Life                             Charles Jonscher       anchor
 geek Silicon Valley (travel guide)     ashlee vance           GlobePequor
 geek wisdom                            various                Quirk
 QR Codes kill kittens                  Scott Stratten         Wiley
@@ -29,6 +28,5 @@ High Noon on the Electronic Frontier   ed Ludlow              MITP
 How to Fix the Future                  Andrew Keen            Atlantic
 net.wars                               Wendy M.Grossman       NewYorkUniversity
 Sources of Power                       Gary Klein             MITP
-AI: Mirrors for the Mind               Harry Henderson        ChelseaHouse
 The Dark Net                           Jamie Bartlett         Windmill
 Radicals: Outsides Changing the World  Jamie Bartlett         WilliamHeinemann
