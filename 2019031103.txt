@@ -5,7 +5,6 @@ description: books on Classical Music esp Opera
 Universe Opera Guide Don Giovanni/Idomeneo Mozart           Universe
 Universe Opera Guide NozzeFigaro/Cosi fan Tutte Mozart           Universe
 Universe Opera Guide Zauberflote/Entfuhrung     Mozart           Universe
-Mozart: A Life                             Maynard Solomon  Pimlico
 How to enjoy Opera without really trying   John Cargher     ABC
 The Operas of Puccini                      William Ashbrook Oxford
 The Joy of Music                           Leonard Bernstein W&N
@@ -13,6 +12,5 @@ Instrumental                               James Rhodes     Canongate
 Sviatoslav Richter: Notebooks, Conversations Bruno Monsaingeon Faber
 Piano Notes (hb)                           Charles Rosen    Penguin
 Glenn Gould (hb)                           Mark Kingwell    Penguin
-Mozart and His Operas                      David Cairns     Penguin
 Britten                                    David Matthews   Haus
 Britten's Children                         John Bridcut     faber
