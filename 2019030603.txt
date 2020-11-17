@@ -2,9 +2,6 @@ name: PLAYS GBS JAMES JOYCE
 label: 2019030603
 description: Joyce books plus some Bernard Shaw
 
-The Complete Bernard Shaw plays   George Bernard Shaw   PaulHamlyn
-The Ulysses (Tour) Guide          Robert Nicolson       Routledge
-David Williamson: Writer's career Brian Kiernan         Heinemann
 Overture Opera Guide: La Boheme   Puccini               OOG
 OOG: Midsummer night's dream      Britten               OOG
 OOG: Don Giovanni                 Mozart                OOG
