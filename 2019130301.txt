@@ -2,8 +2,6 @@ name: CLASSICAL MUSIC
 label: 2019130301
 description: Composer bios mostly
 
-Johannes Brahms bio                      Jan Swafford       Knopf
-Give me excess of it                     Richard Gill       MacMillan
 George Gershwin bio                      Edward Jablonski   SimonSchuster
 Sergei Prokofiev bio                     Victor Seroff      LesleFrewin
 Prokofiev: Materials/Articles/Interviews various            Progress(soviet)
@@ -13,9 +11,7 @@ Illegal Harmonies                        Andrew Ford        ABC
 The Sound of Pictures                    Andrew Ford        BlackInc
 A Natural History of the Piano           Stuart Isacoff     souvenir
 Percy Grainger bio                       John Bird          currency
-There's Music in My Madness              John Cargher       ABC
 Believing in Opera                       Tom Sutcliffe      faber
-Simon Rattle bio                         Nicholas Kenyon    faber
 Inside Music                             Karl Haas          ABC
 When the Music Stops                     Norman Lebrecht    pocket
 The Maestro Myth                         Norman Lebrecht    pocket
