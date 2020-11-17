@@ -21,8 +21,6 @@ A Short History of English Literature 3e        Evans            Pelican
 The Theory of the Modern Stage                  ed Bentley       Pelican
 Mathematics in Western Culture                  Kline            Pelican
 The Theory of Evolution                         MaynardSmith     Pelican
-In a Critical Condition Aus Lit                 Docker           Pelican
-The Long Revolution                             Williams         Pelican
 Facts from Figures                              Moroney          Pelican
 The Psychology of Consciousness                 Ornstein         Pelican
 Domesticated Brain                              Hood             Pelican
@@ -30,7 +28,6 @@ Economics: The User's Guide                     Chang            Pelican
 Outliers                                        Gladwell         Penguin
 The Case of the Pope                            Robertson        PengSpecial
 The Prize oil, money                            Yergin           pocket
-The Rational Optimist                           Ridley           HarperPerennial
 Gomorrah                                        Saviano          Pan
 The Origins of the 2nd World War                Taylor           Penguin
 The Signal and the Noise                        Nate Silver      Penguin
