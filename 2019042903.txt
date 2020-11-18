@@ -2,22 +2,14 @@ name: HUMOUR
 label: 2019042903
 description: HUMOUR
 
-Complete Prose of Woody Allen                Allen              Wings
-Without Feathers                             Allen              Sphere
 Stark                                        Elton              Sphere
 Land of Green Ginger                         Langley            Puffin
 1066 and all that                            Sellar/Yeatman     penguin
-Lolly Scramble                               Tony  Martin       Pan
-A Nest of Occasionals                        Tony  Martin       Picador
-The Hell of it All                           Brooker            faber
-Dawn of the Dumb                             Brooker            faber
 Dave Barry is from Mars and Venus            Barry              Crown
 tricky business                              Barry              putnam
 I'll Mature When I'm Dead                    Barry              BerkleyBooks
 Dave Barry is not taking this sitting down   Barry              Ballantine
 Dave Barry in Cyberspace                     Barry          Fawcett Columbine
 Born standing up                             Steve Martin       pocket
-things snowball                              Hall               abacus
-Princess Bride                               Goldman            bloomsbury
 Kick Ass (columns)                      Carl Hiaasen            UPFlorida
 Fairway to Hell                         Carl Hiaasen            Bantam
