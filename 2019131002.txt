@@ -4,15 +4,9 @@ description: Sports books
 
 The Cricket War                   Gideon Haigh            text
 The Summer Game                   Gideon Haigh            ABC
-Playing Through                   Earl Woods              HarperCollins
 Unplayable                        Tiger Woods             SimonSchuster
 Harvey Penick's Little Red Book   Harvey Penick           SimonSchuster
 Serious                           John McEnroe            timewarner
-McEnroe                           Richard Evans           bloomsbury
-On Warne                          Gideon Haigh            Penguin
 King of the World                 David Remnick           Picador
-And God Created Cricket           Simon Barnes            BlackSwan
 Eddie Charlton Book of Snooker    Eddie Charlton          Viking O'Neil
 How to be really interesting      Steve Davis             Penguin
-Bradman's War                     Malcolm Knox            Penguin
-The Hurricane                     Alex Higgins            Atlantic
