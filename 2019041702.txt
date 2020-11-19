@@ -3,9 +3,6 @@ label: 2019041702
 description: Just about all non-bio Dickens I have
 
 Dickens at Christmas hb             Dickens            Vintage
-Christmas Books Vol 1               Dickens            Mandarin
-Christmas Books Vol 2               Dickens            Mandarin
-Martin Chuzzlewit                   Dickens            Mandarin
 Bleak House                         Dickens            PenguinBlackClassics
 Our Mutual Friend                   Dickens            PenguinBlackClassics
 A Christmas Carol, Xmas writings    Dickens            PenguinBlackClassics
