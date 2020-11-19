@@ -21,13 +21,3 @@ The Wrong Side of Goodbye              Connelly          AllenUnwin
 The Late Show                          Connelly          AllenUnwin
 Two Kinds of Truth                     Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
-Six books: Jungle,Jungle2,JustSo,Puck,Stalky,Kim Kipling Heinemann
-Kim                                    Kipling           PenguinSilverClassics
-JustSoStories                          Kipling           PenguinYellowClassics
-The Light that Failed                  Kipling           PenguinYellowClassics
-The Jungle Books                       Kipling           PenguinYellowClassics
-Plain Tales from the Hills             Kipling           Wordsworth
-The Complete Stalky & Co               Kipling           Oxford
-Captains Courageous                    Kipling           Macmillan
-A Diversity of Creatures               Kipling           Macmillan
-A Diversity of Creatures               Kipling           PenguinYellowClassics
