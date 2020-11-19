@@ -5,16 +5,12 @@ description: Vintage Classics
 Power without Glory               Frank Hardy             Vintage
 The Old Devils                    Kingsley Amis           Vintage
 The Wind-Up Bird Chronicle        Haruki Murakami         Vintage
-Why read the Classics?            Italo Calvino           Vintage
 Proust Vol1: Swann's Way          Marcel Proust           Vintage
 Proust Vol2: Budding Grove        Marcel Proust           Vintage
 Proust Vol3: Guermantes Way       Marcel Proust           Vintage
 Proust Vol4: Sodom and Gomorrah   Marcel Proust           Vintage
 Proust Vol5: Captive/Fugitive     Marcel Proust           Vintage
 Proust Vol6: Regained/Guide       Marcel Proust           Vintage
-The Handmaid's Tale               Margaret Attwood        Vintage
-Edith Wharton                     Edith Wharton           LibraryOfAmerica
-William Faulkner                  William Faulkner        LibraryOfAmerica
-Hermann Melville                  Hermann Melville        LibraryOfAmerica
+The Handmaid's Tale               Margaret Attwood        Vintage (CMC)
 Alice in Wonderland               Lewis Carroll           PenguinClassics (hb)
 Madame Bovary                     Gustave Flaubert        PenguinClassics (hb)
