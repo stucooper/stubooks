@@ -2,7 +2,3 @@ name: HISTORY AND BIOS
 label: 2019110701
 description: History books and bios
 
-Menzies and Churchill at War             David Day             AngusRobertson
-Modern Times Modern Places               Peter Conrad          ThomasHudson
-Six Minutes in May                       Nicholas Shakespeare  HarvillSecker
-History of England IV: Revolution        Peter Ackroyd         Macmillan
