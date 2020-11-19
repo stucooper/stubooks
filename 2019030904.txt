@@ -2,14 +2,8 @@ name: PENG CLASSICS
 label: 2019030904
 description: Penguin Classics
 
-Middlemarch                        George Eliot            Penguin
-Prisoner of Zenda/Rupert Hentzau   Anthony Hope            Penguin
-Connecticut Yankee King Arthurs Court Mark Twain           Penguin
 The Odyssey                        Homer (E V Rieu)        Penguin
-Madame Bovary                      Gustave Flaubert        Penguin
-Against Nature                     J-K Huysmans            Penguin
 Gambler/Bobok/NastyStory           Fyodor Dostoyevsky      Penguin
-Kidnapped                          Robert Louis Stevenson  Penguin
 Monkey                             Arthur Waley            Penguin
 The Brothers Karamazov                   Dostoyevsky (McDuff)    Penguin
 A Short History of the World             H G Wells               Penguin
@@ -17,7 +11,6 @@ Under Western Eyes                       Joseph Conrad           Penguin
 The Prince                               Niccolo Machiavelli     Penguin
 The Portable Conrad                      Joseph Conrad           Penguin
 Complete Poems                           Walt Whitman            Penguin
-Democracy in America                     Alexis de Tocqueville   Penguin
 Nutcracker/Mouse King                    Hoffman/Dumas           Penguin
 Pinocchio                                Carlo Collodi           Penguin
 Treasure Island                          Robert Louis Stephenson Penguin
@@ -29,5 +22,3 @@ Stardust                                      Kanon          SimonSchuster
 Istanbul Passage                              Kanon          SimonSchuster
 Leaving Berlin                                Kanon          SimonSchuster
 Rising Sun                                    Crichton       Ballantine
-Playback                                      Chandler       PenguinGreen
-The Thin Man                                  Hammett        PenguinGreen
