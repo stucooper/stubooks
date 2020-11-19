@@ -1,4 +1,0 @@
-name: HST PJ O'Rourke
-label: 2019030102
-description: Hunter S Thompson, P J O'Rourke
-
