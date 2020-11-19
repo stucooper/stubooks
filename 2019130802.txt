@@ -2,12 +2,8 @@ name: CREAMY PENGUINS
 label: 2019130802
 description: Creamy Penguins
 
-Thinking Fast and Slow        Daniel Kahneman    Penguin
 Zero Zero Zero                Roberto Saviano    Penguin
 The Undoing Project           Michael Lewis      Penguin
-Scarcity                      Mullainathan/Shafir Penguin
-Freakonomics                  Levitt/Dubner       Penguin
-Winter King                   Thomas Penn         Penguin
 The Craftsman                 Richard Sennett     Penguin
 The Road to Character         David Brooks        Penguin
 The Party (Communist China)   Richard McGregor    Penguin

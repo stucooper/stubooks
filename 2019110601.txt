@@ -4,7 +4,6 @@ description: Non-fiction creamy Penguins
 
 The Candy Machine (cocaine)         Tom Feiling            Penguin
 The Ottoman Endgame                 Sean McMeekin          Penguin
-Winter King (Henry VII)             Thomas Penn            Penguin
 The Last Man in Russia              Oliver Bullough        Penguin
 Postcapitalism                      Paul Mason             Penguin
 The Invention of Science            David Wootton          Penguin
