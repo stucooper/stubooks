@@ -2,3 +2,15 @@ name: PETER ACKROYD
 label: 2019122703
 description: Books mostly by Peter Ackroyd
 
+Sendmail 2e                     Costales/Allman          ORA
+Computer Science Modern Introduction Goldschlager/Lister PTR
+System Performance Tuning 1e    Loukides                 ORA
+GIMP Essential Reference        Harford                  NewRiders
+Essential GIMP Web Professionals Hammel                  PTR
+Intro to Automata Theory Computation Hopcroft/Ullman     Narosa
+Mac OSX for Unix Geeks          Jepson/Rothman           ORA
+Mac OSX Tiger for Unix Geeks    Jepson/Rothman           ORA
+Computation Finite Infinite Machines Minsky              PTR
+Condensed Pascal                Cooper                   Norton
+Computer User's Survival Guide  Stigliani                ORA
+Essential XML Web Professionals Livingston               PTR
