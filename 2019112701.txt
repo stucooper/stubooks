@@ -2,19 +2,12 @@ name: VARIOUS
 label: 2019112701
 description: Various books
 
-Classic Lewis Carroll                      Lewis Carroll       PenguinIndia
 White                                      Bret Easton Ellis   Picador
-Double Take                                Kendall Talbot      Harlequin
-The Wire: Truth be Told                    Rafael Alvarez      Canongate
 Mud Crab Boogie/Goodoo/Wind and the Monkey Roger Barrett       HarperCollins
 The Playful Brain (Puzzles improve minds)  Richard Restak      Riverhead
-The Human Advantage                        Suzana Houzel       MITP
 The Introvert Advantage                    Marti Laney         Workman
-Silent Spring                              Rachel Carson       Penguin
 Bohemians and the Bulletin                 Norman Lindsay      A&R
 Combatting Cult Mind Control               Steven Hassan       ParkStreet
 Plenty more fish in the CBD                 David Rhind/Neal        RHNewZeal
-Playing the Moldovians at Tennis            Tony Hawks              ebury
-Lost at Sea                                 Jon Ronson              Picador
 What a croc!                                NT News                 hachette
 150 Great Australian Beers                  James Smith             hardieGrant
