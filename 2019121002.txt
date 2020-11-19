@@ -4,7 +4,6 @@ description: Small flat box of various books
 
 A is for Armageddon                       Richard Horne        SquarePeg
 If you don't mind Umpire! (AFL)           Brian Hansen/Dyer    Hansen
-Shiprocked                                Steve Conway         Liberties
 Borders Up!                               Vitali Vitaliev      Scribner
 Enchantress of Florence                 Salman Rushdie       JonathanCape
 Shalimar the Clown                    Salman Rushdie        JonathanCape
