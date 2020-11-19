@@ -4,11 +4,8 @@ description: small Penguin Classics, many of which I've read already
 
 The Idiot                         Fyodor Dostoyevsky      Penguin
 Adventures of Huckleberry Finn    Mark Twain              Penguin
-History of the Peloponnesian War  Thuycides               Penguin
-Crime and Punishment              Fyodor Dostoyevsky      Penguin
 Adventures of Tom Sawyer          Mark Twain              Penguin
 Gulliver's Travels                Jonathan Swift          Penguin
-Chekov Plays                      Anton Chekov            Penguin
 Robinson Crusoe                   Daniel Defoe            Penguin
 Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
 Peer Gynt                         Henrik Ibsen            Penguin
@@ -17,14 +14,11 @@ Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
 Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
 Lord Jim                          Joseph Conrad           Penguin
 Pride and Prejudice               Jane Austen             Penguin
-Paradise Lost                     John Milton             Penguin
 De Profundis etc.                 Oscar Wilde             Penguin
-Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin
+Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin (CMC)
 Crime and Punishment                Fyodor Dostoyevsky        Vintage
 Homer: The Iliad                    Robert Fagles             Penguin
-Mozart: A Life in Letters           Mozart                    Penguin
 Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
-Voyage of the Beagle                Charles Darwin            Penguin
 Ruba'iyat of Omar Khayyam           Omar Khayyam              Penguin
 The Canterbury Tales                Geoffrey Chaucer          Penguin
 The House of the Dead               Fyodor Dostoyevsky        Penguin
