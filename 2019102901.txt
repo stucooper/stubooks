@@ -4,15 +4,10 @@ description: various books
 
 china modern (cookbook)                  ching-he huang        kylebooks
 The Office: A Hardworking History        Gideon Haigh          Miegunyah
-This Fabulous Century                    Peter Luck            NewHolland
 The Foodie Handbook                      Techamuanvivit        Conran
 Tools: A Field Guide                     Dodds                 ABC
 Fantastic Home Maintenance Manual        Paul                  Aurum
 The Catcher in the Rye                   Salinger              Penguin
-Behind the Candelabra                    Thorson               HeadZeus
-You don't have to be born brilliant      McGrath               Hodder
 Things Bogans Like                       various               hachette
-Five People you meet in heaven           Albom                 timewarner
 Gittinomics                              Gittins               AllenUnwin
-1066 and all that (illustrated)          Sellar/Yeatman        AllanSutton
 
