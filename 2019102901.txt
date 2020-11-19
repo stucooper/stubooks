@@ -3,7 +3,6 @@ label: 2019102901
 description: various books
 
 china modern (cookbook)                  ching-he huang        kylebooks
-The Office: A Hardworking History        Gideon Haigh          Miegunyah
 The Foodie Handbook                      Techamuanvivit        Conran
 Tools: A Field Guide                     Dodds                 ABC
 Fantastic Home Maintenance Manual        Paul                  Aurum
