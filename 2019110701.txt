@@ -1,4 +1,0 @@
-name: HISTORY AND BIOS
-label: 2019110701
-description: History books and bios
-
