@@ -2,8 +2,3 @@ name: PETER ACKROYD
 label: 2019122703
 description: Books mostly by Peter Ackroyd
 
-Dickens (hb)                     Peter Ackroyd              SinclairStevenson
-The Canterbury Tales Chaucer     Peter Ackroyd              Viking
-The Richard Burton Diaries       ed Chris Williams          YaleUniversity
-History of England Vol 1 Foundation  Peter Ackroyd          Macmillan
-History of England Vol 2 Tudors      Peter Ackroyd          Macmillan
