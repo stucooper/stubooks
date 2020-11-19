@@ -2,22 +2,16 @@ name: DUNE AND SCI-FI
 label: 2019112801
 description: Sci fi books
 
-The Quanderhorn Xperimentations              Rob Grant/Marshall      Gollancz
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
-Shampoo Planet                               Douglas Coupland        WSP
-Norse Mythology                              Neil Gaiman             bloomsbury
 Miss Wyoming                                 Douglas Coupland        Flamingo
 God Emperor of Dune                          Frank Herbert           NewEnglish
 Chapter House Dune                           Frank Herbert           NewEnglish
 King Rat                                     China Mieville          Pan
 Embassytown                                  China Mieville          Pan
-Girlfriend in a Coma                         Douglas Coupland        Flamingo
-Hey Nostradamus!                             Douglas Coupland        VintageCan
 Northern Lights                              Philip Pullman          Scholastic
 The Subtle Knife                             Philip Pullman          Scholastic
 The Amber Spyglass                           Philip Pullman          Scholastic
-Minority Report (vol 4 stories)              Philip K Dick           Millenium
 Foundation                                   Isaac Asimov            HarperColl
 Foundation and Empire                        Isaac Asimov            HarperColl
 Second Foundation                            Isaac Asimov            HarperColl
