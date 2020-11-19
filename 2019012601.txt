@@ -2,7 +2,3 @@ name: VARIOUS
 label: 2019012601
 description: Various books
 
-Weird Maths                                   Darling/Banerjee      OneWorld
-The Secret Life: Three Essays                 Andrew O'Hagan        Faber
-Bombadiers                                    Po Bronson            Penguin
-Junk Mail                                     Will Self             bloomsbury
