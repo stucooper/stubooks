@@ -4,7 +4,6 @@ description: Vintage Classics
 
 Power without Glory               Frank Hardy             Vintage
 The Old Devils                    Kingsley Amis           Vintage
-The Wind-Up Bird Chronicle        Haruki Murakami         Vintage
 Proust Vol1: Swann's Way          Marcel Proust           Vintage
 Proust Vol2: Budding Grove        Marcel Proust           Vintage
 Proust Vol3: Guermantes Way       Marcel Proust           Vintage
