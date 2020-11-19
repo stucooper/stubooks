@@ -3,12 +3,9 @@ label: 2019031001
 description: Vintage Classics
 
 Power without Glory               Frank Hardy             Vintage
-The Complete Enderby              Anthony Burgess         Vintage
 The Old Devils                    Kingsley Amis           Vintage
 The Wind-Up Bird Chronicle        Haruki Murakami         Vintage
-Catch-22                          Joseph Heller           Vintage
 Why read the Classics?            Italo Calvino           Vintage
-Doctor Zhivago                    Boris Pasternak         Vintage
 Proust Vol1: Swann's Way          Marcel Proust           Vintage
 Proust Vol2: Budding Grove        Marcel Proust           Vintage
 Proust Vol3: Guermantes Way       Marcel Proust           Vintage
