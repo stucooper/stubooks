@@ -3,9 +3,7 @@ label: 2019030901
 description: Penguin Classics
 
 The Prodigy                        Hermann Hesse           Penguin
-Gertrude                           Hermann Hesse           Penguin
 American Notes                     Charles Dickens         Penguin
-The Voyage of Argo                 Appolonius of Rhodes    Penguin
 Iliad of Homer                     Alexander Pope          Penguin
 Don Juan                           Lord Byron              Penguin
 The War in the Air                 H G Wells               Penguin
