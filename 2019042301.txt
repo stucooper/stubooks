@@ -3,7 +3,6 @@ label: 2019042301
 description: science fiction
 
 Best of Philip K Dick            Dick               DelRey
-Stranger in a Strange Land       Heinlein           Hodder
 The Children of Men              P.D.James          faber
 Tron                             Daley              Hodder
 Fahrenheit 451                   Bradbury           Granada
@@ -18,8 +17,6 @@ Pattern Recognition              William Gibson     Penguin
 Spook Country                    William Gibson     Berkley
 The Naked Sun                    Asimov             Panther
 American Gods                          Gaiman          headline
-Trigger Warning                        Gaiman          headline
-The Red Men                            DeAbaitua       snowbooks
 2312                                   StanleyRobinson Orbit
 Illuminatus Trilogy                    Shea/Wilson     dontcare
 Brave New World                        Huxley          Granada
@@ -27,8 +24,6 @@ Brave New World Revisited              Huxley          Granada
 Doctor Who Dalek Handbook              Tribe/Goss      BBC
 The Peripheral                         William Gibson          Viking
 All Tomorrows Parties                  William Gibson          Viking
-2023: A Trilogy by the JAM                  JAM                     faber
 Doctor Who: The Pirate Planet               James Goss              BBC
 The Graveyard Book                          Neil Gaiman             Harper
 Feed                                     M T Anderson        Candlewick
-The Circle                               Dave Eggers         Vintage
