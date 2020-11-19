@@ -3,10 +3,8 @@ label: 2019042604
 description: penguin non fiction
 
 Happiness by Design                    Dolan                Penguin
-Civilization                           Ferguson             Penguin
 A Shepherd's Life                      Ferguson             Penguin
 How not to be wrong                    Ellenberg            Penguin
-You aren't what you eat                Poole                Scribe
 Germany Memories of a Nation           MacGregor            Penguin
 Boomerang                              Lewis                Penguin
 I'm feeling lucky                      Edwards              Penguin
@@ -29,3 +27,5 @@ Civilization                  Niall Ferguson      Penguin
 China's War with Japan        Rana Mitter         Penguin
 1914-1918 World War 1 History          Stevenson            Penguin
 How the French Think                   Hazareesingh         Penguin
+Think like a Freak            Levitt/Dubner       Penguin
+Engineers of Victory          Paul Kennedy        Penguin
