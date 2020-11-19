@@ -2,11 +2,4 @@ name: VARIOUS
 label: 2019102901
 description: various books
 
-china modern (cookbook)                  ching-he huang        kylebooks
-The Foodie Handbook                      Techamuanvivit        Conran
-Tools: A Field Guide                     Dodds                 ABC
-Fantastic Home Maintenance Manual        Paul                  Aurum
-The Catcher in the Rye                   Salinger              Penguin
-Things Bogans Like                       various               hachette
-Gittinomics                              Gittins               AllenUnwin
 
