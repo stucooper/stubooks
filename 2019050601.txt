@@ -2,13 +2,11 @@ name: GARRETPACK
 label: 2019050601
 description: garage garrettpack books; largebox heavy
 
-The Cartographer                 Twohig                FourthEstate
 Our Dumb World                   The Onion             LittleBrown
 20 Years of Rolling Stone        ed Wenner             fontana
 Matchroom Snooker                Davis                 pelham
 Our Dumb Century                 The Onion             ThreeRivers
 Cambridge Latin Course IV        cambridge             cambridge
-South                            shackleton            Pimlico
 The Cochlear Story               Bondarew/Seligman     CSIRO
 Ulysses Annotated Student ed     Joyce                 Penguin
 Brave Heart Life Lessons         Kirk                  RandomHouse
