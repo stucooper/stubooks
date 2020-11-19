@@ -1,4 +1,0 @@
-name: SCIENCE
-label: 2019031401
-description: Science bios and History
-
