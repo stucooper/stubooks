@@ -1,4 +1,0 @@
-name: PENGUIN CLASSICS: YELLOW, SMALL
-label: 2019030903
-description: small Penguin Classics, many of which I've read already
-
