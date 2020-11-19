@@ -1,4 +1,0 @@
-name: MODERN LIT
-label: 2019031302
-description: Mostly modern literature
-
