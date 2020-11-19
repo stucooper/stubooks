@@ -21,4 +21,6 @@ Bleak House                         Dickens            PenguinYellowClassics
 Pickwick Papers                     Dickens            PenguinYellowClassics
 David Copperfield                   Dickens            PenguinYellowClassics
 Old Curiosity Shop                  Dickens            PenguinYellowClassics
-American Notes                      Dickens            Konemann
+American Notes                      Dickens            PenguinYellowClassics
+Oliver Twist                        Dickens            PenguinYellowClassics
+Great Expectations                  Dickens            PenguinYellowClassics

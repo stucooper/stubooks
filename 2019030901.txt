@@ -3,15 +3,12 @@ label: 2019030901
 description: Penguin Classics
 
 The Prodigy                        Hermann Hesse           Penguin
-American Notes                     Charles Dickens         Penguin
 Iliad of Homer                     Alexander Pope          Penguin
 Don Juan                           Lord Byron              Penguin
 The War in the Air                 H G Wells               Penguin
 Journey to the Centre of the Earth Jules Verne             Penguin
 The Man in the Iron Mask           Alexandre Dumas         Penguin
-Sketches by Boz                    Charles Dickens         Penguin
 A Passage to India                 E M Forster             Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
 Three Theban Plays                 Sophocles/Fagles        Penguin
 Twelve Caesars                     Suetonius/Graves        Penguin
-
