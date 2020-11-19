@@ -2,21 +2,4 @@ name: TEENAGERS
 label: 2019041703
 description: lighter reading and young classics
 
-Flashman and the Angel of the Lord     MacDonald Fraser   HarperCollins
-Royal Flash                            MacDonald Fraser   HarperCollins
-Flashman and the Mountain of Light     MacDonald Fraser   HarperCollins
-Flashman in the Great Game             MacDonald Fraser   HarperCollins
-Flashman's Lady                        MacDonald Fraser   HarperCollins
-Flashman/Freedom/Great Game hb         MacDonald Fraser   Everyman
-Making out in Chinese                  Daniels            Yenbooks
-Doctor Who and the Cave Monsters       Hulke              Target
-Doctor Who and the Sea Devils          Hulke              Target
-Doctor Who and the Abominable Snowmen  Dicks              Target
-Doctor Who and the Auton Invasion      Dicks              Target
-The Story of the Loch Ness Monster     Dinsdale           Target
-Schindler's List                       Keneally           Sceptre
-High Society                           Elton              BlackSwan
-Bulldog Drummond                       Sapper             Hodder
-Greenmantle                            Buchan             Hodder
-Feathered Serpent                      Wallace            Hodder
 
