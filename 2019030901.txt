@@ -1,4 +1,0 @@
-name: PENG CLASSICS
-label: 2019030901
-description: Penguin Classics
-
