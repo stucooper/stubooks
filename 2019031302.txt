@@ -2,11 +2,3 @@ name: MODERN LIT
 label: 2019031302
 description: Mostly modern literature
 
-The Other Hand                          Chris Cleave         sceptre
-Punch Down Under                     ed Barry Humphries    Robson
-Love, Sex and other Natural Disasters The Onion            Quirk
-Whiter Shades of Pale                Christian Lander      hardieGrant
-Puckoon                              Spike Milligan        Penguin
-The Compleet Molesworth              Willans/Serle         Pavilion
-Kinky Friedman Crime Club            Kinky Friedman        faber (CFORD)
-And it's Goodnight from Him          Ronnie Corbett        michaelJoseph
