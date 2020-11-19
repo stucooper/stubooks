@@ -2,10 +2,7 @@ name: War
 label: 2019030201
 description: War books
 
-Gideon's Spies (updated 2007)        Gordon Thomas          ThomasDunne
 Berlin: The Downfall                 Anton Beevor           Penguin
-Second World War: Gathering Storm    Winston Churchill      Penguin
-Second World War: Their Finest Hour  Winston Churchill      Penguin
 Stalingrad                           Antony Beevor          Penguin
 Churchill: The End of Glory          John Charmley          sceptre
 The Last Lion: WSC Defender of the Realm      Manchester/Reid       BantamNY
