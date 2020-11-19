@@ -2,9 +2,6 @@ name: CHARLES DICKENS
 label: 2019041702
 description: Just about all non-bio Dickens I have
 
-David Copperfield hb                Dickens            doubleday
-Pickwick Papers hb                  Dickens            doubleday
-Great Expectations hb               Dickens            doubleday
 Dickens at Christmas hb             Dickens            Vintage
 Christmas Books Vol 1               Dickens            Mandarin
 Christmas Books Vol 2               Dickens            Mandarin
@@ -25,5 +22,3 @@ Pickwick Papers                     Dickens            PenguinYellowClassics
 David Copperfield                   Dickens            PenguinYellowClassics
 Old Curiosity Shop                  Dickens            PenguinYellowClassics
 American Notes                      Dickens            Konemann
-Child's History of England etc      Dickens            Everyman
-The Uncommercial Traveller          Dickens            Heron
