@@ -1,4 +1,0 @@
-name: HUMPHRIES/TYNAN/VONNEGUT
-label: 2019031203
-description: Barry Humphries, Kenneth Tynan, Kurt Vonnegut
-
