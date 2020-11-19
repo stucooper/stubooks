@@ -2,23 +2,3 @@ name: PENGUIN CLASSICS: YELLOW, SMALL
 label: 2019030903
 description: small Penguin Classics, many of which I've read already
 
-The Idiot                         Fyodor Dostoyevsky      Penguin
-Adventures of Huckleberry Finn    Mark Twain              Penguin
-Adventures of Tom Sawyer          Mark Twain              Penguin
-Gulliver's Travels                Jonathan Swift          Penguin
-Robinson Crusoe                   Daniel Defoe            Penguin
-Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
-Peer Gynt                         Henrik Ibsen            Penguin
-Dolls House/LeagueYouth/LadySea   Henrik Ibsen            Penguin
-Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
-Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
-Lord Jim                          Joseph Conrad           Penguin
-Pride and Prejudice               Jane Austen             Penguin
-De Profundis etc.                 Oscar Wilde             Penguin
-Notes from Underground/The Double   Fyodor Dostoyevsky        Penguin (CMC)
-Crime and Punishment                Fyodor Dostoyevsky        Vintage
-Homer: The Iliad                    Robert Fagles             Penguin
-Barber of Seville/Marriage of Figaro Beaumarchais             Penguin
-Ruba'iyat of Omar Khayyam           Omar Khayyam              Penguin
-The Canterbury Tales                Geoffrey Chaucer          Penguin
-The House of the Dead               Fyodor Dostoyevsky        Penguin
