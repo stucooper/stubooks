@@ -14,4 +14,4 @@ Software Security                     McGraw                          AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
 Teach yourself UNIX 24 Hours          Taylor/Armstrong                SAMS
 Porting UNIX Software                 Lehey                           ORA
-A New Kind of Science                 Wolfram                         Wolfram
+A New Kind of Science                 Wolfram                         Wolfram (CMC)
