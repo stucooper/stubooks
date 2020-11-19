@@ -2,10 +2,7 @@ name: SCI-FICTION
 label: 2019042301
 description: science fiction
 
-Best of Philip K Dick            Dick               DelRey
 The Children of Men              P.D.James          faber
-Tron                             Daley              Hodder
-Fahrenheit 451                   Bradbury           Granada
 The Day of the Triffids          Wyndham            Penguin
 Chocky                           Wyndham            Penguin
 Neuromancer                      William Gibson     HarperCollins
@@ -15,7 +12,6 @@ Burning Chrome                   William Gibson     HarperCollins
 Virtual Light                    William Gibson     Penguin
 Pattern Recognition              William Gibson     Penguin
 Spook Country                    William Gibson     Berkley
-The Naked Sun                    Asimov             Panther
 American Gods                          Gaiman          headline
 2312                                   StanleyRobinson Orbit
 Illuminatus Trilogy                    Shea/Wilson     dontcare
@@ -25,5 +21,4 @@ Doctor Who Dalek Handbook              Tribe/Goss      BBC
 The Peripheral                         William Gibson          Viking
 All Tomorrows Parties                  William Gibson          Viking
 Doctor Who: The Pirate Planet               James Goss              BBC
-The Graveyard Book                          Neil Gaiman             Harper
 Feed                                     M T Anderson        Candlewick
