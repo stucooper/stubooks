@@ -3,24 +3,10 @@ label: 2019130402
 description: science fiction
 
 I, Robot                                 Isaac Asimov       Panther
-Bit Rot                                  Douglas Coupland   Heinemann
-JPod                                     Douglas Coupland   bloomsbury
-Worst.Person.Ever                        Douglas Coupland   Heinemann
-Kipps                                    H G Wells          W&N
-Love and Mr Lewisham                     H G Wells          W&N
-The History of Mr Polly                  H G Wells          W&N
-Ann Veronica                             H G Wells          W&N
-Tono-Bungay                              H G Wells          W&N
-Lord of Light                            Roger Zelazny      Gollancz
 Walkaway                                 Cory Doctorow      HeadOfZeus
-Generation X                             Douglas Coupland   Abacus
-Microserfs                               Douglas Coupland   flamingo
-The Ocean at the End of the Lane         Neil Gaiman        headline
-Blakes 7 Lucifer Genesis                 Paul Darrow        BBC
 Matt Smith: The Biography                Emily Herbert      johnBlake
 Time Machine                             Adam Spencer       Xoum
 Throwing Rocks at the Google Bus         Douglas Rushkoff   Penguin
 Doctor Who The Shooting Scripts          Russell T Davies   BBC
-Affluenza                                Oliver James        vermillion
 Geek Nation (Indian Science)             Angela Saini        Hodder
 Bull                                     Douglas Rushkoff    Sceptre
