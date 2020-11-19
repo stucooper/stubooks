@@ -1,4 +1,0 @@
-name: IT - OLD BOOKS
-label: 2019042901
-description: old IT books, rarely used
-
