@@ -2,37 +2,17 @@ name: PENGUIN SPECIALS
 label: 2019050801
 description: Penguin Specials and Pelicans
 
-The First Dismissal                             Slattery         PengSpecial
-Does Cooking Matter?                            Huntley          PengSpecial
-The Embarrassed Colonialist                     Dorney           PengSpecial
-What's wrong with Diplomacy?                    Brown            PengSpecial
-Rudd, Gillard and Beyond                        Bramston         PengSpecial
-End of the Road?                                Haigh            PengSpecial
-Reclaiming Epicurus                             Slattery         PengSpecial
-Ballots, Bullets and Kabulshit                  Ralph            PengSpecial
-The Deserted Newsroom                           Haigh            PengSpecial
-Take your best shot Gillard                     Kent             PengSpecial
-What is Science For?                            Dixon            Pelican
-Since Silent Spring                             Graham           Pan
-Mathematics for the Million                     Hogben           Pan
-A Short History of English Literature 3e        Evans            Pelican
-The Theory of the Modern Stage                  ed Bentley       Pelican
 Mathematics in Western Culture                  Kline            Pelican
 Facts from Figures                              Moroney          Pelican
 Domesticated Brain                              Hood             Pelican
 Economics: The User's Guide                     Chang            Pelican
 Outliers                                        Gladwell         Penguin
-The Case of the Pope                            Robertson        PengSpecial
-The Prize oil, money                            Yergin           pocket
 Gomorrah                                        Saviano          Pan
 The Origins of the 2nd World War                Taylor           Penguin
 The Signal and the Noise                        Nate Silver      Penguin
 The Price of Inequality                         Joseph Stiglitz  Penguin
 The Righteous Mind                              Jonathan Haidt   Penguin
 The Ascent of Money                             Niall Ferguson   AllenLane
-Heart of Darkness                               Joseph Conrad    Penguin
-Utzon and the Sydney Opera House                Daryl Dellora    Penguin
-The End of the Party (UK Labour)                Andrew Rawnsley  Penguin
 French Toast                                    Peta Mathias     Penguin
 Consider the Fork                               Bee Wilson       Penguin
 The Great Tradition                F.R.Leavis             Pelican
