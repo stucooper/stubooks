@@ -2,6 +2,3 @@ name: BIG NOVELS
 label: 2019102001
 description: Large big novels
 
-Force of Nature: Life of Linus Pauling             Hager     SimonShuster
-Cultural Amnesia                               Clive James   Norton
-One Man Show: Barry Humphries                  Pender        ABC
