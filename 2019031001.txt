@@ -1,4 +1,0 @@
-name: VINTAGE CLASSICS
-label: 2019031001
-description: Vintage Classics
-
