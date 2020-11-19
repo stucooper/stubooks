@@ -4,14 +4,10 @@ description: Sci fi books
 
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
-Miss Wyoming                                 Douglas Coupland        Flamingo
 God Emperor of Dune                          Frank Herbert           NewEnglish
 Chapter House Dune                           Frank Herbert           NewEnglish
 King Rat                                     China Mieville          Pan
 Embassytown                                  China Mieville          Pan
-Northern Lights                              Philip Pullman          Scholastic
-The Subtle Knife                             Philip Pullman          Scholastic
-The Amber Spyglass                           Philip Pullman          Scholastic
 Foundation                                   Isaac Asimov            HarperColl
 Foundation and Empire                        Isaac Asimov            HarperColl
 Second Foundation                            Isaac Asimov            HarperColl
