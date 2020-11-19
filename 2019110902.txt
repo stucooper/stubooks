@@ -2,25 +2,18 @@ name: SPORTS AHOY
 label: 2019110902
 description: Lots of sports bios and books
 
-Crossing the Line                      Wendall Sailor        SimonSchuster
-The Bloodbath (1945 VFL GF)            Ian W Shaw            Scribe
 Tea and No Sympathy                    The Grade Cricketer   AllenUnwin
 Tiger Woods bio                        Benedict/Keteyian     SimonSchuster
-Never a Gentlemen's Game               Malcolm Knox          hardiegrant
 Arlott and Trueman on Cricket          ed Phelps             BBC
-Let me tell you about Alex             John Virgo            johnBlake
 Off the track                          Barry&Alan Wood       FiveMile
 Undisputed: Golden era in Boxing       Paul Upham            ABC
 Best on Ground (AFL great writers)     various               Viking
 Fixed (Aus horseracing)                Matthew Benns         ebury
-Mayhem!                                Tim May               Macmillan
 The Establishment Boys                 Barry Nicholls        NewHolland
 Crossing the Line                      Gideon Haigh          slattery
-A Good Walk Spoiled (PGA tour)         John Feinstein        warner
 Cricket's Best ever sledges            Gershon Portnoi       SimonSchuster
 Winx                                   Trevor Marshallsea    ABC
 Life on the Racing Rollercoaster       Anthony Surace        Vivid
 Cracking the footy codes               Tony Squires          AKA
 Teach yourself snooker                 John Spencer          HodderStoughton
 Big Book of Australian Racing Stories  Jim Haynes            AllenUnwin
-Legends: Indigenous AFL Team of the Century Various          AboriginalStudies
