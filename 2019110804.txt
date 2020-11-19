@@ -1,4 +1,0 @@
-name: AUS POLITICS
-label: 2019110804
-description: Australian Politics plus bit of US
-
