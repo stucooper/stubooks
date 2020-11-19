@@ -5,16 +5,11 @@ description: penguin non fiction
 Happiness by Design                    Dolan                Penguin
 A Shepherd's Life                      Ferguson             Penguin
 How not to be wrong                    Ellenberg            Penguin
-Germany Memories of a Nation           MacGregor            Penguin
-Boomerang                              Lewis                Penguin
 I'm feeling lucky                      Edwards              Penguin
-Permanent Present Tense                Corkin               Permanent
 Flash Boys                             Lewis                Penguin
 Poor Economics                         Banerjee             Penguin
-Three Men in a Boat                    Jerome               Penguin
 Paris Secret History                   Hussey               Penguin
 Plutocrats                             Freeland             Penguin
-What Money Can't Buy                   Sandel               Penguin
 Iron Curtain                           Applebaum            Penguin
 Napoleon the Great                     Roberts              Penguin
 The Better Angels of Our Nature Stephen Pinker    Penguin
