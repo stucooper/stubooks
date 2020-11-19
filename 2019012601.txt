@@ -2,13 +2,7 @@ name: VARIOUS
 label: 2019012601
 description: Various books
 
-Future Crimes: Digital Underground            Mark Goodman          Anchor
-They eat horses: Truth about the French       Piu Marie Eatwell     StMartins
-Whiteley on Trial                             Gabriella Coslovich   MUP
-How to sound Cultured                         Hodgkinson/Bergh      icon
-Paris I love you but bringing me down         Rosecrans Baldwin     FSG NY
 Weird Maths                                   Darling/Banerjee      OneWorld
 The Secret Life: Three Essays                 Andrew O'Hagan        Faber
-The Cult Files                                Chris Mikul           Pier9
 Bombadiers                                    Po Bronson            Penguin
 Junk Mail                                     Will Self             bloomsbury
