@@ -3,11 +3,7 @@ label: 2019031302
 description: Mostly modern literature
 
 The Other Hand                          Chris Cleave         sceptre
-Bridget Jones's Diary                   Helen Fielding       Penguin
-Rivers of London                        Ben Aaronovitch      Gollancz
-In Tasmania                             Nicholas Shakespeare Vintage
 Shantaram                               Gregory David Roberts StMartins
-Werewolves in their Youth               Michael Chabon       HarperPerennial
 We need new names                    Bulawyo           ChattoWindus
 J                                    Jacobson          Vintage
 Punch Down Under                     ed Barry Humphries    Robson
