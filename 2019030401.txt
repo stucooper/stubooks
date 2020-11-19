@@ -5,9 +5,6 @@ description: Evelyn Waugh and Peter Carey
 Brideshead Revisited                Evelyn Waugh              Penguin
 Sword of Honour                     Evelyn Waugh              Penguin
 Nancy Mitford Omnibus               Nancy Mitford             Penguin
-Wrong About Japan                   Peter Carey               Faber
-A Room with a View                  E M Forster               Penguin
-Howard's End                        E M Forster               Penguin
 Rubicon                             Tom Holland               Abacus
 Goodbye to All That                 Robert Graves             Penguin
 Leviathan: Bio of Sydney         John Birmingham          Vintage
@@ -15,4 +12,3 @@ The Sex Diaries                  Bettina Arndt            MUP
 Leonardo da Vinci                Walter Isaacson          SimonShuster
 On Shakespeare                   John Bell                AllenUnwin
 Utterly Exasperated Hist Britain John O'Farrell           doubleday
-Fugitive Pieces                  Anne Michaels            bloomsbury
