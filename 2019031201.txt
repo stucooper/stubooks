@@ -2,11 +2,6 @@ name: SHAKESPEARE (NON-RSC)
 label: 2019031201
 description: Shakespeare editions, non-RSC
 
-Four Comedies (Taming/Dream/AsYou/Twelfth) Shakespeare      Penguin
-Four Histories (Rich2/Henry4Pt1/Henry4Pt2/HenryV) Shakespeare Penguin
-Four Tragedies (Haml/Othello/Lear/Macbeth) Shakespeare      Penguin
-Three Roman PLays (JuliusC/AnthonyCleo/Coriol) Shakespeare  Penguin
-Sonnetts and a Lover's Complaint           Shakespeare      Penguin
 The Tempest                                Shakespeare      Cambridge
 Hamlmet                                    Shakespeare      Cambridge
 King Lear                                  Shakespeare      Cambridge

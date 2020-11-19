@@ -19,3 +19,8 @@ A Passage to India                 E M Forster             Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
 Three Theban Plays                 Sophocles/Fagles        Penguin
 Twelve Caesars                     Suetonius/Graves        Penguin
+Four Comedies (Taming/Dream/AsYou/Twelfth) Shakespeare      Penguin
+Four Histories (Rich2/Henry4Pt1/Henry4Pt2/HenryV) Shakespeare Penguin
+Four Tragedies (Haml/Othello/Lear/Macbeth) Shakespeare      Penguin
+Three Roman PLays (JuliusC/AnthonyCleo/Coriol) Shakespeare  Penguin
+Sonnetts and a Lover's Complaint           Shakespeare      Penguin
