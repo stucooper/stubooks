@@ -4,13 +4,10 @@ description: garage garrettpack books; largebox heavy
 
 Our Dumb World                   The Onion             LittleBrown
 20 Years of Rolling Stone        ed Wenner             fontana
-Matchroom Snooker                Davis                 pelham
 Our Dumb Century                 The Onion             ThreeRivers
 Cambridge Latin Course IV        cambridge             cambridge
 The Cochlear Story               Bondarew/Seligman     CSIRO
 Ulysses Annotated Student ed     Joyce                 Penguin
 Brave Heart Life Lessons         Kirk                  RandomHouse
 Disrupted start-up bubble        Lyons                 hachette
-Charles Dickens a Life           Tomlin                Tomlin
-Real Time Rendering              Moller/Haines         AKPeters
 

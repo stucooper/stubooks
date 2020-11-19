@@ -13,3 +13,4 @@ Mac OSX Tiger for Unix Geeks    Jepson/Rothman           ORA
 Condensed Pascal                Cooper                   Norton
 Computer User's Survival Guide  Stigliani                ORA
 Essential XML Web Professionals Livingston               PTR
+Real Time Rendering              Moller/Haines         AKPeters
