@@ -1,4 +1,0 @@
-name: WAUGH CAREY
-label: 2019030401
-description: Evelyn Waugh and Peter Carey
-
