@@ -2,33 +2,3 @@ name: HST PJ O'Rourke
 label: 2019030102
 description: Hunter S Thompson, P J O'Rourke
 
-The Great Shark Hunt                  Hunter S Thompson  Picador
-Songs of the Doomed                   Hunter S Thompson  Picador
-Generation of Swine                   Hunter S Thompson  Picador
-Fear and Loathing in Las Vegas        Hunter S Thompson  Flamingo
-Hell's Angels                         Hunter S Thompson  Penguin
-Republican Party Reptile              P.J. O'Rourke      Picador
-Holidays in Hell                      P.J. O'Rourke      Picador
-Give War a Chance                     P.J. O'Rourke      Picador
-Bachelor Home Companion               P.J. O'Rourke      Picador
-Age and Guile Beat Youth, Innocence   P.J. O'Rourke      Picador
-All the Trouble in the World          P.J. O'Rourke      Picador
-The CEO of the Sofa                   P.J. O'Rourke      Picador
-Driving Like Crazy                    P.J. O'Rourke      Atlantic
-Don't Vote! It just encourages        P.J. O'Rourke      Atlantic
-The Baby Boom                         P.J. O'Rourke      Atlantic
-None of My Business                   P.J. O'Rourke      Atlantic
-On the Wealth of Nations              P.J. O'Rourke      AllenUnwin
-(Philip) Roth Unbound                 Claudoa Roth Pierpoint JonathanCape
-Portnoy's Complaint                   Philip Roth        Vintage
-American Pastoral                     Philip Roth        Vintage
-The Plot Against America              Philip Roth        Vintage
-The Human Stain                       Philip Roth        Vintage
-Goodbye Columbus                      Philip Roth        Penguin
-Promiscuous: Portnoy's Complaint etc. Bernard Avishai    Yale
-Annotated Lolita              Nabokov                   PenguinSilverClassics
-Doctor Faustus                Mann                      Penguin20CClassics
-Nostromo                      Conrad                    Oxford
-feeding frenzy                Will Self                 Viking
-Vernon God Little             Pierre                    Faber
-Lights out in Wonderland      Pierre                    Faber
