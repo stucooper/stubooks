@@ -5,11 +5,6 @@ description: Black Penguin Classics
 Plays Unpleasant                  George Bernard Shaw       PengClassics
 Sense and Sensibility             Jane Austen               PengClassics
 Emma                              Jane Austen               PengClassics
-The Arabian Nights Vol 1          Malcolm C Lyons           PengClassics
-The Arabian Nights Vol 2          Malcolm C Lyons           PengClassics
-The Arabian Nights Vol 3          Malcolm C Lyons           PengClassics
 The Phantom of the Opera          Gaston Leroux             PengClassics
-The Descent of Man                Charles Darwin            PengClassics
 Vanity Fair                       Willaim Thackeray         PengClassics
-Nights with Uncle Remus           Joel Chandler Harris      PengClassics
 Crime and Punishment              Fyodor Dostoyevsky        PengClassics
