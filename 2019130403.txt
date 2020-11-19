@@ -2,7 +2,6 @@ name: PENG CLASSICS
 label: 2019130403
 description: Penguin Classics, both black and yellow
 
-Three Gothic Novels (Otranto/Vathek/Frankenstein)          PengClassics
 Howard's End                            E M Forster        PengClassics
 Northanger Abbey                        Jane Austen        PengClassics
 Oliver Twist                            Charles Dickens    PengClassics
@@ -12,6 +11,4 @@ Complete Stories                        Dorothy Parker     PengClassics
 Great Expectations                      Charles Dickens    PengClassics
 Complete Poems                          John Keats         PengClassics
 A Christmas Carol                       Charles Dickens    PengClassics
-Adventures of Tom Sawyer                Mark Twain         PengClassics
-Adventures of Huckleberry Finn          Mark Twain         PengClassics
 Three Men in a Boat                     Jerome K Jerome    PengClassics
