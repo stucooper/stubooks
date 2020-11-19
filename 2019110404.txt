@@ -2,11 +2,4 @@ name: MATHS HISTORY & BIOS
 label: 2019110404
 description: Maths bios
 
-A Beautiful Mind                      Sylvia Nasar              faber
-Mathematical Quickies                 Trigg                     Dover
-Riddles in Mathematics                Eugene Northrop           Penguin
-From Erdos to Kiev: Problems Olympic Caliber Honsberger         MathsAssocUSA
-Maths Olympiads: 2000-2001            various                   MathsAssocUSA
-In Code                               Sarah Flannery            Workman
-Revised 4 Unit Maths Course           J. Corroneous             selfpublised
 
