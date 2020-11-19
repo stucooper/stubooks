@@ -3,12 +3,9 @@ label: 2019202001
 description: Carlingford random
 
 Gonzo: Life of Hunter S Thompson      Jann Wenner/Corey Seymour  LittleBrown
-Age of Ambition: Fortune/Truth/Faith China Evin Osnos            BodleyHead
 Crime and Punishment                  Fyodor Dostoyevsky         Vintage
 Leonardo: The Artist and the Man      Serge Bramly               Penguin
 Blood, Tears and Folloy: WW2          Len Deighton               Pimlico
-The Price of Fish                     Mainelli/Harris         nicholasBrealey
-Too soon, too late                    Ralph and Kathy Kelly      AllenUnwin
 Radical Sydney                        Terry Irving/Rowan Cahill  UNSW
 fin                                   James Delingpole           Picador
 playing god: rise and fall of Gary Ablett Gary Linnell           HarperCollins
