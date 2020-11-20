@@ -1,4 +1,0 @@
-name: POLITICS
-label: 2019130502
-description: Politics, US and Australia
-
