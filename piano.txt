@@ -1,6 +1,5 @@
 # books on the piano
 
-Uncle Tom's Cabin                  Harriet Beecher Stowe   Penguin
 Cloud Atlas                            David Mitchell         Sceptre
 Frankenstein                       Mary Shelley            Penguin
 Dracula                           Bram Stoker             Penguin
