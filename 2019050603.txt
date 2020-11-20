@@ -2,8 +2,6 @@ name: TALEB - NONFICT
 label: 2019050603
 description: various nonfiction books
 
-How to make peace in the Middle East 6 Months   Levey             FreePress
-Human Dignity, Human Rights and Responsibility  Barilan           mitp
 When to Rob a Bank                              Levitt/Dubner     HarperCollins
 The Rise of the Robots Mass Unemployment        Ford              oneworld
 Too Big to Fail                                 Sorkin            Penguin
@@ -20,6 +18,3 @@ Fooled by Randomness                            Taleb             RandomHouse
 The Mathematics of Marriage                     Gottman/Murray    mitp
 Antifragile                                     Taleb             RandomHouse
 The Seven Basic Plots                           Booker            Continuum
-Shakespeare and the Goddess of Complete Being   Hughes            faber
-Mannix bio                                      Niall             text
-Disinformation: media myths War on Terror       Miniter           Regency
