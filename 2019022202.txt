@@ -5,12 +5,8 @@ description: Various books
 Chopin's Piano                           Kildea              Penguin
 12 Rules for Life                        Peterson            Penguin
 The Second World War                     Beevor              Phoenix
-Gideon's Spies                           Thomas              ThomasDunne
-Civilization                             Niall Ferguson      AllenLane
-Turing's Cathedral                       George Dyson        Pantheon
 Rewording the Brain                      David Astle         AllenUnwin
 Thank you for Arguing                    Jay Heinrichs       Penguin
-Who killed Channel 9?                    Gerald Stone        Macmillan
 42 Days at the Races                     Helen Thomas        AllenUnwin
 Dune                                     Frank Herbert       NewEnglish
 Top 100 Graduate Employers               GradAustralia       GradAustralia
