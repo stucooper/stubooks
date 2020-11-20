@@ -3,7 +3,6 @@ label: 2019022202
 description: Various books
 
 Rewording the Brain                      David Astle         AllenUnwin
-42 Days at the Races                     Helen Thomas        AllenUnwin
 Top 100 Graduate Employers               GradAustralia       GradAustralia
 Batsford Chess Openings 2                Kasparov/Keene      Batsford
 The English Opening Volume 1             Marin               QualityChess
