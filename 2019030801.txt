@@ -1,4 +1,0 @@
-name: IT Lifestyle
-label: 2019030801
-description: IT policy books
-
