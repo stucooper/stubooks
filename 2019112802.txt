@@ -2,8 +2,3 @@ name: VARIOUS
 label: 2019112802
 description: Various books
 
-To be or not to be: Chooseable Hamlet        Ryan North         breadpig
-Crazy Rich Asians                            Kevin Kwan         AllenUnwin
-McLuhan Pros and Cons                        ed Rosenthal       Pelican
-Dopesick                                     Beth Macy          Apollo
-Futuretainment                               Mike Walsh         Phaidon
