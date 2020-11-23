@@ -1,0 +1,12 @@
+name: MATHS - SCIENCE
+label: 2019031005
+description: Maths books
+
+The Simpsons and their Maths secrets Simon Singh         bloomsbury
+The Man who Knew Infinity         Robert Kanigel         Abacus
+The Cracking Codebook             Simon Singh            HerperCollins
+Big Book of Numbers               Adam Spencer           Xoum
+Alan Turing: The Enigma           Andrew Hodges          Vintage
+Adventures of a Mathematician     Stanislaw Ulam         Scribners
+Fluke: Maths and Myths of Conicidences Joseph Mazur      OneWorld
+Curious Incident of Dog Nighttime Mark Haddon            Definitions
