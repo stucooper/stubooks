@@ -13,3 +13,9 @@ OS Design and Implementation (MINIX)           Andrew Tanenbaum   PTR
 OpenStack Swift                                Joe Arnold         ORA
 Create your own Blog                           Tris Hussey        SAMS
 Samsung Galaxy 8 for Dummies                   Bill Hughes        JohnWiley
+jQuery Cookbook                   Community Expertys    ORA
+The Whole Internet 2e             Ed Krol               ORA
+jQuery in Action                  Bibeault/Katz         Manning
+Unicode Explained                 Jukka Korpela         ORA
+Algorithms of the Intelligent Web Murmanis/Babenko      Manning
+Head First HTML and CSS           Robson                ORA
