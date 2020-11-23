@@ -9,8 +9,7 @@ Making Things Talk                           Tom Ioge           ORA
 New Hacker's Dictionary                      Eric Raymond       MITP
 A Generative Theory of Shape                 Michael Layton     Springer
 Make 08: Toys and Games                      MakeZine           ORA
-Shakespeare: The Biography                   Peter Ackroyd      Doubleday
 Crazy Rich Asians                            Kevin Kwan         AllenUnwin
 McLuhan Pros and Cons                        ed Rosenthal       Pelican
 Dopesick                                     Beth Macy          Apollo
-Futuretainment                    Mike Walsh                Phaidon
+Futuretainment                               Mike Walsh         Phaidon
