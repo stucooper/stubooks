@@ -1,4 +1,0 @@
-name: CHURCHILL WW2
-label: 2019130103
-description: Winston Churchill and World War 2
-
