@@ -2,29 +2,16 @@ name: IT Lifestyle
 label: 2019030801
 description: IT policy books
 
-What would Google Do?                     Jeff Jarvis            HarperCollins
 How apps are changing the world           Stephen Molloy         Aviva
-The Rise of the Fifth Estate              Greg Jericho           Scribe
 Digital Barbarism                         Mark Helprin           Harper
-Underground                               Dreyfus/Assange        Heinemann
 Open Source: Technology and Policy        Deek/McHugh            Cambridge
-Cyberselfish                              Paulina Borsook        PublicAffairs
-Work Rules! Google insights               Laszlo Bock            Twelve/Hachette
 What Technology Wants                     Kevin Kelley           Viking
 Code and other laws of Cyberspace         Lawrence Lessig        BasicBooks
 The New Digital Age                       Schmidt/Cohen          Vintage
-How to leave Twitter                      Grace Dent             faber
 You are not a gadget                      Jaron Lanier           Vintage
-Golden Age of Freedom: Boyer lectures     Rupert Murdoch         ABC
 Removing the Spam                         Geoff Mulligan         AWL
 Coders at Work                            ed Peter Seibel        APress
 How Google Works                          Schmidt/Rosenberg      JohnMurray
 Makers                                    Chris Anderson         CrownBusiness
-Beyond Contact: SETI Aliens               Brian McConnell        ORA
 Peer-to-Peer: Disruptive technologies     ed Andy Oram           ORA
-Net Blogs and Rock n Roll                 David Jennings         nicholasBrealey
-The Search                                John Battelle          nicholasBrealey
 The First 20 million is the hardest       Po Bronson             SeckerWarburg
-The Breakup 2.0                           Ilana Gershon          CornellUni
-Cognitive Surplus                         Clay Shirky            AllenLane
-How to face Digital Future without fear   Ben Hammersley         Hodder
