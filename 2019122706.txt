@@ -6,25 +6,11 @@ Ruby Cookbook                            Carlson/Richardson       ORA
 Learning Ruby                            Michael Fitzgerald       ORA
 Rails Cookbook                           Rob Orsini               ORA
 Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
-Becoming Agile                           Smith/Sidky              Manning
-Best of the Ruby Quiz                    James Edward Gray        PragProg
 Seven Languages in Seven Weeks           Bruce A Tate             PragProg
-Professional Ruby on Rails               Noel Rappin              JohnWiley
 Pragmatic Ajax                           Gehtland/Galbraith       PragProg
-Rails Recipes                            Chad Fowler              PragProg
-Prototype and scipt.aculo.us             Christopher Porteneuve   PragProg
-Scripted GUI testing with Ruby           Ian Dees                 PragProg
-Deploying Rails                          Burns/Copeland           PragProg
-Using JRuby                              Nutter/Sieger            PragProg
-Agile Web Development with Rails 2e      Thomas/Hansson           PragProg
-Ruby in Practice                         McAnally/Arkin           Manning
-Manage It!                               Johanna Rothman          PragProg
-ThoughtWorks Anthology                   ThoughtWorks             PragProg
 Technical Blogging                       Antonio Congiano         PragProg
 SQL Antipatterns                         Bill Karwin              PragProg
 Debug It!                                Paul Butcher             PragProg
-Ship It!                                 Richardson/Gwaltney      PragProg
-Code in the Cloud: Google App Engine     Mark Chu-Carroll         PragProg
 Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
 Pragmatic Guide to Subversion            Mike Manson              PragProg
-
+Operating Systems with Linux             John O'Gorman            palgrave
