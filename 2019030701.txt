@@ -1,4 +1,0 @@
-name: IT - WEB
-label: 2019030701
-description: IT web book, mostly O'Reilly
-
