@@ -12,3 +12,16 @@ Geeks                                     Jon Katz              Hodder
 Scrum                                     Jeff Sutherland       rhBusiness
 Sprint                                    Jake Knapp            Bantam
 The Future of the Internet                Jonathan Zittrain     Penguin
+How apps are changing the world           Stephen Molloy         Aviva
+Digital Barbarism                         Mark Helprin           Harper
+Open Source: Technology and Policy        Deek/McHugh            Cambridge
+What Technology Wants                     Kevin Kelley           Viking
+Code and other laws of Cyberspace         Lawrence Lessig        BasicBooks
+The New Digital Age                       Schmidt/Cohen          Vintage
+You are not a gadget                      Jaron Lanier           Vintage
+Removing the Spam                         Geoff Mulligan         AWL
+Coders at Work                            ed Peter Seibel        APress
+How Google Works                          Schmidt/Rosenberg      JohnMurray
+Makers                                    Chris Anderson         CrownBusiness
+Peer-to-Peer: Disruptive technologies     ed Andy Oram           ORA
+The First 20 million is the hardest       Po Bronson             SeckerWarburg
