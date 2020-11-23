@@ -3,12 +3,6 @@ label: 2019112802
 description: Various books
 
 To be or not to be: Chooseable Hamlet        Ryan North         breadpig
-Head First 2D Geometry                       Lindsey Fallow     ORA
-Hardware Hacking Projects for Geeks          Scott Fullam       ORA
-Making Things Talk                           Tom Ioge           ORA
-New Hacker's Dictionary                      Eric Raymond       MITP
-A Generative Theory of Shape                 Michael Layton     Springer
-Make 08: Toys and Games                      MakeZine           ORA
 Crazy Rich Asians                            Kevin Kwan         AllenUnwin
 McLuhan Pros and Cons                        ed Rosenthal       Pelican
 Dopesick                                     Beth Macy          Apollo
