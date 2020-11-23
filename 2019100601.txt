@@ -4,17 +4,11 @@ description: Old IT books, many from Canberra lifeline
 
 Information & Software Tech: Project Based Approach Grover/Knights Nelson
 Object-Oriented Analysis and Design with Applications Booch    BenjaminCummins
-Beginning Android 4                               Allen             Apress
 Mac OSX The Missing Manual 2e                     Pogue             ORA
 The Definitive Guide to the Xen Hypervisor        Chisnall          PTR
-Suse Linux Professional 9.1 User Guide            SuseLinux      SuSE
-Suse Linux Professional 9.1 Administration Guide  SuseLinux      SuSE
-Storm Real-time Processing Cookbook               Anderson       Packt
-Essential System Requirements                     Wiley          AWL
 The Cult of Mac                                   Kahney         NoStarch
 Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
 The IDA Pro Book                                  Eagle          NoStarch
 Learning the UNIX Operating System                Peek/Todino    ORA
 Haskell: The Craft of Functional Programming      Thompson       AWL
-Computer Architecture & VAX Assembly Programming  Brink/Spillman BenjCummins
 
