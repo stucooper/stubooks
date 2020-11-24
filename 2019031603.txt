@@ -2,12 +2,10 @@ name: SCIENCE
 label: 2019031603
 description: Science Biographies
 
-The Road to Reality                 Roger Penrose          JonathanCape
 Richard Feynman                     John and Mary Gribbin  Viking
 Einstein                            White/Gribbin          SimonSchuster
 Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
 The Fellowship                      John Gribbin           Penguin
-Time Lord                           Clark Blaise           Phoenix
 American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic
 Genius: Feynman and Modern Physics  James Gleick           Abacus
 Chaos                               James Gleick           Cardinal
@@ -30,4 +28,3 @@ The Mind of God                     Paul Davies            Penguin
 God and the new physics             Paul Davies            Penguin
 Infinite in All Directions          Freeman Dyson          Penguin
 The Matter Myth                     Davies/Gribbin         Penguin
-The Selfish Gene                    Richard Dawkins        Granada
