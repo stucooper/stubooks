@@ -2,7 +2,6 @@ name: IT - LISP
 label: 2019030602
 description: IT and Lisp books
 
-Practical Common Lisp            Peter Seibel             Apress
 Common Lisp: The Language 2e     Guy Steele               DigialPress
 Let Over Lambda: 50 years of Lisp Doug Hoyte              Hoyte
 Lisp 3e                          Winston/Horn             AWL
