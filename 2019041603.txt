@@ -5,7 +5,3 @@ description: Books mostly bought from Vinnies Gladesville
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
 Enterprise Cloud Computing            Shroff           Cambridge
-Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
-GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
-GNU Make                              RMS/McGrath      GNU
-Debugging with GDB                    RMS/Cygnus       GNU

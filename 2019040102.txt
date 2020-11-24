@@ -19,5 +19,7 @@ Linux Routers                Mancill          PTR
 SQLite                       Newman           SAMS
 Linux Enterprise Cluster     Kopper           NoStarch
 How Linux Works 2e           Ward             NoStarch
-
-
+Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
+GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
+GNU Make                              RMS/McGrath      GNU
+Debugging with GDB                    RMS/Cygnus       GNU
