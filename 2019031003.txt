@@ -9,7 +9,6 @@ New                              Winifred Gallagher       PenguinPress
 Making the Cisco Connection      David Bunnell            JohnWiley
 rebel code                       Glyn Moody               AllenLane
 The Master Switch                Tim Wu                   Atlantic
-The Blogging Revolution          Anthony Lowenstein       MelbUni
 techbitch                        Sykes/Piazza             Penguin
 in Praise of Slow                Carl Honore              Orion
 Reinventing Discovery            Michael Nielsen          Princeton
@@ -18,8 +17,5 @@ The Apple Revolution             Luke Dormehl             Virgin
 The Slow Fix                     Carl Honore              WilliamCollins
 Fatal System Error               Joseph Menn              PublicAffairs
 Top Dog                          Po Bronson/Merryman      ebury
-What I didn't learn from Google  Jamie McIntyre           21stCentury
 Remix                            Lawrence Lessig          Bloomsbury
-Making the World Better          Maney/Hamm/OBrien        IBM
 You are not a gadget             Jaron Lanier             AllenLane
-Online Gravity                   Paul X McCarthy          SimonSchuster
