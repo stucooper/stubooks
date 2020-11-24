@@ -14,3 +14,6 @@ Haskell: The Craft of Functional Programming      Thompson       AWL
 Debugging by thinking                 Metzger          Elsevier
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Running Xen                           Matthews/Dow/Deshane PTR
+Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
+Developers Guide to Debugging         Grotker/Holtmann Springer
+Enterprise Cloud Computing            Shroff           Cambridge
