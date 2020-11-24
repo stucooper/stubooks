@@ -3,7 +3,6 @@ label: 2019030602
 description: IT and Lisp books
 
 Common Lisp: The Language 2e     Guy Steele               DigialPress
-Let Over Lambda: 50 years of Lisp Doug Hoyte              Hoyte
 Lisp 3e                          Winston/Horn             AWL
 Writing GNU Emacs Extensions     Bob Glickstein           ORA
 The Little Schemer 4e            Friedman/Felleison       MITP
