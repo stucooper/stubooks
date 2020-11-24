@@ -13,3 +13,4 @@ Learning the UNIX Operating System                Peek/Todino    ORA
 Haskell: The Craft of Functional Programming      Thompson       AWL
 Debugging by thinking                 Metzger          Elsevier
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
+Running Xen                           Matthews/Dow/Deshane PTR

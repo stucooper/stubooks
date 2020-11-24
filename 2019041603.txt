@@ -4,7 +4,6 @@ description: Books mostly bought from Vinnies Gladesville
 
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
-Running Xen                           Matthews/Dow/Deshane PTR
 Enterprise Cloud Computing            Shroff           Cambridge
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
