@@ -11,11 +11,9 @@ Programming in C                          Stephen Kochan         Hayden
 Programming Language Semantics            Michael Scott          MK
 The Elements of User Experience           Jesse Garrett          NewRiders
 Teach yourself C                          Charles Siegel         TechPublic
-Java The Complete Reference 7e            Herbert Schildt        osborne
 Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
 Cryptography and Network Security         William Stallings      PTR
 Exploting Online Games                    Hogland/McGraw         AWL
 Designing BSD Rootkits                    Joseph Kong            NoStarch
 Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
-Agile Web Development with Rails          Ruby/Thomas/Hansson    PragProg
 The Well-Grounded Rubyist                 David A. Black         Manning
