@@ -5,13 +5,10 @@ description: IT lifestyle books
 Googled                          Ken Auletta              Virgin
 War of the Worlds                Mark Slouka              Abacus
 Where Wizards Stay Up Late       hatner/lyon              Touchstone
-New                              Winifred Gallagher       PenguinPress
 Making the Cisco Connection      David Bunnell            JohnWiley
 rebel code                       Glyn Moody               AllenLane
 The Master Switch                Tim Wu                   Atlantic
-techbitch                        Sykes/Piazza             Penguin
 in Praise of Slow                Carl Honore              Orion
-Reinventing Discovery            Michael Nielsen          Princeton
 Republic, Lost                   Lawrence Lessig          Twelve
 The Apple Revolution             Luke Dormehl             Virgin
 The Slow Fix                     Carl Honore              WilliamCollins
