@@ -2,14 +2,3 @@ name: CANBERRA IT
 label: 2019110402
 description: IT Books, many bought at Canberra Lifeline
 
-Intro to Database Systems 8e              C J Date               AWL
-JavaScript Application Design             Nicolas Bevacqua       Manning
-R in Action                               Robert Kabacoff        Manning
-Photoshop for the Web                     Mikkel Aaland          ORA
-Programming Language Semantics            Michael Scott          MK
-Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
-Cryptography and Network Security         William Stallings      PTR
-Exploting Online Games                    Hogland/McGraw         AWL
-Designing BSD Rootkits                    Joseph Kong            NoStarch
-Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
-The Well-Grounded Rubyist                 David A. Black         Manning
