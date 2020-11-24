@@ -4,12 +4,8 @@ description: IT lifestyle books
 
 Googled                          Ken Auletta              Virgin
 War of the Worlds                Mark Slouka              Abacus
-get a grip on the Internet       Jerry Glenwright         Cassell
-Small pieces loosely joined      David Weinberger         Perseus
-Technology Matters               David E Nye              mitp
 Where Wizards Stay Up Late       hatner/lyon              Touchstone
 New                              Winifred Gallagher       PenguinPress
-Cheap: High Cost of Discounting  Ellen Shell              Penguin
 Making the Cisco Connection      David Bunnell            JohnWiley
 rebel code                       Glyn Moody               AllenLane
 The Master Switch                Tim Wu                   Atlantic
@@ -19,14 +15,9 @@ in Praise of Slow                Carl Honore              Orion
 Reinventing Discovery            Michael Nielsen          Princeton
 Republic, Lost                   Lawrence Lessig          Twelve
 The Apple Revolution             Luke Dormehl             Virgin
-How to be Alone                  Jonathan Franzen         Harper
-The Peopleware Papers            Larry L Constantine      PTR
 The Slow Fix                     Carl Honore              WilliamCollins
 Fatal System Error               Joseph Menn              PublicAffairs
-Revolution in the Making         Guy Rundle               Affirm
 Top Dog                          Po Bronson/Merryman      ebury
-the book is dead                 Sherman Young            NewSouth
-it's complicated: networked teens danah boyd              Yale
 What I didn't learn from Google  Jamie McIntyre           21stCentury
 Remix                            Lawrence Lessig          Bloomsbury
 Making the World Better          Maney/Hamm/OBrien        IBM
