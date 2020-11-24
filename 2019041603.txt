@@ -3,7 +3,6 @@ label: 2019041603
 description: Books mostly bought from Vinnies Gladesville
 
 Debugging by thinking                 Metzger          Elsevier
-Cloud Computing                       ed Burya/Broberg JohnWiley
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
 digital media revisited               ed Liestol/Morrison MITP
@@ -11,11 +10,7 @@ Running Xen                           Matthews/Dow/Deshane PTR
 Enterprise Cloud Computing            Shroff           Cambridge
 PROLOG Programming for AI 3e          Bratko           AWL
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
-Cyberspace: First Steps               ed Benedikt      MITP
-Personal,Portable,Pedestrian          ed Ito/Okabe     MITP
-The Digital Dialectic                 ed Lunenfeld     MITP
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
-Programming in Prolog 2e              Clocksin/Mellish Springer
 GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
 GNU Make                              RMS/McGrath      GNU
 Debugging with GDB                    RMS/Cygnus       GNU
