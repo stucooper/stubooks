@@ -5,10 +5,8 @@ description: Books mostly bought from Vinnies Gladesville
 Debugging by thinking                 Metzger          Elsevier
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
-digital media revisited               ed Liestol/Morrison MITP
 Running Xen                           Matthews/Dow/Deshane PTR
 Enterprise Cloud Computing            Shroff           Cambridge
-PROLOG Programming for AI 3e          Bratko           AWL
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
