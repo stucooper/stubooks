@@ -2,10 +2,8 @@ name: IT - LISP
 label: 2019030602
 description: IT and Lisp books
 
-AI: Case Studies Common Lisp     Peter Norvig             MK
 Practical Common Lisp            Peter Seibel             Apress
 Common Lisp: The Language 2e     Guy Steele               DigialPress
-Common Lisp: Programming for AI  Hasemar/Domingue         AWL
 Let Over Lambda: 50 years of Lisp Doug Hoyte              Hoyte
 Teach yourself Emacs in 24 Hours Jesper Pedersen          SAMS
 Lisp 3e                          Winston/Horn             AWL
@@ -16,8 +14,6 @@ Learning GNU Emacs               Cameron/Rosenblatt       ORA
 Programming Languages: Concepts  Ravi Sehti               AWL
 ANSI Common Lisp                 Paul Graham              PTR
 Compilers: Principles/Techniques Aho/Sehti/Ullman         AWL
-Handbook of ProgLangs Vol3: Little Langs                  MacmillanTech
-Handbook of ProgLangs Vol4: Functional and Logic Progs    MacmillanTech
 Successful Lisp                  David B Lamkins          bookfix.com
 A Little Java, A Few Patterns    Felleisen/Friedman       MITP
 Realm of Racket                  Matthias Felleisen et al NoStarch
