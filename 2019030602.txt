@@ -5,7 +5,6 @@ description: IT and Lisp books
 Practical Common Lisp            Peter Seibel             Apress
 Common Lisp: The Language 2e     Guy Steele               DigialPress
 Let Over Lambda: 50 years of Lisp Doug Hoyte              Hoyte
-Teach yourself Emacs in 24 Hours Jesper Pedersen          SAMS
 Lisp 3e                          Winston/Horn             AWL
 Writing GNU Emacs Extensions     Bob Glickstein           ORA
 The Little Schemer 4e            Friedman/Felleison       MITP
@@ -14,7 +13,6 @@ Learning GNU Emacs               Cameron/Rosenblatt       ORA
 Programming Languages: Concepts  Ravi Sehti               AWL
 ANSI Common Lisp                 Paul Graham              PTR
 Compilers: Principles/Techniques Aho/Sehti/Ullman         AWL
-Successful Lisp                  David B Lamkins          bookfix.com
 A Little Java, A Few Patterns    Felleisen/Friedman       MITP
 Realm of Racket                  Matthias Felleisen et al NoStarch
 Unix Hater's Handbook            Garfinker/Weise          IDG
