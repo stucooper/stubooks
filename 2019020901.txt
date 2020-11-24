@@ -4,18 +4,14 @@ description: Canberra IT Lifeline books
 
 Head First HTML & CSS                        Freeman/Freeman       ORA
 Database Design for Mere Mortals 3e          Hernandez             AWL
-Oracle PL/SQL Programming 3e                 Feuerstein            ORA
 Security in Computing 4e                     Pfleeger/Pfleeger     PTR
 Data and Computer Communications 8e          Stallings             PTR
 Head First Java Programming                  Freeman/Robson        ORA
 Database Systems 5e                          Conolly/Begg          Pearson
 Thinking in Java 4e                          Bruce Eckel           PTR
 Book of CSS3                                 Gasston               NoStarch
-Information Architecture for the WWW         Morville/Rosenfeld    ORA
 Computer Science: An Overview                J Glenn Brookshear    Pearson
 An Introduction to Operating Systems         Harvey Deitel         AWL
 Operating Systems: Design and Implementation Andrew S Tanenbaum    PTR
-Dojo The Definitive Guide                    Matthew A Russell     ORA
 Operating Systems: The XINU Approach         Douglas Comer         PTR
-Building Websites with Mambo                 Hagen Graf            Packt
 
