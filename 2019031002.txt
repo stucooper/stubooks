@@ -1,4 +1,0 @@
-name: IT - JAVA, PATTERNS
-label: 2019031002
-description: Heavy IT books
-
