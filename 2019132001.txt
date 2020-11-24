@@ -2,7 +2,6 @@ name: CARLINGFORD IT
 label: 2019132001
 description: mostly IT in Carlingford
 
-Tomorrows vs Yesterdays               ed Andrew Keen             Atlantic
 Coders                                Clive Thompson             Picador
 Practical Guide to Designing with Data Brian Suda                FiveSimple
 Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon
