@@ -9,5 +9,4 @@ Version Control with Git 2e      Loeliger           ORA
 Site Reliability Engineering     Google             ORA
 ActiveMQ in Action               Snyder             Manning
 Java Message Service             Richards           ORA
-Terracotta Training              Ecetera            Ecetera
 Optus Notebooks                  Cooper             Cooper
