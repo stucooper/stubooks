@@ -2,11 +2,9 @@ name: FUN FICTION
 label: 2019102301
 description: amusing fiction works
 
-Shylock is My Name                         Howard Jacobson   Vintage
 Selected Works of T.S. Spivet              Reif Larsen       HarvillSecker
 I am Radar                                 Reif Larsen       HarvillSecker
 Comedy at the Edge                         Richard Zoglin    Bloomsbury
-The Hippopotamus                           Stephen Fry       arrow
 The Carnal Prayer Mat                      Li Yu             Wordsworth
 Short History of Tractors in Ukranian      Monica Lewycka    Penguin
 Two Caravans                               Monica Lewycka    Penguin
