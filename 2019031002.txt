@@ -10,6 +10,5 @@ not Just Java 2e                  Peter van der Linden    PTR
 JSP and Java                      Art Taylor              PTR
 Java in a Nutshell 4e             David Flanagan          ORA
 Java Servlet Programming          Jason Hunter            ORA
-XML and Java                      Maruyama/Tamura         AWL
 Java Appl Development on Linux    Albing/Schwarz          PTR
 Practical Java                    Peter Haggar            AWL
