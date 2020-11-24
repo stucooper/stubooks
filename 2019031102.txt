@@ -4,15 +4,10 @@ description: Various IT books including gaming
 
 The Game Design Reader               Salen/Zimmerman        mitp
 Computer Graphics: Principles/Practice Foley/VanDam         AWL
-Open Source DotNet Development       Brian Nantz            AWL
-Computer Networks: A Systems Approach 2e Peterson/Davie     MK/China
 Rollings and Adams on Game Design    Rollings/Adams         NewRiders
 Gamer's Guide to Coding              Gordon McComb          Sterling
-Data Modeling Essentials 3e          Simsion/Witt           Elsevier
 Network Algorithmics                 George Varghese        MK
 Learning Processing                  Daniel Shiffman        MK
 Making Things Talk (Dup?)            Tom Igoe               ORA
-Rapid Web Application w Turbo Gears  Ramm/Dangoor           PTR
 Definitive Guide to Terracotta       Terracotta Inc         Apress
-Internet Technologies Handbook       Ford/KimLew            Cisco
 Head First Java (Dup?)               Sierra/Bates           ORA
