@@ -2,12 +2,3 @@ name: FUN FICTION
 label: 2019102301
 description: amusing fiction works
 
-Selected Works of T.S. Spivet              Reif Larsen       HarvillSecker
-I am Radar                                 Reif Larsen       HarvillSecker
-Comedy at the Edge                         Richard Zoglin    Bloomsbury
-The Carnal Prayer Mat                      Li Yu             Wordsworth
-Short History of Tractors in Ukranian      Monica Lewycka    Penguin
-The Fry Chronicles                         Stephen Fry       Penguin
-Oxford Book of Humorous Prose              ed. Frank Muir    Oxford
-The Quincunx                               Charles Palliser  Penguin
-The Greedy Bastard Diary                   Eric Idle         W&N
