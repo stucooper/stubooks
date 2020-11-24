@@ -11,4 +11,5 @@ Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
 The IDA Pro Book                                  Eagle          NoStarch
 Learning the UNIX Operating System                Peek/Todino    ORA
 Haskell: The Craft of Functional Programming      Thompson       AWL
-
+Debugging by thinking                 Metzger          Elsevier
+Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann

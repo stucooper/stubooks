@@ -2,12 +2,10 @@ name: IT - CLOUD, DEBUGGING
 label: 2019041603
 description: Books mostly bought from Vinnies Gladesville
 
-Debugging by thinking                 Metzger          Elsevier
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
 Running Xen                           Matthews/Dow/Deshane PTR
 Enterprise Cloud Computing            Shroff           Cambridge
-Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
 GNU Make                              RMS/McGrath      GNU
