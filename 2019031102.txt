@@ -8,6 +8,5 @@ Rollings and Adams on Game Design    Rollings/Adams         NewRiders
 Gamer's Guide to Coding              Gordon McComb          Sterling
 Network Algorithmics                 George Varghese        MK
 Learning Processing                  Daniel Shiffman        MK
-Making Things Talk (Dup?)            Tom Igoe               ORA
 Definitive Guide to Terracotta       Terracotta Inc         Apress
 Head First Java (Dup?)               Sierra/Bates           ORA
