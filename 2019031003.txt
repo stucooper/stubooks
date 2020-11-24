@@ -1,4 +1,0 @@
-name: IT - LIFESTYLE
-label: 2019031003
-description: IT lifestyle books
-
