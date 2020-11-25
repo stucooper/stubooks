@@ -2,19 +2,15 @@ name: AFL BIOS
 label: 2019130401
 description: AFL biographies
 
-Bomber                                   Mark Thompson      Penguin
 More than a game                         ed Hess/Stewart    FremantleArts
 The Convert                              Peter Lewis        Macmillan
 Here it is                               Paul Roos          Penguin
 Eddie (McGuire)                          Michael Bodey      hachette
-Thrown (MMA fighters)                    Kerry Howley       Penguin
 Subzero                                  Adam Crettenden    ebury
 Good losers die broke                    Max Presnell       AllenUnwin
-Mohammad Ali: A Memoir                   Michael Parkinson  HodderStoughton
 Open Mike                                    Mike Sheahan        Slattery
 Plugger and the Mighty Swans                 Jim Main            Macmillan
 My Life                                      Tony Lockett        Macmillan
-The Truth Hurts                              Wayne Carey         Macmillan
 Fev: In my Own Words                         Brendan Fevola      HardieGrant
 All Bets are Off                             David Schwarz       HardieGrant
 The Centurions                               Brian Hansen        BrianHansen
