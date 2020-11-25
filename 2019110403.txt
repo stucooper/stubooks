@@ -2,13 +2,8 @@ name: IT - VARIOUS
 label: 2019110403
 description: IT Books, many inherited from RD
 
-Business Data Communications             William Stallings     Macmillan
-Real World Haskell                       O'Sullivan/Goerzen    ORA
 Continuous Delivery                      Humble/Farley         AWL
-Haskell: Craft of Functional Programming 2e Simon Thompson     AWL
-Haskell: School of Expression            Paul Hudak            Cambridge
 Twisted: Network Programming Essentials  Abe Fettig            ORA
-Programming in Haskell                   Graham Hutton         Cambridge
 Non-Designers Design & Type Books        Robin Williams        PeachPit
 Kerberos: The Definitive Guide           Jason Garman          ORA
 Computer Architecture: Quantitative Approach Hennessy/Patterson MK
@@ -21,4 +16,3 @@ Presenting Numbers, Tables and Charts    Bigword/Spore         Oxford
 Cyber Fraud                              Various               CRC
 Social Media and the Law (Australia)     Various               LexisNexis
 Vintage Tomorrows (steampunk)            Carrot/Johnson        ORA
-Handbook of Information and Computer Ethics  ed Floridi        Cambridge
