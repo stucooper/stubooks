@@ -1,6 +1,7 @@
 name: IT - VARIOUS
 label: 2019110403
 description: IT Books, many inherited from RD
+loc: flemliv
 
 Continuous Delivery                      Humble/Farley         AWL
 Twisted: Network Programming Essentials  Abe Fettig            ORA
