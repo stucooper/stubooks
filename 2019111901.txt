@@ -1,6 +1,7 @@
 name: IT POLICY
 label: 2019111901
 description: IT Policy books
+loc: flemliv
 
 Mindhacker                                Ron Hale-Evans        JohnWiley
 Digital Gold (bitcoin)                    Nathaniel Popper      HarperCollins
