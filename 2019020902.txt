@@ -2,25 +2,14 @@ name: CANBERRA IT
 label: 2019020902
 description: Canberra IT Lifeline books
 
-OpenGL Superbible 3e                         Wright/Lipchak        SAMS
-Fundamentals of Database Systems 5e          Elmasri/Navathe       AWL
-Filthy Rich Clients                          Haase/Guy             AWL
-Interface-Oriented Design                    Ken Pugh              PragProg
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
-Perspectives on Web Services                 Zimmerman/Tomlinson   Springer
-Essentail GWT                                Kereki                AWL
 Wireless Hacks                               Flickenger/Weeks      ORA
-Information Ecologies                        Nardi/O'Day           MITP
 A Software Tools Sampler                     Webb Miller           PTR
 Data Structures Using C                      Esakov/Weiss          PTR
 OpenVPN                                      Markus Fielner        Packt
-The Wikipedia Revolution                     Andrew Lih            Aurum
-Untangling the Web                           Aleks Krutoski        Faber
 Linux Server Hacks                           Flickenger            ORA
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
-Top-Down Network Design 3e            Priscilla Oppenheimer      CiscoPress
 Art of Compiler Design                Pittman/Peters             PTR
-Programming in Objective C 6e         Kochan                     AWL
 Processing                            Reas/Fry                   MITP
 Learning Processing                   Daniel Shiffman            MK
