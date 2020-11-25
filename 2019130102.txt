@@ -2,7 +2,3 @@ name: HARDBACKS
 label: 2019130102
 description: Hardback books
 
-Lazarus Rising (hb)                      John Howard        HarperCollins
-Hitch 22                                 Christopher Hitchens Twelve
-Star: Warren Beatty                      Peter Biskind      SimonSchuster
-Doomsday Men                             P. D. Smith        AllenLane
