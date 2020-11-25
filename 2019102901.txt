@@ -5,7 +5,6 @@ description: various books
 1Q84 Complete Trilogy                    Murakami            Vintage
 Guide to Getting it on 5e                Joannides           GoofyFoot
 Guide to buying and selling your home    FIXME               FIXME
-Carcassonne book                         FIXME               FIXME
 How the hell did this happen?        P J O'Rourke          Grove
 Making Headlines                     Chris Mitchell        MelbUni
 The Howard Era (essays)              various               Quadrant
