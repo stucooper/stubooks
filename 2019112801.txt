@@ -2,24 +2,3 @@ name: DUNE AND SCI-FI
 label: 2019112801
 description: Sci fi books
 
-Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
-Heretics of Dune                             Frank Herbert           Gollancz
-God Emperor of Dune                          Frank Herbert           NewEnglish
-Chapter House Dune                           Frank Herbert           NewEnglish
-King Rat                                     China Mieville          Pan
-Embassytown                                  China Mieville          Pan
-Foundation                                   Isaac Asimov            HarperColl
-Foundation and Empire                        Isaac Asimov            HarperColl
-Second Foundation                            Isaac Asimov            HarperColl
-Prelude to Foundation                        Isaac Asimov            HarperColl
-Foundation's Edge                            Isaac Asimov            HarperVoy
-Foundation and Earth                         Isaac Asimov            HarperVoy
-Doctor Who and the Zarbi                     Bill Strutton           BBC
-Making out in Chinese                  Daniels            Yenbooks
-Doctor Who and the Cave Monsters       Hulke              Target
-Doctor Who and the Sea Devils          Hulke              Target
-Doctor Who and the Abominable Snowmen  Dicks              Target
-Doctor Who and the Auton Invasion      Dicks              Target
-The Story of the Loch Ness Monster     Dinsdale           Target
-Schindler's List                       Keneally           Sceptre
-Bulldog Drummond                       Sapper             Hodder
