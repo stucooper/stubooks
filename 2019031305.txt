@@ -1,5 +1,0 @@
-name: OPEN GL
-label: 2019031305
-description: OpenGL and Oracle books
-loc: flemliv
-
