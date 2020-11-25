@@ -13,3 +13,13 @@ Accidental Empires                           Robert X Cringely     Penguin
 Art of Compiler Design                Pittman/Peters             PTR
 Processing                            Reas/Fry                   MITP
 Learning Processing                   Daniel Shiffman            MK
+Programming the Perl DBI           Descartes/Bunce          ORA
+Programming Perl 2e                Wall/Christiansen/Schwar ORA
+Official Guide to CGI.pm           Lincoln Stein            JohnWiley
+Perl for the Web                   Chris Radcliff           NewRiders
+Learning Perl/Tk                   Nancy Walsh              ORA
+Mastering Perl/Tk                  Lidie/Walsh              ORA
+Perl Graphics Programming          Shawn Wallace            ORA
+Programming Perl 1e                Wall/Schwartz            ORA
+Learning Perl 1e                   Wall/Schwartz            ORA
+Perl for Web Site Management       Callender                ORA
