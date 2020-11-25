@@ -10,7 +10,6 @@ Pictures from Italy                 Dickens            PenguinBlackClassics
 Dombey and Son                      Dickens            PenguinYellowClassics
 Tale of Two Cities                  Dickens            PenguinYellowClassics
 Sketches by Boz                     Dickens            PenguinYellowClassics
-Mystery of Edwin Drood              Dickens            PenguinYellowClassics
 Martin Chuzzlewit                   Dickens            PenguinYellowClassics
 Nicholas Nickleby                   Dickens            PenguinYellowClassics
 Hard Times                          Dickens            PenguinYellowClassics
