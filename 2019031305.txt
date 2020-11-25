@@ -3,4 +3,3 @@ label: 2019031305
 description: OpenGL and Oracle books
 loc: flemliv
 
-Computer Graphics (dup)                Foley/Van Dam        AWL

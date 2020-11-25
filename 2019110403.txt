@@ -23,3 +23,4 @@ OpenGL Programming Guide 3e            Woo/Neider           AWL
 OpenGL ES2.0 Programming Guide         Munshi/Ginsburg      AWL
 OpenGL Reference Manual 3e             Shreiner             AWL
 OpenCL Programming Guide               Munshi/Gaster        AWL
+Computer Graphics (dup)                Foley/Van Dam        AWL
