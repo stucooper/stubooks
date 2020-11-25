@@ -1,6 +1,7 @@
 name: OPEN GL
 label: 2019031305
 description: OpenGL and Oracle books
+loc: flemliv
 
 OpenGL Shading Language 2e             Randi J Rost         AWL
 OpenGL Programming Guide 3e            Woo/Neider           AWL
@@ -12,5 +13,4 @@ OpenGL Reference Manual 3e             Shreiner             AWL
 OpenCL Programming Guide               Munshi/Gaster        AWL
 Beginning OpenGL                       Luke Benstead        CourseTech
 Linux Game Programming                 Mark Collins         PrimaTech
-Focus on Photon Mapping                Marlon John          PrimaTech
 Computer Graphics (dup)                Foley/Van Dam        AWL
