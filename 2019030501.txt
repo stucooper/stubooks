@@ -2,25 +2,18 @@ name: PERL RARELY USED
 label: 2019030501
 description: Rarely consulted Perl books
 
-Professional Perl Programming      Wainwrith et al          Wrox
 CGI Programming with Perl          Guelice,Gundavaram       ORA
 Perl for Web Site Management       Callender                ORA
 Programming Perl 1e                Wall/Schwartz            ORA
 Learning Perl 1e                   Wall/Schwartz            ORA
-Perl 6 Essentials                  Randal//Sugalski         ORA
 Web Client Programming with Perl   Clinton Wong             ORA
 Programming Web Services w/Perl    Ray/Kulchenko            ORA
 Programming the Perl DBI           Descartes/Bunce          ORA
 Programming Perl 2e                Wall/Christiansen/Schwar ORA
-Practical mod_perl                 Bekman/Choler            ORA
-Learning Perl on Win32 Systems     Schwartz/Olson/Christ    ORA
-Programming with Perl Modules      Patwardhan/Irving        ORA
 Perl for the Web                   Chris Radcliff           NewRiders
 Official Guide to CGI.pm           Lincoln Stein            JohnWiley
 Learning Perl/Tk                   Nancy Walsh              ORA
 Perl Graphics Programming          Shawn Wallace            ORA
 Mastering Perl/Tk                  Lidie/Walsh              ORA
-CGI Programming on the WWW         Shishir Gundavaram       ORA
-Professional Perl Development      Koles/Wainwright         Wrox
 XML and Perl                       Riehl/Stein              NewRiders
 How to set up/maintain website 2e  Lincoln Stein            AWL
