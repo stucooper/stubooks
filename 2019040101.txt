@@ -2,19 +2,11 @@ name: IT - UNIX GRAPHICS
 label: 2019040101
 description: mostly OpenGL/Graphics books, some little used unix admin
 
-Ubuntu Linux Bible         van Hagen           Wiley
 RESTful Web Services       Richardson          ORA
-Moving to Ubuntu Linux     Gagne               AWL
 Apache Web Server Admin    Aulds               Sybex
-Linux Programming White Pages                  Coriolis
-Linux Graphics Programming with SVGAlib Link   Coriolis
 OpenGL Super Bible 2e                          WaiteGroup
 GTK+/Gnome Application Development Pennington  NewRiders
 OpenOffice.org Writer      Weber               ORA
-C: Step by Step            Waite/Prata         WaiteGroup
 Topics in C Programming Revised Kochan/Wood    Wiley
-UNIX System Security       Curry               AWL
-Using the GNU Compiler Collection RMS          SoHo
-C A Software Engineering Approach Darnell/Margolis Springer
 Intro to Computer Graphics Foley/VanDam/Feiner/Hughes AWL
 Computer Graphics with OpenGL Hearn/Baker      PTR
