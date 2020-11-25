@@ -1,4 +1,0 @@
-name: HARDBACKS
-label: 2019130102
-description: Hardback books
-
