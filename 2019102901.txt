@@ -1,6 +1,7 @@
 name: VARIOUS
 label: 2019102901
 description: various books
+loc: flemliv
 
 1Q84 Complete Trilogy                    Murakami            Vintage
 Guide to Getting it on 5e                Joannides           GoofyFoot
