@@ -1,6 +1,7 @@
 name: SPORTS AHOY
 label: 2019110902
 description: Lots of sports bios and books
+loc: flemliv
 
 Tea and No Sympathy                    The Grade Cricketer   AllenUnwin
 Tiger Woods bio                        Benedict/Keteyian     SimonSchuster
@@ -23,8 +24,6 @@ Inside the Centre: Life of Oppenheimer       Ray Monk        JonathanCape
 Surely you're joking Mr Feynman              Richard Feynman Norton
 Six Easy Pieces                              Richard Feynman AWL
 Why People Believe Weird Things              Michael Shermer souvenir
-Enigma                                       Hugh Sebag-Mintefiore Cassell
 The Emperor's Code: Bletchley Park           Michael Smith   Bantam
 The Age of Entanglement                      Louisa Gilder   Vintage
 What Do you care what other people think?    Richard Feynman Penguin
-The Emperor's Codes                Smith              Bantam
