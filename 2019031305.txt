@@ -13,10 +13,4 @@ OpenCL Programming Guide               Munshi/Gaster        AWL
 Beginning OpenGL                       Luke Benstead        CourseTech
 Linux Game Programming                 Mark Collins         PrimaTech
 Focus on Photon Mapping                Marlon John          PrimaTech
-Oracle DBA on Unix and Linux           Michael Wessler      SAMS
-Mastering Oracle SQL                   Mishra/Beaulieu      ORA
-Oracle Essentials 2e                   Greenwald/Stackowiak ORA
-Oracle and Open Source                 Andy Duncan/SeanHull ORA
-Troubleshooting Oracle Performance     Christian Antognini  Apress
-Oracle on VMWare                       Bert Scalzo          Rampant
 Computer Graphics (dup)                Foley/Van Dam        AWL
