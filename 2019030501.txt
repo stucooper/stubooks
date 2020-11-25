@@ -1,4 +1,0 @@
-name: PERL RARELY USED
-label: 2019030501
-description: Rarely consulted Perl books
-
