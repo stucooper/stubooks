@@ -2,18 +2,3 @@ name: OLDISH POKER
 label: 2019120501
 description: Infrequently needed poker books
 
-Alligator Blood (Tzvetkoff)             James Leighton             SimonSchuster
-Poker for Dummies                       Richard D Harroch          IDG
-Super System                            Doyle Brunson              Cardoza
-How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
-Total Poker (hb)                        David Spanier              SeckerWarburg
-Complete Idiot's Guide to Poker         Andrew Glazier             Alpha
-No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
-Everything Online Poker Book            Helene M Silverstein       AdamsMedia
-Seven Card Stud for Adv Players         Sklansky Malumth Zee       TwoPlusTwo
-Real Poker Night                        Henry Stephenson           LyleStuart
-Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
-Rules of Poker                          IFP                        IFP
-Beat the Dealer (21)                    Edward O Thorp             Vintage
-Killer Poker Online                     John Vorhaus               LyleStuart
-
