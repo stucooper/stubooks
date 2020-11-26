@@ -1,4 +1,0 @@
-name: IT - VARIOUS
-label: 2019050602
-description: various IT books; largebox heavy
-
