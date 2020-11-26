@@ -3,12 +3,9 @@ label: 2019110605
 description: IT Policy lifestyle
 
 Mind Change                           Susan Greenfield      RandomHouse
-The Inevitable                        Kevin Kelly           Viking
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
 Ghost in the Wires                    Kevin Mitnick         LittleBrown
-10 Print CHR                          Montfort et al        MITP
 Without their Permission              Alexis Ohanian        BusinessPlus
-Networked: Social Operating System    Rainie/Wellman        MITP
 Hackers and Painters                  Paul Graham           ORA (CMC)
 Makers                                Chris Anderson        CrwonBusiness
 The Intelligent Web                   Graham Shroff         Oxford
