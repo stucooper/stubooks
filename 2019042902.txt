@@ -7,15 +7,9 @@ The Art of Computer Programming Vol 2 3e Seminumerical   Knuth          AWL
 The Art of Computer Programming Vol 3 2e Sorting/Searching Knuth        AWL
 Digital Typography                                       Knuth          CSLI
 Selected Papers on Computer Science                      Knuth          CSLI
-Essential Algorithms                                     Stephens     JohnWiley
 Introduction to Algorithms   Cormen/Leiserson/Rivest/Stein              MITP
-Fundamentals of Algorithmics                     Brassad/Bratley        PTR
-Algorithms and Data Structures                    Baldwin/Scragg   CharlesRiver
 Mastering Algorithms with C                            Loudon           ORA
-Advanced C Programming by Example                      Perry            PWS
-Data Structures Using C and C++         Langsam/Augenstein/Tanenbaum    PTR
 Managing Projects with GNU Make                      Mecklenburg        ORA
-Algorithms in C                                       Sedgewick         AWL
 Algorithms in C  Parts 1-4                            Sedgewick         AWL
 Algorithms in C  Part 5 Graph Algorithms              Sedgewick         AWL
 
