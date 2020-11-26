@@ -14,3 +14,12 @@ Interactive Data Visualisation for the Web Murray                    ORA
 Programming Ruby 1.9                  Dave Thomas                    PragProg
 Secure Programming with Static Analysis Chess/West                   AWL
 Python Machine Learning               Rashka                         Packt
+Mind Change                           Susan Greenfield      RandomHouse
+Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
+Ghost in the Wires                    Kevin Mitnick         LittleBrown
+Without their Permission              Alexis Ohanian        BusinessPlus
+Hackers and Painters                  Paul Graham           ORA (CMC)
+Makers                                Chris Anderson        CrwonBusiness
+The Intelligent Web                   Graham Shroff         Oxford
+Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
+The Attention Merchants               Tim Wu                Atlantic

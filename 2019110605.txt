@@ -1,13 +1,3 @@
 name: IT POLICY
 label: 2019110605
 description: IT Policy lifestyle
-
-Mind Change                           Susan Greenfield      RandomHouse
-Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
-Ghost in the Wires                    Kevin Mitnick         LittleBrown
-Without their Permission              Alexis Ohanian        BusinessPlus
-Hackers and Painters                  Paul Graham           ORA (CMC)
-Makers                                Chris Anderson        CrwonBusiness
-The Intelligent Web                   Graham Shroff         Oxford
-Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
-The Attention Merchants               Tim Wu                Atlantic
