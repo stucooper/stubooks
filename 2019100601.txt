@@ -5,15 +5,10 @@ description: Old IT books, many from Canberra lifeline
 Information & Software Tech: Project Based Approach Grover/Knights Nelson
 Object-Oriented Analysis and Design with Applications Booch    BenjaminCummins
 Mac OSX The Missing Manual 2e                     Pogue             ORA
-The Definitive Guide to the Xen Hypervisor        Chisnall          PTR
 The Cult of Mac                                   Kahney         NoStarch
 Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
 The IDA Pro Book                                  Eagle          NoStarch
-Learning the UNIX Operating System                Peek/Todino    ORA
-Haskell: The Craft of Functional Programming      Thompson       AWL
-Debugging by thinking                 Metzger          Elsevier
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
-Running Xen                           Matthews/Dow/Deshane PTR
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
 Enterprise Cloud Computing            Shroff           Cambridge
