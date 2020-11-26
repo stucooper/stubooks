@@ -17,3 +17,6 @@ Liar's Poker                                    Lewis             Hodder
 Fooled by Randomness                            Taleb             RandomHouse
 The Mathematics of Marriage                     Gottman/Murray    mitp
 The Seven Basic Plots                           Booker            Continuum
+Coders                                Clive Thompson             Picador
+Practical Guide to Designing with Data Brian Suda                FiveSimple
+Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon
