@@ -2,16 +2,9 @@ name: VARIOUS
 label: 2019010301
 description: Various books
 
-The Onion's Finest News Reporting Vol 1                 ThreeRivers
-The Complete Barry McKenzies              Humphries/Garland   AllenUnwin
-Australia's First USyd 1850-1939          Turney/Bygott       USyd
 Sviatoslav Richter Notebooks and Conversations          Bruno Monsaingeon
 Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
 Dave Barry Turns 50                      Dave Barry           RandomHouse
-Elsewhere                                Richard Russo        Vintage
-The Risk Pool                            Richard Russo        Vintage
 Extraordinary Popular Delusions          Charles MacKay       ThreeRivers
 The Eureka Way                           Alan Koehler         ABC
-Family First Aid                                              PenguinPocket
 When the World Stopped to Listen         Stuart Isacoff       AlfredKnopf
-The Complete David Bowie                 Nicholas Pegg        Titan
