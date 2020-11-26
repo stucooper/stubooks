@@ -5,8 +5,6 @@ description: IT Algorithms books
 The Art of Computer Programming Vol 1 3e Fundamental     Knuth          AWL
 The Art of Computer Programming Vol 2 3e Seminumerical   Knuth          AWL
 The Art of Computer Programming Vol 3 2e Sorting/Searching Knuth        AWL
-The Art of Computer Programming Vol 4 Fascicle 1 Bitwise   Knuth        AWL
-The Art of Computer Programming Vol 4 Fascicle 2 Permutations  Knuth    AWL
 Digital Typography                                       Knuth          CSLI
 Selected Papers on Computer Science                      Knuth          CSLI
 Essential Algorithms                                     Stephens     JohnWiley
