@@ -13,13 +13,9 @@ Understanding the Linux Kernel 2e            Bovet/Cesati           ORA
 Linux Debugging and Performance Tuning       Steve Best             PTR
 Linux Programming by Example                 Arnold Robbins         PTR
 The Linux Kernel Primer                      Rodriguez/Fischer      PTR
-Software Requirements                        Karl Wiegers           Microsoft
-Distributed Operating Systems                Andrew S Tanenbaum     PTR
 The UNIX Programming Environment             Kernighan/Pike         PTR
 The Linux Development Platform               Rehman/Paul            PTR
 Advanced Linux Programming                   CodeSourcery           NewRiders
-Writing Solid Code                           Steve Macguire         Microsoft
-Code Complete 2e                             Steve McConnell        Microsoft
 Running Linux 3e                             Matt Welsh             ORA
 RedHat Networking and System Administration  Collings/Wall          RedHat
 
