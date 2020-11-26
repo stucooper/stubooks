@@ -1,6 +1,7 @@
 name: IT YOUKNOWIT
 label: 2019110901
 description: More IT books
+loc: flemliv
 
 Structure and Interpretation Computer Programs Abelson/Sussman    MITP
 Linux System Security                          Mann/Mitchell      PTR
