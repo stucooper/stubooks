@@ -2,8 +2,3 @@ name: THORNLEIGH 2
 label: 2019051401
 description: Books from a lifeline sale in Thornleigh
 
-Subtle Art of Not Giving a Fuck            Manson                Macmillan
-D-Day Normandy                             Beevor                Penguin
-History of England IV Revolution           Ackroyd               Macmillan
-Captial in the 21st Century                Piketty               Harvard
-Defectors                                  Kanon                 SimonSchuster
