@@ -2,15 +2,3 @@ name: PHP and MySQL
 label: 2019122702
 description: PHP and MySQL books
 
-MySQL Cookbook 2e                         Paul DuBois            ORA
-MySQL 2e                                  Paul DuBois            SAMSDev
-MySQL Stored Procedure Programming        Guy Harrison           ORA
-MySQL Clustering                          Alex Davies/Fisk       MySQL
-MySQL Database Design and Tuning          Robert Schneider       MySQL
-Expert MySQL                              Charles A Bell         APress
-Web Database Applications w PHP and MySQL Hugh Williams/Lane     ORA
-Advanced PHP Programming                  George Schlossnagle    SAMSDev
-PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
-SQL in a Nutshell 2e                      Kevin Kline            ORA
-SQL Cookbook                              Anthony Molinaro       ORA
-SQL Pocket Guide 2e                       Jonathan Gennick       ORA
