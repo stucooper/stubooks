@@ -1,6 +1,7 @@
 name: IT - POLICY CRYPTO
 label: 2019042303
 description: it books on policy and crypto
+loc: flemliv
 
 The Glass Cage                     Carr               BodleyHead
 The Art of Deception               Mitnick            JohnWiley
