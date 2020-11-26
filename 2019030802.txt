@@ -1,6 +1,7 @@
 name: FOLIO SOCIETY BOOKS
 label: 2019030802
 description: Folio Society Hardbacks
+loc: flemliv
 
 The Moon's a Balloon                      David Niven            Folio
 Plums of P G Wodehouse                    P G Wodehouse          Folio

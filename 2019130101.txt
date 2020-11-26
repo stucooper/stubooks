@@ -1,6 +1,7 @@
 name: HEAVY IT MITP
 label: 2019130101
 description: Heavy IT books
+loc: flemliv
 
 Rules of Play: Game Design Fundamentals  Salen/Zimmerman    mitp
 Vision Science: Photons to Phenomenology Stephen E Palmer   mitp
