@@ -4,19 +4,12 @@ description: Various IT books including gaming
 
 The Game Design Reader               Salen/Zimmerman        mitp
 Computer Graphics: Principles/Practice Foley/VanDam         AWL
-Rollings and Adams on Game Design    Rollings/Adams         NewRiders
 Gamer's Guide to Coding              Gordon McComb          Sterling
 Network Algorithmics                 George Varghese        MK
-Learning Processing                  Daniel Shiffman        MK
-Definitive Guide to Terracotta       Terracotta Inc         Apress
 Head First Java (Dup?)               Sierra/Bates           ORA
-Head First EJB                    Sierra/Bates            ORA
 Technical Java                    Grant Palmer            PTR
 Just Java 2 6e                    Peter van der Linden    PTR
 Design Patterns                   Gamma/Helm/Johasson/Vlissides AWL
 not Just Java 2e                  Peter van der Linden    PTR
-JSP and Java                      Art Taylor              PTR
 Java in a Nutshell 4e             David Flanagan          ORA
-Java Servlet Programming          Jason Hunter            ORA
-Java Appl Development on Linux    Albing/Schwarz          PTR
 Practical Java                    Peter Haggar            AWL
