@@ -8,3 +8,15 @@ JavaScript Application Cookbook   Jerry Bradenbaugh         ORA
 Dynamic HTML: Definitive Guide 3e Danny Goodman             ORA
 JavaScript: Definitive Guide 5e   David Flanagan            ORA
 Understanding AJAX                Joshua Eichorn            PTR
+Essential CVS                          Vesperman                 ORA
+Applying RCS and SCCS                  Bolinger/Bronson          ORA
+Practical Perforce                     Wingerd                   ORA
+DocBook 5 The Definitive Guide         Walsh                     ORA
+Learning XML                           Ray                       ORA
+Exploring Expect                       Libes                     ORA
+The Book of IRC                        Charalabidis              NoStarch
+GIMP 2.6 for Photographers             Goelker                   rockynook
+Programming Web Services with XML-RPC  StLaurent/Johnston        ORA
+Beginning OpenOffice Calc              Artymiak                  APress
+Planning for IPv6                      Hagen                     ORA
+PayPal APIs Up and Running             Balderas                  ORA
