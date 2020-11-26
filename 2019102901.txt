@@ -3,15 +3,3 @@ label: 2019102901
 description: various books
 loc: flemliv
 
-Guide to buying and selling your home    FIXME               FIXME
-How the hell did this happen?        P J O'Rourke          Grove
-The Howard Era (essays)              various               Quadrant
-Culture of Complaint                 Robert Hughes         NewYorkPublic
-The Best of Spectator Aus 2014-2017  ed Dean               WP
-Funemployed                          Justin Heazlewood     Affirm
-Dante: Divine Comedy                      Clive James            Picador
-Old Possums Book of Practical Cats        T S Eliot              faber
-Orton: Complete Plays                     Joe Orton              methuen
-Oscar Wilde Complete Plays                Oscar Wilde            penguin
-Under Milk Wood                    Thomas                   Everyman
-Dostoyevsky biography                     Richard Freeborn       Haus
