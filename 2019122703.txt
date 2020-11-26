@@ -1,3 +1,0 @@
-name: PETER ACKROYD
-label: 2019122703
-description: Books mostly by Peter Ackroyd
