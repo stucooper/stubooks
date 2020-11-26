@@ -1,4 +1,0 @@
-name: VARIOUS
-label: 2019010301
-description: Various books
-
