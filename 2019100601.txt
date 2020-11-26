@@ -1,3 +1,0 @@
-name: CANBERRA OLD IT
-label: 2019100601
-description: Old IT books, many from Canberra lifeline
