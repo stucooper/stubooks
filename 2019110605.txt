@@ -9,8 +9,8 @@ Ghost in the Wires                    Kevin Mitnick         LittleBrown
 10 Print CHR                          Montfort et al        MITP
 Without their Permission              Alexis Ohanian        BusinessPlus
 Networked: Social Operating System    Rainie/Wellman        MITP
-Hackers and Painters                  Paul Graham           ORA
+Hackers and Painters                  Paul Graham           ORA (CMC)
 Makers                                Chris Anderson        CrwonBusiness
 The Intelligent Web                   Graham Shroff         Oxford
-Head in the Cloud: Knowing things     William Poundstone    LittleBrown
+Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
 The Attention Merchants               Tim Wu                Atlantic
