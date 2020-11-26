@@ -4,10 +4,7 @@ description: mixture; mostly front end web and PHP
 
 PGP: Pretty Good Privacy     Garfinkel        ORA
 Vi IMproved - Vim            Oualline         NewRiders
-Understanding Directory Services Sheresh      NewRiders
 OpenSource Network Admin     Kretchmar        PTR
-Art and Science of Web Design Veen            NewRiders
-Apache Server 2.0 Complete Ref Bloom          McGrawHill
 Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA
@@ -20,6 +17,5 @@ SQLite                       Newman           SAMS
 Linux Enterprise Cluster     Kopper           NoStarch
 How Linux Works 2e           Ward             NoStarch
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
-GNU Autoconf, Automake and libtool    Vaughn/Ellison   NewRiders
 GNU Make                              RMS/McGrath      GNU
 Debugging with GDB                    RMS/Cygnus       GNU
