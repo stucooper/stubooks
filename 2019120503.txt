@@ -2,13 +2,3 @@ name: MUSIC FINANCE
 label: 2019120503
 description: Music and Finance books
 
-Greek Myths I                             Robert Graves         Folio
-Greek Myths II                            Robert Graves         Folio
-Australian Guide to Fixed Income          FIIG Securities       FIIG
-Financial Recovery                        Karen McCall          NewWorld
-True Art of Playing Keyboard Instruments  CPE Bach              Eulenburg
-From 0 to 130 Properties in 3.5 years     Steve McKnight        Wrightbooks
-Making Money Made Simple!                 Noel Whittaker        SimonSchuster
-The Road to Wealth                        Paul Clitheroe        Viking
-Wanna Bet?                                Tim Costello/Miller   AllenUnwin
-Ideas                                     Peter Watson          phoenix
