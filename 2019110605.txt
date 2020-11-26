@@ -3,21 +3,14 @@ label: 2019110605
 description: IT Policy lifestyle
 
 Mind Change                           Susan Greenfield      RandomHouse
-Where Good ideas come from            Steven Johnson        Riverhead
 The Inevitable                        Kevin Kelly           Viking
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
-Big Data: A Revolution                Schonberger/Cukier    EamonDolan
 Ghost in the Wires                    Kevin Mitnick         LittleBrown
 10 Print CHR                          Montfort et al        MITP
-The Digital Economy                   Don Tapscott          McGraw Hill
-The Facebook Effect                   David Kirkpatrick     SimonSchuster
 Without their Permission              Alexis Ohanian        BusinessPlus
 Networked: Social Operating System    Rainie/Wellman        MITP
-Twitter for Good                      Clair Diaz-Ortiz      Jossey-Bass
 Hackers and Painters                  Paul Graham           ORA
-The Google Way                        Bernard Girard        NoStarch
 Makers                                Chris Anderson        CrwonBusiness
-Online Gravity                        Paul X Mc Carthy      SimonSchuster
 The Intelligent Web                   Graham Shroff         Oxford
 Head in the Cloud: Knowing things     William Poundstone    LittleBrown
 The Attention Merchants               Tim Wu                Atlantic
