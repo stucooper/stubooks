@@ -1,4 +1,0 @@
-name: OLDISH POKER
-label: 2019120501
-description: Infrequently needed poker books
-
