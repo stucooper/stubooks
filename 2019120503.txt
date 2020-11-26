@@ -1,4 +1,0 @@
-name: MUSIC FINANCE
-label: 2019120503
-description: Music and Finance books
-
