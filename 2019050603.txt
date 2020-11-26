@@ -1,6 +1,7 @@
 name: TALEB - NONFICT
 label: 2019050603
 description: various nonfiction books
+loc: flemliv
 
 When to Rob a Bank                              Levitt/Dubner     HarperCollins
 The Rise of the Robots Mass Unemployment        Ford              oneworld
