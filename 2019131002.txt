@@ -1,6 +1,7 @@
 name: SPORT
 label: 2019131002
 description: Sports books
+loc: flemliv
 
 The Cricket War                   Gideon Haigh            text
 The Summer Game                   Gideon Haigh            ABC
