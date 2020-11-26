@@ -1,10 +1,3 @@
 name: CANBERRA OLD IT
 label: 2019100601
 description: Old IT books, many from Canberra lifeline
-
-The Cult of Mac                                   Kahney         NoStarch
-Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
-The IDA Pro Book                                  Eagle          NoStarch
-Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
-Developers Guide to Debugging         Grotker/Holtmann Springer
-GIMP Essential Reference        Harford                  NewRiders
