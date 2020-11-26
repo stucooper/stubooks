@@ -2,9 +2,7 @@ name: OLDISH POKER
 label: 2019120501
 description: Infrequently needed poker books
 
-Fortune's Formula                       William Poundstone         HillWang
 Alligator Blood (Tzvetkoff)             James Leighton             SimonSchuster
-Seven Wonders                           Ben Mezrich                WilliamHeine
 Poker for Dummies                       Richard D Harroch          IDG
 Super System                            Doyle Brunson              Cardoza
 How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
