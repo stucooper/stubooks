@@ -2,9 +2,3 @@ name: VARIOUS
 label: 2019010301
 description: Various books
 
-Sviatoslav Richter Notebooks and Conversations          Bruno Monsaingeon
-Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
-Dave Barry Turns 50                      Dave Barry           RandomHouse
-Extraordinary Popular Delusions          Charles MacKay       ThreeRivers
-The Eureka Way                           Alan Koehler         ABC
-When the World Stopped to Listen         Stuart Isacoff       AlfredKnopf
