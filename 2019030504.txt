@@ -2,22 +2,10 @@ name: IT - NETWORKING
 label: 2019030504
 description: Networking books
 
-Cisco Routers 24seven             Hamilton/Mistichel        Sybex
-Using Samba                       Ts/Eckstein               ORA
-Programming Internet Email        David Wood                ORA
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
-NFS Illustrated                   Brent Callaghan           AWL
-The Procmail Companion            Martin McCarthy           AWL
 Troubleshooting Linux Firewalls   Michael Shinn             AWL
-Network Security                  Kaufman/Perlman           PTR
-Network+ Guide to Networks        Tamara Dean               CourseTech
-Running qmail                     Richard Blum              SAMS
-Firewalls 24seven                 Strele/Perkins            Sybex
 Building Linux VPNS               Kolesnikov/Hatch          NewRiders
 Wireless Networks for Dummies     Lewis/Davis               JohnWiley
-Network*Internetwork Security     William Stallings         PTR
+Network and Internetwork Security William Stallings         PTR
 Unix Network Programming 1e pback W Richard Stevens         PTR
 SNMP,v2,v3,RMON1&2  3e            William Stallings         AWL
-Voice over IP 2e                  Uyless Black              PTR
-Optimising Network Performance    Syme/Goldie               PTR
-Managing NFS and NIS              Hal Stern                 ORA
