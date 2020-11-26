@@ -1,3 +1,0 @@
-name: IT POLICY
-label: 2019110605
-description: IT Policy lifestyle
