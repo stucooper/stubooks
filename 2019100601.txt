@@ -12,10 +12,5 @@ Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Cloud Computing Implementation,Mgmt   Rittinghorse     CRC
 Developers Guide to Debugging         Grotker/Holtmann Springer
 Enterprise Cloud Computing            Shroff           Cambridge
-name: PETER ACKROYD
-label: 2019122703
-description: Books mostly by Peter Ackroyd
-
 GIMP Essential Reference        Harford                  NewRiders
-Essential GIMP Web Professionals Hammel                  PTR
 Essential XML Web Professionals Livingston               PTR
