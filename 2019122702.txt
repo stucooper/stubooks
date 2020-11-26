@@ -1,4 +1,0 @@
-name: PHP and MySQL
-label: 2019122702
-description: PHP and MySQL books
-
