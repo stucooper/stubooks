@@ -2,25 +2,16 @@ name: VARIOUS (H)ITS
 label: 2019122301
 description: IT books including databases
 
-Elements of Programming Style            Kernighan/Plauger       McGrawHill
-The C Puzzle Book                        Alan R Feuer            AWL
 Find the Bug                             Adam Barr               AWL
 Open Sources: Voices from the Revolution various                 ORA
 Code Reading                             Dimoidis Spinellis      AWL
 Code Quality                             Dimoidis Spinellis      AWL
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
-History of Programming Languages-II      ACM                     AWL
 Linux Assembly Language Programming      Bob Neveln              PTR
-Relational Database Selected Writings    C J Date                AWL
 SQL for Dummies                          Allen G Taylor          Wiley
 Database in Depth                        C J Date                ORA
-User Mode Linux                          Jeff Dike               PTR
-Threads Primer                           Lewis/Berg              PTR
 Solaris Internals 2e                     McDougall/Mauro         PTR
-Solaris Application Programming          Darryl Gove             PTR
 Relational Database Design clearly explained Jan L Harrington    MKR
-Programming in Objective C 4e            Stephen Kochan          AWL
 Object Technology A Manager's Guide      David A Taylor          AWL
 An Introduction to Database Systems Vol 1 5e  C J Date           AWL
-How to succeed in Business using LinkedIn  Butow/Taylor          AMACOM
 
