@@ -4,7 +4,6 @@ description: Non fiction Allen Lane Hardbacks and others
 
 Lewis Carroll in Numberland           Robin Wilson              AllenLane
 Einstein's Unfinished Revolution      Lee Smolin                AllenLane
-Smithsonian History America 101 objects Richard Kuin            PenguinPress
 A Bright Shining Lie                  Neil Sheehan              JonathanCape
 Gonzo: Life of Hunter S Thompson      Jann Wenner/Corey Seymour  LittleBrown
 Crime and Punishment                  Fyodor Dostoyevsky         Vintage
