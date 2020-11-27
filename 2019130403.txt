@@ -1,6 +1,7 @@
 name: PENG CLASSICS
 label: 2019130403
 description: Penguin Classics, both black and yellow
+loc: flemshed
 
 Howard's End                            E M Forster        PengClassics
 Northanger Abbey                        Jane Austen        PengClassics
