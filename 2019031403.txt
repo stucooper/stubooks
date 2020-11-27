@@ -1,6 +1,7 @@
 name: ISSUES
 label: 2019031403
 desc: Non-fiction Current Affairs
+loc: flemshed
 
 Iron Curtain: Crushing of Eastern Europe Anne Applebaum       doubleday
 Nothing to envy: Life and Death North Korea Barbara Demick    FourthEstate
@@ -22,4 +23,3 @@ Molto Agitato: Metropolitan Opera      Johanna Fiedler        Anchor
 The New Analog                         Damon Krukowski        NewPress
 Long Walk to Freedom                   Nelson Mandela         MacdonaldPurnell
 Clips from a Life                      Dennis Norden          FourthEstate
-loc: flemshed
