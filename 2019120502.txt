@@ -1,6 +1,7 @@
 name: COMER TCP/IP
 label: 2019120502
 description: Comer TCP/IP series and other IT books
+loc: flemshed
 
 Design of the UNIX Operating System        Maurice Bach         PTR
 Types and Programming Languages            Benjamin Pierce      MITP
