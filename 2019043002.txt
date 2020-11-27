@@ -1,6 +1,7 @@
 name: PYTHON
 label: 2019043002
 description: Python books
+loc: flemshed
 
 Python the Complete Reference                Brown         McGrawHill
 Hello World                                  Sande         Manning
