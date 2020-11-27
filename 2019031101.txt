@@ -1,6 +1,7 @@
 name: SHAKESPEREANA
 label: 2019031101
 description: About Shakespeare
+loc: flemshed
 
 Shakespeare                          Bill Bryson            Atlas
 Soul of the Age                      Jonathan Bate          Penguin
