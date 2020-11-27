@@ -2,6 +2,7 @@ name: NEW YORKER THURBER FILM
 label: 2019050302
 description: New Yorker books + thurber + film
 loc: flemshed
+note: obscured in south east corner so can't see the number
 
 Orson Welles                          Fitzgerald          PocketEssentials
 A Fish Called Wanda                   Cleese/Crichton     Methuen
