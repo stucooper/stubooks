@@ -1,6 +1,7 @@
 name: KERNEL INTERNALS
 label: 2019122794
 description: Kernel and Linux books
+loc: flemshed
 
 The Magic Garden Explained                   Goodheart/Cox          PTR
 The Magic Garden Explained Solutions Manual  Goodheart/Cox          PTR
@@ -18,4 +19,3 @@ The Linux Development Platform               Rehman/Paul            PTR
 Advanced Linux Programming                   CodeSourcery           NewRiders
 Running Linux 3e                             Matt Welsh             ORA
 RedHat Networking and System Administration  Collings/Wall          RedHat
-
