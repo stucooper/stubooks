@@ -1,6 +1,7 @@
 name: RECENT ORA
 label: 2019110602
 description: Recent ORA books
+loc: flemshed
 
 Enterprise IOT                        Slama/Puhlmann                 ORA
 Learning PHP,MySQL,JavaScript,CSS 2e  Nixon                          ORA
