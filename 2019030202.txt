@@ -1,6 +1,7 @@
 name: AUS POLITICS
 label: 2019030202
 description: Australian Politics Books
+loc: flemshed
 
 November 1975                        Paul Kelly             AllenUnwin
 Whatever it takes                    Graham Richardson      Bantam
