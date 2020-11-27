@@ -1,6 +1,7 @@
 name: ALGORITHMS
 label: 2019042902
 description: IT Algorithms books
+loc: flemshed
 
 The Art of Computer Programming Vol 1 3e Fundamental     Knuth          AWL
 The Art of Computer Programming Vol 2 3e Seminumerical   Knuth          AWL
