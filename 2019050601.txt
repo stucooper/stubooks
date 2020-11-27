@@ -1,6 +1,7 @@
 name: GARRETPACK
 label: 2019050601
 description: garage garrettpack books; largebox heavy
+loc: flemshed
 
 Our Dumb World                   The Onion             LittleBrown
 20 Years of Rolling Stone        ed Wenner             fontana
