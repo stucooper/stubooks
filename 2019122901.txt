@@ -1,7 +1,7 @@
 name: RACING AND AFL
 label: 2019122901
 description: Horseracing and AFL books
-loc: flemliv
+loc: flemshed
 
 Favourite Footy Yarns                          Ken Piesse          echo
 Plugger the Tony Lockett Story                 Lockett/Piesse      Sun
