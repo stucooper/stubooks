@@ -1,6 +1,7 @@
 name: AFL BIOS
 label: 2019130401
 description: AFL biographies
+loc: flemshed
 
 More than a game                         ed Hess/Stewart    FremantleArts
 The Convert                              Peter Lewis        Macmillan
