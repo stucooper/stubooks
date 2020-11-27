@@ -1,7 +1,7 @@
 name: IT LIFESTYLE
 label: 2019030702
 description: IT Lifestyle books
-loc: flemliv
+loc: flemshed
 
 Wikinomics                        Don Tapscott/Williams Atlantic
 Nudist on the Late Shift          Po Bronson            Vintage
