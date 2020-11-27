@@ -1,2 +1,2 @@
 #!/bin/bash
-cat 2* | egrep -v '^(name|label|desc|loc|$)' | wc -l
+cat 2* | egrep -v '^(name|label|desc|loc|note|$)' | wc -l
