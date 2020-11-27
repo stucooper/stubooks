@@ -1,6 +1,7 @@
 name: CANBERRA IT
 label: 2019020902
 description: Canberra IT Lifeline books
+loc: flemshed
 
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
 Wireless Hacks                               Flickenger/Weeks      ORA
