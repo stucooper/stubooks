@@ -1,7 +1,7 @@
 name: War
 label: 2019030201
 description: War books
-loc: flemliv
+loc: flemshed
 
 Berlin: The Downfall                 Anton Beevor           Penguin
 Stalingrad                           Antony Beevor          Penguin
