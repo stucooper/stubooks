@@ -1,6 +1,7 @@
 name: CREAMY PENGUINS
 label: 2019042604
 description: penguin non fiction
+loc: flemshed
 
 The Better Angels of Our Nature Stephen Pinker    Penguin
 In Defence of Food            Michael Pollan     Penguin
