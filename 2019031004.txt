@@ -1,7 +1,7 @@
 name: COMEDY
 label: 2019031004
 description: BBC Comedy
-loc: flemliv
+loc: flemshed
 
 The Illustrated Hancock                    Roger Wilmut           Macdonald
 Lady don't fall backwards                  Joan LeMesurier        Pan
