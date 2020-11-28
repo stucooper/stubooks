@@ -1,6 +1,7 @@
 name: M CONNELLY #1
 label: 2019051201
 description: Michael Connelly Crime novels
+loc: flemshed
 
 Harry Bosch novels BlkEch/BlkIce/Concrete        Connelly    AllenUnwin
 Three Great novels DknessNight/CityBone/Dime     Connelly    Orion
@@ -24,4 +25,3 @@ The Fifth Witness                                Connelly    Orion
 The Night Fire                                   Connelly    Orion
 Fair Warning                                     Connelly    AllenUnwin
 Dark Sacred Night                         Michael Connelly     AllenUnwin
-
