@@ -1,6 +1,7 @@
 name: PHILOSOPHY
 label: 2019031303
 description: Books on Philosophy
+loc: flemshed
 
 Uncle Tungsten                         Oliver Sachs         Picador
 Musicophilia                           Oliver Sachs         Picador
