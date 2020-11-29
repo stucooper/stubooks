@@ -1,6 +1,7 @@
 name: WODEHOUSE SINGLES
 label: 2019031405
 desc: P G Wodehouse single volumes
+loc: flemshed
 
 Leave it to Psmith                    P G Wodehouse         Penguin
 Ring for Jeeves                       P G Wodehouse         Penguin
