@@ -1,6 +1,7 @@
 name: VARIOUS (H)ITS
 label: 2019122301
 description: IT books including databases
+loc: flemshed
 
 Find the Bug                             Adam Barr               AWL
 Open Sources: Voices from the Revolution various                 ORA
@@ -28,5 +29,3 @@ Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
 Rules of Poker                          IFP                        IFP
 Beat the Dealer (21)                    Edward O Thorp             Vintage
 Killer Poker Online                     John Vorhaus               LyleStuart
-
-loc: flemliv
