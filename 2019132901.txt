@@ -3,4 +3,7 @@ label: 2019122901
 description: IT books
 loc: flemshed
 
-TCP/IP Network Administration 3e           Hunt                 ORA
+TCP/IP Network Administration 3e           Hunt                  ORA
+Design and Implementation of 4.4 BSD       McKusick/Bostic       AWL
+Design and Implementation of FreeBSD       McKusick/Neville-Neal AWL
+Solaris Systems Programming                Rich Teer             PTR
