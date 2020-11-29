@@ -1,6 +1,7 @@
 name: IT - NETWORKING
 label: 2019030504
 description: Networking books
+loc: flemshed
 
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
 Troubleshooting Linux Firewalls   Michael Shinn             AWL

@@ -1,6 +1,7 @@
 name: Perl & Shell
 label: 2019052901
 description: Loads of Perl books
+loc: flemshed
 
 Perls of Wisdom                                  Schwartz            Apress CFO
 Perl Testing a Developer's Notebook              Langworth/chromatic ORA CFO

@@ -1,7 +1,7 @@
 name: IT - LINUX ADMIN, INTERNALS
 label: 2019031202
 description: Linux kernel books some Admin
-loc: flemliv
+loc: flemshed
 
 Linux Programming Unleashed                Various             SAMS
 Linux Unleashed                            Various             SAMS
