@@ -1,6 +1,7 @@
 name: RICHARD RUSSO
 label: 2019042904
 description: Russo, Bryson, McCall Smith
+loc: flemshed
 
 Down Under                                 Bryson            BlackSwan
 Notes from a Small Island                  Bryson            BlackSwan
