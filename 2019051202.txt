@@ -1,6 +1,7 @@
 name: M CONNELLY & KIPLING
 label: 2019051202
-description: Michael Connelly Crime novels + Rudyard Kipling
+description: Michael Connelly Crime novels + Chris Cleave
+loc: flemshed
 
 The Concrete Blonde                    Connelly          AllenUnwin
 The Narrows                            Connelly          Orion
