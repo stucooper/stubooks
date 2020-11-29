@@ -1,6 +1,7 @@
 name: IT General
 label: 2019050604
 description: old IT books version control
+loc: flemliv
 
 Programming in Ansi C                 Kumar/Agrawal                   West
 Design and Implementation of 4.3 BSD  Leffler/McCusick                AWL
