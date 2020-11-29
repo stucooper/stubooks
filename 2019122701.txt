@@ -14,3 +14,4 @@ Hackers as Painters (hb)                      Paul Graham      ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams     ORA
 Hawke the PM                                  Blanche d'Apuget MUP
 Hawke: The Early Years                        Blanche d'Apuget MUP
+loc: flemliv

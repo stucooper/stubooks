@@ -29,3 +29,4 @@ Rules of Poker                          IFP                        IFP
 Beat the Dealer (21)                    Edward O Thorp             Vintage
 Killer Poker Online                     John Vorhaus               LyleStuart
 
+loc: flemliv
