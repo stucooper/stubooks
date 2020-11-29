@@ -1,13 +1,6 @@
 name: SCI FI
 label: 2019130402
 description: science fiction
-
-I, Robot                                 Isaac Asimov       Panther
-Walkaway                                 Cory Doctorow      HeadOfZeus
-Matt Smith: The Biography                Emily Herbert      johnBlake
-Time Machine                             Adam Spencer       Xoum
-Throwing Rocks at the Google Bus         Douglas Rushkoff   Penguin
-Doctor Who The Shooting Scripts          Russell T Davies   BBC
-Geek Nation (Indian Science)             Angela Saini        Hodder
-Bull                                     Douglas Rushkoff    Sceptre
 loc: flemshed
+
+CHESS
