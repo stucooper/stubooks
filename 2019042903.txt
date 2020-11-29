@@ -1,6 +1,7 @@
 name: HUMOUR
 label: 2019042903
 description: HUMOUR
+loc: flemshed
 
 Stark                                        Elton              Sphere
 Land of Green Ginger                         Langley            Puffin
