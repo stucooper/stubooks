@@ -1,6 +1,7 @@
 name: MATHS - SCIENCE
 label: 2019031005
 description: Maths books
+loc: flemshed
 
 The Simpsons and their Maths secrets Simon Singh         bloomsbury
 The Man who Knew Infinity         Robert Kanigel         Abacus
