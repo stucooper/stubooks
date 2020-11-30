@@ -1,7 +1,7 @@
 name: RUBY PRAGPROG
 label: 2019122706
 description: Ruby and Pragmatic Programmers Books
-loc: flemliv
+loc: flemshed
 
 Ruby Cookbook                            Carlson/Richardson       ORA
 Learning Ruby                            Michael Fitzgerald       ORA
@@ -21,3 +21,4 @@ Making Things Talk                           Tom Ioge           ORA
 New Hacker's Dictionary 3e                   Eric Raymond       MITP
 Make 08: Toys and Games                      MakeZine           ORA
 A Generative Theory of Shape                 Michael Layton     Springer
+MYSTERY coffee table books eg Bradman
