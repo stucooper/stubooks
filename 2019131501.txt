@@ -1,4 +1,0 @@
-name: CARLO OCTOBER
-label: 2019131501
-description: late packing from Carlingford
-
