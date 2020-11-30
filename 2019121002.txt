@@ -1,10 +1,8 @@
 name: SMALLBOX
 label: 2019121002
 description: Small flat box of various books
+loc: flemshed
 
-A is for Armageddon                       Richard Horne        SquarePeg
-If you don't mind Umpire! (AFL)           Brian Hansen/Dyer    Hansen
-Borders Up!                               Vitali Vitaliev      Scribner
 Enchantress of Florence                 Salman Rushdie       JonathanCape
 Shalimar the Clown                    Salman Rushdie        JonathanCape
 The Satanic Verses                    Salman Rushdie        Viking
