@@ -1,6 +1,7 @@
 name: CLASSICAL MUSIC
 label: 2019130301
 description: Composer bios mostly
+loc: flemshed
 
 George Gershwin bio                      Edward Jablonski   SimonSchuster
 Sergei Prokofiev bio                     Victor Seroff      LesleFrewin
