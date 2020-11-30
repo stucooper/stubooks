@@ -1,7 +1,7 @@
 name: VARIOUS
 label: 2019122701
 description: Various books
-loc: flemliv
+loc: flemshed
 
 A Sporting Chance                             Titus O'Reily    Penguin
 In Black and White                            Warren Mundine   Pantera
@@ -15,3 +15,4 @@ Hackers as Painters (hb)                      Paul Graham      ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams     ORA
 Hawke the PM                                  Blanche d'Apuget MUP
 Hawke: The Early Years                        Blanche d'Apuget MUP
+MYSTERY books
