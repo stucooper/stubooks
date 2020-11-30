@@ -1,6 +1,7 @@
 name: CARLO OCTOBER
-label: 2019131503
+label: 2019131502
 description: late packing from Carlingford
+loc: flemshed
 
 How to be right                             James O'Brien       Penguin
 Cat Sense                                   John Bradshaw       Penguin
