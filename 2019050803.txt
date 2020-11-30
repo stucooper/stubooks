@@ -1,6 +1,7 @@
 name: COFFEE TABLE
 label: 2019050803
 description: random books, some coffee table sized
+loc: flemshed
 
 Shakespeare Staging the World      Bate/Thornton            Oxford
 No Ordinary Genius: Illustrated Feynman  ed Sykes           Weidenfeld
@@ -9,3 +10,4 @@ The Classics: Brief Insight        Beard/Henderson          Sterling
 Surrealism: Revolution by Night          National Gallery     NGA
 Michelangelo                             Howard Hibberd       folio
 Kandinsky                                Hajo Duchting        evergreen
+MYSTERY
