@@ -1,0 +1,21 @@
+name: LLANLEY POKER 1
+label: 2018110601
+description: poker books passed to Llanley
+
+Secrets of Short-handed PLO                 Slotboom/Hollink  D&B LLC
+Pot Limit and No Limit Poker                Reuber/Ciaffone   Cardsmith LLC
+Omaha High-Low                              Shane Smith       Cardoza   LLC
+How good is your Pot Limit Omaha?           Stewart Reuben    D&B LLC
+Omaha Holdem Poker                          Bob Ciaffone      Cardsmith LLC
+Secrets of Professional Poker 1             Rolf Slotboom     D&B LLC
+Championship Omaha (1999)                   Cloutier/McEvoy   Cardsmith LLC
+Farha on Omaha                              Sam Farha         Triumph LLC
+Strategies to Beat Small Stakes PLO         Matthias Pum      D&B LLC
+PLO The Big Play Strategy                         Jeff Hwang        Kensington
+
+
+
+
+
+
+
