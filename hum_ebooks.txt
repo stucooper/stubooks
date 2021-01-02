@@ -804,7 +804,7 @@ Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition
 Web Design Playground
-Web Security
+Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
 Wicked Cool Shell Scripts
