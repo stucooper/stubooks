@@ -15,8 +15,10 @@ A Little Gold Book of Ghastly Stuff
 A Virus Named Tom
 Absolute FreeBSD: The Complete Guide to FreeBSD
 Absolute OpenBSD
+Accelerating Development Velocity using Docker (Springer/Apress)
 Active Learning (MandC)
 Advanced Analytics with Spark
+Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
 The Agile Enterprise
 AI War: Fleet Command
@@ -41,6 +43,7 @@ Archangel #1
 Archangel #2
 Archangel #3
 Architecting Modern Data Platforms
+Architecting and Operating OpenShift Clusters (Springer/Apress)
 Arduino Cookbook
 The Art of Debugging
 The Art of Deception: Controlling the Human Element of Security (Wiley)
@@ -60,6 +63,7 @@ Astronomy Hacks
 Atari Age: The Emergence of Video Games in America
 Atmospheric Monitoring with Arduino
 Auctions
+Audio Visualization Using ThMAD (Springer/Apress)
 Automate it!
 Automate the Boring Stuff with Python: Practical Programming for Total Beginners
 Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
@@ -76,8 +80,9 @@ Becoming a Better Programmer
 Becoming Functional
 Beginning Blockchain
 Beginning Linux Programming
+Beginning Modern Unix (Springer/Apress)
 Beginning Python
-Beginning Ubuntu for Windows and Mac Users
+Beginning Ubuntu for Windows and Mac Users (Springer/Apress)
 The Best of Instructables, Volume I
 The Best of Make:
 Big Data Analytics in Cybersecurity
@@ -254,6 +259,7 @@ Food Hacks: Vol. 53
 Forrest Mims' Science Experiments
 Foundations for Architecting Data Solutions
 Foundations of Blockchain
+Foundations of Libvirt Development (Springer/Apress)
 Founders at Work
 Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
@@ -279,6 +285,7 @@ Generative Deep Learning (ora)
 Girls Like Robots
 Git Pocket Guide
 The GNU Make Book
+GNU Octavo by Example
 Google BigQuery: The Definitive Guide
 GPGPU Programming for Games and Science
 Graph Databases, 2e: New Opportunities for Connected Data
@@ -302,6 +309,7 @@ Hand of Fate
 Hands-On Bitcoin Programming with Python
 Hands-On Blockchain for Python Developers
 Hands-On Blockchain with Hyperledger
+Hands-On Booting (Springer/Apress)
 Hands-On Cybersecurity with Blockchain
 Hands-On Intro to Game Programming
 Hands-On IoT Solutions with Blockchain
@@ -371,6 +379,7 @@ Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python
 Introduction to Semi-Supervised Learning (MandC)
 Introducing Python
+Introducting ZFS on Linux (Springer/Apress)
 Intrusion Detection and Prevention for Mobile Ecosystems
 Intrusion Detection Networks
 Invent Your Own Computer Games with Python
@@ -410,6 +419,7 @@ Kill Shakespeare Volume 2
 Kill Shakespeare Volume 3
 Kinect Hacks
 Kong: Becoming a King of API Gateways
+Kubernetes (Springer/Apress)
 Kubernetes: Up and Running
 Land of Lisp: Learn to Program in Lisp, One Game at a Time!
 The Last Fall
@@ -419,6 +429,7 @@ Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
 Learn JavaScript: Build Your Own Blockchain (video)
 Learn Python by Building a Blockchain and Cryptocurrency (video)
+Learn Windows Subsystem for Linux (Springer/Apress)
 Learn You A Haskell for Great Good!
 Learn You Some Erlang for Great Good!
 Learning Apache Cassandra (video)
@@ -459,11 +470,13 @@ Linux Basics for Hackers: Getting Started with Networking, Scripting, and Securi
 Linux Bible
 The Linux Command Line: A Complete Introduction
 Linux Command Line and Shell Scripting Bible
+Linux Containers and Virtualization (Springer/Apress)
 Linux Essentials
 Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort
 Linux for Makers
 Linux Pocket Guide, 3rd Edition
 Linux Server Security: Hack and Defend
+Linux Sound Programming (Springer/Apress)
 Linux Shell Scripting Solutions (video)
 Little Nemo: Return to Slumberland
 Living Clojure
@@ -564,11 +577,13 @@ Mind Hacks
 Mindful Design
 Minecraft Modding with Forge
 Mini Metro
+Migrating to MariaDB (Springer/Apress)
 Mission Python
 MIT Press Essential Knowledge Series
 Mobile App Development with Ionic
 Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
+Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
 Monster Loves You
@@ -597,6 +612,7 @@ The October Faction, Vol. 3
 Octodad Dadliest Catch
 Onyx
 Open Access
+Open Source Intelligence Methods and Tools (Springer/Apress)
 OpenGL Insights
 OpenStack Administration with Ansible 2
 Overgrowth
@@ -620,6 +636,7 @@ Practical Google Analytics and Google Tag Manager for Developers
 Practical gRPC
 Practical Linux Topics
 Practical LPIC-1 Linux Certification Study Guide
+Practical LPIC-3 300 (Springer/Apress)
 Practical Machine Learning: A New Look at Anomaly Detection
 Practical Machine Learning: Innovations in Recommendation
 Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI
@@ -630,12 +647,15 @@ Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, a
 Practical SQL: A Beginner’s Guide to Storytelling with Data
 Practical Statistics for Data Scientists
 Practical Synthetic Data Generation (ora)
+Practical System Programming with C
 Practical Tableau
 The Practice of Network Security Monitoring
 The Principles of Object-Oriented JavaScript
 Pro Docker
 Pro Git (Second Edition)
 Pro Linux High Availability Clustering
+Pro Linux System Administration (Springer/Apress)
+Pro SQL Server on Linux (Springer/Apress)
 Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
@@ -790,6 +810,9 @@ Understanding Intelligence
 Understanding the New European Data Protection Rules
 Unix in a Nutshell, 4th Edition
 Unix Power Tools
+Using and Administering Linux: Volume 1 (Springer/Apress)
+Using and Administering Linux: Volume 2 (Springer/Apress)
+Using and Administering Linux: Volume 3 (Springer/Apress)
 Using Asyncio in Python
 Using SVG with CSS3 and HTML5
 UX Fundamentals for Non-UX Professionals
