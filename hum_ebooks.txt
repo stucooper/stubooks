@@ -420,7 +420,8 @@ Kill Shakespeare Volume 3
 Kinect Hacks
 Kong: Becoming a King of API Gateways
 Kubernetes (Springer/Apress)
-Kubernetes: Up and Running
+Kubernetes Best Practices (ORA)
+Kubernetes: Up and Running (ORA)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time!
 The Last Fall
 Lauren Ipsum
