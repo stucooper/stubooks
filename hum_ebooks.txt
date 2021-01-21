@@ -43,9 +43,10 @@ Archangel #3
 Architecting Modern Data Platforms
 Arduino Cookbook
 The Art of Debugging
-The Art of Deception: Controlling the Human Element of Security
+The Art of Deception: Controlling the Human Element of Security (Wiley)
 The Art of Failure: An Essay on the Pain of Playing Video Games
 The Art of Fluid Animation
+The Art of Intrustion (Wiley)
 The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
 The Art of R Programming
 The Art of Readable Code
@@ -451,6 +452,7 @@ LEGO Build-It Book, Vol. 1: Amazing Vehicles
 The LEGO Neighborhood Book: Build Your Own Town!
 LEGO Space: Building the Future
 lex and yacc, 2nd Edition
+Liars and Outliers: Enabling the trust that society needs to thrive (Wiley)
 Lifelong Machine Learning 2e (MandC)
 Linux All-In-One For Dummies
 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
@@ -525,7 +527,7 @@ Maker Magazine Discount
 Maker Pro
 Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot
 Making Things Smart
-Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code
+Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code (Wiley)
 Malware Analyst's Cookbook DVD
 Managing Humans
 The Manga Guide to Calculus
@@ -624,7 +626,7 @@ Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Lear
 Practical Monitoring
 Practical Network Automation
 Practical Packet Analysis
-Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation
+Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
 Practical SQL: A Beginner’s Guide to Storytelling with Data
 Practical Statistics for Data Scientists
 Practical Synthetic Data Generation (ora)
@@ -698,7 +700,7 @@ Ruby Wizardry: An Introduction to Programming for Kids
 Sampler
 Scala Cookbook
 The Sciences of the Artifical (mitp)
-Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition
+Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
 Secrets of Raetikon
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
@@ -709,7 +711,7 @@ Self-Tracking
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
 Shell Scripting: Expert Recipes for Linux, Bash, and more
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition (Wiley)
 shutshimi
 The Site Reliability Workbook
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
@@ -768,7 +770,7 @@ Think Stats, 2e: Exploratory Data Analysis
 Thirty Flights of Loving
 Thoughtful Machine Learning with Python
 Threat Level Red
-Threat Modeling: Designing for Security
+Threat Modeling: Designing for Security (Wiley)
 Three Months of Mapt Pro for $30 Coupon
 Thriving in the Gig Economy
 Time Series Databases: New Ways to Store and Access Data
@@ -802,7 +804,8 @@ Waking Mars
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World
-The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition
+We have Root: Even more advice from Schenier on Security (Wiley)
+The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
 Web Design Playground
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy
