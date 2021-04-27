@@ -74,7 +74,7 @@ AWS System Administration
 Ballistick
 Baseball Hacks
 bash Cookbook
-Bash Pocket Reference, 2nd Edition
+Bash Pocket Reference, 2nd Edition (ora)
 Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
 Beat Hazard Ultra
 Beautiful LEGO
@@ -769,6 +769,7 @@ Splunk Essentials
 Sproggiwood
 SQL Cookbook
 SQL Hacks
+SQL Pocket Guide (ora)
 The Squidder
 SSH: The Definitive Guide 2e
 The Stanley Parable
