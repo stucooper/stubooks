@@ -37,7 +37,9 @@ Any Empire by Nate Powell
 Apache Hive Essentials
 Apache Spark with Scala (video)
 Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
+Applied Computation Thinking with Python (packt)
 Applied Text Analysis with Python
+Applying Math with Python (packt)
 Apprenticeship Patterns
 Archangel #1
 Archangel #2
@@ -55,6 +57,7 @@ The Art of R Programming
 The Art of Readable Code
 Artificial Intelligence: The Very Idea (mitp)
 Artificial Intelligence for Big Data
+Artificial Intelligence with Python (packt)
 Artificial Minds (mitp)
 The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
 Assembly Language Step-by-Step: Programming with Linux
@@ -164,6 +167,7 @@ D4VEocracy #1
 Dangerous High School Girls in Trouble
 Darkness Visible #1
 Data Analytics for Internal Auditors
+Data Engineering with Python (packt)
 Data-Intensive Text Processing with MapReduce (MandC)
 Data Management in Machine Learning Systems (MandC)
 Data Science
@@ -175,6 +179,7 @@ Database Reliability Engineering
 Day of the Tentacle
 Deep Learning Cookbook
 Deep Learning From Scratch (ora)
+Deep Reinforcement Learning with Python (packt)
 The Deep Learning Revolution (mitp)
 Deep Learning in the Browser
 Defense Against the Black Arts
@@ -200,6 +205,7 @@ Disruptive Analytics
 DIY Drone and Quadcopter Projects
 DIY Instruments for Amateur Space
 DIY Satellite Platforms
+Django 3 By Example (packt)
 DNS and BIND, 5th Edition
 Docker and Kubernetes for Java Developers
 Docker Cookbook
@@ -311,8 +317,13 @@ Hands-On Blockchain for Python Developers
 Hands-On Blockchain with Hyperledger
 Hands-On Booting (Springer/Apress)
 Hands-On Cybersecurity with Blockchain
+Hands-On Exploratory Data Analysis with Python (packt)
+Hands-On Genetic Algorithms with Python (packt)
 Hands-On Intro to Game Programming
 Hands-On IoT Solutions with Blockchain
+Hands-On Machine Learning with scikit-learn Scientific Python Toolkits (packt)
+Hands-On Natural Language Processing with Python (packt)
+Hands-On Simulation Modelling with Python
 Head First Agile
 Head First Android Development
 Head First C#
@@ -430,6 +441,7 @@ Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
 Learn JavaScript: Build Your Own Blockchain (video)
 Learn Python by Building a Blockchain and Cryptocurrency (video)
+Learn Quantum Computing with Python and IBM Quantum Experience (packt)
 Learn Windows Subsystem for Linux (Springer/Apress)
 Learn You A Haskell for Great Good!
 Learn You Some Erlang for Great Good!
@@ -558,6 +570,7 @@ Mastering Modular JavaScript
 Mastering MongoDB 3.x
 Mastering Puppet for Large Infrastructures (video)
 Mastering PyCharm (video)
+Mastering Python Networking (packt)
 Mastering Spark with R (ora)
 Mastering Tableau 10 (video)
 Mastering Windows PowerShell 5 Administration (video)
@@ -584,6 +597,7 @@ MIT Press Essential Knowledge Series
 Mobile App Development with Ionic
 Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
+Modern Python Cookbook (packt)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
@@ -644,6 +658,7 @@ Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Lear
 Practical Monitoring
 Practical Network Automation
 Practical Packet Analysis
+Practical Python Programming for IoT (packt)
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
 Practical SQL: A Beginner’s Guide to Storytelling with Data
 Practical Statistics for Data Scientists
@@ -669,16 +684,23 @@ Programming Voice Interfaces
 Progressive Web Apps with Preact
 Prometheus: Up and Running
 Puppet 5 Beginner's Guide
+Python Algorithmic Trading Cookbook
+Python Automation Cookbook
 Python Cookbook
 Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
 Python Crash Course: A Hands-On, Project-Based Introduction to Programming
 Python Data Analysis
+Python Data Cleaning Cookbook (packt)
 Python Data Science Essentials
+Python Feature Engineering Cookbook (packt)
 Python Flash Cards: Syntax, Concepts, and Examples
 Python for Kids
+Python for Finance Cookbook (packt)
+Python Image Processing Cookbook (packt)
 Python Jumpstart by Building 10 Apps
 Python Playground: Geeky Projects for the Curious Programmer
 Python Tricks: A Buffet of Awesome Python Features
+Python Workshop (packt)
 PyUP
 Q.U.B.E: Director's Cut
 R Cookbook
@@ -752,6 +774,7 @@ SSH: The Definitive Guide 2e
 The Stanley Parable
 Stardew Valley
 Statistical Relationship AI: Logic, Probability and Computation (MandC)
+Statistics and Calculus with Python Workshop (packt)
 Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
@@ -831,6 +854,7 @@ The Warcraft Civilization: Social Science in a Virtual World
 We have Root: Even more advice from Schenier on Security (Wiley)
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
 Web Design Playground
+Web Development with Django Cookbook (packt)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
