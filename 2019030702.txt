@@ -9,7 +9,6 @@ The Hacker Ethic                  Pekka Himanen         RandomHouse
 Cult of the Amateur               Andrew Keen           nichoasBrealey
 Sonic Boom Napster                John Alderman         FourthEstate
 Does I.T Matter?                  Nicholas Carr         Harvard
-Big Data                          Schonberger/Cukier    JohnMurray
 grown up digital                  Don Tapscott          McGraw Hill
 The Media Lab (MIT)               Steward Brand         Penguin
 Silicon Snake Oil                 Clifford Stoll        Macmillan
