@@ -803,7 +803,7 @@ Teach Your Kids to Code
 Team Indie
 The Technological Singularity
 Technology Strategy Patterns
-Ten Steps to Linux Survival
+Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
 Test-Driven Development with Python
 Testing in Scala
