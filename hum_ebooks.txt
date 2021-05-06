@@ -73,7 +73,7 @@ Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Li
 AWS System Administration
 Ballistick
 Baseball Hacks
-bash Cookbook
+bash Cookbook (ora)
 Bash Pocket Reference, 2nd Edition (ora)
 Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
 Beat Hazard Ultra
@@ -127,7 +127,7 @@ Certified OpenStack Administrator Study Guide
 Chatbots for eCommerce
 Chroma Squad
 The CISO Journey
-Classic Shell Scripting
+Classic Shell Scripting (ora)
 Clojure Cookbook
 Clojure for the Brave and True (nostarch)
 Clojure Programming
@@ -206,7 +206,7 @@ DIY Drone and Quadcopter Projects
 DIY Instruments for Amateur Space
 DIY Satellite Platforms
 Django 3 By Example (packt)
-DNS and BIND, 5th Edition
+DNS and BIND, 5th Edition (ora)
 Docker and Kubernetes for Java Developers
 Docker Cookbook
 Doing Data Science: Straight Talk from the Frontline
@@ -250,7 +250,7 @@ The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
 Encyclopedia of Electronic Components, Vol. 3: Sensors
 Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
-Essential System Administration, 3rd Edition
+Essential System Administration, 3rd Edition (ora)
 Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
 Ethereum Cookbook
 Ethereum Projects (video)
@@ -452,7 +452,7 @@ Learning Continuous Integration with Jenkins
 Learning CoreDNS
 Learning Elastic Stack 6.0
 Learning ElasticSearch 5.0 (video)
-Learning GNU Emacs, 3rd Edition
+Learning GNU Emacs, 3rd Edition (ora)
 Learning GraphQL
 Learning Hadoop 2
 Learning HTTP/2
@@ -468,14 +468,14 @@ Learning Scala
 Learning Spark: Lightning-Fast Big Data Analysis
 Learning SQL 3e
 Learning TensorFlow, 1Ed
-Learning the bash Shell, 3rd Edition
-Learning the vi and Vim Editors, 7th Edition
-Learning Unix for OS X, 2nd Edition
+Learning the bash Shell, 3rd Edition (ora)
+Learning the vi and Vim Editors, 7th Edition (ora)
+Learning Unix for OS X, 2nd Edition (ora)
 The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More! (nostarch)
 LEGO Build-It Book, Vol. 1: Amazing Vehicles (nostarch)
 The LEGO Neighborhood Book: Build Your Own Town! (nostarch)
 LEGO Space: Building the Future (nostarch)
-lex and yacc, 2nd Edition
+lex and yacc, 2nd Edition (ora)
 Liars and Outliers: Enabling the trust that society needs to thrive (Wiley)
 Lifelong Machine Learning 2e (MandC)
 Linux All-In-One For Dummies
@@ -487,7 +487,7 @@ Linux Containers and Virtualization (Springer/Apress)
 Linux Essentials
 Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort
 Linux for Makers
-Linux Pocket Guide, 3rd Edition
+Linux Pocket Guide, 3rd Edition (ora)
 Linux Server Security: Hack and Defend
 Linux Sound Programming (Springer/Apress)
 Linux Shell Scripting Solutions (video)
@@ -612,7 +612,7 @@ Natural Language Processing with PyTorch
 Navigating Hybrid Scrum Environments
 Nest.js: A Progressive Node.js Framework
 Network and Data Security for Non-Engineers
-Network Troubleshooting Tools
+Network Troubleshooting Tools (ora)
 Neural Network Methods for Natural Language Processing (MandC)
 Nginx: From Beginner to Pro
 Night of 1,000 Wolves
@@ -748,7 +748,7 @@ Secrets of Raetikon
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
 Security Strategy
-sed & awk, 2nd Edition
+sed & awk, 2nd Edition (ora)
 Seeking SRE
 Self-Tracking
 Sentient Analysis and Opinion Mining (MandC)
@@ -798,7 +798,7 @@ System Shock 2
 System Shock: Enhanced Edition
 System Shock Pack
 The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference
-TCP/IP Network Administration, 3rd Edition
+TCP/IP Network Administration, 3rd Edition (ora)
 Teach Your Kids to Code
 Team Indie
 The Technological Singularity
@@ -833,8 +833,8 @@ The Uncanny Valley in Games and Animation
 Uncertainty in Games
 Understanding Intelligence
 Understanding the New European Data Protection Rules
-Unix in a Nutshell, 4th Edition
-Unix Power Tools
+Unix in a Nutshell, 4th Edition (ora)
+Unix Power Tools (ora)
 Using and Administering Linux: Volume 1 (Springer/Apress)
 Using and Administering Linux: Volume 2 (Springer/Apress)
 Using and Administering Linux: Volume 3 (Springer/Apress)
