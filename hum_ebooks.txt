@@ -53,7 +53,7 @@ The Art of Failure: An Essay on the Pain of Playing Video Games
 The Art of Fluid Animation
 The Art of Intrustion (Wiley)
 The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
-The Art of R Programming
+The Art of R Programming (nostarch)
 The Art of Readable Code
 Artificial Intelligence: The Very Idea (mitp)
 Artificial Intelligence for Big Data
@@ -68,7 +68,7 @@ Atmospheric Monitoring with Arduino
 Auctions
 Audio Visualization Using ThMAD (Springer/Apress)
 Automate it!
-Automate the Boring Stuff with Python: Practical Programming for Total Beginners
+Automate the Boring Stuff with Python (nostarch)
 Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
 AWS System Administration
 Ballistick
@@ -101,7 +101,7 @@ Blockchain for Business 2018: The New Industrial Revolution (video)
 Blockchain Quick Reference
 Blockchain Real World Projects (video)
 The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor
-The Book of F#: Breaking Free with Managed Functional Programming
+The Book of F#: Breaking Free with Managed Functional Programming (nostarch)
 The Book of GIMP: A Complete Guide to Nearly Everything
 The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More
 The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
@@ -129,7 +129,7 @@ Chroma Squad
 The CISO Journey
 Classic Shell Scripting
 Clojure Cookbook
-Clojure for the Brave and True: Learn the Ultimate Language and Become a Better Programmer
+Clojure for the Brave and True (nostarch)
 Clojure Programming
 Cloud Computing
 Cloud Foundry: The Definitive Guide
@@ -244,7 +244,7 @@ The Electric Sublime #4
 Electricity for Young Makers
 Elegant SciPy
 Ellipsis
-Eloquent JavaScript, 2nd edition: A Modern Introduction to Programming
+Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch(
 The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
 The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
 Encyclopedia of Electronic Components, Vol. 3: Sensors
@@ -363,7 +363,7 @@ Hyperledger for Blockchain Applications (video)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform
 The IDA Pro Book
 IDW Insider (Preview)
-If Hemingway Wrote JavaScript
+If Hemingway Wrote JavaScript (nostarch)
 Illustrated Guide to Astronomical Wonders
 Illustrated Guide to Home Biology Experiments
 Illustrated Guide to Home Chemistry Experiments
@@ -433,7 +433,7 @@ Kong: Becoming a King of API Gateways
 Kubernetes (Springer/Apress)
 Kubernetes Best Practices (ORA)
 Kubernetes: Up and Running (ORA)
-Land of Lisp: Learn to Program in Lisp, One Game at a Time!
+Land of Lisp: Learn to Program in Lisp, One Game at a Time! (nostarch)
 The Last Fall
 Lauren Ipsum (nostarch)
 Leading Creative Teams
@@ -443,8 +443,8 @@ Learn JavaScript: Build Your Own Blockchain (video)
 Learn Python by Building a Blockchain and Cryptocurrency (video)
 Learn Quantum Computing with Python and IBM Quantum Experience (packt)
 Learn Windows Subsystem for Linux (Springer/Apress)
-Learn You A Haskell for Great Good!
-Learn You Some Erlang for Great Good!
+Learn You A Haskell for Great Good! (nostarch)
+Learn You Some Erlang for Great Good! (nostarch)
 Learning Apache Cassandra (video)
 Learning Apache Drill
 Learning Blockchain Application Development (video)
@@ -481,7 +481,7 @@ Lifelong Machine Learning 2e (MandC)
 Linux All-In-One For Dummies
 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
 Linux Bible
-The Linux Command Line: A Complete Introduction
+The Linux Command Line: A Complete Introduction (nostarch)
 Linux Command Line and Shell Scripting Bible
 Linux Containers and Virtualization (Springer/Apress)
 Linux Essentials
@@ -666,7 +666,7 @@ Practical Synthetic Data Generation (ora)
 Practical System Programming with C
 Practical Tableau
 The Practice of Network Security Monitoring
-The Principles of Object-Oriented JavaScript
+The Principles of Object-Oriented JavaScript (nostarch)
 Pro Docker
 Pro Git (Second Edition)
 Pro Linux High Availability Clustering
@@ -698,7 +698,7 @@ Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
 Python Image Processing Cookbook (packt)
 Python Jumpstart by Building 10 Apps
-Python Playground: Geeky Projects for the Curious Programmer
+Python Playground: Geeky Projects for the Curious Programmer (nostarch)
 Python Tricks: A Buffet of Awesome Python Features
 Python Workshop (packt)
 PyUP
@@ -711,7 +711,7 @@ Raspberry Pi Hacks
 Ray Tracing from the Ground Up
 React Native Cookbook
 Real World Haskell
-Realm of Racket: Learn to Program, One Game at a Time!
+Realm of Racket: Learn to Program, One Game at a Time! (nostarch)
 Real-Time Shadows
 Real-Time Volume Graphics
 Real-World Software Development
@@ -810,7 +810,7 @@ Testing in Scala
 Think Bayes: Bayesian Statistics in Python
 Think Java
 Think Julia
-Think Like a Programmer: An Introduction to Creative Problem Solving
+Think Like a Programmer: An Introduction to Creative Problem Solving (nostarch)
 Think Stats, 2e: Exploratory Data Analysis
 Thirty Flights of Loving
 Thoughtful Machine Learning with Python
@@ -872,8 +872,8 @@ Works of Game: On the Aesthetics of Games and Art
 World of Goo
 World Of Goo
 The Wraith: Welcome to Christmasland
-Write Great Code, Volume 1: Understanding the Machine
-Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level
+Write Great Code, Volume 1: Understanding the Machine (nostarch)
+Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level (nostarch)
 Write Pythonic Code Like a Seasoned Developer (video)
 Wynonna Earp Legends: Doc Holliday #1
 Wynonna Earp Legends: Doc Holliday #2
