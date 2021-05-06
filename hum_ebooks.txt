@@ -77,7 +77,7 @@ bash Cookbook
 Bash Pocket Reference, 2nd Edition (ora)
 Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
 Beat Hazard Ultra
-Beautiful LEGO
+Beautiful LEGO (nostarch)
 Become ITIL Foundation Certified in 7 Days
 Becoming a Better Programmer
 Becoming Functional
@@ -113,7 +113,7 @@ The Boys Vol. 1: The Name of the Game
 Brutal Nature
 BSD Hacks
 Build scalable applications with Apache Kafka (video)
-Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress
+Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
 Build a Career in Data Science
 Building Apps with Riot
 Building Machine Learning Powered Applications (ora)
@@ -371,7 +371,7 @@ Illustrated Guide to Home Forensic Science Experiments
 Illustrated Guide to Learning Python 3
 Implementing Cybersecurity
 Impractical Python Projects
-Incredible LEGO Technic: Cars, Trucks, Robots & More!
+Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
 The Infinite Loop
 Information and Society
 Information Doesn't Want To Be Free
@@ -413,7 +413,7 @@ Java Web Services: Up and Running
 JavaScript: The Good Parts
 JavaScript: The Definitive Guide 6e
 JavaScript Cookbook
-JavaScript for Kids
+JavaScript for Kids (nostarch)
 Jenkins 2: Up and Running
 Jenkins: The Definitive Guide
 Joe Hill's The Cape
@@ -435,7 +435,7 @@ Kubernetes Best Practices (ORA)
 Kubernetes: Up and Running (ORA)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time!
 The Last Fall
-Lauren Ipsum
+Lauren Ipsum (nostarch)
 Leading Creative Teams
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
@@ -471,10 +471,10 @@ Learning TensorFlow, 1Ed
 Learning the bash Shell, 3rd Edition
 Learning the vi and Vim Editors, 7th Edition
 Learning Unix for OS X, 2nd Edition
-The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More!
-LEGO Build-It Book, Vol. 1: Amazing Vehicles
-The LEGO Neighborhood Book: Build Your Own Town!
-LEGO Space: Building the Future
+The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More! (nostarch)
+LEGO Build-It Book, Vol. 1: Amazing Vehicles (nostarch)
+The LEGO Neighborhood Book: Build Your Own Town! (nostarch)
+LEGO Space: Building the Future (nostarch)
 lex and yacc, 2nd Edition
 Liars and Outliers: Enabling the trust that society needs to thrive (Wiley)
 Lifelong Machine Learning 2e (MandC)
@@ -556,9 +556,9 @@ Making Things Smart
 Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code (Wiley)
 Malware Analyst's Cookbook DVD
 Managing Humans
-The Manga Guide to Calculus
-The Manga Guide to Electricity
-The Manga Guide to Physics
+The Manga Guide to Calculus (nostarch)
+The Manga Guide to Electricity (nostarch)
+The Manga Guide to Physics (nostarch)
 Machine Learning Pocket Reference (ora)
 Mastering Ansible
 Mastering Apache Spark 2.x
@@ -694,7 +694,7 @@ Python Data Cleaning Cookbook (packt)
 Python Data Science Essentials
 Python Feature Engineering Cookbook (packt)
 Python Flash Cards: Syntax, Concepts, and Examples
-Python for Kids
+Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
 Python Image Processing Cookbook (packt)
 Python Jumpstart by Building 10 Apps
@@ -739,7 +739,7 @@ Rocket Birds: Hardboiled Chicken
 Rocketbirds: Hardboiled Chicken
 ROCKETSROCKETSROCKETS
 Rot and Ruin: Warrior Smart
-Ruby Wizardry: An Introduction to Programming for Kids
+Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Sampler
 Scala Cookbook
 The Sciences of the Artifical (mitp)
@@ -758,7 +758,7 @@ The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Editio
 shutshimi
 The Site Reliability Workbook
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
-Snip, Burn, Solder, Shred: Seriously Geeky Stuff to Make with Your Kids
+Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
 Social Engineering: The Art of Human Hacking
 Social Media Warfare
 Solidity Programming Essentials
@@ -779,7 +779,7 @@ Statistics and Calculus with Python Workshop (packt)
 Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
-Steampunk LEGO
+Steampunk LEGO (nostarch)
 Streaming Systems
 Streamline Early Access
 Strengthening Deep Neural Networks (ora)
