@@ -29,7 +29,7 @@ The Allure of Machinic Life (mitp)
 Amazing Forest
 Android Cookbook
 Android Security Internals
-Angular: Up and Running
+Angular: Up and Running (ora)
 Animal Noir #1
 Ansible 2 for Beginners (video)
 Ansible: From Beginner to Pro
@@ -155,9 +155,9 @@ Critical Play: Radical Game Design
 Crowdsourcing
 Cryptography Engineering: Design Principles and Practical Applications
 The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
-CSS: The Definitive Guide
+CSS: The Definitive Guide (ora)
 CSS Cookbook
-CSS Pocket Reference
+CSS Pocket Reference (ora)
 CSS Refactoring
 CSS: The Definitive Guide
 Cybernetics: Control and Communication in the Animal and the Machine (mitp)
@@ -173,7 +173,7 @@ Data Management in Machine Learning Systems (MandC)
 Data Science
 Data Science From Scratch (ora)
 Data Visualization with Javascript
-Data Visualization with Python & JavaScript
+Data Visualization with Python & JavaScript (ora)
 Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
 Day of the Tentacle
@@ -187,7 +187,7 @@ Deploying and Running Docker Containers (video)
 Deploying to OpenShift
 Deployment with Docker
 Designing Distributed Systems
-Designing Web APIs
+Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
 Developer's Dilemma: The Secret World of Videogame Creators
 Developing a gulp Edge
@@ -202,6 +202,7 @@ Digital Culture, Play, and Identity: A World of Warcraft® Reader
 The Digial Mind: How Science is Redefining Humanity (mitp)
 Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
 Disruptive Analytics
+Distributed Systems with Node.js (ora)
 DIY Drone and Quadcopter Projects
 DIY Instruments for Amateur Space
 DIY Satellite Platforms
@@ -258,7 +259,7 @@ Ethernet: The Definitive Guide 2e
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
-Flask Web Development
+Flask Web Development (ora)
 Fluent Python
 Fluid Simulation for Computer Graphics
 Food Hacks: Vol. 53
@@ -436,6 +437,7 @@ Kubernetes: Up and Running (ORA)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time! (nostarch)
 The Last Fall
 Lauren Ipsum (nostarch)
+Laws of UX (ora)
 Leading Creative Teams
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
@@ -453,17 +455,18 @@ Learning CoreDNS
 Learning Elastic Stack 6.0
 Learning ElasticSearch 5.0 (video)
 Learning GNU Emacs, 3rd Edition (ora)
-Learning GraphQL
+Learning GraphQL (ora)
 Learning Hadoop 2
 Learning HTTP/2
 Learning in Embedded Systems (mitp)
 Learning Java
+Learning JavaScript (ora)
 Learning Kubernetes (video)
 Learning Perl 7e
-Learning PHP, MySQL & JavaScript
+Learning PHP, MySQL & JavaScript (ora)
 Learning R for Data Visualization (video)
 Learning React Native
-Learning React1
+Learning React1 (ora)
 Learning Scala
 Learning Spark: Lightning-Fast Big Data Analysis
 Learning SQL 3e
@@ -566,7 +569,7 @@ Mastering Blockchain
 Mastering DevOps (video)
 Mastering Docker
 Mastering Kubernetes
-Mastering Modular JavaScript
+Mastering Modular JavaScript (ora)
 Mastering MongoDB 3.x
 Mastering Puppet for Large Infrastructures (video)
 Mastering PyCharm (video)
@@ -680,6 +683,7 @@ Programming PHP 4e
 Programming Quantum Computers
 Programming Rust
 Programming Scala 2e
+Programming TypeScript (ora)
 Programming Voice Interfaces
 Progressive Web Apps with Preact
 Prometheus: Up and Running
@@ -846,7 +850,7 @@ Vi and Vim Editors: Pocket Reference
 Vintage Tomorrows
 Visualizing Streaming Data
 Vue.js: Understanding its Tools and Ecosystem
-Vue.js: Up and Running
+Vue.js: Up and Running (ora)
 VVVVVV
 Waking Mars
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
