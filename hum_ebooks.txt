@@ -49,7 +49,7 @@ Architecting and Operating OpenShift Clusters (Springer/Apress)
 Arduino Cookbook
 The Art of Debugging
 The Art of Deception: Controlling the Human Element of Security (Wiley)
-The Art of Failure: An Essay on the Pain of Playing Video Games
+The Art of Failure: An Essay on the Pain of Playing Video Games (mitp)
 The Art of Fluid Animation
 The Art of Intrustion (Wiley)
 The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
@@ -63,9 +63,9 @@ The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and 
 Assembly Language Step-by-Step: Programming with Linux
 Asterisk: The Definitive Guide 5e
 Astronomy Hacks
-Atari Age: The Emergence of Video Games in America
+Atari Age: The Emergence of Video Games in America (mitp)
 Atmospheric Monitoring with Arduino
-Auctions
+Auctions (mitp)
 Audio Visualization Using ThMAD (Springer/Apress)
 Automate it!
 Automate the Boring Stuff with Python (nostarch)
@@ -131,12 +131,12 @@ Classic Shell Scripting (ora)
 Clojure Cookbook
 Clojure for the Brave and True (nostarch)
 Clojure Programming
-Cloud Computing
+Cloud Computing (mitp)
 Cloud Foundry: The Definitive Guide
 Cloud Native
 Cloud Native Infrastructure
 Code Craft
-Codename Revolution: The Nintendo Wii Platform
+Codename Revolution: The Nintendo Wii Platform (mitp)
 Collaborative Cyber Threat Intelligence
 Color Sky
 Comic Book History of Comics
@@ -144,15 +144,15 @@ Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
 CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
 CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
 Computer Security Literacy
-Computing
+Computing (mitp)
 Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
 Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
 Creating Autonomous Vehicle Systems (MandC)
 Creating Interfaces with Bulma
-Critical Play: Radical Game Design
-Crowdsourcing
+Critical Play: Radical Game Design (mitp)
+Crowdsourcing (mitp)
 Cryptography Engineering: Design Principles and Practical Applications
 The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
 CSS: The Definitive Guide (ora)
@@ -189,7 +189,7 @@ Deployment with Docker
 Designing Distributed Systems
 Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
-Developer's Dilemma: The Secret World of Videogame Creators
+Developer's Dilemma: The Secret World of Videogame Creators (mitp)
 Developing a gulp Edge
 Developing a hapi Edge
 Developing a React.js Edge
@@ -198,7 +198,7 @@ DevOps for Networking
 DevOps for Web Developers (video)
 DevOps with Kubernetes
 Digital Character Development: Theory and Practice
-Digital Culture, Play, and Identity: A World of Warcraft® Reader
+Digital Culture, Play, and Identity: A World of Warcraft Reader (mitp)
 The Digial Mind: How Science is Redefining Humanity (mitp)
 Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
 Disruptive Analytics
@@ -274,7 +274,7 @@ Frankenstein Alive, Alive! #3
 FreeBSD Device Drivers: A Guide for the Intrepid
 Functional JavaScript
 Functional Thinking
-The Future
+The Future (mitp)
 Game Hacking
 Gaming Hacks
 Get Programming
@@ -354,14 +354,14 @@ Home Theater Hacks
 The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
 Hot Tin Roof
-How Games Move Us: Emotion by Design
+How Games Move Us: Emotion by Design (mitp)
 How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
 HTML5 Hacks
 Human Computation (MandC)
 Human Resource Machine
 Hyperledger for Blockchain Applications (video)
-I Am Error: The Nintendo Family Computer / Entertainment System Platform
+I Am Error: The Nintendo Family Computer / Entertainment System Platform (mitp)
 The IDA Pro Book
 IDW Insider (Preview)
 If Hemingway Wrote JavaScript (nostarch)
@@ -374,13 +374,13 @@ Implementing Cybersecurity
 Impractical Python Projects
 Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
 The Infinite Loop
-Information and Society
+Information and Society (mitp)
 Information Doesn't Want To Be Free
 Information Security Fundamentals
-Intellectual Property Strategy
+Intellectual Property Strategy (mitp)
 Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
 Interactive Data Visualization for the Web
-The Internet of Things
+The Internet of Things (mitp)
 Introducing Data Science
 Introducing Elixir
 Introducing Erlang
@@ -508,8 +508,8 @@ Locke & Key, Vol 6
 LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102
 LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
 Luna's Wandering Stars
-Machine Translation
 The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
+Machine Translation (mitp)
 Made-Up Minds: Constructivist Approach to AI (mitp)
 Make a Mind-Controlled Arduino Robot
 Make: A Raspberry Pi-Controlled Robot
@@ -586,8 +586,8 @@ The Maxx: Maxximized, Vol. 4
 The Maxx: Maxximized, Vol. 5
 The Maxx: Maxximized, Vol. 6
 The Maxx: Maxximized, Vol. 7
-Memes in Digital Culture
-Metadata
+Memes in Digital Culture (mitp)
+Metadata (mitp)
 Metasploit: A Penetration Tester's Guide
 Metric Learning (MandC)
 Mind Hacks
@@ -605,7 +605,7 @@ Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
 Monster Loves You
-MOOCs
+MOOCs (mitp)
 Moving Hadoop to the Cloud
 Multithreading for Visual Effects
 Mushroom 11
@@ -629,20 +629,20 @@ The October Faction, Vol. 2
 The October Faction, Vol. 3
 Octodad Dadliest Catch
 Onyx
-Open Access
+Open Access (mitp)
 Open Source Intelligence Methods and Tools (Springer/Apress)
 OpenGL Insights
 OpenStack Administration with Ansible 2
 Overgrowth
-Paradox
+Paradox (mitp)
 Parallel and Concurrent Programming in Haskell
 Penetration Testing
 Perl Cookbook
 Perl Hacks
 Perl One-Liners: 130 Programs That Get Things Done
 PHP Cookbook
-Play Between Worlds: Exploring Online Game Culture
-Play Matters
+Play Between Worlds: Exploring Online Game Culture (mitp)
+Play Matters (mitp)
 Postman PRO
 Potatoman Seeks the Troof
 Practical Automated Machine Learning on Azure (ora)
@@ -738,7 +738,7 @@ Richard Stark's Parker: The Score
 Rituals
 Robot Sex: Social and ethical implications (mitp)
 Robot Roller-Derby Disco Dodgeball
-Robots
+Robots (mitp)
 Rocket Birds: Hardboiled Chicken
 Rocketbirds: Hardboiled Chicken
 ROCKETSROCKETSROCKETS
@@ -754,7 +754,7 @@ Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Ed
 Security Strategy
 sed & awk, 2nd Edition (ora)
 Seeking SRE
-Self-Tracking
+Self-Tracking (mitp)
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
 Shell Scripting: Expert Recipes for Linux, Bash, and more
@@ -791,11 +791,11 @@ Succeeding with AI
 Super Galaxy Squadron EX
 Super Hexagon
 Super Meat Boy
-Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System
+Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
 Superbrothers: Sword & Sworcery EP
 Supply Chain Risk Management
 Surviving Orbit the DIY Way
-Sustainability
+Sustainability (mitp)
 SVG Animations
 The Swapper
 System Shock 2
@@ -805,7 +805,7 @@ The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference
 TCP/IP Network Administration, 3rd Edition (ora)
 Teach Your Kids to Code
 Team Indie
-The Technological Singularity
+The Technological Singularity (mitp)
 Technology Strategy Patterns
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
@@ -834,8 +834,8 @@ Ultra-Realistic Imaging
 Unauthorised Access: Physical Penetration Testing For IT Security Teams
 Unauthorized Access
 The Uncanny Valley in Games and Animation
-Uncertainty in Games
-Understanding Intelligence
+Uncertainty in Games (mitp)
+Understanding Intelligence (mitp)
 Understanding the New European Data Protection Rules
 Unix in a Nutshell, 4th Edition (ora)
 Unix Power Tools (ora)
@@ -845,7 +845,7 @@ Using and Administering Linux: Volume 3 (Springer/Apress)
 Using Asyncio in Python
 Using SVG with CSS3 and HTML5
 UX Fundamentals for Non-UX Professionals
-Values at Play in Digital Games
+Values at Play in Digital Games (mitp)
 Vi and Vim Editors: Pocket Reference
 Vintage Tomorrows
 Visualizing Streaming Data
@@ -855,13 +855,13 @@ VVVVVV
 Waking Mars
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
-The Warcraft Civilization: Social Science in a Virtual World
+The Warcraft Civilization: Social Science in a Virtual World (mitp)
 We have Root: Even more advice from Schenier on Security (Wiley)
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
 Web Design Playground
 Web Development with Django Cookbook (packt)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
-The Well-Played Game: A Player's Philosophy
+The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
 Wicked Cool Shell Scripts
 Wild Blue Yonder
@@ -872,7 +872,7 @@ The Witness
 Woodworking for Young Makers
 Working with Big Data in Python (video)
 Working with Static Sites
-Works of Game: On the Aesthetics of Games and Art
+Works of Game: On the Aesthetics of Games and Art (mitp)
 World of Goo
 World Of Goo
 The Wraith: Welcome to Christmasland
