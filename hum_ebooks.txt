@@ -115,7 +115,9 @@ BSD Hacks
 Build scalable applications with Apache Kafka (video)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
 Build a Career in Data Science
+Building an Anonymization Pipeline (ora)
 Building Apps with Riot
+Building Event-Driven Microservices (ora)
 Building Machine Learning Powered Applications (ora)
 CAPM in Depth
 The Car Hacker's Handbook
@@ -249,6 +251,7 @@ Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch(
 The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
 The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
 Encyclopedia of Electronic Components, Vol. 3: Sensors
+Enterprise Big Data Lake (ora)
 Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
 Essential System Administration, 3rd Edition (ora)
@@ -509,6 +512,7 @@ LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 10
 LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
 Luna's Wandering Stars
 The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
+Machine Learning and Data Science Blueprints for Finance (ora)
 Machine Translation (mitp)
 Made-Up Minds: Constructivist Approach to AI (mitp)
 Make a Mind-Controlled Arduino Robot
@@ -754,6 +758,7 @@ Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Ed
 Security Strategy
 sed & awk, 2nd Edition (ora)
 Seeking SRE
+Self-Service Data Roadmap (ora)
 Self-Tracking (mitp)
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
@@ -784,6 +789,8 @@ Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
 Steampunk LEGO (nostarch)
+Stream Processing with Apache Flink (ora)
+Stream Processing with Apache Spark (ora)
 Streaming Systems
 Streamline Early Access
 Strengthening Deep Neural Networks (ora)
@@ -863,6 +870,7 @@ Web Development with Django Cookbook (packt)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
+What is Data Engineering [report] (ora)
 Wicked Cool Shell Scripts
 Wild Blue Yonder
 Windows PowerShell Cookbook
