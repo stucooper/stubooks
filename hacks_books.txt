@@ -1,7 +1,7 @@
 # O'Reilly "Hacks" series
 Amazon Hacks                  Bausch            ORA
 Car PC Hacks                  Stolarz           ORA
-eBay Hacks                    Karp              ORA
+eBay Hacks 2e                 Karp              ORA
 Excel Hacks 2e                Hawley            ORA
 Firefox Hacks                 McFarlane         ORA
 Google Hacks                 Calishain/Dornfest ORA
