@@ -1,6 +1,6 @@
 name: LINUX ORA HACKS
 label: 2019091801
-description: O'Reilly HACKS books
+description: hacks books moved to file hacks_books.txt
 
 Teach yourself Ajax in 10 minutes         Ballard           SAMS
 Black Hat                                 Biggs             Apress
@@ -8,16 +8,4 @@ A Quarter Century of UNIX                 Salus             AWL
 The Geek Atlas                            Graham-Cunning    ORA
 Just a Geek                               Wheaton           ORA
 Facebook: The Missing Manual              Veer              ORA
-Mind Performance Hacks                    Hale-Evans        ORA
-Podcasting Hacks                          Harrington        ORA
-Excel Hacks 2e                            Hawley            ORA
-Linux Multimedia Hacks                    Rankin            ORA
-eBay Hacks 2e                             Karp              ORA
-Firefox Hacks                             McFarlane         ORA
-IRC Hacks                                 Mutton            ORA
-Amazon Hacks                              Bausch            ORA
-Google Maps Hacks                         Gibson/Erle       ORA
-Wireless Hacks                            Flickenger        ORA
-SQL Hacks                                 Cumming/Russell   ORA
-PDF Hacks                                 Steward           ORA
 
