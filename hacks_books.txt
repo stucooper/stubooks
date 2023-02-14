@@ -8,11 +8,11 @@ Google Hacks
 Google Maps Hacks
 IRC Hacks
 Linux Multimedia Hacks
-Linux Server Hacks
+Linux Server Hacks            Flickenger            ORA
 Mapping Hacks
 Mind Performance Hacks
 PDF Hacks
 Perl Hacks
 Podcasting Hacks
 SQL Hacks
-Wireless Hacks
+Wireless Hacks                Flickenger/Weeks      ORA

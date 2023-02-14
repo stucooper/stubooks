@@ -4,11 +4,9 @@ description: Canberra IT Lifeline books
 loc: flemshed
 
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
-Wireless Hacks                               Flickenger/Weeks      ORA
 A Software Tools Sampler                     Webb Miller           PTR
 Data Structures Using C                      Esakov/Weiss          PTR
 OpenVPN                                      Markus Fielner        Packt
-Linux Server Hacks                           Flickenger            ORA
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
 Art of Compiler Design                Pittman/Peters             PTR
