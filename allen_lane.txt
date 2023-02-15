@@ -1,0 +1,87 @@
+# Creamy Penguin paperback covers
+12 Rules For Life              Peterson          Penguin
+Antifragile                    Taleb             Penguin
+A Beautiful Question           Wilczek           Penguin
+Be Like the Fox                Benner            Penguin
+The Bed of Procrustes          Taleb             Penguin
+Between East and West          Applebaum         Penguin
+Blood and Guts                 Porter            Penguin
+The Body Keeps the Score       Van Der Kolk      Penguin
+Boomerang                      Lewis             Penguin
+Braiding Sweetgrass            Kimmerer          Penguin
+Bullshit jobs                  Graeber           Penguin
+Calling Bullshit               Bergstrom/West    Penguin
+Cat Sense                      Bradshaw          Penguin
+A Certain Idea of France       Jackson           Penguin
+Chernobyl                      Plokhy            Penguin
+Chopin's Piano                 Kildea            Penguin
+Civilization                   Ferguson          Penguin
+The Craftsman                  Sennett           Penguin
+Dark Continent                 Mazower           Penguin
+Dial M for Murdoch             Watson/Hickman    Penguin
+Digital Gold                   Popper            Penguin
+Don't be Evil                  Foroohar          Penguin
+The Element                    Robinson          Penguin
+The Entreprenerial State       Mazzucato         Penguin
+The End                        Kershaw           Penguin
+The End of Average             Rose              Penguin
+Enemies: History of the FBI    Weiner            Penguin
+The Establishment              Jones             Penguin
+Europe                         Simms             Penguin
+Europe                         Flannery          Penguin
+Eva Braun                      Gortemaker        Penguin
+Flash Boys                     Lewis             Penguin
+Fooled by Randomness           Taleb             Penguin
+Freakonomics                   Levitt/Dubner     Penguin
+The Gates of Europe            Plokhy            Penguin
+Germany                        MacGregor         Penguin
+Ghost Wars                     Coll              Penguin
+Goodbye, Things                Sasaki            Penguin
+Governing the World            Mazower           Penguin
+Limonov                        Carrere           Penguin
+I'm Feeling Lucky              Edwards           Penguin
+Landscapes of Commmunism       Hatherley         Penguin
+Leadership and Self-Deception  Arbinger Institut Penguin
+The Map and the Territory 2.0  Greenspan         Penguin
+Mindwise                       Epley             Penguin
+Moonwalking with Einstein      Foer              Penguin
+My Italians                    Saviano           Penguin
+The Order of Time              Rovelli           Penguin
+Outliers                       Gladwell          Penguin (quasi)
+The Party                      McGregor          Penguin
+The Price of Inequality        Stiglitz          Penguin
+Permanent Present Tense        Corkin            Penguin
+The Quantum Universe           Cox/Forshaw       Penguin
+Reality is not what it seems   Rovelli           Penguin
+The Reckoning                  Soil              Penguin
+The Righteous Mind             Haidt             Penguin
+Rio de Janeiro                 Soares            Penguin
+Risk Savvy                     Gigerenzer        Penguin
+The Road to Character          Brooks            Penguin
+The Road to Somewhere          Goodhart          Penguin
+The Russia Anxiety             Smith             Penguin
+Scarcity                       Mullainathan      Penguin
+The Secret World               Andrew            Penguin
+The Sense of Style             Pinker            Penguin
+Seven Brief Lessons on Physics Rovelli           Penguin
+The Signal and the Noise       Silver            Penguin
+The Sleepwalkers               Clark             Penguin
+Sontag                         Moser             Penguin
+Thank you for Being Late       Friedman          Penguin
+Thank you for Arguing          Heinrichs         Penguin (quasi-creamy)
+This Changes Everything        Klein             Penguin
+Thinking, Fast and Slow        Kahneman          Penguin
+Trans-Europe Express           Hatherley         Penguin
+The Undoing Project            Lewis             Penguin
+Unweaving the Rainbow          Dawkins           Penguin
+The Vanquished                 Gerwarth          Penguin
+When to Rob a Bank             Levitt/Dubner     Penguin
+We are our brains              Swaab             Penguin
+What is Populism?              Muller            Penguin
+What Money Can't Buy           Sandel            Penguin
+When China Rules the World     Jacques           Penguin
+Who owns the future?           Lanier            Penguin
+Winter King                    Penn              Penguin
+The World Until Yesterday      Diamond           Penguin
+World War Two                  Stone             Penguin
+Zero Zero Zero                 Saviano           Penguin
