@@ -5,6 +5,7 @@ eBay Hacks 2e                 Karp              ORA
 Excel Hacks 2e                Hawley            ORA
 Firefox Hacks                 McFarlane         ORA
 Google Hacks                 Calishain/Dornfest ORA
+Google Apps Hacks             Lenssen           ORA/Make (blue/white std size)
 Google Maps Hacks             Gibson/Erle       ORA
 IRC Hacks                     Mutton            ORA
 Linux Multimedia Hacks        Rankin            ORA
