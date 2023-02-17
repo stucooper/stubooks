@@ -7,6 +7,7 @@ Be Like the Fox                Benner            Penguin
 The Bed of Procrustes          Taleb             Penguin
 The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
+Blitzed                        Ohler             Penguin
 Blood and Guts                 Porter            Penguin
 The Body Keeps the Score       Van Der Kolk      Penguin
 Boomerang                      Lewis             Penguin
@@ -26,6 +27,7 @@ Dial M for Murdoch             Watson/Hickman    Penguin
 Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin
 The Element                    Robinson          Penguin
+Engineers of Victory           Kennedy           Penguin
 The Entreprenerial State       Mazzucato         Penguin
 The End                        Kershaw           Penguin
 The End of Average             Rose              Penguin
@@ -44,8 +46,10 @@ Ghost Wars                     Coll              Penguin
 Goodbye, Things                Sasaki            Penguin
 Governing the World            Mazower           Penguin
 Happiness by Design            Doolan            Penguin
+How not to be Wrong            Ellenberg         Penguin
 How the French Think           Hazareesingh      Penguin
 Iron Curtain                   Applebaum         Penguin
+Iron Kingdom                   Clark             Penguin
 Limonov                        Carrere           Penguin
 I'm Feeling Lucky              Edwards           Penguin
 In Defence of Food             Pollan            Penguin
@@ -61,12 +65,14 @@ Modern Romance                 Ansari            Penguin
 Moonwalking with Einstein      Foer              Penguin
 My Italians                    Saviano           Penguin
 Napoleon the Great             Roberts           Penguin
+Nudge                          Thaler/Sunstein   Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin (quasi)
 The Party                      McGregor          Penguin
 The Price of Inequality        Stiglitz          Penguin
 Permanent Present Tense        Corkin            Penguin
 Plutocrats                     Freeman           Penguin
+Poor Economics                 Banerjee/Duflo    Penguin
 The Quantum Universe           Cox/Forshaw       Penguin
 The Quest                      Yergin            Penguin
 Reality is not what it seems   Rovelli           Penguin
@@ -85,14 +91,18 @@ The Shepherd's Life            Rebanks           Penguin
 The Signal and the Noise       Silver            Penguin
 The Sleepwalkers               Clark             Penguin
 Sontag                         Moser             Penguin
+The Square and the Tower       Ferguson          Penguin
 Thank you for Being Late       Friedman          Penguin
 Thank you for Arguing          Heinrichs         Penguin (quasi-creamy)
 This Changes Everything        Klein             Penguin
 Think Like a Freak             Levitt/Dubner     Penguin
 Thinking, Fast and Slow        Kahneman          Penguin
+Too Big to Fail                Ross Sorkin       Penguin
 Tombstone                      Yisheng           Penguin
 Trans-Europe Express           Hatherley         Penguin
+Turing's Cathedral             Dyson             Penguin
 The Undoing Project            Lewis             Penguin
+Universal                      Cox/Forshaw       Penguin
 Unweaving the Rainbow          Dawkins           Penguin
 The Vanquished                 Gerwarth          Penguin
 When to Rob a Bank             Levitt/Dubner     Penguin
