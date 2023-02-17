@@ -1,5 +1,6 @@
 # Creamy Penguin paperback covers
 12 Rules For Life              Peterson          Penguin
+1914-1918                      Stevenson         Penguin
 Antifragile                    Taleb             Penguin
 A Beautiful Question           Wilczek           Penguin
 Be Like the Fox                Benner            Penguin
@@ -16,6 +17,7 @@ The Candy Machine              Feiling           Penguin
 Cat Sense                      Bradshaw          Penguin
 A Certain Idea of France       Jackson           Penguin
 Chernobyl                      Plokhy            Penguin
+China's Ware with Japan        Mitter            Penguin
 Chopin's Piano                 Kildea            Penguin
 Civilization                   Ferguson          Penguin
 The Craftsman                  Sennett           Penguin
@@ -41,17 +43,24 @@ Germany                        MacGregor         Penguin
 Ghost Wars                     Coll              Penguin
 Goodbye, Things                Sasaki            Penguin
 Governing the World            Mazower           Penguin
+Happiness by Design            Doolan            Penguin
+How the French Think           Hazareesingh      Penguin
 Iron Curtain                   Applebaum         Penguin
 Limonov                        Carrere           Penguin
 I'm Feeling Lucky              Edwards           Penguin
+In Defence of Food             Pollan            Penguin
 Landscapes of Commmunism       Hatherley         Penguin
+The Last Man in Russia         Bullough          Penguin
 Leadership and Self-Deception  Arbinger Institut Penguin
 Leonardo Da Vinci              Nicholl           Penguin
 Lost Japan                     Kerr              Penguin
 The Map and the Territory 2.0  Greenspan         Penguin
 Mindwise                       Epley             Penguin
+Misbehaving                    Thaler            Penguin
+Modern Romance                 Ansari            Penguin
 Moonwalking with Einstein      Foer              Penguin
 My Italians                    Saviano           Penguin
+Napoleon the Great             Roberts           Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin (quasi)
 The Party                      McGregor          Penguin
@@ -72,6 +81,7 @@ Scarcity                       Mullainathan      Penguin
 The Secret World               Andrew            Penguin
 The Sense of Style             Pinker            Penguin
 Seven Brief Lessons on Physics Rovelli           Penguin
+The Shepherd's Life            Rebanks           Penguin
 The Signal and the Noise       Silver            Penguin
 The Sleepwalkers               Clark             Penguin
 Sontag                         Moser             Penguin
@@ -91,6 +101,7 @@ What is Populism?              Muller            Penguin
 What Money Can't Buy           Sandel            Penguin
 When China Rules the World     Jacques           Penguin
 Who owns the future?           Lanier            Penguin
+Whoops!                        Lanchester        Penguin
 Winter King                    Penn              Penguin
 The World Until Yesterday      Diamond           Penguin
 World War Two                  Stone             Penguin
