@@ -5,11 +5,13 @@ Antifragile                    Taleb             Penguin
 A Beautiful Question           Wilczek           Penguin
 Be Like the Fox                Benner            Penguin
 The Bed of Procrustes          Taleb             Penguin
+The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
 Blitzed                        Ohler             Penguin
 Blood and Guts                 Porter            Penguin
 The Body Keeps the Score       Van Der Kolk      Penguin
+The Bomber Mafia               Gladwell          Penguin
 Boomerang                      Lewis             Penguin
 Braiding Sweetgrass            Kimmerer          Penguin
 Bullshit jobs                  Graeber           Penguin
@@ -27,6 +29,7 @@ Dial M for Murdoch             Watson/Hickman    Penguin
 Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin
 The Element                    Robinson          Penguin
+Enemies and Neighbours         Black             Penguin
 Engineers of Victory           Kennedy           Penguin
 The Entreprenerial State       Mazzucato         Penguin
 The End                        Kershaw           Penguin
