@@ -193,6 +193,7 @@ Deploying and Running Docker Containers (video)
 Deploying to OpenShift
 Deployment with Docker
 Designing Distributed Systems
+Designing Elixir Systems with OTP (pragm)
 Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
 Developer's Dilemma: The Secret World of Videogame Creators (mitp)
@@ -218,6 +219,7 @@ Docker and Kubernetes for Java Developers
 Docker Cookbook
 Doing Data Science: Straight Talk from the Frontline
 Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
+Domain Modelling Made Functional (pragm)
 Double Fine Adventure Documentary
 Double Fine Adventure Ep.01 (video)
 Double Fine Adventure Ep.02 (video)
@@ -280,13 +282,17 @@ Frankenstein Alive, Alive! #2
 Frankenstein Alive, Alive! #3
 FreeBSD Device Drivers: A Guide for the Intrepid
 Functional JavaScript
+Functional Programming: A PragPub Anthology (pragm)
+Functional Programming Patterns in Scala and Clojure (pragm)
 Functional Thinking
+Functional Web Development with Elixir, OTP and Phoenix (pragm)
 The Future (mitp)
 Game Hacking
 Gaming Hacks
 Genetic Algorithms and Maching Learning for Programmers (pragm)
 Get Programming
 Get Programming with Javascript
+Getting Clojure (pragm)
 Getting Started with 3D Printing
 Getting Started with Docker (video)
 Getting Started with Hadoop 2.x (video)
@@ -450,6 +456,7 @@ Laws of UX (ora)
 Leading Creative Teams
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
+Learn Functional Programming with Elixir (pragm)
 Learn JavaScript: Build Your Own Blockchain (video)
 Learn Python by Building a Blockchain and Cryptocurrency (video)
 Learn Quantum Computing with Python and IBM Quantum Experience (packt)
@@ -611,6 +618,7 @@ Mobile App Development with Ionic
 Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
 Modern Python Cookbook (packt)
+Modern Systems Programming with Scala Native (pragm)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
@@ -680,6 +688,7 @@ Practical Statistics for Data Scientists
 Practical Synthetic Data Generation (ora)
 Practical System Programming with C
 Practical Tableau
+Pragmatic Scala (pragm)
 The Practice of Network Security Monitoring
 The Principles of Object-Oriented JavaScript (nostarch)
 Pro Docker
@@ -690,7 +699,14 @@ Pro SQL Server on Linux (Springer/Apress)
 Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
+Programmer Passport: Elixir (pragm)
+Programmer Passport: OTP (in Elixir) (pragm)
 Programmer Passport: Prolog (pragm)
+Programming Clojure (pragm)
+Programming DSLs in Kotlin (pragm)
+Programming Elixir 1.6 (pragm)
+Programming Elm (pragm)
+Programming Kotlin (pragm)
 Programming Machine Learning (pragm)
 Programming Perl 4e
 Programming PHP 4e
@@ -759,6 +775,7 @@ Rocketbirds: Hardboiled Chicken
 ROCKETSROCKETSROCKETS
 Rot and Ruin: Warrior Smart
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
+Rust Brain Teasers (pragm)
 Sampler
 Scala Cookbook
 The Sciences of the Artifical (mitp)
@@ -882,6 +899,7 @@ We have Root: Even more advice from Schenier on Security (Wiley)
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
 Web Design Playground
 Web Development with Django Cookbook (packt)
+Web Development with ReasonML (pragm)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
