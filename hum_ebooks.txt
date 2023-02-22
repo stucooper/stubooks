@@ -8,6 +8,7 @@
 97 Things Every Programmer Should Know
 97 Things Every Java Programmer Should Know
 A Casual Revolution: Reinventing Video Games and Their Players (mitp)
+A Common-Sense Guide to Data Structures and Algorithms 2e (pragm)
 A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
 A Double Fine Adventure Full (video)
 A Guide to Convolutional Neural Networks for Computer Vision (MandC)
@@ -119,6 +120,7 @@ Building an Anonymization Pipeline (ora)
 Building Apps with Riot
 Building Event-Driven Microservices (ora)
 Building Machine Learning Powered Applications (ora)
+Building Table Views with Phoenix LiveView (pragm)
 CAPM in Depth
 The Car Hacker's Handbook
 Car PC Hacks
@@ -143,6 +145,7 @@ Collaborative Cyber Threat Intelligence
 Color Sky
 Comic Book History of Comics
 Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
+Complex Network Analysis in Python (pragm)
 CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
 CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
 Computer Security Literacy
@@ -173,6 +176,7 @@ Data Engineering with Python (packt)
 Data-Intensive Text Processing with MapReduce (MandC)
 Data Management in Machine Learning Systems (MandC)
 Data Science
+Data Science Essentials in Python (pragm)
 Data Science From Scratch (ora)
 Data Visualization with Javascript
 Data Visualization with Python & JavaScript (ora)
@@ -280,6 +284,7 @@ Functional Thinking
 The Future (mitp)
 Game Hacking
 Gaming Hacks
+Genetic Algorithms and Maching Learning for Programmers (pragm)
 Get Programming
 Get Programming with Javascript
 Getting Started with 3D Printing
@@ -296,6 +301,7 @@ Girls Like Robots
 Git Pocket Guide
 The GNU Make Book
 GNU Octavo by Example
+Good Math (pragm)
 Google BigQuery: The Definitive Guide
 GPGPU Programming for Games and Science
 Graph Databases, 2e: New Opportunities for Connected Data
@@ -638,6 +644,7 @@ Open Source Intelligence Methods and Tools (Springer/Apress)
 OpenGL Insights
 OpenStack Administration with Ansible 2
 Overgrowth
+Pandas Brain Teasers (pragm)
 Paradox (mitp)
 Parallel and Concurrent Programming in Haskell
 Penetration Testing
@@ -662,6 +669,7 @@ Practical LPIC-3 300 (Springer/Apress)
 Practical Machine Learning: A New Look at Anomaly Detection
 Practical Machine Learning: Innovations in Recommendation
 Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI
+Practical Microservices (pragm)
 Practical Monitoring
 Practical Network Automation
 Practical Packet Analysis
@@ -682,6 +690,8 @@ Pro SQL Server on Linux (Springer/Apress)
 Pro Vim
 Production Volume Rendering
 Professional Linux Kernel Architecture
+Programmer Passport: Prolog (pragm)
+Programming Machine Learning (pragm)
 Programming Perl 4e
 Programming PHP 4e
 Programming Quantum Computers
@@ -709,6 +719,7 @@ Python Jumpstart by Building 10 Apps
 Python Playground: Geeky Projects for the Curious Programmer (nostarch)
 Python Tricks: A Buffet of Awesome Python Features
 Python Workshop (packt)
+Pythonic Programming (pragm)
 PyUP
 Q.U.B.E: Director's Cut
 R Cookbook
@@ -762,6 +773,8 @@ Self-Service Data Roadmap (ora)
 Self-Tracking (mitp)
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
+Seven Concurrency Models in Seven Weeks (pragm)
+Seven Databases in Seven Weeks 2e (pragm)
 Shell Scripting: Expert Recipes for Linux, Bash, and more
 The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition (Wiley)
 shutshimi
@@ -776,6 +789,7 @@ Spark: The Definitive Guide
 Spirits
 Splunk Essentials
 Sproggiwood
+SQL Antipatterns Volume 1 (pragm)
 SQL Cookbook
 SQL Hacks
 SQL Pocket Guide (ora)
@@ -816,6 +830,7 @@ The Technological Singularity (mitp)
 Technology Strategy Patterns
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
+Test Processing with Ruby (pragm)
 Test-Driven Development with Python
 Testing in Scala
 Think Bayes: Bayesian Statistics in Python
