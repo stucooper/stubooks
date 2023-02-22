@@ -352,7 +352,7 @@ Hot Damn
 How Games Move Us: Emotion by Design (mitp)
 How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
-HTML5 Hacks
+HTML5 Hacks (ora)
 Human Computation (MandC)
 Hyperledger for Blockchain Applications (video)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform (mitp)
@@ -456,7 +456,7 @@ Learning Java
 Learning JavaScript (ora)
 Learning Kubernetes (video)
 Learning Perl 7e
-Learning PHP, MySQL & JavaScript (ora)
+Learning PHP, MySQL & JavaScript 5e (ora)
 Learning R for Data Visualization (video)
 Learning React Native
 Learning React1 (ora)
@@ -676,7 +676,7 @@ Programming Elm (pragm)
 Programming Kotlin (pragm)
 Programming Machine Learning (pragm)
 Programming Perl 4e
-Programming PHP 4e
+Programming PHP 4e (ora)
 Programming Quantum Computers
 Programming Rust
 Programming Scala 2e
