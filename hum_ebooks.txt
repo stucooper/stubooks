@@ -1,10 +1,8 @@
-2064: Read Only Memories
 21st Century Robot
 30 Days of Night (idw)
 35% off print books from nostarch.com!
 3D Engine Design for Virtual Globes
 3D Math Primer for Graphics and Game Development
-7 Grand Steps
 97 Things Every Programmer Should Know
 97 Things Every Java Programmer Should Know
 A Casual Revolution: Reinventing Video Games and Their Players (mitp)
@@ -13,7 +11,6 @@ A Developer's Guide to Blockchain, Bitcoin and Cryptocurrencies (video)
 A Double Fine Adventure Full (video)
 A Guide to Convolutional Neural Networks for Computer Vision (MandC)
 A Little Gold Book of Ghastly Stuff 
-A Virus Named Tom
 Absolute FreeBSD: The Complete Guide to FreeBSD
 Absolute OpenBSD
 Accelerating Development Velocity using Docker (Springer/Apress)
@@ -22,8 +19,6 @@ Advanced Analytics with Spark
 Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
 The Agile Enterprise
-AI War: Fleet Command
-AI War: Fleet Command+3 DLCs
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
 The Allure of Machinic Life (mitp)
@@ -72,12 +67,10 @@ Automate it!
 Automate the Boring Stuff with Python (nostarch)
 Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
 AWS System Administration
-Ballistick
 Baseball Hacks
 bash Cookbook (ora)
 Bash Pocket Reference, 2nd Edition (ora)
 Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
-Beat Hazard Ultra
 Beautiful LEGO (nostarch)
 Become ITIL Foundation Certified in 7 Days
 Becoming a Better Programmer
@@ -129,7 +122,6 @@ The Cathedral and the Bazaar
 CEH v9: Certified Ethical Hacker Version 9 Study Guide
 Certified OpenStack Administrator Study Guide
 Chatbots for eCommerce
-Chroma Squad
 The CISO Journey
 Classic Shell Scripting (ora)
 Clojure Cookbook
@@ -169,7 +161,6 @@ Cybernetics: Control and Communication in the Animal and the Machine (mitp)
 D4VE, Vol. 1
 D4VE2
 D4VEocracy #1
-Dangerous High School Girls in Trouble
 Darkness Visible #1
 Data Analytics for Internal Auditors
 Data Engineering with Python (packt)
@@ -182,7 +173,6 @@ Data Visualization with Javascript
 Data Visualization with Python & JavaScript (ora)
 Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
-Day of the Tentacle
 Deep Learning Cookbook
 Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
@@ -220,7 +210,6 @@ Docker Cookbook
 Doing Data Science: Straight Talk from the Frontline
 Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
 Domain Modelling Made Functional (pragm)
-Double Fine Adventure Documentary
 Double Fine Adventure Ep.01 (video)
 Double Fine Adventure Ep.02 (video)
 Double Fine Adventure Ep.03 (video)
@@ -242,7 +231,6 @@ Double Fine Adventure Ep.18 (video)
 Double Fine Adventure Ep.19 (video)
 Double Fine Adventure Ep.20 (video)
 Drone Revolution: Vol. 51
-Dusty Revenge: Co-Op Edition
 Effective DevOps
 egghead.io
 Elastic Leadership
@@ -252,7 +240,6 @@ The Electric Sublime #3
 The Electric Sublime #4
 Electricity for Young Makers
 Elegant SciPy
-Ellipsis
 Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch(
 The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
 The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
@@ -303,7 +290,6 @@ Getting Started with Sensors: Measure the World with Electronics, Arduino, and R
 Getting Started with the Internet of Things
 Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
 Generative Deep Learning (ora)
-Girls Like Robots
 Git Pocket Guide
 The GNU Make Book
 GNU Octavo by Example
@@ -313,21 +299,16 @@ GPGPU Programming for Games and Science
 Graph Databases, 2e: New Opportunities for Connected Data
 Graphics Shaders
 Graphing Data with R
-GRAV (Early Access)
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
 Grokking Bitcoin
 Grokking Deep Learning
-Guacamelee! Gold Edition
-Guacamelee Super Turbo Championship Edition
-Guns of Icarus Online
 Hacker Bundle 2016 PDF Sampler
 Hackers and Painters
 Hacking: The Art of Exploitation, 2nd Edition
 Hadoop Real-World Solutions Cookbook
 Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale
 Half Past Danger
-Hand of Fate
 Hands-On Bitcoin Programming with Python
 Hands-On Blockchain for Python Developers
 Hands-On Blockchain with Hyperledger
@@ -368,13 +349,11 @@ The Hollows
 Home Theater Hacks
 The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
-Hot Tin Roof
 How Games Move Us: Emotion by Design (mitp)
 How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
 HTML5 Hacks
 Human Computation (MandC)
-Human Resource Machine
 Hyperledger for Blockchain Applications (video)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform (mitp)
 The IDA Pro Book
@@ -410,7 +389,6 @@ Introducting ZFS on Linux (Springer/Apress)
 Intrusion Detection and Prevention for Mobile Ecosystems
 Intrusion Detection Networks
 Invent Your Own Computer Games with Python
-Invisible, Inc.
 iOS Application Security
 IRC Hacks
 Iris Biometric Model for Secured Network Access
@@ -435,7 +413,6 @@ Jenkins: The Definitive Guide
 Joe Hill's The Cape
 Joe Hill's The Cape: 1969
 JSON at Work
-JumpJet Rex
 Jumpstart Tableau
 Jumpstarting the Arduino 101
 Jumpstarting the Raspberry Pi Zero W
@@ -523,7 +500,6 @@ Locke & Key, Vol 5
 Locke & Key, Vol 6
 LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102
 LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
-Luna's Wandering Stars
 The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
 Machine Learning and Data Science Blueprints for Finance (ora)
 Machine Translation (mitp)
@@ -610,7 +586,6 @@ Metric Learning (MandC)
 Mind Hacks
 Mindful Design
 Minecraft Modding with Forge
-Mini Metro
 Migrating to MariaDB (Springer/Apress)
 Mission Python
 MIT Press Essential Knowledge Series
@@ -622,11 +597,9 @@ Modern Systems Programming with Scala Native (pragm)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
-Monster Loves You
 MOOCs (mitp)
 Moving Hadoop to the Cloud
 Multithreading for Visual Effects
-Mushroom 11
 Natural Language Processing for Social Media 2e (MandC)
 Natural Language Processing with Python
 Natural Language Processing with PyTorch
@@ -637,21 +610,16 @@ Network Troubleshooting Tools (ora)
 Neural Network Methods for Natural Language Processing (MandC)
 Nginx: From Beginner to Pro
 Night of 1,000 Wolves
-Ninja Pizza Girl
 No Starch Sampler
-No Time to Explain
 Norbert Wiener: A Life in Cybernetics (mitp)
-Nuclear Throne
 The October Faction, Vol. 1
 The October Faction, Vol. 2
 The October Faction, Vol. 3
-Octodad Dadliest Catch
 Onyx
 Open Access (mitp)
 Open Source Intelligence Methods and Tools (Springer/Apress)
 OpenGL Insights
 OpenStack Administration with Ansible 2
-Overgrowth
 Pandas Brain Teasers (pragm)
 Paradox (mitp)
 Parallel and Concurrent Programming in Haskell
@@ -663,7 +631,6 @@ PHP Cookbook
 Play Between Worlds: Exploring Online Game Culture (mitp)
 Play Matters (mitp)
 Postman PRO
-Potatoman Seeks the Troof
 Practical Automated Machine Learning on Azure (ora)
 Practical Data Science
 Practical Data Science with SAP (ora)
@@ -737,7 +704,6 @@ Python Tricks: A Buffet of Awesome Python Features
 Python Workshop (packt)
 Pythonic Programming (pragm)
 PyUP
-Q.U.B.E: Director's Cut
 R Cookbook
 R in a Nutshell: A Desktop Quick Reference, 2nd Edition
 Ragnarok, Vol. 1: Last God Standing
@@ -758,21 +724,14 @@ ReMaking History, Vol. 2
 ReMaking History, Vol. 3
 Responsive Security
 RESTful Java with JAX-RS 2.0
-Retro Game Crunch
-Retro Game Crunch (7 game package)
 Retro Gaming Hacks
 Revolution in the Valley
 Richard Stark's Parker: Slayground
 Richard Stark's Parker: The Hunter
 Richard Stark's Parker: The Outfit
 Richard Stark's Parker: The Score
-Rituals
 Robot Sex: Social and ethical implications (mitp)
-Robot Roller-Derby Disco Dodgeball
 Robots (mitp)
-Rocket Birds: Hardboiled Chicken
-Rocketbirds: Hardboiled Chicken
-ROCKETSROCKETSROCKETS
 Rot and Ruin: Warrior Smart
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Rust Brain Teasers (pragm)
@@ -780,7 +739,6 @@ Sampler
 Scala Cookbook
 The Sciences of the Artifical (mitp)
 Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
-Secrets of Raetikon
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
 Security Strategy
@@ -794,26 +752,20 @@ Seven Concurrency Models in Seven Weeks (pragm)
 Seven Databases in Seven Weeks 2e (pragm)
 Shell Scripting: Expert Recipes for Linux, Bash, and more
 The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition (Wiley)
-shutshimi
 The Site Reliability Workbook
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
 Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
 Social Engineering: The Art of Human Hacking
 Social Media Warfare
 Solidity Programming Essentials
-Song of the Deep
 Spark: The Definitive Guide
-Spirits
 Splunk Essentials
-Sproggiwood
 SQL Antipatterns Volume 1 (pragm)
 SQL Cookbook
 SQL Hacks
 SQL Pocket Guide (ora)
 The Squidder
 SSH: The Definitive Guide 2e
-The Stanley Parable
-Stardew Valley
 Statistical Relationship AI: Logic, Probability and Computation (MandC)
 Statistics and Calculus with Python Workshop (packt)
 Statistics Done Wrong: The Woefully Complete Guide
@@ -823,26 +775,17 @@ Steampunk LEGO (nostarch)
 Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
 Streaming Systems
-Streamline Early Access
 Strengthening Deep Neural Networks (ora)
 Succeeding with AI
-Super Galaxy Squadron EX
-Super Hexagon
 Super Meat Boy
 Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
-Superbrothers: Sword & Sworcery EP
 Supply Chain Risk Management
 Surviving Orbit the DIY Way
 Sustainability (mitp)
 SVG Animations
-The Swapper
-System Shock 2
-System Shock: Enhanced Edition
-System Shock Pack
 The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference
 TCP/IP Network Administration, 3rd Edition (ora)
 Teach Your Kids to Code
-Team Indie
 The Technological Singularity (mitp)
 Technology Strategy Patterns
 Ten Steps to Linux Survival (ora)
@@ -855,16 +798,13 @@ Think Java
 Think Julia
 Think Like a Programmer: An Introduction to Creative Problem Solving (nostarch)
 Think Stats, 2e: Exploratory Data Analysis
-Thirty Flights of Loving
 Thoughtful Machine Learning with Python
 Threat Level Red
 Threat Modeling: Designing for Security (Wiley)
 Three Months of Mapt Pro for $30 Coupon
 Thriving in the Gig Economy
 Time Series Databases: New Ways to Store and Access Data
-TIMEframe
 Tokenomics
-Tower of Guns
 Truffle Quick Start Guide
 The Turing Test: Verbal Behaviour as Hallmark of Intelligence (mitp)
 Ubuntu Linux Toolbox: 1000+ Commands for Power Users
@@ -890,8 +830,6 @@ Vintage Tomorrows
 Visualizing Streaming Data
 Vue.js: Understanding its Tools and Ecosystem
 Vue.js: Up and Running (ora)
-VVVVVV
-Waking Mars
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World (mitp)
@@ -914,8 +852,6 @@ Woodworking for Young Makers
 Working with Big Data in Python (video)
 Working with Static Sites
 Works of Game: On the Aesthetics of Games and Art (mitp)
-World of Goo
-World Of Goo
 The Wraith: Welcome to Christmasland
 Write Great Code, Volume 1: Understanding the Machine (nostarch)
 Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level (nostarch)
