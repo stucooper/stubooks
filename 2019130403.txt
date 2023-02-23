@@ -3,19 +3,14 @@ label: 2019130403
 description: Penguin Classics, both black and yellow
 loc: flemshed
 
-Howard's End                            E M Forster        PengClassics
-Northanger Abbey                        Jane Austen        PengClassics
 Complete Poems                          William Blake      PengClassics
 Silas Marner                            George Eliot       PengClassics
 Complete Stories                        Dorothy Parker     PengClassics
 Complete Poems                          John Keats         PengClassics
-Three Men in a Boat                     Jerome K Jerome    PengClassics
 The Prodigy                        Hermann Hesse           Penguin
-Iliad of Homer                     Alexander Pope          Penguin
 The War in the Air                 H G Wells               Penguin
 The Man in the Iron Mask           Alexandre Dumas         Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
-Three Theban Plays                 Sophocles/Fagles        Penguin
 Four Comedies (Taming/Dream/AsYou/Twelfth) Shakespeare      Penguin
 Four Histories (Rich2/Henry4Pt1/Henry4Pt2/HenryV) Shakespeare Penguin
 Four Tragedies (Haml/Othello/Lear/Macbeth) Shakespeare      Penguin

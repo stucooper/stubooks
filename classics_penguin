@@ -1,12 +1,17 @@
 # Penguin Classics. Mostly black spines
 # Alphabetical by author (middle column) then title
 Emma                                Austen             PenguinBlackClassics
+Northanger Abbey                    Austen             PenguinYellowClassics
 Persuasion                          Austen             PenguinBlackClassics
+Pride and Prejudice                 Austen             PenguinYellowClassics
 Sense and Sensibility               Austen             PenguinBlackClassics
+Barber Seville/Marriage of Figaro   Beaumarchais       PenguinYellowClassics
 Don Juan                            Byron              PenguinYellowClassics
 The Canterbury Tales                Geoffrey Chaucer   PenguinBlackClassics
 Pinocchio                           Carlo Collodi      PenguinBlackClassics
+Lord Jim                            Joseph Conrad      PenguinYellowClassics
 The Portable Conrad                 Joseph Conrad      PenguinBlackClassics
+Robinson Crusoe                     Defoe              PenguinYellowClassics
 Bleak House                         Dickens            PenguinBlackClassics
 A Christmas Carol, Xmas writings    Dickens            PenguinBlackClassics
 David Copperfield                   Dickens            PenguinYellowClassics
@@ -15,7 +20,6 @@ Great Expectations                  Dickens            PenguinYellowClassics
 Hard Times                          Dickens            PenguinYellowClassics
 Martin Chuzzlewit                   Dickens            PenguinYellowClassics
 Nicholas Nickleby                   Dickens            PenguinYellowClassics
-Nutcracker/Mouse King               Hoffman/Dumas      PenguinBlackClassics
 Old Curiosity Shop                  Dickens            PenguinYellowClassics
 Our Mutual Friend                   Dickens            PenguinBlackClassics
 Oliver Twist                        Dickens            PenguinYellowClassics
@@ -23,9 +27,29 @@ Pickwick Papers                     Dickens            PenguinYellowClassics
 Sketches by Boz                     Dickens            PenguinYellowClassics
 Tale of Two Cities                  Dickens            PenguinYellowClassics
 Gambler/Bobok/NastyStory            Dostoyevsky        PenguinYellowClassics
+The House of the Dead               Dostoyevsky        PenguinYellowClassics
+The Idiot                           Dostoyevsky        PenguinYellowClassics
+Notes from Underground/The Double   Dostoyevsky        PenguinYellowClassics
+Nutcracker/Mouse King               Hoffman/Dumas      PenguinBlackClassics
+Howard's End                        E M Forster        PenguinYellowClassics
 A Passage to India                  E M Forster        PenguinBlackClassics
+The Savoy Operas                    Gilbert/Sullivan   PenguinBlackClassics
 Homer: The Iliad                    Homer/Fagles       PenguinYellowClassics
+Selected Essays                     Samuel Johnson     PenguinBlackClassics
+Three Men in a Boat                 Jerome K Jerome    PenguinBlackClassics
+The Odyssey       READING           Homer/E V Rieu     PenguinBlackClassics
 Ruba'iyat of Omar Khayyam           Omar Khayyam       PenguinYellowClassics
+The Prince                          Machiavelli        PenguinBlackClassics
 The Portable Arthur Miller          Arthur Miller      PenguinBlackClassics
+Iliad of Homer                      Alexander Pope     PenguinYellowClassics
+Three Theban Plays                  Sophocles/Fagles   PenguinYellowClassics
+Treasure Island                     R Louis Stephenson PenguinBlackClassics
 Twelve Caesars                      Suetonius/Graves   PenguinYellowClassics
+Gulliver's Travels                  Swift              PenguinYellowClassics
+Anna Karenina                       Tolstoy            PenguinBlackClassics
+Adventures of Huckleberry Finn      Mark Twain         PenguinBlackClassics
+Adventures of Tom Sawyer            Mark Twain         PenguinYellowClassics
 Journey to the Centre of the Earth  Verne              PenguinBlackClassics
+Monkey                              Arthur Waley       PenguinYellowClassics
+Complete Short Fiction              Oscar Wilde        PenguinBlackClassics
+De Profundis etc.                   Oscar Wilde        PenguinYellowClassics
