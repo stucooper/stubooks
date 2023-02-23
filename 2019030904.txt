@@ -4,7 +4,6 @@ description: Penguin Classics
 loc: flemshed
 
 The Odyssey                        Homer (E V Rieu)        Penguin
-Gambler/Bobok/NastyStory           Fyodor Dostoyevsky      Penguin
 Monkey                             Arthur Waley            Penguin
 The Brothers Karamazov                   Dostoyevsky (McDuff)    Penguin
 A Short History of the World             H G Wells               Penguin
@@ -14,7 +13,6 @@ Complete Poems                           Walt Whitman            Penguin
 Nutcracker/Mouse King                    Hoffman/Dumas           Penguin
 Pinocchio                                Carlo Collodi           Penguin
 Treasure Island                          Robert Louis Stephenson Penguin
-Emma                                     Jane Austen             Penguin
 Los Alamos                                    Kanon          abacus
 Alibi                                         Kanon          sphere
 The Prodigal Spy                              Kanon          abacus

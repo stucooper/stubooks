@@ -3,7 +3,6 @@ label: 2019030502
 description: Black Penguin Classics
 
 Plays Unpleasant                  George Bernard Shaw       PengClassics
-Sense and Sensibility             Jane Austen               PengClassics
 Emma                              Jane Austen               PengClassics
 The Phantom of the Opera          Gaston Leroux             PengClassics
 Vanity Fair                       Willaim Thackeray         PengClassics

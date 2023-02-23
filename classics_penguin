@@ -1,5 +1,7 @@
 # Penguin Classics. Mostly black spines
 # Alphabetical by author (middle column) then title
+Emma                                Austen             PenguinBlackClassics
+Sense and Sensibility               Austen             PenguinBlackClassics
 Don Juan                            Byron              PenguinYellowClassics
 The Portable Conrad                 Joseph Conrad      PenguinBlackClassics
 Bleak House                         Dickens            PenguinBlackClassics
@@ -16,6 +18,7 @@ Oliver Twist                        Dickens            PenguinYellowClassics
 Pickwick Papers                     Dickens            PenguinYellowClassics
 Sketches by Boz                     Dickens            PenguinYellowClassics
 Tale of Two Cities                  Dickens            PenguinYellowClassics
+Gambler/Bobok/NastyStory            Dostoyevsky        PenguinYellowClassics
 A Passage to India                  E M Forster        PenguinBlackClassics
 The Portable Arthur Miller          Arthur Miller      PenguinBlackClassics
 Twelve Caesars                      Suetonius/Graves   PenguinYellowClassics
