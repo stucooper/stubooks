@@ -1,8 +1,10 @@
 # Penguin Classics. Mostly black spines
 # Alphabetical by author (middle column) then title
 Emma                                Austen             PenguinBlackClassics
+Persuasion                          Austen             PenguinBlackClassics
 Sense and Sensibility               Austen             PenguinBlackClassics
 Don Juan                            Byron              PenguinYellowClassics
+Pinocchio                                Carlo Collodi           Penguin
 The Portable Conrad                 Joseph Conrad      PenguinBlackClassics
 Bleak House                         Dickens            PenguinBlackClassics
 A Christmas Carol, Xmas writings    Dickens            PenguinBlackClassics
@@ -12,6 +14,7 @@ Great Expectations                  Dickens            PenguinYellowClassics
 Hard Times                          Dickens            PenguinYellowClassics
 Martin Chuzzlewit                   Dickens            PenguinYellowClassics
 Nicholas Nickleby                   Dickens            PenguinYellowClassics
+Nutcracker/Mouse King               Hoffman/Dumas      PenguinBlackClassics
 Old Curiosity Shop                  Dickens            PenguinYellowClassics
 Our Mutual Friend                   Dickens            PenguinBlackClassics
 Oliver Twist                        Dickens            PenguinYellowClassics
@@ -22,3 +25,4 @@ Gambler/Bobok/NastyStory            Dostoyevsky        PenguinYellowClassics
 A Passage to India                  E M Forster        PenguinBlackClassics
 The Portable Arthur Miller          Arthur Miller      PenguinBlackClassics
 Twelve Caesars                      Suetonius/Graves   PenguinYellowClassics
+Journey to the Centre of the Earth  Verne              PenguinBlackClassics

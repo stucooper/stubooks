@@ -3,7 +3,6 @@ label: 2019111402
 description: Shiploads of smaller sized books
 loc: flemshed
 
-Persuasion                                 Jane Austen              Penguin
 Think Again: How to Reason and Argue       Walter Sinnott-Armstrong Pelican
 Release the Bats                           D B C Pierre             faber
 Male Order (mans style guide)              Richard Clune            NewHolland
