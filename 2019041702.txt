@@ -3,20 +3,6 @@ label: 2019041702
 description: Just about all non-bio Dickens I have
 
 Dickens at Christmas hb             Dickens            Vintage
-Bleak House                         Dickens            PenguinBlackClassics
-Our Mutual Friend                   Dickens            PenguinBlackClassics
-A Christmas Carol, Xmas writings    Dickens            PenguinBlackClassics
 Pictures from Italy                 Dickens            PenguinBlackClassics
-Dombey and Son                      Dickens            PenguinYellowClassics
-Tale of Two Cities                  Dickens            PenguinYellowClassics
-Sketches by Boz                     Dickens            PenguinYellowClassics
-Martin Chuzzlewit                   Dickens            PenguinYellowClassics
-Nicholas Nickleby                   Dickens            PenguinYellowClassics
-Hard Times                          Dickens            PenguinYellowClassics
 Bleak House                         Dickens            PenguinYellowClassics
-Pickwick Papers                     Dickens            PenguinYellowClassics
-David Copperfield                   Dickens            PenguinYellowClassics
-Old Curiosity Shop                  Dickens            PenguinYellowClassics
 American Notes                      Dickens            PenguinYellowClassics
-Oliver Twist                        Dickens            PenguinYellowClassics
-Great Expectations                  Dickens            PenguinYellowClassics
