@@ -123,3 +123,32 @@ Winter King                    Penn              Penguin
 The World Until Yesterday      Diamond           Penguin
 World War Two                  Stone             Penguin
 Zero Zero Zero                 Saviano           Penguin
+# Allen Lane branded (these typically become creamy penguin paperbacks)
+All Things Made New            MacCulloch        AllenLane Hatherley
+An Uncertain Glory             Dreze and Sen     AllenLane Hardback
+Age of Anger                   Mishra            AllenLane Hardback
+Caste                          Wilkerson         AllenLane Paperback
+Creative Schools               Robinson          AllenLane Paperback
+Doom                           Ferguson          AllenLane Paperback
+The Demon in the Machine       Davies            AllenLane Paperback
+Einstein's Unfinished Revolution Smolin          AllenLane Hardback
+Enlightenment Now              Pinker            AllenLane Paperback
+The Europeans                  Figes             AllenLane Hardback
+The Fifth Risk                 Lewis             AllenLane Hardback
+First Confession               Patten            AllenLane Hardback
+Future Perfect                 Johnson           AllenLane Hardback
+Has the West Lost it?          Mahbubani         AllenLane Hardback
+Hitler                         Simms             AllenLane Hardback
+Hitler (single volume)         Kershaw           AllenLane Paperback
+Lewis Carroll in Numberland    Wilson            AllenLane Hardback
+The Master Algorithm           Domingos          AllenLane Hardback
+Ocean of Life                  Roberts           AllenLane Hardback
+The Optician of Lampedusa      Kirby             AllenLane Hardback
+Origin Story                   Christian         AllenLane Paperback
+Our Boys                       Parr              AllenLane Hardback
+People, Power and Profits      Stiglitz          AllenLane Hardback
+The Pity of War                Ferguson          AllenLane Hardback
+Talking to Strangers           Gladwell          AllenLane Paperback
+To Explain the World           Weinberg          AllenLane Hardback
+Whiteshift                     Kaufmann          AllenLane Hardback
+You, Your Child and School     Robinson          AllenLane Paperback
