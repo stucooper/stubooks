@@ -9,6 +9,7 @@ The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
 Blitzed                        Ohler             Penguin
+Blueprint                      Plomin            Penguin
 Blood and Guts                 Porter            Penguin
 The Body Keeps the Score       Van Der Kolk      Penguin
 The Bomber Mafia               Gladwell          Penguin
@@ -25,21 +26,25 @@ Chopin's Piano                 Kildea            Penguin
 Civilization                   Ferguson          Penguin
 The Craftsman                  Sennett           Penguin
 Dark Continent                 Mazower           Penguin
+Denying the Holocaust          Lipstadt          Penguin
 Dial M for Murdoch             Watson/Hickman    Penguin
 Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin
+The Egyptians                  Shenker           Penguin
 The Element                    Robinson          Penguin
 Enemies and Neighbours         Black             Penguin
 Engineers of Victory           Kennedy           Penguin
 The Entreprenerial State       Mazzucato         Penguin
 The End                        Kershaw           Penguin
 The End of Average             Rose              Penguin
+The End of Everything          Mack              Penguin
 Enemies: History of the FBI    Weiner            Penguin
 The Establishment              Jones             Penguin
 Europe                         Simms             Penguin
 Europe                         Flannery          Penguin
 Eva Braun                      Gortemaker        Penguin
 Every Song Ever                Ratliff           Penguin
+The Fall of the Ottomans       Rogan             Penguin
 Flash Boys                     Lewis             Penguin
 Fooled by Randomness           Taleb             Penguin
 Freakonomics                   Levitt/Dubner     Penguin
@@ -54,6 +59,7 @@ Happiness by Design            Doolan            Penguin
 How not to be Wrong            Ellenberg         Penguin
 How to be right                O'Brien           Penguin (quasi)
 How the French Think           Hazareesingh      Penguin
+Human Compatible               Russell           Penguin
 Iron Curtain                   Applebaum         Penguin
 Iron Kingdom                   Clark             Penguin
 Limonov                        Carrere           Penguin
@@ -63,6 +69,7 @@ Landscapes of Commmunism       Hatherley         Penguin
 The Last Man in Russia         Bullough          Penguin
 Leadership and Self-Deception  Arbinger Institut Penguin
 Leonardo Da Vinci              Nicholl           Penguin
+The Long '68                   Vinen             Penguin
 Lost Japan                     Kerr              Penguin
 Margaret Thatcher Volume 2     Moore             Penguin
 The Map and the Territory 2.0  Greenspan         Penguin
@@ -73,6 +80,8 @@ Moonwalking with Einstein      Foer              Penguin
 My Italians                    Saviano           Penguin
 Napoleon the Great             Roberts           Penguin
 Nudge                          Thaler/Sunstein   Penguin
+On Grand Strategy              Gaddis            Penguin
+On Politics                    Ryan              Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin (quasi)
 The Party                      McGregor          Penguin
@@ -112,7 +121,9 @@ Turing's Cathedral             Dyson             Penguin
 The Undoing Project            Lewis             Penguin
 Universal                      Cox/Forshaw       Penguin
 Unweaving the Rainbow          Dawkins           Penguin
+The Value of Everything        Mazzucato         Penguin
 The Vanquished                 Gerwarth          Penguin
+What you did not tell          Mazower           Penguin
 When to Rob a Bank             Levitt/Dubner     Penguin
 We are our brains              Swaab             Penguin
 What is Populism?              Muller            Penguin
