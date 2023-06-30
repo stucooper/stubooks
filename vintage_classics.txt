@@ -1,6 +1,7 @@
 # Vintage classics + Proust
 How Proust Can Change Your Life Alain de Botton  Picador
 Crime and Punishment            Dostoyevsky      Vintage
+Everything Flows                Grossman         Vintage
 Catch-22                        Heller           Vintage
 Zen and Motorcycle Maintenance  Pirsig           Vintage
 Proust Vol1: Swann's Way        Proust           Vintage
@@ -11,8 +12,8 @@ Proust Vol5: Captive/Fugitive   Proust           Vintage
 Proust Vol6: Regained/Guide     Proust           Vintage
 Recherche du temps Perdu (Fr)   Proust           Gallimard
 Swann's Way                     Proust/Grieve    Canberra
-Everything Flows                Grossman         Vintage
-The Moon and Sixpence           Somerset-Maugham Vintage
 Life of Proust                  White            WandN
+The Moon and Sixpence           Somerset-Maugham Vintage
+War and Peace                   Tolstoy          Vintage
 The Easter Parade               Yates            Vintage
 Revolutionary Road              Yates            Vintage
