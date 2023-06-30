@@ -106,6 +106,8 @@ Building Apps with Riot
 Building Event-Driven Microservices (ora)
 Building Machine Learning Powered Applications (ora)
 Building Table Views with Phoenix LiveView (pragm)
+C# 10 in a Nutshell (ora)
+C++ Software Design (ora)
 CAPM in Depth
 The Car Hacker's Handbook
 Car PC Hacks
@@ -122,12 +124,14 @@ Clojure Programming
 Cloud Computing (mitp)
 Cloud Foundry: The Definitive Guide
 Cloud Native
+Cloud Native Go (ora)
 Cloud Native Infrastructure
 Code Craft
 Codename Revolution: The Nintendo Wii Platform (mitp)
 Collaborative Cyber Threat Intelligence
 Color Sky
 Comic Book History of Comics
+Command Line Go (ora)
 Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
 Complex Network Analysis in Python (pragm)
 CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
@@ -202,6 +206,7 @@ Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus
 Domain Modelling Made Functional (pragm)
 Drone Revolution: Vol. 51
 Effective DevOps
+Efficient Go (ora)
 egghead.io
 Elastic Leadership
 The Electric Sublime #1
@@ -225,6 +230,7 @@ Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
 Flask Web Development (ora)
+Fluent C (ora)
 Fluent Python
 Fluid Simulation for Computer Graphics
 Food Hacks: Vol. 53
@@ -417,12 +423,14 @@ Learning Java
 Learning JavaScript (ora)
 Learning Perl 7e
 Learning PHP, MySQL & JavaScript 5e (ora)
+Learning PHP, MySQL & JavaScript 6e (ora)
 Learning React Native
 Learning React1 (ora)
 Learning Scala
 Learning Spark: Lightning-Fast Big Data Analysis
 Learning SQL 3e
 Learning TensorFlow, 1Ed
+Learning Typescript (ora)
 Learning the bash Shell, 3rd Edition (ora)
 Learning the vi and Vim Editors, 7th Edition (ora)
 Learning Unix for OS X, 2nd Edition (ora)
@@ -547,11 +555,13 @@ Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
 Modern Python Cookbook (packt)
 Modern Systems Programming with Scala Native (pragm)
+Modernizing Enterprise Java (ora)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
 MOOCs (mitp)
 Moving Hadoop to the Cloud
+Multithreaded JavaScript (ora)
 Multithreading for Visual Effects
 Natural Language Processing for Social Media 2e (MandC)
 Natural Language Processing with Python
@@ -622,6 +632,8 @@ Professional Linux Kernel Architecture
 Programmer Passport: Elixir (pragm)
 Programmer Passport: OTP (in Elixir) (pragm)
 Programmer Passport: Prolog (pragm)
+Programming Android with Kotlin (ora)
+Programming C# 10 (ora)
 Programming Clojure (pragm)
 Programming DSLs in Kotlin (pragm)
 Programming Elixir 1.6 (pragm)
@@ -684,11 +696,12 @@ Richard Stark's Parker: The Outfit
 Richard Stark's Parker: The Score
 Robot Sex: Social and ethical implications (mitp)
 Robots (mitp)
+Robust Python (ora)
 Rot and Ruin: Warrior Smart
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Rust Brain Teasers (pragm)
 Sampler
-Scala Cookbook
+Scala Cookbook 2e (ora)
 The Sciences of the Artifical (mitp)
 Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
 Security De-Engineering
@@ -715,6 +728,7 @@ Splunk Essentials
 SQL Antipatterns Volume 1 (pragm)
 SQL Cookbook
 SQL Hacks
+SQL in a Nutshell 4e (ora)
 SQL Pocket Guide (ora)
 The Squidder
 SSH: The Definitive Guide 2e
