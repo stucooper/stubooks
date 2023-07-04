@@ -76,8 +76,10 @@ Beginning Linux Programming
 Beginning Modern Unix (Springer/Apress)
 Beginning Python
 Beginning Ubuntu for Windows and Mac Users (Springer/Apress)
+Behavioural Cybersecurity (crc)
 The Best of Instructables, Volume I
 The Best of Make:
+Big Data Analytics and Computing for Digital Forensic Investigations (crc)
 Big Data Analytics in Cybersecurity
 Big Data Analytics with Applications in Insider Threat Detection
 Big Data Analytics with Hadoop 3
@@ -142,9 +144,11 @@ Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
 Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
+Creating an Information Security Program from scratch (crc)
 Creating Autonomous Vehicle Systems (MandC)
 Creating Interfaces with Bulma
 Critical Play: Radical Game Design (mitp)
+Cross-Site Scripting Attacks: Classification, Attack and Countermeasures (crc)
 Crowdsourcing (mitp)
 Cryptography Engineering: Design Principles and Practical Applications
 The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
@@ -154,6 +158,9 @@ CSS Pocket Reference (ora)
 CSS Refactoring
 CSS: The Definitive Guide
 Cybernetics: Control and Communication in the Animal and the Machine (mitp)
+Cybersecurity Lessons from CoVID-19 (crc)
+Cybersecurity Threats, Actors and Dynamic Mitigation (crc)
+CyRM: Mastering the Management of Cybersecurity (crc)
 D4VE, Vol. 1
 D4VE2
 D4VEocracy #1
@@ -181,6 +188,7 @@ Designing Distributed Systems
 Designing Elixir Systems with OTP (pragm)
 Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
+DDOS Attacks: Classification, Attacks, Challenges and Countermeasures (crc)
 Developer's Dilemma: The Secret World of Videogame Creators (mitp)
 Developing a gulp Edge
 Developing a hapi Edge
@@ -215,11 +223,13 @@ The Electric Sublime #3
 The Electric Sublime #4
 Electricity for Young Makers
 Elegant SciPy
-Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch(
+Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch)
+Emerging Security Algorithms and Techniques (crc)
 The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
 The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
 Encyclopedia of Electronic Components, Vol. 3: Sensors
 Enterprise Big Data Lake (ora)
+Enterprise Level Security 2: Advanced Techniques IT in Uncertain World (crc)
 Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
 Essential System Administration, 3rd Edition (ora)
@@ -338,15 +348,19 @@ Illustrated Guide to Home Forensic Science Experiments
 Illustrated Guide to Learning Python 3
 Implementing Cybersecurity
 Impractical Python Projects
+An In-Depth Guide to Mobile Device Forensics (crc)
 Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
 The Infinite Loop
 Information and Society (mitp)
 Information Doesn't Want To Be Free
 Information Security Fundamentals
+The Insider Threat (crc)
 Intellectual Property Strategy (mitp)
 Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
 Interactive Data Visualization for the Web
 The Internet of Things (mitp)
+Internet of Things, Threats, Landscape, and Countermeasures (crc)
+Internet of Things Security (crc)
 Introducing Data Science
 Introducing Elixir
 Introducing Erlang
@@ -518,6 +532,7 @@ Making Things Smart
 Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code (Wiley)
 Malware Analyst's Cookbook DVD
 Managing Humans
+Managing Security Services in Heterogeneous Networkes (crc)
 The Manga Guide to Calculus (nostarch)
 The Manga Guide to Electricity (nostarch)
 The Manga Guide to Physics (nostarch)
@@ -579,6 +594,7 @@ The October Faction, Vol. 1
 The October Faction, Vol. 2
 The October Faction, Vol. 3
 Onyx
+Online Social Networks Security (crc)
 Open Access (mitp)
 Open Source Intelligence Methods and Tools (Springer/Apress)
 OpenGL Insights
@@ -707,10 +723,12 @@ Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Editio
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
 Security Strategy
+Security without Obscurity: FAQ (crc)
 sed & awk, 2nd Edition (ora)
 Seeking SRE
 Self-Service Data Roadmap (ora)
 Self-Tracking (mitp)
+Secrets of a Cyber Security Architect (crc)
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
 Seven Concurrency Models in Seven Weeks (pragm)
@@ -721,6 +739,7 @@ The Site Reliability Workbook
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
 Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
 Social Engineering: The Art of Human Hacking
+Social Engineering: Hacking Systems, Nations and Societies (crc)
 Social Media Warfare
 Solidity Programming Essentials
 Spark: The Definitive Guide
