@@ -1,8 +1,12 @@
 # Creamy Penguin paperback covers
 12 Rules For Life              Peterson          Penguin
 1914-1918                      Stevenson         Penguin
+The Animals Among Us           Bradshaw          Penguin
 Antifragile                    Taleb             Penguin
+Antwerp                        Pye               Penguin
+Age of Anger                   Mishra            Penguin
 A Beautiful Question           Wilczek           Penguin
+The Ascent of Money            Ferguson          Penguin
 Be Like the Fox                Benner            Penguin
 The Bed of Procrustes          Taleb             Penguin
 The Bestseller Code            Archer/Jockers    Penguin
@@ -23,10 +27,13 @@ A Certain Idea of France       Jackson           Penguin
 Chernobyl                      Plokhy            Penguin
 China's Ware with Japan        Mitter            Penguin
 Chopin's Piano                 Kildea            Penguin
+Churchill                      Roberts           Penguin
 Civilization                   Ferguson          Penguin
 The Craftsman                  Sennett           Penguin
+Crimes Against Humanity        Robertson         Penguin
 Dark Continent                 Mazower           Penguin
 Denying the Holocaust          Lipstadt          Penguin
+The Descent of Man             Perry             Penguin
 Dial M for Murdoch             Watson/Hickman    Penguin
 Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin
@@ -45,6 +52,8 @@ Europe                         Flannery          Penguin
 Eva Braun                      Gortemaker        Penguin
 Every Song Ever                Ratliff           Penguin
 The Fall of the Ottomans       Rogan             Penguin
+Feline Philosophy              Gray              Penguin
+A Fistful of Shells            Green             Penguin
 Flash Boys                     Lewis             Penguin
 Fooled by Randomness           Taleb             Penguin
 Freakonomics                   Levitt/Dubner     Penguin
@@ -56,10 +65,13 @@ Goodbye, Things                Sasaki            Penguin
 Governing the World            Mazower           Penguin
 Gulag                          Applebaum         Penguin (quasi)
 Happiness by Design            Doolan            Penguin
+A History of the World in Twleve Maps Brotton    Penguin
 How not to be Wrong            Ellenberg         Penguin
 How to be right                O'Brien           Penguin (quasi)
 How the French Think           Hazareesingh      Penguin
+How the Mind Works             Pinker            Penguin
 Human Compatible               Russell           Penguin
+Humble Pi                      Parker            Penguin
 The Invention of Science       Wootton           Penguin
 Iron Curtain                   Applebaum         Penguin
 Iron Kingdom                   Clark             Penguin
@@ -67,6 +79,7 @@ Limonov                        Carrere           Penguin
 I'm Feeling Lucky              Edwards           Penguin
 In Defence of Food             Pollan            Penguin
 Landscapes of Commmunism       Hatherley         Penguin
+The Language Instinct          Pinker            Penguin
 The Last Man in Russia         Bullough          Penguin
 Leadership and Self-Deception  Arbinger Institut Penguin
 Leonardo Da Vinci              Nicholl           Penguin
@@ -78,14 +91,17 @@ Mindwise                       Epley             Penguin
 Misbehaving                    Thaler            Penguin
 Modern Romance                 Ansari            Penguin
 Moonwalking with Einstein      Foer              Penguin
+Music in the Castle of Heaven  Eliot Gardner     Penguin
 My Italians                    Saviano           Penguin
 Napoleon the Great             Roberts           Penguin
 Never Again (Britain 1945-51)  Hennessy          Penguin
 Nudge                          Thaler/Sunstein   Penguin
+The Numbers Game               Anderson/Sally    Penguin
 On Grand Strategy              Gaddis            Penguin
 On Politics                    Ryan              Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin
+Owls of the Eastern Ice        Slaght            Penguin
 The Party                      McGregor          Penguin
 The Price of Inequality        Stiglitz          Penguin
 Permanent Present Tense        Corkin            Penguin
@@ -101,11 +117,13 @@ Risk Savvy                     Gigerenzer        Penguin
 The Road to Character          Brooks            Penguin
 The Road to Somewhere          Goodhart          Penguin
 The Roads to Sata              Booth             Penguin
+Roller-Coaster                 Kershaw           Penguin
 The Russia Anxiety             Smith             Penguin
 Scarcity                       Mullainathan      Penguin
 The Secret World               Andrew            Penguin
 The Sense of Style             Pinker            Penguin
 Seven Brief Lessons on Physics Rovelli           Penguin
+Shady Characters               Houston           Penguin
 The Shepherd's Life            Rebanks           Penguin
 The Signal and the Noise       Silver            Penguin
 Silence: A Christian History   MacCulloch        Penguin
@@ -124,6 +142,7 @@ Turing's Cathedral             Dyson             Penguin
 The Undoing Project            Lewis             Penguin
 Universal                      Cox/Forshaw       Penguin
 Unweaving the Rainbow          Dawkins           Penguin
+Upheaval                       Diamond           Penguin
 The Value of Everything        Mazzucato         Penguin
 The Vanquished                 Gerwarth          Penguin
 What you did not tell          Mazower           Penguin
@@ -142,7 +161,6 @@ Zero Zero Zero                 Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
 All Things Made New            MacCulloch        AllenLane Hatherley
 An Uncertain Glory             Dreze and Sen     AllenLane Hardback
-Age of Anger                   Mishra            AllenLane Hardback
 Caste                          Wilkerson         AllenLane Paperback
 Creative Schools               Robinson          AllenLane Paperback
 Doom                           Ferguson          AllenLane Paperback
@@ -158,6 +176,7 @@ Here Comes Trouble             Michael Moore     AllenLane Paperback
 Hitler                         Simms             AllenLane Hardback
 Hitler (single volume)         Kershaw           AllenLane Paperback
 Lewis Carroll in Numberland    Wilson            AllenLane Hardback
+Life 3.0                       Tengmark          AllenLane Hardback
 The Master Algorithm           Domingos          AllenLane Hardback
 Nothing but a Circus           Levin             AllenLane Paperback
 Ocean of Life                  Roberts           AllenLane Hardback
@@ -170,5 +189,6 @@ Shutdown                       Tooze             AllenLane Paperback
 Talking to Strangers           Gladwell          AllenLane Paperback
 Terror and Consent             Bobbitt           AllenLane Paperback
 To Explain the World           Weinberg          AllenLane Hardback
+Warlord                        D'Este            AllenLane Hardback
 Whiteshift                     Kaufmann          AllenLane Hardback
 You, Your Child and School     Robinson          AllenLane Paperback
