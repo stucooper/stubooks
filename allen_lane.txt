@@ -5,9 +5,9 @@ The Animals Among Us           Bradshaw          Penguin
 Antifragile                    Taleb             Penguin
 Antwerp                        Pye               Penguin
 Age of Anger                   Mishra            Penguin
-A Beautiful Question           Wilczek           Penguin
 The Ascent of Money            Ferguson          Penguin
 Be Like the Fox                Benner            Penguin
+A Beautiful Question           Wilczek           Penguin
 The Bed of Procrustes          Taleb             Penguin
 The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
@@ -145,13 +145,13 @@ Unweaving the Rainbow          Dawkins           Penguin
 Upheaval                       Diamond           Penguin
 The Value of Everything        Mazzucato         Penguin
 The Vanquished                 Gerwarth          Penguin
-What you did not tell          Mazower           Penguin
-When to Rob a Bank             Levitt/Dubner     Penguin
 We are our brains              Swaab             Penguin
 Weapons of Math Destruction    O'Neil            Penguin
 What is Populism?              Muller            Penguin
 What Money Can't Buy           Sandel            Penguin
+What you did not tell          Mazower           Penguin
 When China Rules the World     Jacques           Penguin
+When to Rob a Bank             Levitt/Dubner     Penguin
 Who owns the future?           Lanier            Penguin
 Whoops!                        Lanchester        Penguin
 Winter King                    Penn              Penguin
