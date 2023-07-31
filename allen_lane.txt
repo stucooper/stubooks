@@ -83,6 +83,7 @@ The Language Instinct          Pinker            Penguin
 The Last Man in Russia         Bullough          Penguin
 Leadership and Self-Deception  Arbinger Institut Penguin
 Leonardo Da Vinci              Nicholl           Penguin
+Life 3.0                       Tengmark          Penguin
 The Long '68                   Vinen             Penguin
 Lost Japan                     Kerr              Penguin
 Margaret Thatcher Volume 2     Moore             Penguin
@@ -176,7 +177,6 @@ Here Comes Trouble             Michael Moore     AllenLane Paperback
 Hitler                         Simms             AllenLane Hardback
 Hitler (single volume)         Kershaw           AllenLane Paperback
 Lewis Carroll in Numberland    Wilson            AllenLane Hardback
-Life 3.0                       Tengmark          AllenLane Hardback
 The Master Algorithm           Domingos          AllenLane Hardback
 Nothing but a Circus           Levin             AllenLane Paperback
 Ocean of Life                  Roberts           AllenLane Hardback
