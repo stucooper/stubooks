@@ -42,6 +42,7 @@ The Egyptians                  Shenker           Penguin
 The Element                    Robinson          Penguin
 Enemies and Neighbours         Black             Penguin
 Engineers of Victory           Kennedy           Penguin
+Enlightenment Now              Pinker            Penguin
 The Entreprenerial State       Mazzucato         Penguin
 The End                        Kershaw           Penguin
 The End of Average             Rose              Penguin
@@ -168,7 +169,6 @@ Creative Schools               Robinson          AllenLane Paperback
 Doom                           Ferguson          AllenLane Paperback
 The Demon in the Machine       Davies            AllenLane Paperback
 Einstein's Unfinished Revolution Smolin          AllenLane Hardback
-Enlightenment Now              Pinker            AllenLane Paperback
 The Europeans                  Figes             AllenLane Hardback
 The Fifth Risk                 Lewis             AllenLane Hardback
 First Confession               Patten            AllenLane Hardback
