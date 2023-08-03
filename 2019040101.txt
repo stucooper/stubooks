@@ -8,8 +8,6 @@ OpenGL Super Bible 2e                          WaiteGroup
 GTK+/Gnome Application Development Pennington  NewRiders
 OpenOffice.org Writer      Weber               ORA
 Topics in C Programming Revised Kochan/Wood    Wiley
-Intro to Computer Graphics Foley/VanDam/Feiner/Hughes AWL
-Computer Graphics with OpenGL Hearn/Baker      PTR
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
 God Emperor of Dune                          Frank Herbert           NewEnglish
