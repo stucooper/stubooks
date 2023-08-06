@@ -2,28 +2,7 @@ name: POKER - LIMIT
 label: 2019042601
 description: poker books, mostly limit
 
-Advanced Limit Holdem strategy        Tanenbaum         D&B
-How good is your Limit Holdem?        Jacobs/Brier      D&B
-Beginners Guide to Limit Holdem       Jacobs            D&B
-Holdem Poker 1997                     Sklansky          TwoPlusTwo
-Outplaying the Boys                   Hukbert           Workman
-Middle Limit Holdem                   Ciaffone/Brier    TwoPlusTwo
-The Education of a Poker Pigeon       Anonymous         LyleStuart
 Straight Flush                        Mezrich           Heinemann
 Alligator Blood                       Leighton          SimonSchuster
 Winner Takes All                      Binkley           Hyperion
-Making of a Poker Player              Matros            HighStakes
-Winning low limit Holdem              Jones             Conjelco
-How to beat Low Limit 7-Card Stud     Kammer            Conjelco
-Ken Warren teaches Texas Holdem       Warren            Conjelco
-Ken Warren teaches Texas Holdem 2     Warren            Conjelco
-The Psychology of Poker               Schoonmaker       TwoPlusTwo
-The Theory of Poker                   Sklansky          TwoPlusTwo
-Holdem Poker for Advanced Players     Sklasnky/Malmuth  TwoPlusTwo
-How good is your Pot Limit Holdem?    Reuben            D&B
-Limit Holdem Winning Shorthanded      Borer/Mak         D&B
 Once upon a time in Russia            Mezrich           Heinemann
-Poker and Philosophy                  ed Bronson        OpenCourt
-Complete Practical Guide to Poker     Sippets           Lorenz
-Poker Bets Bluffs and Bad Beats       Alvarez           Chronicle
-Introduction to Poker                 Reuben            Parragon
