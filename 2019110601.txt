@@ -1,5 +1,0 @@
-name: LLANLEY POKER 1
-label: 2018110601
-description: poker books passed to Llanley
-
-
