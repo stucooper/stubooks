@@ -4,5 +4,4 @@ description: poker books, mostly limit
 
 Straight Flush                        Mezrich           Heinemann
 Alligator Blood                       Leighton          SimonSchuster
-Winner Takes All                      Binkley           Hyperion
 Once upon a time in Russia            Mezrich           Heinemann
