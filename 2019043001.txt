@@ -2,30 +2,10 @@ name: POKER - BIOS HISTORY
 label: 2019043001
 description: Poker bios and history mostly no strategy
 
-Positively Fifth Street              McManus                 FSG
-Winning Texas Holdem                 Maroon                  MainStreet
-The Man Behind the Shades Stu Ungar  Dalla/Alson             Weidenfeld
-You Bet Betfair Story                Cameron                 HarperCollins
-Rounders                             Canty                   faber
-Las Vegas Babylon                    Burbank                 Robson
-Roll the Bones history gambling      Schwartz                Gotham
-Everything Texas Holdem Book         Wenzel                  AdamsMedia
-Take me to the River                 Alson                   Atria
-Gambling                             Atherton                HodderStoughton
-Devilfish life of a poker legend     Ulliott                 Penguin
-Cowboys Full story of poker          McManus                 FSG
-Ghosts at the Table story of poker   Wilson                  mainstream
 The Biggest game in Town             Alvarez                 chronicle
-The Education of a Poker Player      Yardley                 Fontana
-Basics of Winning Holdem Poker       Cardoza                 Cardoza
-WPT Official Rules of Poker          WPT                     PlayingCardCompany
 Black Butterfly                      Gatiss                  Scribner
-Running Scared Steve Wynn            Smith                   DaCapo
-Swimming with the DevilFish          Wilson                  Macmillan
 The Accidental Billionaires          Mezrich                 arrow
 Bringing Down the House              Mezrich                 arrow
 Ugly Americans                       Mezrich                 arrow
 Busting Vegas                        Mezrich                 arrow
 Easy way to stop gambling            Carr                    arcturus
-Poker as Life                        Schreiber               esquire
-Complete book of Holdem poker        Carson                  LyleStuart
