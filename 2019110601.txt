@@ -2,29 +2,4 @@ name: LLANLEY POKER 1
 label: 2018110601
 description: poker books passed to Llanley
 
-Secrets of Short-handed PLO                 Slotboom/Hollink  D&B LLC
-Pot Limit and No Limit Poker                Reuber/Ciaffone   Cardsmith LLC
-Omaha High-Low                              Shane Smith       Cardoza   LLC
-How good is your Pot Limit Omaha?           Stewart Reuben    D&B LLC
-Omaha Holdem Poker                          Bob Ciaffone      Cardsmith LLC
-Secrets of Professional Poker 1             Rolf Slotboom     D&B LLC
-Championship Omaha (1999)                   Cloutier/McEvoy   Cardsmith LLC
-Farha on Omaha                              Sam Farha         Triumph LLC
-Strategies to Beat Small Stakes PLO         Matthias Pum      D&B LLC
-PLO The Big Play Strategy                   Jeff Hwang        Kensington LLC
-High Low Split Poker for Advanced Players Zee           TwoPlusTwo LLC
-Practical Poker Math                 Pat Dittmar             ecw LLC
-Real Grinders                        Ashton Cartwright       Cartwright LLC
-Poker Night               Vorhaus           StMartins LLC
-Secrets of Winning Poker    Sheahan         Cardoza LLC
-Power Profits from Tournament Poker  Royer  LyleStuart LLC
-Professional Poker Dealer's Handbook Paymar/Harris/Malmuth TwoPlusTwo LLC
-Advanced PLO Vol 1                                Jeff Hwang        Dimat LLC
-Secrets of Professional PLO                       Slotboom          D&B LLC
-Power Profits from Poker             Royer  LyleStuart LLC
-Hold'em on the Come         Slotboom/Mason  D&B LLC
-Secrets of Sit'n'Gos             Shaw       D&B LLC
-Poker on the Internet 2e    Kinsman         D&B LLC
-Secrets of shorthanded NLH  Ashman          D&B LLC
-Earn $30,000/month playing online poker Wiseman ECW LLC
 
