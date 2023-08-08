@@ -10,4 +10,5 @@ OpenGL Superbible 3e                   dontcare             SAMS
 Computer Graphics with OpenGL          Hearn/Baker          PTR
 Intro to Computer Graphics             Foley/VanDam/Feiner/Hughes AWL
 Beinning Game Programming w OpenGL     dontcare             dontcare
+Computer Graphics: Principles/Practice 2e Foley/VanDam         AWL
 

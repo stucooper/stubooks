@@ -4,7 +4,6 @@ description: Various IT books including gaming
 loc: flemshed
 
 The Game Design Reader               Salen/Zimmerman        mitp
-Computer Graphics: Principles/Practice Foley/VanDam         AWL
 Gamer's Guide to Coding              Gordon McComb          Sterling
 Network Algorithmics                 George Varghese        MK
 Head First Java (Dup?)               Sierra/Bates           ORA
