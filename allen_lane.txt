@@ -1,6 +1,7 @@
 # Creamy Penguin paperback covers
 12 Rules For Life              Peterson          Penguin
 1914-1918                      Stevenson         Penguin
+23 things don't tell Capitalism Ha-Joon Chang    Penguin
 The Animals Among Us           Bradshaw          Penguin
 Antifragile                    Taleb             Penguin
 Antwerp                        Pye               Penguin
@@ -12,6 +13,7 @@ The Bed of Procrustes          Taleb             Penguin
 The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
+Blink                          Gladwell          Penguin
 Blitzed                        Ohler             Penguin
 Blueprint                      Plomin            Penguin
 Blood and Guts                 Porter            Penguin
@@ -30,6 +32,7 @@ China's Ware with Japan        Mitter            Penguin
 Chopin's Piano                 Kildea            Penguin
 Churchill                      Roberts           Penguin
 Civilization                   Ferguson          Penguin
+Classical Mechanics            Susskind          Penguin
 The Craftsman                  Sennett           Penguin
 Crimes Against Humanity        Robertson         Penguin
 Dark Continent                 Mazower           Penguin
@@ -65,6 +68,7 @@ Ghost Wars                     Coll              Penguin
 Gomorrah                       Saviano           Pan     (quasi)
 Goodbye, Things                Sasaki            Penguin
 Governing the World            Mazower           Penguin
+Gravity's Engines              Scharf            Penguin
 Gulag                          Applebaum         Penguin (quasi)
 Happiness by Design            Doolan            Penguin
 A History of the World in Twleve Maps Brotton    Penguin
@@ -91,6 +95,7 @@ Lost Japan                     Kerr              Penguin
 Margaret Thatcher Volume 2     Moore             Penguin
 The Map and the Territory 2.0  Greenspan         Penguin
 Mindwise                       Epley             Penguin
+Mindware                       Nisbett           Penguin
 Misbehaving                    Thaler            Penguin
 Modern Romance                 Ansari            Penguin
 Moonwalking with Einstein      Foer              Penguin
@@ -108,6 +113,7 @@ Owls of the Eastern Ice        Slaght            Penguin
 The Party                      McGregor          Penguin
 The Price of Inequality        Stiglitz          Penguin
 Permanent Present Tense        Corkin            Penguin
+Physics of the Impossible      Kaku              Penguin
 Plutocrats                     Freeman           Penguin
 Poor Economics                 Banerjee/Duflo    Penguin
 The Quantum Universe           Cox/Forshaw       Penguin
@@ -132,6 +138,7 @@ The Signal and the Noise       Silver            Penguin
 Silence: A Christian History   MacCulloch        Penguin
 The Sleepwalkers               Clark             Penguin
 Sontag                         Moser             Penguin
+The Spirit Level               Wilkinson/Pickett Penguin
 The Square and the Tower       Ferguson          Penguin
 Thank you for Being Late       Friedman          Penguin
 Thank you for Arguing          Heinrichs         Penguin (quasi-creamy)
@@ -143,6 +150,7 @@ Tombstone                      Yisheng           Penguin
 Trans-Europe Express           Hatherley         Penguin
 Turing's Cathedral             Dyson             Penguin
 The Undoing Project            Lewis             Penguin
+Until the End of Time          Greene            Penguin
 Universal                      Cox/Forshaw       Penguin
 Unweaving the Rainbow          Dawkins           Penguin
 Upheaval                       Diamond           Penguin
@@ -157,6 +165,7 @@ When China Rules the World     Jacques           Penguin
 When to Rob a Bank             Levitt/Dubner     Penguin
 Who owns the future?           Lanier            Penguin
 Whoops!                        Lanchester        Penguin
+With our Backs to the Wall     Stevenson         Penguin
 Winter King                    Penn              Penguin
 The World Until Yesterday      Diamond           Penguin
 World War Two                  Stone             Penguin
