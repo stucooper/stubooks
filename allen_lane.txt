@@ -13,6 +13,7 @@ The Bed of Procrustes          Taleb             Penguin
 The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
+The Black Swan                 Taleb             Penguin
 Blink                          Gladwell          Penguin
 Blitzed                        Ohler             Penguin
 Blueprint                      Plomin            Penguin
@@ -109,6 +110,7 @@ On Grand Strategy              Gaddis            Penguin
 On Politics                    Ryan              Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin
+Our Boys                       Parr              Penguin
 Owls of the Eastern Ice        Slaght            Penguin
 The Party                      McGregor          Penguin
 The Price of Inequality        Stiglitz          Penguin
@@ -140,6 +142,7 @@ The Sleepwalkers               Clark             Penguin
 Sontag                         Moser             Penguin
 The Spirit Level               Wilkinson/Pickett Penguin
 The Square and the Tower       Ferguson          Penguin
+Talking to Strangers           Gladwell          Penguin
 Thank you for Being Late       Friedman          Penguin
 Thank you for Arguing          Heinrichs         Penguin (quasi-creamy)
 This Changes Everything        Klein             Penguin
@@ -194,11 +197,9 @@ Nothing but a Circus           Levin             AllenLane Paperback
 Ocean of Life                  Roberts           AllenLane Hardback
 The Optician of Lampedusa      Kirby             AllenLane Hardback
 Origin Story                   Christian         AllenLane Paperback
-Our Boys                       Parr              AllenLane Hardback
 People, Power and Profits      Stiglitz          AllenLane Hardback
 The Pity of War                Ferguson          AllenLane Hardback
 Shutdown                       Tooze             AllenLane Paperback
-Talking to Strangers           Gladwell          AllenLane Paperback
 Terror and Consent             Bobbitt           AllenLane Paperback
 To Explain the World           Weinberg          AllenLane Hardback
 Warlord                        D'Este            AllenLane Hardback
