@@ -17,6 +17,7 @@ Advanced Analytics with Spark
 Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
 The Agile Enterprise
+Agile Development 2e (ora)
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
 The Allure of Machinic Life (mitp)
@@ -106,7 +107,9 @@ Build a Career in Data Science
 Building an Anonymization Pipeline (ora)
 Building Apps with Riot
 Building Event-Driven Microservices (ora)
+Building Evolutionary Architectures (ora)
 Building Machine Learning Powered Applications (ora)
+Building Micro-Frontends (ora)
 Building Table Views with Phoenix LiveView (pragm)
 C# 10 in a Nutshell (ora)
 C++ Software Design (ora)
@@ -140,6 +143,7 @@ CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LP
 CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
 Computer Security Literacy
 Computing (mitp)
+Continuous API Management (ora)
 Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
 Covariances in Computer Vision and Machine Learning (MandC)
@@ -240,6 +244,7 @@ Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
 Flask Web Development (ora)
+Flow architectures (ora)
 Fluent C (ora)
 Fluent Python
 Fluid Simulation for Computer Graphics
@@ -248,6 +253,7 @@ Forrest Mims' Science Experiments
 Foundations for Architecting Data Solutions
 Foundations of Blockchain
 Foundations of Libvirt Development (Springer/Apress)
+Foundations of Scalable Systems (ora)
 Founders at Work
 Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
@@ -258,6 +264,7 @@ Functional Programming: A PragPub Anthology (pragm)
 Functional Programming Patterns in Scala and Clojure (pragm)
 Functional Thinking
 Functional Web Development with Elixir, OTP and Phoenix (pragm)
+Fundamentals of Software Architecture (ora)
 The Future (mitp)
 Game Hacking
 Gaming Hacks
@@ -427,6 +434,7 @@ Learn You Some Erlang for Great Good! (nostarch)
 Learning Apache Drill
 Learning Continuous Integration with Jenkins
 Learning CoreDNS
+Learning Domain-Driven Design (ora)
 Learning Elastic Stack 6.0
 Learning GNU Emacs, 3rd Edition (ora)
 Learning GraphQL (ora)
@@ -539,6 +547,7 @@ The Manga Guide to Physics (nostarch)
 Machine Learning Pocket Reference (ora)
 Mastering Ansible
 Mastering Apache Spark 2.x
+Mastering API Architectures (ora)
 Mastering Blockchain
 Mastering Docker
 Mastering Kubernetes
@@ -559,6 +568,7 @@ Memes in Digital Culture (mitp)
 Metadata (mitp)
 Metasploit: A Penetration Tester's Guide
 Metric Learning (MandC)
+Microservices: Up and Running (ora)
 Mind Hacks
 Mindful Design
 Minecraft Modding with Forge
@@ -574,6 +584,7 @@ Modernizing Enterprise Java (ora)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
 MongoDB: The Definitive Guide 3e
 MongoDB Cookbook
+Monolith to Microservices (ora)
 MOOCs (mitp)
 Moving Hadoop to the Cloud
 Multithreaded JavaScript (ora)
@@ -741,6 +752,9 @@ Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
 Social Engineering: The Art of Human Hacking
 Social Engineering: Hacking Systems, Nations and Societies (crc)
 Social Media Warfare
+The Software Architecture Elevator (ora)
+Software Architecture Metrics (ora)
+Software Architecture: The Hard Part (ora)
 Solidity Programming Essentials
 Spark: The Definitive Guide
 Splunk Essentials
