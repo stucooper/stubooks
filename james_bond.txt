@@ -1,0 +1,11 @@
+# James Bond books. These live in a plastic box on the main balcony.
+Casino Royale                         Ian Fleming         PenguinSilver
+Live and Let Die                      Ian Fleming         PenguinSilver
+Moonraker                             Ian Fleming         PenguinSilver
+Diamonds are Forever                  Ian Fleming         PenguinSilver
+From Russia with Love                 Ian Fleming         PenguinSilver
+Goldfinger                            Ian Fleming         PenguinSilver
+Dr No                                 Ian Fleming         PenguinSilver
+Thunderball                           Ian Fleming         PenguinSilver
+On Her Majesty's Secret Service       Ian Fleming         PenguinSilver
+You Only Live Twice                   Ian Fleming         PenguinSilver
