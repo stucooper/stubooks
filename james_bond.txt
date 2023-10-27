@@ -11,3 +11,5 @@ On Her Majesty's Secret Service       Ian Fleming         PenguinSilver
 You Only Live Twice                   Ian Fleming         PenguinSilver
 # These next titles have colourful covers
 The Man with the Golden Gun           Ian Fleming         PenguinColourful
+The Spy Who Loved Me                  Ian Fleming         PenguinColourful
+From Russia with Love                 Ian Fleming         PenguinColourful
