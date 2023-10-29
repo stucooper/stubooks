@@ -3,6 +3,7 @@ How Proust Can Change Your Life Alain de Botton  Picador
 Crime and Punishment            Dostoyevsky      Vintage
 Everything Flows                Grossman         Vintage
 Catch-22                        Heller           Vintage
+Les Miserables                  Hugo             Vintage
 Ape and Essence                 Huxley           Vintage
 Zen and Motorcycle Maintenance  Pirsig           Vintage
 Proust Vol1: Swann's Way        Proust           Vintage
@@ -17,6 +18,7 @@ Life of Proust                  White            WandN
 All Quiet on the Western Front  Remarque         Vintage
 The Moon and Sixpence           Somerset-Maugham Vintage
 War and Peace                   Tolstoy          Vintage
+Bonfire of the Vanities         Wolfe            Vintage
 The Easter Parade               Yates            Vintage
 A Special Providence            Yates            Vintage
 Revolutionary Road              Yates            Vintage
