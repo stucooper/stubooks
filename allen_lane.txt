@@ -79,12 +79,13 @@ How the French Think           Hazareesingh      Penguin
 How the Mind Works             Pinker            Penguin
 Human Compatible               Russell           Penguin
 Humble Pi                      Parker            Penguin
+In Defence of Food             Pollan            Penguin
 The Invention of Science       Wootton           Penguin
 Iron Curtain                   Applebaum         Penguin
 Iron Kingdom                   Clark             Penguin
+The Light Ages                 Falk              Penguin
 Limonov                        Carrere           Penguin
 I'm Feeling Lucky              Edwards           Penguin
-In Defence of Food             Pollan            Penguin
 Landscapes of Commmunism       Hatherley         Penguin
 The Language Instinct          Pinker            Penguin
 The Last Man in Russia         Bullough          Penguin
@@ -119,6 +120,7 @@ Permanent Present Tense        Corkin            Penguin
 Physics of the Impossible      Kaku              Penguin
 Plutocrats                     Freeman           Penguin
 Poor Economics                 Banerjee/Duflo    Penguin
+Priestdaddy                    Lockwood          Penguin
 Promised You a Miracle         Beckett           Penguin
 The Quantum Universe           Cox/Forshaw       Penguin
 The Quest                      Yergin            Penguin
