@@ -12,4 +12,6 @@ You Only Live Twice                   Ian Fleming         PenguinSilver
 # These next titles have colourful covers
 The Man with the Golden Gun           Ian Fleming         PenguinColourful
 The Spy Who Loved Me                  Ian Fleming         PenguinColourful
-From Russia with Love                 Ian Fleming         PenguinColourful
+# And some Vintage Classics red spines
+For Your Eyes Only                    Ian Fleming         VintageClassics
+Octopussy and the Living Daylights    Ian Fleming         VintageClassics
