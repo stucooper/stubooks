@@ -1,6 +1,0 @@
-name: SCI FI
-label: 2019130402
-description: science fiction
-loc: flemshed
-
-CHESS
