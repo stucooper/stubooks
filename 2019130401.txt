@@ -3,18 +3,6 @@ label: 2019130401
 description: AFL biographies
 loc: flemshed
 
-More than a game                         ed Hess/Stewart    FremantleArts
-The Convert                              Peter Lewis        Macmillan
-Here it is                               Paul Roos          Penguin
-Eddie (McGuire)                          Michael Bodey      hachette
-Subzero                                  Adam Crettenden    ebury
-Good losers die broke                    Max Presnell       AllenUnwin
-Open Mike                                    Mike Sheahan        Slattery
-Plugger and the Mighty Swans                 Jim Main            Macmillan
-My Life                                      Tony Lockett        Macmillan
-Fev: In my Own Words                         Brendan Fevola      HardieGrant
-All Bets are Off                             David Schwarz       HardieGrant
-The Centurions                               Brian Hansen        BrianHansen
 CGI Programming with Perl          Guelice,Gundavaram       ORA
 Web Client Programming with Perl   Clinton Wong             ORA
 Programming Web Services w/Perl    Ray/Kulchenko            ORA
