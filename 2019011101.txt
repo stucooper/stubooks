@@ -2,17 +2,6 @@ name: USEFUL POKER
 label: 2019011101
 description: Useful Poker books
 
-Ace on the River                                  Barry Greenstein  LastKnight
-Championship NL & Pot Limit Holdem (1997)         Cloutier/McEvoy   Cardsmith
-Championship NL & Pot Limit Holdem (2004)         Cloutier/McEvoy   Cardoza
-Read em and Reap                                  Joe Navarro       HarperCollins
-Bad Beats and Lucky Draws                         Phil Hellmuth     HarperCollins
-Poker for Seniors                                 Stuart Yarnold    InEasySteps
-Elements of Poker                                 Tommy Angelo      self
-NLH A Complete Course                             Angel Largay      ECW
-The Poker Mindset                                 Ian Taylor/Hilger Dimat
-The Kaizen of Poker                               Shree Bykofsky    ECW
-PLO Understanding Winning Play                    William Jockusch  TwoPlusTwo
 Solo/Sudoku/Solo/Killer Cribbage                  various           various
 The Science of Poker                              Mahmood Mahmood   HighStakes
 Games                                             Daniel King       Kingfisher
