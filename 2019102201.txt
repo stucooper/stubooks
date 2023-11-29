@@ -1,4 +1,0 @@
-name: AFL BIOS
-label: 2019102201
-description: AFL Player biographies
-
