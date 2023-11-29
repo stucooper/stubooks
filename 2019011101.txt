@@ -3,6 +3,5 @@ label: 2019011101
 description: Useful Poker books
 
 Solo/Sudoku/Solo/Killer Cribbage                  various           various
-The Science of Poker                              Mahmood Mahmood   HighStakes
 Games                                             Daniel King       Kingfisher
 

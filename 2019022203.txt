@@ -2,15 +2,6 @@ name: NLH POKER
 label: 2019022203
 description: Poker books and paraphenalia
 
-Harrington on Holdem Vol 1         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Holdem Vol 2         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Holdem Vol 3         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Cash Games Vol 1     Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Cash Games Vol 2     Dan Harrington/Bill Robertie  TwoPlusTwo
-Play Poker Like the Pros           Phil Hellmuth                 HarperCollins
-Total Poker                        David Spanier                 Fireside
-Super System 2                     Doyle Brunson                 Cardoza
-Power Holdem Strategy              Daniel Negreanu               Cardoza
 Johnny Magic and the Cardshark Kids David Kushner                RandomHouse
 Doctor Who Brilliant Book 2011     Clayton Hickman               BBC
 Doctor Who Brilliant Book 2012     Clayton Hickman               BBC
