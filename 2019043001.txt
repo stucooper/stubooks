@@ -2,10 +2,8 @@ name: POKER - BIOS HISTORY
 label: 2019043001
 description: Poker bios and history mostly no strategy
 
-The Biggest game in Town             Alvarez                 chronicle
 Black Butterfly                      Gatiss                  Scribner
 The Accidental Billionaires          Mezrich                 arrow
 Bringing Down the House              Mezrich                 arrow
 Ugly Americans                       Mezrich                 arrow
 Busting Vegas                        Mezrich                 arrow
-Easy way to stop gambling            Carr                    arcturus
