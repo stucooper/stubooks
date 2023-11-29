@@ -1,6 +1,0 @@
-name: MYSTERY
-label: 2019132001
-description: IT books
-loc: flemshed
-
-MYSTERY: travel and music
