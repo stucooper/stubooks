@@ -1,4 +1,0 @@
-name: POKER TOURNAMENTS
-label: 2019031304
-description: Poker tournaments especially NLH tournaments
-
