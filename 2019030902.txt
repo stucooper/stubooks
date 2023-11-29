@@ -2,32 +2,12 @@ name: ORANGE PENGUINS
 label: 2019030902
 description: Orange Popular Penguins
 
-The Periodic Table                 Primo Levi              Penguin
-Scoop                              Evelyn Waugh            Penguin
-The Fabric of the Cosmos           Brian Greene            Penguin
-The Great Railway Bazaar           Paul Theroux            Penguin
-The Shadow of the Sun              Ryszard Kapuscinski     Penguin
-Twitterature                       Aciman/Rensin           Penguin
-What is History?                   E H Carr                Penguin
-High Fidelity                      Nick Horny              Penguin
-The Mind of God                    Paul Davies             Penguin
-Steppenwolf                        Hermann Hesse           Penguin
-I Can Jump Puddles                 Alan Marshall           Penguin
-Ten Days that Shook the World      John Reed               Penguin
 I, Claudius                        Robert Graves           Penguin
 Tender is the Night                F Scott Fitzgerald      Penguin
 Curious Case of Benjamin Button    F Scott Fitzgerald      Penguin
 The Beautiful and Damned           F Scott Fitzgerald      Penguin
 The Great Gatsby                  F Scott Fitzgerald      Penguin
-Picnic at Hanging Rock            Joan Lindsay            Penguin
-Meditations                       Marcus Aurelius         Penguin
-Congo Journey                     Redmond O'Hanlon        Penguin
-A Clockwork Orange                Anthony Burgess         Penguin
-Mother Tongue                     Bill Bryson             Penguin
-Empire                            Niall Ferguson          Penguin
 The Surgeon of Crowthorne         Simon Winchester        Penguin
-Dark Star Safari                  Paul Theroux            Penguin
-The Classical World               Robin Lane Fox          Penguin
 Serious                           John McEnroe            timewarner
 King of the World                 David Remnick           Picador
 Harvey Penick's Little Red Book   Harvey Penick           SimonSchuster
