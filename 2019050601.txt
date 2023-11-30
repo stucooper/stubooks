@@ -3,11 +3,8 @@ label: 2019050601
 description: garage garrettpack books; largebox heavy
 loc: flemshed
 
-Our Dumb World                   The Onion             LittleBrown
 20 Years of Rolling Stone        ed Wenner             fontana
-Our Dumb Century                 The Onion             ThreeRivers
 Ulysses Annotated Student ed     Joyce                 Penguin
-Brave Heart Life Lessons         Kirk                  RandomHouse
 Disrupted start-up bubble        Lyons                 hachette
 The GCHQ Puzzle Book                        GCHQ                Penguin
 The Chambers Crossword Dictionary 3e             chambers          chambers
@@ -17,7 +14,6 @@ Rewording the Brain                              David Astle       AllenUnwin
 The Penguin Book of Puzzles                      ed Gareth Moore   Penguin
 Introducing Thatcherism: A Graphic Guide         Peter Pugh        Icon
 Men are from Mars Women are from Venus           John Gray         Thorsons
-Civilisation                                     Kenneth Clark     BBC
 Greek Myths I                             Robert Graves         Folio
 Greek Myths II                            Robert Graves         Folio
 Australian Guide to Fixed Income          FIIG Securities       FIIG
