@@ -2,13 +2,19 @@
 # earliers see ora_classic
 # also see ora_python
 21st Century C                                Klemens             ORA
+Ambient Findability                           Morville            ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Dart: Up and Running                          Walrath             ORA
+Designing Connected Products                  Goodman             ORA
+DevOps with OpenShift                         Hepburn/O'Connor    ORA
 Essential Cybersecurity Science               Dykstra             ORA
+Exploring Everyday things with R and Ruby     Chang               ORA
 Gamification by Design                        Zichermann          ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Mastering Bitcoin                             Antonopoulos        ORA
 OpenShift for Developers                      Shipley             ORA
+OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Planning for IPv6                             Hagen               ORA
 User Story Mapping                            Patton              ORA
+Web Development with Node and Express         Brown               ORA
