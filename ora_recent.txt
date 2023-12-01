@@ -5,16 +5,21 @@
 Ambient Findability                           Morville            ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Dart: Up and Running                          Walrath             ORA
+Data Science at the Command Line              Janssens            ORA
 Designing Connected Products                  Goodman             ORA
 DevOps with OpenShift                         Hepburn/O'Connor    ORA
 Essential Cybersecurity Science               Dykstra             ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Gamification by Design                        Zichermann          ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
+Hadoop Application Architectures              Grover              ORA
 Mastering Bitcoin                             Antonopoulos        ORA
+Mastering Ethereum                            Antonopoulos        ORA
 OpenShift for Developers                      Shipley             ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Planning for IPv6                             Hagen               ORA
+R for Data Science                            Wickham             ORA
+Site Reliability Engineering                  Beyer               ORA
 User Story Mapping                            Patton              ORA
 Web Development with Node and Express         Brown               ORA
