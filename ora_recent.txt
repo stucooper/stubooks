@@ -1,0 +1,11 @@
+# new O'Reilly books, published since 2010
+# earliers see ora_classic
+# also see ora_python
+Getting Started with Bluetooth low energy     Townsend            ORA
+Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
+Dart: Up and Running                          Walrath             ORA
+Gamification by Design                        Zichermann          ORA
+Essential Cybersecurity Science               Dykstra             ORA
+OpenShift for Developers                      Shipley             ORA
+Planning for IPv6                             Hagen               ORA
+PayPal APIs Up and Running                    Balderas            ORA
