@@ -3,6 +3,8 @@ label: 2019030101
 description: Julian Barnes and Martin Amis
 
 Letters From London                   Julian Barnes    Picador
+Talking it over                       Julian Barnes    Vintage
+Keeping an eye open                   Julian Barnes    Knopf
 Martin Amis: The Biography            Richard Bradford Constable
 Yellow Dog                            Martin Amis      JonathanCape
 Lionel Asbo                           Martin Amis      JonathanCape
