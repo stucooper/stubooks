@@ -12,12 +12,16 @@ Essential Cybersecurity Science               Dykstra             ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Gamification by Design                        Zichermann          ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
+Interactive Data Visualisation for the Web    Murray              ORA
 Hadoop Application Architectures              Grover              ORA
+Hadoop The Definitive Guide                   White               ORA
+Machine Learning for Hackers                  Drew Conway         ORA
 Mastering Bitcoin                             Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
 OpenShift for Developers                      Shipley             ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
+Programming Collective Intelligence           Segaran             ORA
 Planning for IPv6                             Hagen               ORA
 R for Data Science                            Wickham             ORA
 Site Reliability Engineering                  Beyer               ORA
