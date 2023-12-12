@@ -2,6 +2,7 @@
 12 Rules For Life              Peterson          Penguin
 1914-1918                      Stevenson         Penguin
 23 things don't tell Capitalism Ha-Joon Chang    Penguin
+Africa's Long Road Since Inde. Somerville        Penguin
 The Animals Among Us           Bradshaw          Penguin
 Antifragile                    Taleb             Penguin
 Antwerp                        Pye               Penguin
@@ -126,6 +127,7 @@ The Quantum Universe           Cox/Forshaw       Penguin
 The Quest                      Yergin            Penguin
 Reality is not what it seems   Rovelli           Penguin
 The Reckoning                  Soil              Penguin
+Refuge                         Betts/Collier     Penguin
 The Righteous Mind             Haidt             Penguin
 Rio de Janeiro                 Soares            Penguin
 Risk Savvy                     Gigerenzer        Penguin
@@ -172,6 +174,7 @@ What Money Can't Buy           Sandel            Penguin
 What you did not tell          Mazower           Penguin
 When China Rules the World     Jacques           Penguin
 When to Rob a Bank             Levitt/Dubner     Penguin
+White Fragility                Diangelo          Penguin
 Who owns the future?           Lanier            Penguin
 Whoops!                        Lanchester        Penguin
 With our Backs to the Wall     Stevenson         Penguin
@@ -182,6 +185,7 @@ Zero Zero Zero                 Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
 All Things Made New            MacCulloch        AllenLane Hatherley
 An Uncertain Glory             Dreze and Sen     AllenLane Hardback
+The Big Screen                 Thomson           AllenLane Hardback
 Caste                          Wilkerson         AllenLane Paperback
 Creative Schools               Robinson          AllenLane Paperback
 David and Goliath              Gladwell          AllenLane Hardback
@@ -190,6 +194,7 @@ The Demon in the Machine       Davies            AllenLane Paperback
 Einstein's Unfinished Revolution Smolin          AllenLane Hardback
 English Pastoral               Rebanks           AllenLane Paperback
 The Europeans                  Figes             AllenLane Hardback
+Fateful Choices                Kershaw           AllenLane Hardback no dustj
 The Fifth Risk                 Lewis             AllenLane Hardback
 First Confession               Patten            AllenLane Hardback
 Future Perfect                 Johnson           AllenLane Hardback
