@@ -18,6 +18,7 @@ Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
 The Agile Enterprise
 Agile Development 2e (ora)
+Algorithmic Thinking (nostarch)
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
 The Allure of Machinic Life (mitp)
@@ -40,6 +41,8 @@ Archangel #3
 Architecting Modern Data Platforms
 Architecting and Operating OpenShift Clusters (Springer/Apress)
 Arduino Cookbook
+The Art of 64-bit Assembly (nostarch)
+The Art of Clean Code (nostarch)
 The Art of Debugging
 The Art of Deception: Controlling the Human Element of Security (Wiley)
 The Art of Failure: An Essay on the Pain of Playing Video Games (mitp)
@@ -112,6 +115,7 @@ Building Machine Learning Powered Applications (ora)
 Building Micro-Frontends (ora)
 Building Table Views with Phoenix LiveView (pragm)
 C# 10 in a Nutshell (ora)
+C++ Crash Course (nostarch)
 C++ Software Design (ora)
 CAPM in Depth
 The Car Hacker's Handbook
@@ -176,6 +180,7 @@ Data Management in Machine Learning Systems (MandC)
 Data Science
 Data Science Essentials in Python (pragm)
 Data Science From Scratch (ora)
+Data Structures the Fun Way (nostarch)
 Data Visualization with Javascript
 Data Visualization with Python & JavaScript (ora)
 Dataset Shift in Machine Learning (mitp)
@@ -206,6 +211,7 @@ The Digial Mind: How Science is Redefining Humanity (mitp)
 Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
 Disruptive Analytics
 Distributed Systems with Node.js (ora)
+Dive into Systems (nostarch)
 DIY Drone and Quadcopter Projects
 DIY Instruments for Amateur Space
 DIY Satellite Platforms
@@ -217,6 +223,7 @@ Doing Data Science: Straight Talk from the Frontline
 Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
 Domain Modelling Made Functional (pragm)
 Drone Revolution: Vol. 51
+Effective C (nostarch)
 Effective DevOps
 Efficient Go (ora)
 egghead.io
@@ -232,6 +239,7 @@ Emerging Security Algorithms and Techniques (crc)
 The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
 The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
 Encyclopedia of Electronic Components, Vol. 3: Sensors
+Engineering Software (nostarch)
 Enterprise Big Data Lake (ora)
 Enterprise Level Security 2: Advanced Techniques IT in Uncertain World (crc)
 Environmental Monitoring with Arduino
@@ -339,6 +347,7 @@ The Hollows
 Home Theater Hacks
 The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
+How Computers Really Work (nostarch)
 How Games Move Us: Emotion by Design (mitp)
 How Linux Works: What Every Superuser Should Know
 How to Use a Breadboard!
@@ -374,6 +383,7 @@ Introducing Erlang
 Introducing Ethereum and Solidity
 Introducing Go
 Introducing Linux Distros
+Introduction to Computer Organization (nostarch)
 Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python
 Introduction to Semi-Supervised Learning (MandC)
@@ -697,6 +707,7 @@ Pythonic Programming (pragm)
 PyUP
 R Cookbook
 R in a Nutshell: A Desktop Quick Reference, 2nd Edition
+Racket Programming The Fun Way (nostarch)
 Ragnarok, Vol. 1: Last God Standing
 Raspberry Pi Cookbook
 Raspberry Pi Hacks
@@ -707,6 +718,7 @@ Realm of Racket: Learn to Program, One Game at a Time! (nostarch)
 Real-Time Shadows
 Real-Time Volume Graphics
 Real-World Software Development
+The Recursive Book of Recursion (nostarch)
 Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
 Refactoring JavaScript
 Regular Expressions Cookbook
@@ -814,6 +826,7 @@ Unauthorized Access
 The Uncanny Valley in Games and Animation
 Uncertainty in Games (mitp)
 Understanding Intelligence (mitp)
+Understanding the Machine (nostarch)
 Understanding the New European Data Protection Rules
 Unix in a Nutshell, 4th Edition (ora)
 Unix Power Tools (ora)
