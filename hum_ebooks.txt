@@ -38,36 +38,37 @@ Apprenticeship Patterns
 Archangel #1
 Archangel #2
 Archangel #3
-Architecting Modern Data Platforms
+Architecting Modern Data Platforms (ora)
 Architecting and Operating OpenShift Clusters (Springer/Apress)
-Arduino Cookbook
+Arduino Cookbook (ora)
 The Art of 64-bit Assembly (nostarch)
 The Art of Clean Code (nostarch)
-The Art of Debugging
+The Art of Debugging (nostarch)
 The Art of Deception: Controlling the Human Element of Security (Wiley)
 The Art of Failure: An Essay on the Pain of Playing Video Games (mitp)
 The Art of Fluid Animation
 The Art of Intrustion (Wiley)
-The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory
+The Art of Memory Forensics (wiley)
 The Art of R Programming (nostarch)
-The Art of Readable Code
+The Art of Readable Code (ora)
+Artificial Intelligence for Big Data (packt)
 Artificial Intelligence: The Very Idea (mitp)
-Artificial Intelligence for Big Data
 Artificial Intelligence with Python (packt)
 Artificial Minds (mitp)
-The Artist's Guide to GIMP: Creative Techniques for Photographers, Artists, and Designers
-Assembly Language Step-by-Step: Programming with Linux
-Asterisk: The Definitive Guide 5e
-Astronomy Hacks
+The Artist's Guide to GIMP (nostarch)
+Assembly Language Step-by-Step: Programming with Linux (wiley)
+Asterisk: The Definitive Guide 5e (ora)
+Astronomy Hacks (ora)
 Atari Age: The Emergence of Video Games in America (mitp)
-Atmospheric Monitoring with Arduino
+Atmospheric Monitoring with Arduino (ora)
+Attacking Network Protocols (nostarch)
 Auctions (mitp)
 Audio Visualization Using ThMAD (Springer/Apress)
-Automate it!
+Automate it! (packt)
 Automate the Boring Stuff with Python (nostarch)
-Autotools, 2nd Edition: A Practitioner's Guide to GNU Autoconf, Automake, and Libtool
-AWS System Administration
-Baseball Hacks
+Autotools, 2nd Edition (nostarch)
+AWS System Administration (ora)
+Baseball Hacks (ora)
 bash Cookbook (ora)
 Bash Pocket Reference, 2nd Edition (ora)
 Bayesian Programming
@@ -97,7 +98,7 @@ Blender Master Class (nostarch)
 Blockchain across Oracle (packt)
 Blockchain By Example (packt)
 Blockchain Quick Reference (packt)
-The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor
+The Book of Audacity (nostarch)
 The Book of F#: Breaking Free with Managed Functional Programming (nostarch)
 The Book of GIMP: A Complete Guide to Nearly Everything
 The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More
