@@ -70,29 +70,33 @@ AWS System Administration
 Baseball Hacks
 bash Cookbook (ora)
 Bash Pocket Reference, 2nd Edition (ora)
-Bayesian Statistics the Fun Way: Understanding Statistics and Probability with Star Wars, LEGO, and Rubber Ducks
+Bayesian Programming
+Bayesian Statistics the Fun Way (nostarch)
 Beautiful LEGO (nostarch)
-Become ITIL Foundation Certified in 7 Days
+Become ITIL Foundation Certified in 7 Days (springer/apress)
 Becoming a Better Programmer
 Becoming Functional
 Beginning Blockchain
-Beginning Linux Programming
+Beginning Linux Programming (wiley)
 Beginning Modern Unix (Springer/Apress)
-Beginning Python
+Beginning Python (Springer/Apress)
 Beginning Ubuntu for Windows and Mac Users (Springer/Apress)
 Behavioural Cybersecurity (crc)
-The Best of Instructables, Volume I
-The Best of Make:
+The Best of Instructables, Volume I (ora)
+The Best of Make: (ora)
 Big Data Analytics and Computing for Digital Forensic Investigations (crc)
 Big Data Analytics in Cybersecurity
 Big Data Analytics with Applications in Insider Threat Detection
-Big Data Analytics with Hadoop 3
-Big Data Architect's Handbook
-Black Hat Python: Python Programming for Hackers and Pentesters
-Blender Master Class: A Hands-On Guide to Modeling, Sculpting, Materials, and Rendering
-Blockchain across Oracle
-Blockchain By Example
-Blockchain Quick Reference
+Big Data Analytics with Hadoop 3 (packt)
+Big Data Architect's Handbook (packt)
+Big Data in Complex and Social Networks
+Big Data Management and Processing
+Black Hat Go (nostarch)
+Black Hat Python (nostarch)
+Blender Master Class (nostarch)
+Blockchain across Oracle (packt)
+Blockchain By Example (packt)
+Blockchain Quick Reference (packt)
 The Book of Audacity: Record, Edit, Mix, and Master with the Free Audio Editor
 The Book of F#: Breaking Free with Managed Functional Programming (nostarch)
 The Book of GIMP: A Complete Guide to Nearly Everything
