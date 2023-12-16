@@ -1,23 +1,23 @@
-21st Century Robot
 30 Days of Night (idw)
-35% off print books from nostarch.com!
 3D Engine Design for Virtual Globes
 3D Math Primer for Graphics and Game Development
-97 Things Every Programmer Should Know
-97 Things Every Java Programmer Should Know
+97 Things Every Java Programmer Should Know (ora)
+97 Things Every Programmer Should Know (ora)
 A Casual Revolution: Reinventing Video Games and Their Players (mitp)
 A Common-Sense Guide to Data Structures and Algorithms 2e (pragm)
 A Guide to Convolutional Neural Networks for Computer Vision (MandC)
 A Little Gold Book of Ghastly Stuff 
-Absolute FreeBSD: The Complete Guide to FreeBSD
-Absolute OpenBSD
+Absolute FreeBSD: The Complete Guide to FreeBSD (nostarch)
+Absolute OpenBSD (nostarch)
 Accelerating Development Velocity using Docker (Springer/Apress)
 Active Learning (MandC)
-Advanced Analytics with Spark
+Adopting Elixir (pragm)
+Advanced Analytics with Spark (ora)
 Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
-The Agile Enterprise
+The Agile Enterprise (springer)
 Agile Development 2e (ora)
+The AI Product Managers Handbook (packt)
 Algorithmic Thinking (nostarch)
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
@@ -503,6 +503,7 @@ Machine Learning and Data Science Blueprints for Finance (ora)
 Machine Translation (mitp)
 Made-Up Minds: Constructivist Approach to AI (mitp)
 Make a Mind-Controlled Arduino Robot
+Make: 21st Century Robot
 Make: A Raspberry Pi-Controlled Robot
 Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi
 Make: Arduino Bots and Gadgets
