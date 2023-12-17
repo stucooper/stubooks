@@ -119,7 +119,11 @@ Building Evolutionary Architectures (ora)
 Building Machine Learning Powered Applications (ora)
 Building Micro-Frontends (ora)
 Building Table Views with Phoenix LiveView (pragm)
+C Pocket Reference (ora)
+C Programming Pocket Primer
+C# 8.0 Pocket Reference (ora)
 C# 10 in a Nutshell (ora)
+C++ Pocket Reference (ora)
 C++ Crash Course (nostarch)
 C++ Software Design (ora)
 CAPM in Depth
@@ -166,10 +170,10 @@ Crowdsourcing (mitp)
 Cryptography Engineering: Design Principles and Practical Applications
 The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
 CSS: The Definitive Guide (ora)
-CSS Cookbook
+CSS Cookbook (ora)
 CSS Pocket Reference (ora)
-CSS Refactoring
-CSS: The Definitive Guide
+CSS Refactoring (ora)
+CSS: The Definitive Guide (ora)
 Cybernetics: Control and Communication in the Animal and the Machine (mitp)
 Cybersecurity Lessons from CoVID-19 (crc)
 Cybersecurity Threats, Actors and Dynamic Mitigation (crc)
@@ -304,6 +308,7 @@ Graphics Shaders
 Graphing Data with R
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
+Grep pocket reference (ora)
 Grokking Bitcoin
 Grokking Deep Learning
 Hacker Bundle 2016 PDF Sampler
@@ -406,15 +411,15 @@ Java for Data Science
 Java Generics and Collections
 Java in a Nutshell
 Java in a Nutshell 7e
-Java Message Service
-Java Network Programming
-Java Performance: The Definitive Guide
-Java Pocket Guide
-Java Threads
+Java Message Service (ora)
+Java Network Programming (ora)
+Java Performance: The Definitive Guide (ora)
+Java Pocket Guide (ora)
+Java Threads (ora)
 Java Web Services: Up and Running
 JavaScript: The Good Parts
 JavaScript: The Definitive Guide 6e
-JavaScript Cookbook
+JavaScript Cookbook (ora)
 JavaScript for Kids (nostarch)
 Jenkins 2: Up and Running
 Jenkins: The Definitive Guide
