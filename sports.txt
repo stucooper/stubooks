@@ -1,13 +1,18 @@
+# BT = Black Table
+28                               Brandon Jack        AllenUnwin BT
 42 Days at the Races             Helen Thomas        AllenUnwin
 (Muhammad) Ali                   Jonathan Eig        SimonSchuster
-All Bets are Off                 David Schwarz       HardieGrant
+All Bets are Off                 David Schwarz       HardieGrant BT
 Arlott and Trueman on Cricket    ed Phelps           BBC
+Beating the Odds                 Garvey              dontcare BT
 Best on Ground (AFL writers)     various             Viking
 Big Book of Aus Racing Stories   Jim Haynes          AllenUnwin
 Bomber: The Whole Story          Thompson            Penguin
-Brave Heart Life Lessons         Brett Kirk          RandomHouse
+Brave Heart Life Lessons         Brett Kirk          RandomHouse BT
 Brother Boys, Jim/Phil Krakouer  Sean Gorman         AllenUnwin
+The Cat with the Giant Story     Stevie J            MichalJoseph BT
 The Centurions                   Brian Hansen        BrianHansen
+Cheat                            Titus O'Reily       MichalJoseph BT
 The Convert                      Peter Lewis         Macmillan
 Comeback Rise/Fall of Geelong    Button              MelbUni
 Cracking the footy codes         Tony Squires        AKA
@@ -20,8 +25,10 @@ Eddie: Rise/rise of EddieMcGuire Bodey               hachette
 Encycl of AFL Footballers 9e     Holmesby/Main       Bas
 The Establishment Boys           Barry Nicholls      NewHolland
 Fev: In my Own Words             Brendan Fevola      HardieGrant
+Fev: Unauthorised                Roger Franklin      slattery BT
 Fixed (Aus horseracing)          Matthew Benns       ebury
 Fletch                           Dustin Fletcher     McMillan
+Footy's Greatest Players         Holt/Hutchinson     dontcare BT
 The Game is not the Same         Alan McGilvray      ABC
 The General                      Hodge               Penguin
 Golden Boy (Kim Hughes)          Christian Ryan      AllenUnwin
@@ -39,15 +46,16 @@ Nine Lives: Football, cancer     Ramanauskas         Viking
 Off the track                    Barry&Alan Wood     FiveMile
 Open Mike                        Mike Sheahan        Slattery
 Play on! (women's AFL)           Lenkis/Hess         echo
-Plugger and the Mighty Swans     Jim Main            Macmillan
+Plugger and the Mighty Swans     Jim Main            Macmillan BT
+Please Gamble Irresponsibly      Titus O Reily       MichalJoseph BT
 Polly Farmer: A Biography        Hawke               FremantleArts
 Reading the play                 Hird                McMillan
 Roo                              Riccuto             McMillan
 Ronnie                           Ronnie O'Sullivan   Orion
 Running                          Ronnie O'Sullivan   Orion
 Sacked Coach                     Alves               crowncontent
-Saturday afternoon fever         Hardy               RandomHouse
-A Sporting Chance                Titus O'Reily       Penguin
+Saturday afternoon fever         Hardy               RandomHouse BT R2021
+A Sporting Chance                Titus O'Reily       Penguin BT
 Subzero                          Adam Crettenden     ebury
 Tea and No Sympathy              The Grade Cricketer AllenUnwin
 Teach yourself snooker           John Spencer        HodderStoughton
