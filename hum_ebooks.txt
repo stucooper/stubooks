@@ -59,6 +59,7 @@ The Artist's Guide to GIMP (nostarch)
 Assembly Language Step-by-Step: Programming with Linux (wiley)
 Asterisk: The Definitive Guide 5e (ora)
 Astronomy Hacks (ora)
+The Async-First Playbook (pearson)
 Atari Age: The Emergence of Video Games in America (mitp)
 Atmospheric Monitoring with Arduino (ora)
 Attacking Network Protocols (nostarch)
@@ -157,11 +158,13 @@ CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-10
 Computer Security Literacy
 Computing (mitp)
 Continuous API Management (ora)
+Continuous Architecture in Practice (pearson)
 Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
 Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
 Creating an Information Security Program from scratch (crc)
+Creating and Using Virtual Prototyping Software (pearson)
 Creating Autonomous Vehicle Systems (MandC)
 Creating Interfaces with Bulma
 Critical Play: Radical Game Design (mitp)
@@ -230,8 +233,10 @@ Docker and Kubernetes for Java Developers
 Docker Cookbook
 Doing Data Science: Straight Talk from the Frontline
 Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
+Domain-Driven Design Distilled (pearson)
 Domain Modelling Made Functional (pragm)
 Drone Revolution: Vol. 51
+Dynamic Storytelling (pearson)
 Effective C (nostarch)
 Effective DevOps
 Efficient Go (ora)
@@ -255,6 +260,7 @@ Environmental Monitoring with Arduino
 Essential Skills in Character Rigging
 Essential System Administration, 3rd Edition (ora)
 Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
+Establishing SRE Foundations (pearson)
 Ethereum Cookbook
 Ethernet: The Definitive Guide 2e
 Ethical Hacking and Penetration Testing Guide
@@ -276,6 +282,7 @@ Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
 Frankenstein Alive, Alive! #3
 FreeBSD Device Drivers: A Guide for the Intrepid
+Functional and Concurrent Programming (pearson)
 Functional JavaScript
 Functional Programming: A PragPub Anthology (pragm)
 Functional Programming Patterns in Scala and Clojure (pragm)
@@ -446,6 +453,7 @@ Laws of UX (ora)
 Leading Creative Teams
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
+Learn DevOps (pearson)
 Learn Functional Programming with Elixir (pragm)
 Learn Quantum Computing with Python and IBM Quantum Experience (packt)
 Learn Windows Subsystem for Linux (Springer/Apress)
@@ -600,6 +608,7 @@ Mobile App Development with Ionic
 Mobile Crowd Sensing
 Modern Big Data Processing with Hadoop
 Modern Python Cookbook (packt)
+Modern Software Engineering (pearson)
 Modern Systems Programming with Scala Native (pragm)
 Modernizing Enterprise Java (ora)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
@@ -634,6 +643,7 @@ OpenStack Administration with Ansible 2
 Pandas Brain Teasers (pragm)
 Paradox (mitp)
 Parallel and Concurrent Programming in Haskell
+Patterns for API Design (pearson)
 Penetration Testing
 Perl Cookbook
 Perl Hacks
@@ -658,6 +668,7 @@ Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Lear
 Practical Microservices (pragm)
 Practical Monitoring
 Practical Network Automation
+Practical Object-Oriented Design (pearson)
 Practical Packet Analysis
 Practical Python Programming for IoT (packt)
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
@@ -669,6 +680,7 @@ Practical Tableau
 Pragmatic Scala (pragm)
 The Practice of Network Security Monitoring
 The Principles of Object-Oriented JavaScript (nostarch)
+Principles of Web API Design (pearson)
 Pro Docker
 Pro Git (Second Edition)
 Pro Linux High Availability Clustering
@@ -744,6 +756,7 @@ Richard Stark's Parker: Slayground
 Richard Stark's Parker: The Hunter
 Richard Stark's Parker: The Outfit
 Richard Stark's Parker: The Score
+Righting Software (pearson)
 Robot Sex: Social and ethical implications (mitp)
 Robots (mitp)
 Robust Python (ora)
@@ -765,6 +778,7 @@ Self-Tracking (mitp)
 Secrets of a Cyber Security Architect (crc)
 Sentient Analysis and Opinion Mining (MandC)
 Serious Python
+Serverless as a Game Changer (pearson)
 Seven Concurrency Models in Seven Weeks (pragm)
 Seven Databases in Seven Weeks 2e (pragm)
 Shell Scripting: Expert Recipes for Linux, Bash, and more
@@ -776,8 +790,10 @@ Social Engineering: The Art of Human Hacking
 Social Engineering: Hacking Systems, Nations and Societies (crc)
 Social Media Warfare
 The Software Architecture Elevator (ora)
+Software Architecture in Practice (pearson)
 Software Architecture Metrics (ora)
 Software Architecture: The Hard Part (ora)
+Software Requirements Essentials (pearson)
 Solidity Programming Essentials
 Spark: The Definitive Guide
 Splunk Essentials
@@ -794,6 +810,7 @@ Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
 Steampunk LEGO (nostarch)
+Strategic Monoliths and Microservices (pearson)
 Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
 Streaming Systems
@@ -839,6 +856,7 @@ Uncertainty in Games (mitp)
 Understanding Intelligence (mitp)
 Understanding the Machine (nostarch)
 Understanding the New European Data Protection Rules
+Understanding Software Dynamics (pearson)
 Unix in a Nutshell, 4th Edition (ora)
 Unix Power Tools (ora)
 Using and Administering Linux: Volume 1 (Springer/Apress)
