@@ -1,0 +1,40 @@
+# Perl books; mostly underneath the piano
+Advanced Perl Programming 2e      Cozens              ORA
+Automating sysadmin with Perl     Blank-Edelman       ORA
+CGI Programming with Perl 2e      Guelice,Gundavaram  ORA
+Data Munging with Perl            Cross               Manning
+Effective Perl Programming 1e     Hall/Schwartz       AWL
+Effective Perl Programming 2e     Hall/McAdams/dFoy   AWL
+Elements of Programming with Perl Johnson             Manning
+Embedding Perl in HTML with Mason Rolsky/Williams     ORA
+Extending and Embedding Perl      Cozens/Jenness      Manning
+Graphics Programming with Perl    Verbruggen          Manning
+Higher Order Perl                 Dominus             Elsevier
+Intermediate Perl                 Schwartz/dfoy       ORA
+Intermediate Perl 2e              Schwartz/dfoy       ORA
+Learning Perl 7e                  Schwartz/foy/Phnix  ORA
+Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA
+Minimal Perl                      Maher               Manning
+MySQL and Perl for the Web        DuBois              NewRiders
+Perl and XML                      Ray/McIntosh        ORA
+Perl & LWP                        Burke               ORA
+Perl by Example 4e                Quigley             PTR
+Perl Debugged                     Scott/Wright        AWL
+Perl for System Administration    Blank-Edelman       ORA
+Perl for the Web                  Chris Radcliff      NewRiders
+Perl for Web Site Management      Callender           ORA
+Perl Medic                        Scott               AWL
+Perl Testing Developer's Notebook Langworth/chromatic ORA
+Perl 6 Essentials                 Randal/Sugalski     ORA
+Perls of Wisdom                   Schwartz            Apress
+Practical mod_perl                Bekman              ORA
+Programming the Perl DBI          Descartes/Bunce     ORA
+Programming the Network w/Perl    Barry               Wiley
+Programming Web Services w/Perl   Ray/Kulchenko       ORA
+Programming Web Services XML-RPC  StLaurent/Johnston  ORA
+Programming with Perl Modules     Patwardhan          ORA
+Web Client Programming with Perl  Clinton Wong        ORA
+Writing Apache Modles with Perl/C Stein/MacEachern    ORA
+Writing Perl Modules for CPAN     Tregar              a!press
+XML and Perl                      Riehl/Stein         NewRiders
+

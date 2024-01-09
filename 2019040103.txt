@@ -8,7 +8,6 @@ Advanced Programming in the UNIX Env 2e pb   Stevens/Rago     AWL
 UNIX Network Programming 3e Vol1             Stevens/Feiner/Rudoff AWL
 UNIX Network Programming 2e Vol1 Sockets/XTI Stevens           PTR
 UNIX Network Programming 2e Vol2 IPCs        Stevens           PTR
-Effective Perl Programming 2e                Hall/McAdams/dFoy AWL
 C A Reference Manual                         Harbison/Steele   PTR
 POSIX.4 Programming for the Real World       Gallmeister       ORA
 Apache The Definitive Guide                  Laurie/Laurie     ORA
@@ -22,5 +21,4 @@ Practice of Programming                      Kernighan/Pike    AWL
 Standard C A Reference                       Plauger/Brodie    PTR
 Practical C Programming 3e                   Oualline          ORA
 C Interfaces and Implementations             Hanson            AWL
-MySQL and Perl for the Web                   DuBois            NewRiders
 C The Pocket Reference                       Schildt           McGrawHill

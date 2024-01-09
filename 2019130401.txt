@@ -3,8 +3,7 @@ label: 2019130401
 description: AFL biographies
 loc: flemshed
 
-CGI Programming with Perl          Guelice,Gundavaram       ORA
-Web Client Programming with Perl   Clinton Wong             ORA
-Programming Web Services w/Perl    Ray/Kulchenko            ORA
-XML and Perl                       Riehl/Stein              NewRiders
+
+
+
 How to set up/maintain website 2e  Lincoln Stein            AWL

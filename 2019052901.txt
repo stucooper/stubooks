@@ -3,23 +3,15 @@ label: 2019052901
 description: Loads of Perl books
 loc: flemshed
 
-Perls of Wisdom                                  Schwartz            Apress CFO
-Perl Testing a Developer's Notebook              Langworth/chromatic ORA CFO
-Minimal Perl                                     Maher               Manning CFO
+
 Network Programming with Perl                    Stein               AWL CFO
 Advanced Perl Programming 1e                     Srinivasan          ORA CFO
 Perl Cookbook                                    Christiansen/Torkington ORA CFO
 Programming Perl 3e                              Wall/Christiansen   ORA CFO
-Mastering Algorithms with Perl                   Orwant/Hietaniemi   ORA CFO
 Mastering Regular Expressions 3e                 Friedl              ORA CFO
-Intermediate Perl                                Schwartz/dfoy       ORA CFO
-Advanced Perl Programming 2e                     Cozens              ORA CFO
-Extending and Embedding Perl                     Cozens/Jenness      Manning CFO
-Effective Perl Programming 1e                    Hall/Schwartz       AWL CFO
-Elements of Programming with Perl                Johnson             Manning CFO
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
 bash cookbook                                    Albing/Vossen       ORA CFO
 sed & awk 2e                                     Dougherty/Robbins   ORA CFO
 Learning the Korn Shell                          Rosenblatt          ORA OCS
 Perl Best Practices                              Conway              ORA CFO
-Embedding Perl in HTML with Mason                Rolsky/Williams     ORA CFO
+
