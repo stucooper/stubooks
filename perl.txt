@@ -15,6 +15,7 @@ Intermediate Perl                 Schwartz/dfoy       ORA
 Intermediate Perl 2e              Schwartz/dfoy       ORA
 Learning Perl 7e                  Schwartz/foy/Phnix  ORA
 Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA
+Mastering Perl 2e                 brian d foy         ORA
 Mastering Regular Expressions 3e  Friedl              ORA
 Minimal Perl                      Maher               Manning
 MySQL and Perl for the Web        DuBois              NewRiders
