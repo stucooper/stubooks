@@ -43,4 +43,3 @@ Web Client Programming with Perl  Clinton Wong        ORA
 Writing Apache Modles with Perl/C Stein/MacEachern    ORA
 Writing Perl Modules for CPAN     Tregar              a!press
 XML and Perl                      Riehl/Stein         NewRiders
-
