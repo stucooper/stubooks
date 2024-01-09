@@ -4,8 +4,6 @@ description: Loads of Perl books
 loc: flemshed
 
 
-Network Programming with Perl                    Stein               AWL CFO
-Advanced Perl Programming 1e                     Srinivasan          ORA CFO
 Programming Perl 3e                              Wall/Christiansen   ORA CFO
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
 bash cookbook                                    Albing/Vossen       ORA CFO
