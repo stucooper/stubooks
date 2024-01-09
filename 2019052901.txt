@@ -6,12 +6,9 @@ loc: flemshed
 
 Network Programming with Perl                    Stein               AWL CFO
 Advanced Perl Programming 1e                     Srinivasan          ORA CFO
-Perl Cookbook                                    Christiansen/Torkington ORA CFO
 Programming Perl 3e                              Wall/Christiansen   ORA CFO
-Mastering Regular Expressions 3e                 Friedl              ORA CFO
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
 bash cookbook                                    Albing/Vossen       ORA CFO
 sed & awk 2e                                     Dougherty/Robbins   ORA CFO
 Learning the Korn Shell                          Rosenblatt          ORA OCS
-Perl Best Practices                              Conway              ORA CFO
 

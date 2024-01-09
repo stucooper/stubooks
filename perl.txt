@@ -14,11 +14,15 @@ Intermediate Perl                 Schwartz/dfoy       ORA
 Intermediate Perl 2e              Schwartz/dfoy       ORA
 Learning Perl 7e                  Schwartz/foy/Phnix  ORA
 Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA
+Mastering Regular Expressions 3e  Friedl              ORA
 Minimal Perl                      Maher               Manning
 MySQL and Perl for the Web        DuBois              NewRiders
+Object Oriented Perl              Conway              Manning
 Perl and XML                      Ray/McIntosh        ORA
 Perl & LWP                        Burke               ORA
+Perl Best Practices               Conway              ORA
 Perl by Example 4e                Quigley             PTR
+Perl Cookbook                     Christiansen/Tork   ORA
 Perl Debugged                     Scott/Wright        AWL
 Perl for System Administration    Blank-Edelman       ORA
 Perl for the Web                  Chris Radcliff      NewRiders
