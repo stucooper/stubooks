@@ -1,0 +1,5 @@
+# IT books published by Addison/Wesley
+Building Secure Software              Viega/McGraw                    AWL
+Exploiting Software                   Hoglund/McGraw                  AWL
+Secure Programming w Static Analysis  Chess/West                      AWL
+Software Security                     McGraw                          AWL
