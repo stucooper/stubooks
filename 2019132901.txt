@@ -14,7 +14,6 @@ Practical UNIX & Internet Security         Garfinkel             ORA
 Operating Systems Design and Implementation Tanenbaum            PTR
 UNIX System V Network Programming          Rago                  AWL
 Internet Email Protocols                   Jacobson              AWL
-The Book of IMAP                           Heinlein/Hartleben    NoStarch
 Firewalls and Internet Securtity           Cheswick/Bellovin     AWL
 Building Internet Firewalls                Chapman/Zwicky        ORA
 Modern Operating Systems                   Tanenbaum             PTR
