@@ -1,25 +1,46 @@
 # Michael Connelly thrillers
+Angels Flight                          Connelly          AllenUnwin
 The Black Box                          Connelly          AllenUnwin
+The Black Echo                         Connelly          Orion
+The Black Ice                          Connelly         Orion
+Blood Work                             Connelly          Orion
 The Brass Verdict                      Connelly          AllenUnwin
 The Burning Room                       Connelly          AllenUnwin
+Chasing the Dime                       Connelly          Orion
+City of Bones                          Connelly          AllenUnwin
 The Closers                            Connelly          Orion
 The Concrete Blonde                    Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
 The Crossing                           Connelly          AllenUnwin
 The Dark Hours                         Connelly          AllenUnwin
+Dark Sacred Night                      Connelly          AllenUnwin
+A Darkness more than Night             Connelly          Orion
 Desert Star                            Connelly          AllenUnwin
 The Drop                               Connelly          Orion R2021
+Echo Park                              Connelly          AllenUnwin
 Fair Warning                           Connelly          AllenUnwin
 The Fifth Witness                      Connelly          AllenUnwin
 The Gods of Guilt                      Connelly          AllenUnwin
 The Gods of Guilt                      Connelly          Orion
+The Last Coyote                        Connelly          Orion
 The Late Show                          Connelly          AllenUnwin
 The Law of Innocence                   Connelly          AllenUnwin
+The Lincoln Lawyer                     Connelly          AllenUnwin
+Lost Light                             Connelly          Orion
 The Narrows                            Connelly          Orion
 The Night Fire                         Connelly          AllenUnwin
+The Night Fire                         Connelly          Orion
 Nine Dragons                           Connelly          Orion
+The Poet                               Connelly          Orion
 The Overlook                           Connelly          AllenUnwin
 The Reversal                           Connelly          Orion
 The Scarecrow                          Connelly          Orion
-The Wrong Side of Goodbye              Connelly          AllenUnwin
+Trunk Music                            Connelly          Orion
 Two Kinds of Truth                     Connelly          AllenUnwin
+The Wrong Side of Goodbye              Connelly          AllenUnwin
+Void Moon                              Connelly          Orion
+
+Harry Bosch novels BlkEch/BlkIce/Concrete        Connelly    AllenUnwin
+Three Great novels DknessNight/CityBone/Dime     Connelly    Orion
+Three Great novels Poet/BloodWork/VoidMoon       Connelly    AllenUnwin
+Lincoln Lawyer novels LLawyer/BrassVerd/Reversal Connelly    AllenUnwin
