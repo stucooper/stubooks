@@ -1,0 +1,7 @@
+# IT books published by nostarch; often with bright yellow cartoon covers
+The Book of CSS3                  Gasston             nostarch
+Designing BSD Rootkits            Kong                nostarch
+The IDA Pro Book                  Eagle               nostarch
+Linux Cookbook                    Stutz               nostarch
+Linux Enterprise Cluster          Kopper              nostarch
+Nagios 2e                         Barth               nostarch
