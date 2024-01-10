@@ -23,6 +23,7 @@ Championship 7-Stud               Johnson/McEvoy      Cardoza
 Championship NL & PL Holdem 1997  Cloutier/McEvoy     Cardsmith
 Championship NL & PL Holdem 2004  Cloutier/McEvoy     Cardoza
 Check-Raising the Devil           Mike Matusow        Cardoza
+Complete Book of Holdem Poker     Gary Carson         LyleStuart
 Complete Idiot's Guide to Poker   Andrew Glazier      Alpha
 Cowboys Full                      James McManus       FSG
 Devilfish                         David Ulliott       Penguin
@@ -35,8 +36,10 @@ Every Hand Revealed               Gus Hansen          LyleStuart
 Everything Online Poker Book      Helene Silverstein  AdamsMedia
 Fighting Fuzzy Thinking           David Sklansky      TwoPlusTwo
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
+Gambler's Guide to the World      Jesse May           broadway
 Gambling                          Mike Atherton       HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
+Getting the Best of it            David Sklansky      TwoPlusTwo
 Ghosts at the table               Des Wilson          Mainstream
 Harrington on Holdem Vol 1        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 2        Harrington/Robertie TwoPlusTwo
@@ -46,7 +49,10 @@ Harrington on Cash Games Vol 2    Harrington/Robertie TwoPlusTwo
 Harrington on Modern Tournaments  Harrington/Robertie TwoPlusTwo
 Harrington on Online Cash Games   Harrington/Robertie TwoPlusTwo
 Heads-Up No-Limit Holdem          Moshman             TwoPlusTwo
+Holdem Poker (2000)               David Sklansky      TwoPlusTwo
 Holdem Poker for Advanced Players Sklansky/Malmuth    TwoPlusTwo
+Holdem Wisdom for All Players     Daniel Negreanu     Cardoza
+How good is your PL Holdem?       Stewart Reuben      D&B
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
 How to Dominate $1 and $2 NLH     Sam O Connor        Authorhouse
@@ -56,13 +62,14 @@ Inside the Poker Mind             John Feeney         TwoPlusTwo
 Johnny Magic and Cardshark Kids   David Kushner       RandomHouse
 Kaizen of Poker                   Shree Bykofsky      ECW
 Ken Warren Teaches Texas Holdem   Ken Warren          Cardoza
+Ken Warren Teaches Texas Holdem 2  Ken Warren          Cardoza
 Kill Everyone                     Nelson/Streib       MonarchBooks
 Killer Poker No Limit!            John Vorhaus        LyleStuart
 Killer Poker Online               John Vorhaus        LyleStuart
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
-Mastering Pot-Limit Omaha         Okolowitz           D+B
+Mastering Pot-Limit Omaha         Okolowitz           D&B
 Mathematics of Poker              Bill Chen           Conjelco
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza
 NLH A Complete Course             Angel Largay        ECW
@@ -77,6 +84,7 @@ Phil Gord's Black Book (realdeal) Phil Gordon         SimonSpotlight
 Play Poker Like the Pros          Phil Hellmuth       HarperCollins
 PLO Understanding Winning Play    William Jockusch    TwoPlusTwo
 Poker Essays Volume III           Mason Malmuth       TwoPlusTwo
+Poker Aficianado                  Peter Fornatale     Broadway
 Poker Face                        Judi James          vermillion
 Poker for Dummies                 Richard D Harroch   IDG
 Poker for Seniors                 Stuart Yarnold      InEasySteps
@@ -99,7 +107,10 @@ Real Poker Psychology             Mason Malmuth       TwoPlusTwo
 Risky Business                    Al Alvarez          bloomsbury
 Rules of Poker                    IFP                 IFP
 Science of Poker                  Mahmood Mahmood     HighStakes
+Secrets of non-standard SitnGos   Phil Shaw           D&B
+Secrets of SitnGos                Phil Shaw           D&B
 Seven Card Stud for Adv Players   Sklansky Malumth    TwoPlusTwo
+Shuffle Up and Deal               Mike Sexton         HarperCollins
 Sit n Go Strategy                 Moshman             TwoPlusTwo
 Sklansky on Poker                 David Sklansky      TwoPlusTwo
 Small Stakes No-Limit Holdem      Miller/Mehta/Flynn  Dimat
@@ -110,6 +121,7 @@ Straight Flush                    Ben Mezrich         Heinemann
 Swimming with the DevilFish       Des Wilson          Macmillan
 Take me to the River              Peter Alson         atria
 Theory of Poker                   David Sklansky      TwoPlusTwo
+Think Like a Poker Pro            Byron Jacobs        D&B
 Thinking in Bets                  Annie Duke          PortfolioPenguin
 Treat Your Poker Like a Business  Dusty Schmidt       Cardoza
 Total Poker (hb)                  David Spanier       SeckerWarburg
