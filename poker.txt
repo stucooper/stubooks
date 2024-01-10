@@ -8,14 +8,17 @@ Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
 Best Hand I Ever Played       Steve Rosenbloom    ESPN
 Beat the Dealer (21)                    Edward O Thorp             Vintage
 Beyond Bluffs                     James McKenna       LyleStuart
+Big Book of Poker                 Dario de Toffoli    dbp
 Big Deal                          Anthony Holden      SimonSchuster
 Bigger Deal                       Anthony Holden      Abacus
-Biggest game in Town             Alvarez                 chronicle
+Biggest Bluff                     Maria Konnikova     FourthEstate
+Biggest game in Town              Alvarez              chronicle
 Book of Bluffs                Matt Lessinger      GrandCentral
 Caro's Book of Poker Tells        Mike Caro           Cardoza
 Caro's Most Profitable Holdem Advice Mike Caro        Cardoza
-Championship NL & Pot Limit Holdem (1997)  Cloutier/McEvoy   Cardsmith
-Championship NL & Pot Limit Holdem (2004)  Cloutier/McEvoy   Cardoza
+Championship 7-Stud                Johnson/McEvoy     Cardoza
+Championship NL & PL Holdem (1997)  Cloutier/McEvoy   Cardsmith
+Championship NL & PL Holdem (2004)  Cloutier/McEvoy   Cardoza
 Check-Raising the Devil           Mike Matusow        Cardoza
 Complete Idiot's Guide to Poker         Andrew Glazier             Alpha
 Dirty Poker                       Richard Marcus      undercover
@@ -36,6 +39,7 @@ How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
 How to Play & Win at Poker        Woods/Broughton     Carlton
 How to win the WSOP (or not)      Pat Walsh           robson
+Johnny Magic and the Cardshark Kids David Kushner                RandomHouse
 Kaizen of Poker                        Shree Bykofsky    ECW
 Kill Everyone                     Nelson/Streib       MonarchBooks
 Killer Poker Online                     John Vorhaus               LyleStuart
@@ -45,6 +49,7 @@ Mastering No-Limit Holdem         Fox/Harker          Conjelco
 Mathematics of Poker              Bill Chen           Conjelco
 NLH A Complete Course                      Angel Largay      ECW
 No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
+Pass the Sugar                    Joe Hachem          Melbourne
 Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
 Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
 Phil Gordon's Little Gold Book    Phil Gordon         SimonSpotlight
@@ -73,7 +78,9 @@ Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                        Mezrich           Heinemann
 Swimming with the DevilFish        Des Wilson         Macmillan
 Take me to the River               Peter Alson        atria
-Total Poker (hb)                        David Spanier              SeckerWarburg
+Thinking in Bets                   Annie Duke         PortfolioPenguin
+Total Poker (hb)                   David Spanier      SeckerWarburg
 Tournament Tips from the Pros     Shane Smith         Cardoza
+Unleash your Hidden Poker Memory   Onika              EcwPress
 Winning Touraments One Hand at a time Vol 1 various    Dimat
 Winning Touraments One Hand at a time Vol 2 various    Dimat
