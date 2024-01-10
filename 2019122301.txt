@@ -10,7 +10,6 @@ Code Quality                             Dimoidis Spinellis      AWL
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
 Linux Assembly Language Programming      Bob Neveln              PTR
 SQL for Dummies                          Allen G Taylor          Wiley
-Database in Depth                        C J Date                ORA
 Solaris Internals 2e                     McDougall/Mauro         PTR
 Relational Database Design clearly explained Jan L Harrington    MKR
 Object Technology A Manager's Guide      David A Taylor          AWL
