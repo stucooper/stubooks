@@ -42,6 +42,9 @@ Harrington on Holdem Vol 2        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 3        Harrington/Robertie TwoPlusTwo
 Harrington on Cash Games Vol 1    Harrington/Robertie TwoPlusTwo
 Harrington on Cash Games Vol 2    Harrington/Robertie TwoPlusTwo
+Harrington on Modern Tournaments  Harrington/Robertie TwoPlusTwo
+Harrington on Online Cash Games   Harrington/Robertie TwoPlusTwo
+Heads-Up No-Limit Holdem          Moshman             TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
 How to Dominate $1 and $2 NLH     Sam O Connor        Authorhouse
@@ -60,13 +63,16 @@ Mathematics of Poker              Bill Chen           Conjelco
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza
 NLH A Complete Course             Angel Largay        ECW
 No Limit Holdem for Winners       Andrea/Dan Shavick  howtobooks
+NLH Theory and Practice           Sklansky/Miller     TwoPlusTwo
 Pass the Sugar                    Joe Hachem          Melbourne
+Peak Performance Poker            Steffen             Dimat
 Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
 Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
 Phil Gordon's Little Gold Book    Phil Gordon         SimonSpotlight
 Phil Gord's Black Book (realdeal) Phil Gordon         SimonSpotlight
 Play Poker Like the Pros          Phil Hellmuth       HarperCollins
 PLO Understanding Winning Play    William Jockusch    TwoPlusTwo
+Poker Essays Volume III           Mason Malmuth       TwoPlusTwo
 Poker Face                        Judi James          vermillion
 Poker for Dummies                 Richard D Harroch   IDG
 Poker for Seniors                 Stuart Yarnold      InEasySteps
@@ -82,12 +88,14 @@ Raiser's Edge                     Gospellier/Nelson   MonarchBooks
 Read em and Reap                  Joe Navarro         HarperCollins
 Reading Poker Tells               Zachary Elwood      ViaRegia
 Real Poker Night                  Henry Stephenson    LyleStuart
+Real Poker Psychology             Mason Malmuth       TwoPlusTwo
 Risky Business                    Al Alvarez          bloomsbury
 Rules of Poker                    IFP                 IFP
 Science of Poker                  Mahmood Mahmood     HighStakes
 Seven Card Stud for Adv Players   Sklansky Malumth    TwoPlusTwo
 Sit n Go Strategy                 Moshman             TwoPlusTwo
 Sklansky on Poker                 David Sklansky      TwoPlusTwo
+Small Stakes No-Limit Holdem      Miller/Mehta/Flynn  Dimat
 Super System                      Doyle Brunson       Cardoza
 Super System 2                    Doyle Brunson       Cardoza
 Shuffle Up and Deal               Mike Sexton         HarperCollins
@@ -97,8 +105,10 @@ Take me to the River              Peter Alson         atria
 Thinking in Bets                  Annie Duke          PortfolioPenguin
 Treat Your Poker Like a Business  Dusty Schmidt       Cardoza
 Total Poker (hb)                  David Spanier       SeckerWarburg
+Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Unleash your Hidden Poker Memory  Onika               EcwPress
+Winning Low Limit Holdem          Lee Jones           Conjelco
 Winning Touraments One Hand at a time Vol 1 various    Dimat
 Winning Touraments One Hand at a time Vol 2 various    Dimat
 Your Best Poker Friend            Al Schoonmaker     LyleStuart
