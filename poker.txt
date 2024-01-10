@@ -3,7 +3,9 @@
 Ace on the River                  Barry Greenstein    LastKnight
 All In                            Grotenstein/Reback  ThomasDunne
 Alligator Blood                   Leighton            SimonSchuster
+Analytical No-Limit Holdem        Bakker              TwoPlusTwo
 Annie Duke                        Annie Duke          HudsonStreet
+Applications of No-Limnt Holdem   Janda               TwoPlusTwo
 Aussie Poker Guide                Sean Callendar      Wilkinson
 Bad Beats and Lucky Draws         Phil Hellmuth       HarperCollins
 Best Hand I Ever Played           Steve Rosenbloom    ESPN
@@ -30,6 +32,7 @@ Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
 Elements of Poker                 Tommy Angelo        selfpublished
 Every Hand Revealed               Gus Hansen          LyleStuart
 Everything Online Poker Book      Helene Silverstein  AdamsMedia
+Fighting Fuzzy Thinking           David Sklansky      TwoPlusTwo
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
 Gambling                          Mike Atherton       HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
@@ -40,9 +43,11 @@ Harrington on Holdem Vol 3        Harrington/Robertie TwoPlusTwo
 Harrington on Cash Games Vol 1    Harrington/Robertie TwoPlusTwo
 Harrington on Cash Games Vol 2    Harrington/Robertie TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
+How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
 How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
 How to Play & Win at Poker        Woods/Broughton     Carlton
 How to win the WSOP (or not)      Pat Walsh           robson
+Inside the Poker Mind             John Feeney         TwoPlusTwo
 Johnny Magic and the Cardshark Kids David Kushner                RandomHouse
 Kaizen of Poker                        Shree Bykofsky    ECW
 Kill Everyone                     Nelson/Streib       MonarchBooks
@@ -50,7 +55,9 @@ Killer Poker Online                     John Vorhaus               LyleStuart
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
+Mastering Pot-Limit Omaha         Okolowitz           D+B
 Mathematics of Poker              Bill Chen           Conjelco
+More Holdem Wisdom all players    Daniel Negreanu     Cardoza
 NLH A Complete Course                      Angel Largay      ECW
 No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
 Pass the Sugar                    Joe Hachem          Melbourne
@@ -70,6 +77,7 @@ Poker Wizards                     Warwick Dunnett     Cardoza
 Power Holdem Strategy              Daniel Negreanu               Cardoza
 Practical Poker Math               Patt Dittmar        ecw
 Professor/Banker/Suicide King Michael Craig       Warner
+Professional NLH Volume 1          Flynn/Mehta/Miller TwoPlusTwo
 Raiser's Edge                 Gospellier/Nelson   MonarchBooks
 Read em and Reap                           Joe Navarro       HarperCollins
 Reading Poker Tells               Zachary Elwood      ViaRegia
@@ -78,6 +86,8 @@ Risky Business                     Al Alvarez         bloomsbury
 Rules of Poker                     IFP                IFP
 Science of Poker                   Mahmood Mahmood    HighStakes
 Seven Card Stud for Adv Players    Sklansky Malumth   TwoPlusTwo
+Sit n Go Strategy                  Moshman            TwoPlusTwo
+Sklansky on Poker                  David Sklansky     TwoPlusTwo
 Super System                       Doyle Brunson      Cardoza
 Super System 2                     Doyle Brunson      Cardoza
 Shuffle Up and Deal                Mike Sexton        HarperCollins
@@ -85,8 +95,10 @@ Straight Flush                     Ben Mezrich        Heinemann
 Swimming with the DevilFish        Des Wilson         Macmillan
 Take me to the River               Peter Alson        atria
 Thinking in Bets                   Annie Duke         PortfolioPenguin
+Treat Your Poker Like a Business   Dusty Schmidt      Cardoza
 Total Poker (hb)                   David Spanier      SeckerWarburg
 Tournament Tips from the Pros      Shane Smith        Cardoza
 Unleash your Hidden Poker Memory   Onika              EcwPress
 Winning Touraments One Hand at a time Vol 1 various    Dimat
 Winning Touraments One Hand at a time Vol 2 various    Dimat
+Your Best Poker Friend             Al Schoonmaker     LyleStuart
