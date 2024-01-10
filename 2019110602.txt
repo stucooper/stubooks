@@ -3,12 +3,9 @@ label: 2019110602
 description: Recent ORA books
 loc: flemshed
 
-Enterprise IOT                        Slama/Puhlmann                 ORA
 Learning PHP,MySQL,JavaScript,CSS 2e  Nixon                          ORA
 JavaScript Enlightenment              Lindley                        ORA
 Testable JavaScript                   Trostler                       ORA
-Hadoop: The Definitive Guide          White                          ORA
-Intellectual Property and Open Source Van Lindberg                   ORA
 The Ruby Programming Language         Flanagan/Matsumoto             ORA
 Programming Collective Intelligence   Segaran                        ORA
 Interactive Data Visualisation for the Web Murray                    ORA
@@ -18,7 +15,7 @@ Mind Change                           Susan Greenfield      RandomHouse
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
 Ghost in the Wires                    Kevin Mitnick         LittleBrown
 Without their Permission              Alexis Ohanian        BusinessPlus
-Hackers and Painters                  Paul Graham           ORA (CMC)
+Hackers and Painters                  Paul Graham           ORA
 Makers                                Chris Anderson        CrwonBusiness
 The Intelligent Web                   Graham Shroff         Oxford
 Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
