@@ -1,40 +1,40 @@
 # poker books and gambling books with poker content
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
-Ace on the River                           Barry Greenstein  LastKnight
-Alligator Blood                       Leighton          SimonSchuster
-Annie Duke                        Annie Duke            HudsonStreet
-Aussie Poker Guide                Sean Callendar        Wilkinson
-Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
-Best Hand I Ever Played       Steve Rosenbloom    ESPN
-Beat the Dealer (21)                    Edward O Thorp             Vintage
+Ace on the River                  Barry Greenstein    LastKnight
+Alligator Blood                   Leighton            SimonSchuster
+Annie Duke                        Annie Duke          HudsonStreet
+Aussie Poker Guide                Sean Callendar      Wilkinson
+Bad Beats and Lucky Draws         Phil Hellmuth       HarperCollins
+Best Hand I Ever Played           Steve Rosenbloom    ESPN
+Beat the Dealer (21)              Edward O Thorp      Vintage
 Beyond Bluffs                     James McKenna       LyleStuart
 Big Book of Poker                 Dario de Toffoli    dbp
 Big Deal                          Anthony Holden      SimonSchuster
 Bigger Deal                       Anthony Holden      Abacus
 Biggest Bluff                     Maria Konnikova     FourthEstate
-Biggest game in Town              Alvarez              chronicle
-Book of Bluffs                Matt Lessinger      GrandCentral
+Biggest game in Town              Alvarez             chronicle
+Book of Bluffs                    Matt Lessinger      GrandCentral
 Caro's Book of Poker Tells        Mike Caro           Cardoza
-Caro's Most Profitable Holdem Advice Mike Caro        Cardoza
-Championship 7-Stud                Johnson/McEvoy     Cardoza
-Championship NL & PL Holdem (1997)  Cloutier/McEvoy   Cardsmith
-Championship NL & PL Holdem (2004)  Cloutier/McEvoy   Cardoza
+Caro's Most Profit Holdem Advice  Mike Caro           Cardoza
+Championship 7-Stud               Johnson/McEvoy      Cardoza
+Championship NL & PL Holdem 1997  Cloutier/McEvoy     Cardsmith
+Championship NL & PL Holdem 2004  Cloutier/McEvoy     Cardoza
 Check-Raising the Devil           Mike Matusow        Cardoza
-Complete Idiot's Guide to Poker         Andrew Glazier             Alpha
+Complete Idiot's Guide to Poker   Andrew Glazier      Alpha
 Dirty Poker                       Richard Marcus      undercover
-Easy way to stop gambling            Carr                    arcturus
-Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
-Elements of Poker                          Tommy Angelo      self
+Easy way to stop gambling         Carr                arcturus
+Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
+Elements of Poker                 Tommy Angelo        selfpublished
 Every Hand Revealed               Gus Hansen          LyleStuart
-Everything Online Poker Book            Helene M Silverstein       AdamsMedia
-FullTilt Strategy Guide Tourneys  ed Michael Craig     Warner
-Gambling                          Mike Atherton        HodderStoughton
+Everything Online Poker Book      Helene Silverstein  AdamsMedia
+FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
+Gambling                          Mike Atherton       HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
-Harrington on Holdem Vol 1         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Holdem Vol 2         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Holdem Vol 3         Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Cash Games Vol 1     Dan Harrington/Bill Robertie  TwoPlusTwo
-Harrington on Cash Games Vol 2     Dan Harrington/Bill Robertie  TwoPlusTwo
+Harrington on Holdem Vol 1        Harrington/Robertie TwoPlusTwo
+Harrington on Holdem Vol 2        Harrington/Robertie TwoPlusTwo
+Harrington on Holdem Vol 3        Harrington/Robertie TwoPlusTwo
+Harrington on Cash Games Vol 1    Harrington/Robertie TwoPlusTwo
+Harrington on Cash Games Vol 2    Harrington/Robertie TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
 How to Play & Win at Poker        Woods/Broughton     Carlton
