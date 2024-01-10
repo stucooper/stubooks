@@ -35,6 +35,7 @@ Perl Testing Developer's Notebook Langworth/chromatic ORA
 Perl 6 Essentials                 Randal/Sugalski     ORA
 Perls of Wisdom                   Schwartz            Apress
 Practical mod_perl                Bekman              ORA
+Programming Perl 3e               Wall/Christiansen   ORA
 Programming the Perl DBI          Descartes/Bunce     ORA
 Programming the Network w/Perl    Barry               Wiley
 Programming Web Services w/Perl   Ray/Kulchenko       ORA

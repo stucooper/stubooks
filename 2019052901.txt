@@ -4,7 +4,7 @@ description: Loads of Perl books
 loc: flemshed
 
 
-Programming Perl 3e                              Wall/Christiansen   ORA CFO
+
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
 bash cookbook                                    Albing/Vossen       ORA CFO
 sed & awk 2e                                     Dougherty/Robbins   ORA CFO
