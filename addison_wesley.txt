@@ -1,8 +1,13 @@
 # IT books published by Addison/Wesley
 Building Secure Software              Viega/McGraw                    AWL
+Compilers                             Aho/Sehti/Ullman                AWL
+Effective TCP/IP Programming          Jon C Snader                    AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
 Forensic Discovery                    Farmer/Venema                   AWL
+Gigabit Networking                    Craig Partridge                 AWL
+Interconnections 2e                   Radia Perlman                   AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
 Software Security                     McGraw                          AWL
+Unix System Security                  David A Curry                   AWL
