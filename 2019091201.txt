@@ -1,16 +1,7 @@
-name: ORA BEAUTIFUL
+name: random IT
 label: 2019091201
-description: O'Reilly Beautiful books and beautiful art covers
+description: random it
 
-producing open source software            Fogel             ORA
-open source software for the enterprise   Woods/Guliani     ORA
-Beautiful Testing                         ed Riley/Goucher  ORA
-Making Software                           ed Oram/Wilson    ORA
-Beautiful Code                            ed Oram/Wilson    ORA
-The Productive Programmer                 Ford              ORA
-Essential Business Process Modeeling      Havey             ORA
-The Art of Concurrency                    Breshears         ORA
 Repairing and Upgrading Your PC           Thompson/Thompson ORA
 The Pragmatic Programmer                  Hunt/Thomas       AWL
-The Art of SEO                            Enge/Spencer      ORA
 
