@@ -14,7 +14,6 @@ Web Security Privacy Commerce 2e Garfinkel/Spafford ORA
 Internet in a Nutshell       Quercia          ORA
 Linux Routers                Mancill          PTR
 SQLite                       Newman           SAMS
-How Linux Works 2e           Ward             NoStarch
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Make                              RMS/McGrath      GNU
 Debugging with GDB                    RMS/Cygnus       GNU

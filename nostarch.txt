@@ -4,6 +4,7 @@ The Blender Book                  Wartmann            nostarch
 The Book of IMAP                  Heinlein/Hartleben  nostarch
 The Book of CSS3                  Gasston             nostarch
 Designing BSD Rootkits            Kong                nostarch
+How Linux Works 2e                Ward                nostarch
 The IDA Pro Book                  Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
@@ -12,6 +13,7 @@ Network Flow Analysis             Lucas               nostarch
 Nagios 2e                         Barth               nostarch
 The Official GNOME2 Devel Guide   Warkus              nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
+Python for Kids                   Briggs              nostarch
 Realm of Racket                   Felleisen           nostarch
 TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch
