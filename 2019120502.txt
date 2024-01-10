@@ -10,5 +10,4 @@ Internetworking with TCP/IP Volume 2       Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3       Comer/Stevens        PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 lex and yacc                               Levin/Mason/Brown    ORA
-Revolution in the Valley                   Andy Hertzfeld       ORA
 Unix Systems Programming                   Kay/Steven Robbins   PTR

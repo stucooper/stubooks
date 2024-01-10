@@ -6,7 +6,6 @@ RESTful Web Services       Richardson          ORA
 Apache Web Server Admin    Aulds               Sybex
 OpenGL Super Bible 2e                          WaiteGroup
 GTK+/Gnome Application Development Pennington  NewRiders
-OpenOffice.org Writer      Weber               ORA
 Topics in C Programming Revised Kochan/Wood    Wiley
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
