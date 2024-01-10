@@ -13,7 +13,6 @@ Non-Designers Design & Type Books        Robin Williams        PeachPit
 Kerberos: The Definitive Guide           Jason Garman          ORA
 Computer Architecture: Quantitative Approach Hennessy/Patterson MK
 Data Manipulation with R                 Phil Spector          Springer
-Real Digital Forensics                   Jones/Beitlich        AWL
 Understanding Open Source Licensing      St. Laurent           ORA
 Looking Good in Print 2e                 Roger C Parker        Ventuna
 Presenting Numbers, Tables and Charts    Bigword/Spore         Oxford
