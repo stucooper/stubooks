@@ -2,6 +2,7 @@
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                           Barry Greenstein  LastKnight
 Alligator Blood                       Leighton          SimonSchuster
+Aussie Poker Guide                Sean Callendar        Wilkinson
 Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
 Best Hand I Ever Played       Steve Rosenbloom    ESPN
 Beat the Dealer (21)                    Edward O Thorp             Vintage
@@ -22,6 +23,7 @@ Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
 Elements of Poker                          Tommy Angelo      self
 Every Hand Revealed               Gus Hansen          LyleStuart
 Everything Online Poker Book            Helene M Silverstein       AdamsMedia
+Gambling                          Mike Atherton        HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Harrington on Holdem Vol 1         Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Holdem Vol 2         Dan Harrington/Bill Robertie  TwoPlusTwo
@@ -36,6 +38,8 @@ Kill Everyone                     Nelson/Streib       MonarchBooks
 Killer Poker Online                     John Vorhaus               LyleStuart
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
+Mastering No-Limit Holdem         Fox/Harker          Conjelco
+Mathematics of Poker              Bill Chen           Conjelco
 NLH A Complete Course                      Angel Largay      ECW
 No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
 Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
@@ -64,6 +68,7 @@ Super System                            Doyle Brunson              Cardoza
 Super System 2                     Doyle Brunson                 Cardoza
 Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                        Mezrich           Heinemann
+Swimming with the DevilFish        Des Wilson         Macmillan
 Total Poker (hb)                        David Spanier              SeckerWarburg
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Winning Touraments One Hand at a time Vol 1 various    Dimat
