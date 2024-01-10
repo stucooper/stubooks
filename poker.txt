@@ -1,6 +1,7 @@
 # poker books and gambling books with poker content
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                  Barry Greenstein    LastKnight
+All In                            Grotenstein/Reback  ThomasDunne
 Alligator Blood                   Leighton            SimonSchuster
 Annie Duke                        Annie Duke          HudsonStreet
 Aussie Poker Guide                Sean Callendar      Wilkinson
@@ -21,6 +22,8 @@ Championship NL & PL Holdem 1997  Cloutier/McEvoy     Cardsmith
 Championship NL & PL Holdem 2004  Cloutier/McEvoy     Cardoza
 Check-Raising the Devil           Mike Matusow        Cardoza
 Complete Idiot's Guide to Poker   Andrew Glazier      Alpha
+Cowboys Full                      James McManus       FSG
+Devilfish                         David Ulliott       Penguin
 Dirty Poker                       Richard Marcus      undercover
 Easy way to stop gambling         Carr                arcturus
 Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
@@ -30,6 +33,7 @@ Everything Online Poker Book      Helene Silverstein  AdamsMedia
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
 Gambling                          Mike Atherton       HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
+Ghosts at the table               Des Wilson          Mainstream
 Harrington on Holdem Vol 1        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 2        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 3        Harrington/Robertie TwoPlusTwo
@@ -70,6 +74,7 @@ Raiser's Edge                 Gospellier/Nelson   MonarchBooks
 Read em and Reap                           Joe Navarro       HarperCollins
 Reading Poker Tells               Zachary Elwood      ViaRegia
 Real Poker Night                        Henry Stephenson           LyleStuart
+Risky Business                     Al Alvarez         bloomsbury
 Rules of Poker                          IFP                        IFP
 Science of Poker                       Mahmood Mahmood   HighStakes
 Seven Card Stud for Adv Players         Sklansky Malumth Zee       TwoPlusTwo
