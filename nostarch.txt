@@ -1,7 +1,14 @@
 # IT books published by nostarch; often with bright yellow cartoon covers
+Ardunino Workshop                 Boxall              nostarch
+The Blender Book                  Wartmann            nostarch
 The Book of CSS3                  Gasston             nostarch
 Designing BSD Rootkits            Kong                nostarch
 The IDA Pro Book                  Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
+Network Flow Analysis             Lucas               nostarch
 Nagios 2e                         Barth               nostarch
+The Official GNOME2 Devel Guide   Warkus              nostarch
+The Practice of Network Sec Monit Bejtlich            nostarch
+Realm of Racket                   Felleisen           nostarch
+Ubuntu Made Easy                  Grant               nostarch

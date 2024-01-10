@@ -13,7 +13,6 @@ Programming Languages: Concepts  Ravi Sehti               AWL
 ANSI Common Lisp                 Paul Graham              PTR
 Compilers: Principles/Techniques Aho/Sehti/Ullman         AWL
 A Little Java, A Few Patterns    Felleisen/Friedman       MITP
-Realm of Racket                  Matthias Felleisen et al NoStarch
 Unix Hater's Handbook            Garfinker/Weise          IDG
 Artists' Guide to the GIMP       Michael J Hammel         SSC
 Intro to Database Systems 8e              C J Date               AWL
@@ -24,6 +23,5 @@ Programming Language Semantics            Michael Scott          MK
 Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
 Cryptography and Network Security         William Stallings      PTR
 Exploting Online Games                    Hogland/McGraw         AWL
-Designing BSD Rootkits                    Joseph Kong            NoStarch
 Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
 The Well-Grounded Rubyist                 David A. Black         Manning
