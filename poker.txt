@@ -64,6 +64,7 @@ Poker Tournament Formula      Arnold Snyder       Cardoza
 Poker Tournament Formula 2    Arnold Snyder       Cardoza
 Poker Wizards                     Warwick Dunnett     Cardoza
 Power Holdem Strategy              Daniel Negreanu               Cardoza
+Practical Poker Math               Patt Dittmar        ecw
 Professor/Banker/Suicide King Michael Craig       Warner
 Raiser's Edge                 Gospellier/Nelson   MonarchBooks
 Read em and Reap                           Joe Navarro       HarperCollins
