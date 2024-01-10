@@ -1,68 +1,70 @@
+# poker books and gambling books with poker content
+1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                           Barry Greenstein  LastKnight
+Alligator Blood                       Leighton          SimonSchuster
+Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
+Best Hand I Ever Played       Steve Rosenbloom    ESPN
+Beat the Dealer (21)                    Edward O Thorp             Vintage
+Beyond Bluffs                     James McKenna       LyleStuart
+Big Deal                          Anthony Holden      SimonSchuster
+Bigger Deal                       Anthony Holden      Abacus
+Biggest game in Town             Alvarez                 chronicle
+Book of Bluffs                Matt Lessinger      GrandCentral
+Caro's Book of Poker Tells        Mike Caro           Cardoza
+Caro's Most Profitable Holdem Advice Mike Caro        Cardoza
 Championship NL & Pot Limit Holdem (1997)  Cloutier/McEvoy   Cardsmith
 Championship NL & Pot Limit Holdem (2004)  Cloutier/McEvoy   Cardoza
-Read em and Reap                           Joe Navarro       HarperCollins
-Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
-Poker for Seniors                          Stuart Yarnold    InEasySteps
+Check-Raising the Devil           Mike Matusow        Cardoza
+Complete Idiot's Guide to Poker         Andrew Glazier             Alpha
+Dirty Poker                       Richard Marcus      undercover
+Easy way to stop gambling            Carr                    arcturus
+Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
 Elements of Poker                          Tommy Angelo      self
-NLH A Complete Course                      Angel Largay      ECW
-The Poker Mindset                          Ian Taylor/Hilger Dimat
-The Kaizen of Poker                        Shree Bykofsky    ECW
-PLO Understanding Winning Play             William Jockusch  TwoPlusTwo
-The Science of Poker                       Mahmood Mahmood   HighStakes
+Every Hand Revealed               Gus Hansen          LyleStuart
+Everything Online Poker Book            Helene M Silverstein       AdamsMedia
+Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Harrington on Holdem Vol 1         Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Holdem Vol 2         Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Holdem Vol 3         Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Cash Games Vol 1     Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Cash Games Vol 2     Dan Harrington/Bill Robertie  TwoPlusTwo
-Play Poker Like the Pros           Phil Hellmuth                 HarperCollins
-Total Poker                        David Spanier                 Fireside
-Super System 2                     Doyle Brunson                 Cardoza
-Power Holdem Strategy              Daniel Negreanu               Cardoza
-The Poker Tournament Formula      Arnold Snyder       Cardoza
-The Poker Tournament Formula 2    Arnold Snyder       Cardoza
-Tournament Tips from the Pros     Shane Smith         Cardoza
-Making the Final Table            Erick Lindgren      HarperCollins
-Getting Started in Holdem         Ed Miller           TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
-Machiavellian Poker Strategy      David Apostolico    LyleStuart
-Shuffle Up and Deal               Mike Sexton         HarperCollins
-Poker Face                        Judi James          vermillion
-Reading Poker Tells               Zachary Elwood      ViaRegia
-Every Hand Revealed               Gus Hansen          LyleStuart
-The Book of Bluffs                Matt Lessinger      GrandCentral
-The Best Hand I Ever Played       Steve Rosenbloom    ESPN
-Check-Raising the Devil           Mike Matusow        Cardoza
-Dirty Poker                       Richard Marcus      undercover
-Beyond Bluffs                     James McKenna       LyleStuart
-The Professor/Banker/Suicide King Michael Craig       Warner
-Caro's Most Profitable Holdem Advice Mike Caro        Cardoza
-The Raiser's Edge                 Gospellier/Nelson   MonarchBooks
+How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
+How to win the WSOP (or not)      Pat Walsh           robson
+Kaizen of Poker                        Shree Bykofsky    ECW
 Kill Everyone                     Nelson/Streib       MonarchBooks
-Bigger Deal                       Anthony Holden      Abacus
-1000 Best Poker strategies        Susie Isaacs        sourcebooks
-Caro's Book of Poker Tells        Mike Caro           Cardoza
+Killer Poker Online                     John Vorhaus               LyleStuart
+Machiavellian Poker Strategy      David Apostolico    LyleStuart
+Making the Final Table            Erick Lindgren      HarperCollins
+NLH A Complete Course                      Angel Largay      ECW
+No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
+Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
+Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
+Phil Gordon's Little Gold Book    Phil Gordon         SimonSpotlight
+Phil Gord's Black Book (realdeal) Phil Gordon         SimonSpotlight
+Play Poker Like the Pros           Phil Hellmuth                 HarperCollins
+PLO Understanding Winning Play             William Jockusch  TwoPlusTwo
+Poker Face                        Judi James          vermillion
+Poker for Dummies                       Richard D Harroch          IDG
+Poker for Seniors                          Stuart Yarnold    InEasySteps
+Poker Mindset                          Ian Taylor/Hilger Dimat
+Poker Tournament Formula      Arnold Snyder       Cardoza
+Poker Tournament Formula 2    Arnold Snyder       Cardoza
 Poker Wizards                     Warwick Dunnett     Cardoza
+Power Holdem Strategy              Daniel Negreanu               Cardoza
+Professor/Banker/Suicide King Michael Craig       Warner
+Raiser's Edge                 Gospellier/Nelson   MonarchBooks
+Read em and Reap                           Joe Navarro       HarperCollins
+Reading Poker Tells               Zachary Elwood      ViaRegia
+Real Poker Night                        Henry Stephenson           LyleStuart
+Rules of Poker                          IFP                        IFP
+Science of Poker                       Mahmood Mahmood   HighStakes
+Seven Card Stud for Adv Players         Sklansky Malumth Zee       TwoPlusTwo
+Super System                            Doyle Brunson              Cardoza
+Super System 2                     Doyle Brunson                 Cardoza
+Shuffle Up and Deal               Mike Sexton         HarperCollins
+Straight Flush                        Mezrich           Heinemann
+Total Poker (hb)                        David Spanier              SeckerWarburg
+Tournament Tips from the Pros     Shane Smith         Cardoza
 Winning Touraments One Hand at a time Vol 1 various    Dimat
 Winning Touraments One Hand at a time Vol 2 various    Dimat
-Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
-Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
-Poker the Real Deal               Phil Gordon         SimonSpotlight
-How to win the WSOP (or not)      Pat Walsh           robson
-Alligator Blood                       Leighton          SimonSchuster
-Straight Flush                        Mezrich           Heinemann
-The Biggest game in Town             Alvarez                 chronicle
-Easy way to stop gambling            Carr                    arcturus
-Poker for Dummies                       Richard D Harroch          IDG
-Super System                            Doyle Brunson              Cardoza
-How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
-Total Poker (hb)                        David Spanier              SeckerWarburg
-Complete Idiot's Guide to Poker         Andrew Glazier             Alpha
-No Limit Holdem for Winners             Andrea and Dan Shavick     howtobooks
-Everything Online Poker Book            Helene M Silverstein       AdamsMedia
-Seven Card Stud for Adv Players         Sklansky Malumth Zee       TwoPlusTwo
-Real Poker Night                        Henry Stephenson           LyleStuart
-Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
-Rules of Poker                          IFP                        IFP
-Beat the Dealer (21)                    Edward O Thorp             Vintage
-Killer Poker Online                     John Vorhaus               LyleStuart
