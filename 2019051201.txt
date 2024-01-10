@@ -1,5 +1,0 @@
-name: M CONNELLY #1
-label: 2019051201
-description: Michael Connelly Crime novels
-loc: flemshed
-
