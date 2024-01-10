@@ -27,6 +27,7 @@ Complete Idiot's Guide to Poker   Andrew Glazier      Alpha
 Cowboys Full                      James McManus       FSG
 Devilfish                         David Ulliott       Penguin
 Dirty Poker                       Richard Marcus      undercover
+Dont listen to Phil Hellmuth      Dusty Schmidt       Cardoza
 Easy way to stop gambling         Carr                arcturus
 Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
 Elements of Poker                 Tommy Angelo        selfpublished
@@ -45,6 +46,7 @@ Harrington on Cash Games Vol 2    Harrington/Robertie TwoPlusTwo
 Harrington on Modern Tournaments  Harrington/Robertie TwoPlusTwo
 Harrington on Online Cash Games   Harrington/Robertie TwoPlusTwo
 Heads-Up No-Limit Holdem          Moshman             TwoPlusTwo
+Holdem Poker for Advanced Players Sklansky/Malmuth    TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
 How to Dominate $1 and $2 NLH     Sam O Connor        Authorhouse
@@ -53,7 +55,9 @@ How to win the WSOP (or not)      Pat Walsh           robson
 Inside the Poker Mind             John Feeney         TwoPlusTwo
 Johnny Magic and Cardshark Kids   David Kushner       RandomHouse
 Kaizen of Poker                   Shree Bykofsky      ECW
+Ken Warren Teaches Texas Holdem   Ken Warren          Cardoza
 Kill Everyone                     Nelson/Streib       MonarchBooks
+Killer Poker No Limit!            John Vorhaus        LyleStuart
 Killer Poker Online               John Vorhaus        LyleStuart
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
@@ -77,6 +81,8 @@ Poker Face                        Judi James          vermillion
 Poker for Dummies                 Richard D Harroch   IDG
 Poker for Seniors                 Stuart Yarnold      InEasySteps
 Poker Mindset                     Ian Taylor/Hilger   Dimat
+Poker Night                       John Vorhaus        StMartins
+Poker Player's Bible              Lou Krieger         NewBurlington
 Poker Tournament Formula          Arnold Snyder       Cardoza
 Poker Tournament Formula 2        Arnold Snyder       Cardoza
 Poker Wizards                     Warwick Dunnett     Cardoza
@@ -84,6 +90,7 @@ Power Holdem Strategy             Daniel Negreanu     Cardoza
 Practical Poker Math              Patt Dittmar        ecw
 Professor/Banker/Suicide King     Michael Craig       Warner
 Professional NLH Volume 1         Flynn/Mehta/Miller  TwoPlusTwo
+Profess'l Poker Dealer's Handbook Paymar/Harris/Malm  TwoPlusTwo
 Raiser's Edge                     Gospellier/Nelson   MonarchBooks
 Read em and Reap                  Joe Navarro         HarperCollins
 Reading Poker Tells               Zachary Elwood      ViaRegia
@@ -102,6 +109,7 @@ Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                    Ben Mezrich         Heinemann
 Swimming with the DevilFish       Des Wilson          Macmillan
 Take me to the River              Peter Alson         atria
+Theory of Poker                   David Sklansky      TwoPlusTwo
 Thinking in Bets                  Annie Duke          PortfolioPenguin
 Treat Your Poker Like a Business  Dusty Schmidt       Cardoza
 Total Poker (hb)                  David Spanier       SeckerWarburg
@@ -109,6 +117,7 @@ Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Unleash your Hidden Poker Memory  Onika               EcwPress
 Winning Low Limit Holdem          Lee Jones           Conjelco
-Winning Touraments One Hand at a time Vol 1 various    Dimat
-Winning Touraments One Hand at a time Vol 2 various    Dimat
-Your Best Poker Friend            Al Schoonmaker     LyleStuart
+Winning Touraments One Hand at a time Vol 1 various   Dimat
+Winning Touraments One Hand at a time Vol 2 various   Dimat
+Your Best Poker Friend            Al Schoonmaker      LyleStuart
+Zen and the art of Poker          Larry Phillips      Plume/Penguin
