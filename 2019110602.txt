@@ -13,7 +13,6 @@ The Ruby Programming Language         Flanagan/Matsumoto             ORA
 Programming Collective Intelligence   Segaran                        ORA
 Interactive Data Visualisation for the Web Murray                    ORA
 Programming Ruby 1.9                  Dave Thomas                    PragProg
-Secure Programming with Static Analysis Chess/West                   AWL
 Python Machine Learning               Rashka                         Packt
 Mind Change                           Susan Greenfield      RandomHouse
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton

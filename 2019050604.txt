@@ -8,11 +8,8 @@ Design and Implementation of 4.3 BSD  Leffler/McCusick                AWL
 Computer Networks 3e                  Tanenbaum                       PTR
 Intrusion Detection with Snort        Rehman                          PTR
 Secure Architectures with OpenBSD     Palmer/Nazario                  AWL
-Building Secure Software              Viega/McGraw                    AWL
 The C++ Standard Library              Josuttis                        AWL
 The C++ Programming Language          Stroustrup                      AWL
-Software Security                     McGraw                          AWL
-Exploiting Software                   Hoglund/McGraw                  AWL
 Teach yourself UNIX 24 Hours          Taylor/Armstrong                SAMS
 Porting UNIX Software                 Lehey                           ORA
 A New Kind of Science                 Wolfram                         Wolfram (CMC)
