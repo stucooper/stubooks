@@ -15,6 +15,5 @@ Java in a Nutshell 4e             David Flanagan          ORA
 Practical Java                    Peter Haggar            AWL
 Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
 Dave Barry Turns 50                      Dave Barry           RandomHouse
-Extraordinary Popular Delusions          Charles MacKay       ThreeRivers
 The Eureka Way                           Alan Koehler         ABC
 When the World Stopped to Listen         Stuart Isacoff       AlfredKnopf
