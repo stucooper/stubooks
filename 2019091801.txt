@@ -5,6 +5,4 @@ description: hacks books moved to file hacks_books.txt
 Teach yourself Ajax in 10 minutes         Ballard           SAMS
 Black Hat                                 Biggs             Apress
 A Quarter Century of UNIX                 Salus             AWL
-The Geek Atlas                            Graham-Cunning    ORA
-Facebook: The Missing Manual              Veer              ORA
 
