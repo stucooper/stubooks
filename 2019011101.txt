@@ -1,6 +1,6 @@
-name: USEFUL POKER
+name: was card gambling
 label: 2019011101
-description: Useful Poker books
+description: was card gambling
 
 Solo/Sudoku/Solo/Killer Cribbage                  various           various
 Games                                             Daniel King       Kingfisher
