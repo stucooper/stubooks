@@ -3,27 +3,41 @@
 # also see ora_python
 21st Century C                                Klemens             ORA
 Ambient Findability                           Morville            ORA
+The Art of Agile Development                  Shore/Warden        ORA
+The Art of Concurrency                        Breshears           ORA
+The Art of SEO                                Enge/Spencer        ORA
+Beautiful Code                                ed Oram/Wilson      ORA
+Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
 Designing Connected Products                  Goodman             ORA
 DevOps with OpenShift                         Hepburn/O'Connor    ORA
+Enterprise IoT                                Slama/Puhlmann      ORA
+Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Gamification by Design                        Zichermann          ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
+Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide                   White               ORA
 Machine Learning for Hackers                  Drew Conway         ORA
+Making Software                               ed Oram/Wilson      ORA
+Making Things Happen                          Berkun              ORA
 Mastering Bitcoin                             Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
+open source software for the enterprise       Woods/Guliani       ORA
 OpenShift for Developers                      Shipley             ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Programming Collective Intelligence           Segaran             ORA
 Planning for IPv6                             Hagen               ORA
+producing open source software                Fogel               ORA
+The Productive Programmer                     Ford                ORA
 R for Data Science                            Wickham             ORA
+REST in Practice                              Webber/Parastatidis ORA
 Site Reliability Engineering                  Beyer               ORA
 User Story Mapping                            Patton              ORA
 Web Development with Node and Express         Brown               ORA
