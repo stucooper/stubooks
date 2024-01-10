@@ -12,4 +12,5 @@ Nagios 2e                         Barth               nostarch
 The Official GNOME2 Devel Guide   Warkus              nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
 Realm of Racket                   Felleisen           nostarch
+TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch
