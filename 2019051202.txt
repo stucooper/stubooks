@@ -1,6 +1,6 @@
-name: M CONNELLY & KIPLING
+name: was bosch author
 label: 2019051202
-description: Michael Connelly Crime novels + Chris Cleave
+description: Chris Cleave
 loc: flemshed
 
 Incendiary                             Chris Cleave      ChattoWindus
