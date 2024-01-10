@@ -7,6 +7,7 @@ Designing BSD Rootkits            Kong                nostarch
 The IDA Pro Book                  Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
+The Linux Programming Interface   Kerrisk             nostarch
 Network Flow Analysis             Lucas               nostarch
 Nagios 2e                         Barth               nostarch
 The Official GNOME2 Devel Guide   Warkus              nostarch
