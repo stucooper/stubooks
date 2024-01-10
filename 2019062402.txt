@@ -10,7 +10,6 @@ The LaTeX Companion 2e                              Mittlebach  AWL
 The LaTeX Web Companion                             Goosens     AWL
 Are you smart enough to work at Google?             Poundstone  LittleBrown
 Routing Protocols and Concepts                      Graziani    Cisco
-Linux Application Development                       Johnson/Troan  AWL
 Java Network Programming 2e                         Harold      ORA
 Building Secure Servers with Linux                  Bauer       ORA
 Modern Data Analysis: Applied Statistics            Hamilton    BrooksCole
