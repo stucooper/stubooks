@@ -2,6 +2,7 @@
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                           Barry Greenstein  LastKnight
 Alligator Blood                       Leighton          SimonSchuster
+Annie Duke                        Annie Duke            HudsonStreet
 Aussie Poker Guide                Sean Callendar        Wilkinson
 Bad Beats and Lucky Draws                  Phil Hellmuth     HarperCollins
 Best Hand I Ever Played       Steve Rosenbloom    ESPN
@@ -23,6 +24,7 @@ Education of a Poker Player (hb)        Herbert O Yardley          JonathanCape
 Elements of Poker                          Tommy Angelo      self
 Every Hand Revealed               Gus Hansen          LyleStuart
 Everything Online Poker Book            Helene M Silverstein       AdamsMedia
+FullTilt Strategy Guide Tourneys  ed Michael Craig     Warner
 Gambling                          Mike Atherton        HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Harrington on Holdem Vol 1         Dan Harrington/Bill Robertie  TwoPlusTwo
@@ -32,6 +34,7 @@ Harrington on Cash Games Vol 1     Dan Harrington/Bill Robertie  TwoPlusTwo
 Harrington on Cash Games Vol 2     Dan Harrington/Bill Robertie  TwoPlusTwo
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Dominate $1 and $2 NLH           Sam O Connor               Authorhouse
+How to Play & Win at Poker        Woods/Broughton     Carlton
 How to win the WSOP (or not)      Pat Walsh           robson
 Kaizen of Poker                        Shree Bykofsky    ECW
 Kill Everyone                     Nelson/Streib       MonarchBooks
@@ -69,6 +72,7 @@ Super System 2                     Doyle Brunson                 Cardoza
 Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                        Mezrich           Heinemann
 Swimming with the DevilFish        Des Wilson         Macmillan
+Take me to the River               Peter Alson        atria
 Total Poker (hb)                        David Spanier              SeckerWarburg
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Winning Touraments One Hand at a time Vol 1 various    Dimat
