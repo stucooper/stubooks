@@ -10,7 +10,6 @@ Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA
 Programming Pearls 2e         Bentley          AWL
-Web Security Privacy Commerce 2e Garfinkel/Spafford ORA
 Internet in a Nutshell       Quercia          ORA
 Linux Routers                Mancill          PTR
 SQLite                       Newman           SAMS
