@@ -1,0 +1,3 @@
+# CLassic O'Reilly books
+bash cookbook                                 Albing/Vossen       ORA
+sed & awk 2e                                  Dougherty/Robbins   ORA

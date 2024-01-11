@@ -6,7 +6,5 @@ loc: flemshed
 
 
 Korn Shell Programming Tutorial                  Rosenberg           AWL OCS
-bash cookbook                                    Albing/Vossen       ORA CFO
-sed & awk 2e                                     Dougherty/Robbins   ORA CFO
 Learning the Korn Shell                          Rosenblatt          ORA OCS
 
