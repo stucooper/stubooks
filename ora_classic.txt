@@ -11,6 +11,7 @@ Essential System Administration               Frisch              ORA
 Exploring Expect                              Libes               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
+Kerberos: The Definitive Guide                Garman              ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
 Practical PostgreSQL                          Warsley             ORA
