@@ -31,6 +31,7 @@ Perl for System Administration    Blank-Edelman       ORA
 Perl for the Web                  Chris Radcliff      NewRiders
 Perl for Web Site Management      Callender           ORA
 Perl Medic                        Scott               AWL
+Perl One-Liners                   Krumins             nostarch
 Perl Testing Developer's Notebook Langworth/chromatic ORA
 Perl 6 Essentials                 Randal/Sugalski     ORA
 Perls of Wisdom                   Schwartz            Apress
