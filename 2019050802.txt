@@ -11,5 +11,4 @@ Network Security with OpenSSL              Viega/Messier        ORA
 Programming with Qt 2e                     Dalheimer            ORA
 Open Source Development with CVS           Fogel                Coriolis
 The Software Craftsman                     Mancuso              PTR
-Building Secure Servers with Linux         Bauer                ORA
 also Linux pocketbooks, redhat8, redhat9 install guides, ibm dummies devops

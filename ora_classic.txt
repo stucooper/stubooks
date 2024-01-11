@@ -1,3 +1,5 @@
 # CLassic O'Reilly books
 bash cookbook                                 Albing/Vossen       ORA
+Building Secure Servers with Linux            Bauer               ORA
+Building Secure Servers with Linux            Bauer               ORA dup
 sed & awk 2e                                  Dougherty/Robbins   ORA
