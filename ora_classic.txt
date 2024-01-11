@@ -11,6 +11,7 @@ Essential CVS                                 Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration               Frisch              ORA
 Exploring Expect                              Libes               ORA
+Google Advertising Tools                      Davis               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
@@ -20,6 +21,9 @@ Linux Device Drivers                          Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
+Managing Projects with GNU Make               Mecklenburg         ORA
+Mastering Algorithms with C                   Loudon              ORA
+Open Sources: Voices from the Revolution      various             ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
@@ -28,6 +32,9 @@ sed & awk 2e                                  Dougherty/Robbins   ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 Time Management for System Administrators     Limoncelli          ORA
+Understanding Open Source Free SW Licensing   St. Laurent         ORA
+Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Samba                                   Ts/Eckstein         ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
+Writing GNU Emacs Extensions                  Bob Glickstein      ORA

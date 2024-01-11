@@ -5,7 +5,6 @@ loc: flemshed
 
 Common Lisp: The Language 2e     Guy Steele               DigialPress
 Lisp 3e                          Winston/Horn             AWL
-Writing GNU Emacs Extensions     Bob Glickstein           ORA
 The Little Schemer 4e            Friedman/Felleison       MITP
 The Reasoned Schemer             Friedman/Byrd            MITP
 Learning GNU Emacs               Cameron/Rosenblatt       ORA

@@ -4,7 +4,6 @@ description: IT books including databases
 loc: flemshed
 
 Find the Bug                             Adam Barr               AWL
-Open Sources: Voices from the Revolution various                 ORA
 Code Reading                             Dimoidis Spinellis      AWL
 Code Quality                             Dimoidis Spinellis      AWL
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
