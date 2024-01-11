@@ -13,6 +13,7 @@ Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
 Database in Depth                             C J Date            ORA
 Designing Connected Products                  Goodman             ORA
+Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Hepburn/O'Connor    ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
