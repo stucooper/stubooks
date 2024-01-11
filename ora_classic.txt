@@ -1,4 +1,6 @@
 # CLassic O'Reilly books
+Apache Cookbook 2e                            Coar/Bowen          ORA
+Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Secure Servers with Linux            Bauer               ORA
@@ -18,6 +20,7 @@ Linux Device Drivers                          Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
+Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Programming Amazon Web Services               Murty               ORA
@@ -25,5 +28,6 @@ sed & awk 2e                                  Dougherty/Robbins   ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 Time Management for System Administrators     Limoncelli          ORA
+Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Samba                                   Ts/Eckstein         ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA

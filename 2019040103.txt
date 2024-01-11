@@ -10,14 +10,11 @@ UNIX Network Programming 2e Vol1 Sockets/XTI Stevens           PTR
 UNIX Network Programming 2e Vol2 IPCs        Stevens           PTR
 C A Reference Manual                         Harbison/Steele   PTR
 POSIX.4 Programming for the Real World       Gallmeister       ORA
-Apache The Definitive Guide                  Laurie/Laurie     ORA
-Unix Power Tools 2e                          Peek/OReilly      ORA
 The C Programming Language                   Kernighan/Ritchie PTR
 The C Programming Language 2e                Kernighan/Ritchie PTR
 The Standard C Library                       Plauger           PTR
 Expert C Programming                         Van der Linden    PTR
 Practice of Programming                      Kernighan/Pike    AWL
 Standard C A Reference                       Plauger/Brodie    PTR
-Practical C Programming 3e                   Oualline          ORA
 C Interfaces and Implementations             Hanson            AWL
 C The Pocket Reference                       Schildt           McGrawHill
