@@ -12,8 +12,10 @@ Exploring Expect                              Libes               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
+Learning XML                                  Ray                 ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
+Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 Time Management for System Administrators     Limoncelli          ORA
