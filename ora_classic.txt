@@ -25,4 +25,5 @@ sed & awk 2e                                  Dougherty/Robbins   ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 Time Management for System Administrators     Limoncelli          ORA
+Using Samba                                   Ts/Eckstein         ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
