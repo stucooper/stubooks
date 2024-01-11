@@ -13,10 +13,16 @@ Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning XML                                  Ray                 ORA
+LDAP System Administration                    Carter              ORA
+Linux Device Drivers                          Rubini              ORA
+Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
+Programming Amazon Web Services               Murty               ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
+SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
+SVG Essentials                                Eisenberg           ORA
 Time Management for System Administrators     Limoncelli          ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
