@@ -1,5 +1,6 @@
 # CLassic O'Reilly books
 bash cookbook                                 Albing/Vossen       ORA
+Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Secure Servers with Linux            Bauer               ORA
 Building Secure Servers with Linux            Bauer               ORA dup
 Cisco Cookbook                                Dooley/Brown        ORA
@@ -7,6 +8,7 @@ Cisco IOS in a Nutshell                       Boney               ORA
 Essential CVS                                 Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration               Frisch              ORA
+Exploring Expect                              Libes               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA

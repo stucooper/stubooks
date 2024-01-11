@@ -7,7 +7,6 @@ OSDC Conference Proceedings 2006 Melb      various              OSDC
 OSDC Conference Proceedings 2007 Bris      various              OSDC
 OSDC Conference Proceedings 2008 Sydney    various              OSDC
 PostGIS in Action 2e                       Obe/Hsu              Manning
-Network Security with OpenSSL              Viega/Messier        ORA
 Programming with Qt 2e                     Dalheimer            ORA
 Open Source Development with CVS           Fogel                Coriolis
 The Software Craftsman                     Mancuso              PTR
