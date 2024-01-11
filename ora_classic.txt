@@ -2,4 +2,14 @@
 bash cookbook                                 Albing/Vossen       ORA
 Building Secure Servers with Linux            Bauer               ORA
 Building Secure Servers with Linux            Bauer               ORA dup
+Cisco Cookbook                                Dooley/Brown        ORA
+Cisco IOS in a Nutshell                       Boney               ORA
+Essential CVS                                 Vesperman           ORA
+Essential SNMP 2e                             Mauro/Schmidt       ORA
+Essential System Administration               Frisch              ORA
+Java Servlet Programming 2e                   Hunter              ORA
+Network Security with OpenSSL                 Viega/Messier       ORA
+Network Troubleshooting Tools                 Sloan               ORA
+Practical PostgreSQL                          Warsley             ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
+Time Management for System Administrators     Limoncelli          ORA
