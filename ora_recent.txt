@@ -25,7 +25,9 @@ The Geek Atlas                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
+Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
+Kubernetes: Up & Running                      Hightower           ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide                   White               ORA
 Machine Learning for Hackers                  Drew Conway         ORA
@@ -33,19 +35,23 @@ Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mastering Bitcoin                             Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
+Mining the Social Web                         Russell             ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
 OpenShift for Developers                      Shipley             ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
+Practical Monitoring                          Julian              ORA
 Programming Collective Intelligence           Segaran             ORA
 Planning for IPv6                             Hagen               ORA
 producing open source software                Fogel               ORA
 The Productive Programmer                     Ford                ORA
+Prometheus: Up & Running                      Brazil              ORA
 R for Data Science                            Wickham             ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley                      Andy Hertzfeld      ORA
 Site Reliability Engineering                  Beyer               ORA
+Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
 User Story Mapping                            Patton              ORA
 Web Development with Node and Express         Brown               ORA

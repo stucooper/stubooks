@@ -8,10 +8,12 @@ Google Hacks                 Calishain/Dornfest ORA
 Google Apps Hacks             Lenssen           ORA/Make (blue/white std size)
 Google Maps Hacks             Gibson/Erle       ORA
 IRC Hacks                     Mutton            ORA
+Knoppix Hacks                 Ramkin            ORA
 Linux Multimedia Hacks        Rankin            ORA
 Linux Server Hacks            Flickenger        ORA
 Mapping Hacks                 Erle,Gibson,Walsh ORA
 Mind Performance Hacks        Hale-Evans        ORA
+Network Security Hacks        Lockhart          ORA
 PDF Hacks                     Steward           ORA
 Perl Hacks                    chromatic         ORA
 Podcasting Hacks              Harrington        ORA

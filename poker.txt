@@ -62,10 +62,13 @@ Inside the Poker Mind             John Feeney         TwoPlusTwo
 Johnny Magic and Cardshark Kids   David Kushner       RandomHouse
 Kaizen of Poker                   Shree Bykofsky      ECW
 Ken Warren Teaches Texas Holdem   Ken Warren          Cardoza
-Ken Warren Teaches Texas Holdem 2  Ken Warren          Cardoza
-Kill Everyone                     Nelson/Streib       MonarchBooks
+Ken Warren Teaches Texas Holdem 2  Ken Warren         Cardoza
+Kill Everyone                     Nelson/Streib       Monarch
+Kill Phil                         Rodman/Nelson       Monarch
 Killer Poker No Limit!            John Vorhaus        LyleStuart
 Killer Poker Online               John Vorhaus        LyleStuart
+Killer Poker Online/2             John Vorhaus        LyleStuart
+Let's Play Poker                  Lee Nelson          Monarch
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
@@ -128,6 +131,7 @@ Total Poker (hb)                  David Spanier       SeckerWarburg
 Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Unleash your Hidden Poker Memory  Onika               EcwPress
+Winner's Guide to Omaha Poker     Ken Warren          Cardoza
 Winning Low Limit Holdem          Lee Jones           Conjelco
 Winning Touraments One Hand at a time Vol 1 various   Dimat
 Winning Touraments One Hand at a time Vol 2 various   Dimat

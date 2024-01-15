@@ -73,6 +73,7 @@ Governing the World            Mazower           Penguin
 Gravity's Engines              Scharf            Penguin
 Gulag                          Applebaum         Penguin (quasi)
 Happiness by Design            Doolan            Penguin
+Happy City                     Montgomery        Penguin
 A History of the World in Twleve Maps Brotton    Penguin
 How not to be Wrong            Ellenberg         Penguin
 How to be right                O'Brien           Penguin (quasi)
@@ -189,6 +190,7 @@ All Things Made New            MacCulloch        AllenLane Hatherley
 An Uncertain Glory             Dreze and Sen     AllenLane Hardback
 The Big Screen                 Thomson           AllenLane Hardback
 Caste                          Wilkerson         AllenLane Paperback
+Coddling of the American Mind  Lukianoff/Haidt   AllenLane Hardback
 Creative Schools               Robinson          AllenLane Paperback
 David and Goliath              Gladwell          AllenLane Hardback
 Doom                           Ferguson          AllenLane Paperback
@@ -204,6 +206,7 @@ Has the West Lost it?          Mahbubani         AllenLane Hardback
 Here Comes Trouble             Michael Moore     AllenLane Paperback
 Hitler                         Simms             AllenLane Hardback
 Hitler (single volume)         Kershaw           AllenLane Paperback
+The Inner Level                Wilkinson         AllenLane Hardback
 Lewis Carroll in Numberland    Wilson            AllenLane Hardback
 The Master Algorithm           Domingos          AllenLane Hardback
 Meetings with Remarkable Manuscripts De Hamel    AllenLane Hardback
