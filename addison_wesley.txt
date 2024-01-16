@@ -1,8 +1,11 @@
 # IT books published by Addison/Wesley
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
+The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
+Domain Specific Languages             Fowler                          AWL
+Continuous Delivery                   Humble/Farley                   AWL
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
@@ -24,5 +27,10 @@ Programming with POSIX Threads        David R Butenhof                AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
 Software Security                     McGraw                          AWL
+TCP/IP Illustrated Volume 1           Stevens                         AWL
+TCP/IP Illustrated Volume 2           Stevens                         AWL
+TCP/IP Illustrated Volume 3           Stevens                         AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
+Unix System V Network Programming     Rago                            AWL
+UNIX Systems for Modern Architectures Schimmel                        AWL
