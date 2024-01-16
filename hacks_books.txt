@@ -13,7 +13,7 @@ Linux Multimedia Hacks        Rankin            ORA
 Linux Server Hacks            Flickenger        ORA
 Mapping Hacks                 Erle,Gibson,Walsh ORA
 Mind Performance Hacks        Hale-Evans        ORA
-Network Security Hacks        Lockhart          ORA
+Network Security Hacks 2e     Lockhart          ORA
 PDF Hacks                     Steward           ORA
 Perl Hacks                    chromatic         ORA
 Podcasting Hacks              Harrington        ORA
