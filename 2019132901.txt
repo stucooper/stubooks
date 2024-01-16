@@ -3,16 +3,7 @@ label: 2019122901
 description: IT books
 loc: flemshed
 
-TCP/IP Network Administration 3e           Hunt                  ORA
-Design and Implementation of 4.4 BSD       McKusick/Bostic       AWL
-Design and Implementation of FreeBSD       McKusick/Neville-Neal AWL
 Solaris Systems Programming                Rich Teer             PTR
-TCP/IP Illustrated Volume 1                Stevens               AWL
-TCP/IP Illustrated Volume 2                Stevens/Wright        AWL
-TCP/IP Illustrated Volume 3                Stevens               AWL
-Practical UNIX & Internet Security         Garfinkel             ORA
 Operating Systems Design and Implementation Tanenbaum            PTR
-UNIX System V Network Programming          Rago                  AWL
 Internet Email Protocols                   Jacobson              AWL
-Firewalls and Internet Securtity           Cheswick/Bellovin     AWL
 Modern Operating Systems                   Tanenbaum             PTR

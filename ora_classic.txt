@@ -28,10 +28,12 @@ Open Sources: Voices from the Revolution      various             ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
+Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
+TCP/IP Network Administration 3e              Hunt                ORA
 Time Management for System Administrators     Limoncelli          ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
