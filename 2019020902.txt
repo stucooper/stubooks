@@ -4,8 +4,6 @@ description: Canberra IT Lifeline books
 loc: flemshed
 
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
-A Software Tools Sampler                     Webb Miller           PTR
-Data Structures Using C                      Esakov/Weiss          PTR
 OpenVPN                                      Markus Fielner        Packt
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin

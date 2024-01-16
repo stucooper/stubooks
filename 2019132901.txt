@@ -3,7 +3,5 @@ label: 2019122901
 description: IT books
 loc: flemshed
 
-Solaris Systems Programming                Rich Teer             PTR
 Operating Systems Design and Implementation Tanenbaum            PTR
 Internet Email Protocols                   Jacobson              AWL
-Modern Operating Systems                   Tanenbaum             PTR

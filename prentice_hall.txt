@@ -1,7 +1,15 @@
+Algorithmic Graph Theory                   McHugh               PTR
 Computer Networks 3e                       Tanenbaum            PTR
+Data Structures Using C                    Esakov/Weiss         PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
+Distributed Operating Systems              Tanenbaum            PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
+The Magic Garden Explained                 Goodheart/Cox        PTR
+The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
+Modern Operating Systems                   Tanenbaum            PTR
+A Software Tools Sampler                   Webb Miller          PTR
+Solaris Systems Programming                Rich Teer            PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 
