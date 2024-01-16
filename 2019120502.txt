@@ -3,11 +3,6 @@ label: 2019120502
 description: Comer TCP/IP series and other IT books
 loc: flemshed
 
-Design of the UNIX Operating System        Maurice Bach         PTR
 Types and Programming Languages            Benjamin Pierce      MITP
-Internetworking with TCP/IP Volume 1       Comer/Stevens        PTR
-Internetworking with TCP/IP Volume 2       Comer/Stevens        PTR
-Internetworking with TCP/IP Volume 3       Comer/Stevens        PTR
-Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 lex and yacc                               Levin/Mason/Brown    ORA
 Unix Systems Programming                   Kay/Steven Robbins   PTR

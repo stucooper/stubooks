@@ -4,8 +4,6 @@ description: old IT books version control
 loc: flemshed
 
 Programming in Ansi C                 Kumar/Agrawal                   West
-Design and Implementation of 4.3 BSD  Leffler/McCusick                AWL
-Computer Networks 3e                  Tanenbaum                       PTR
 Intrusion Detection with Snort        Rehman                          PTR
 Secure Architectures with OpenBSD     Palmer/Nazario                  AWL
 The C++ Standard Library              Josuttis                        AWL

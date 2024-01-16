@@ -14,7 +14,6 @@ Linux in a Nutshell 2e                     Ellen Siever        ORA
 Systems Performance                        Brendan Gregg       PTR
 Self-Service Linux                         Wilding/Behman      PTR
 Life with Unix                             Libes/Ressler       PTR
-Design of the UNIX Operating System        Maurice J Bach      PTR
 UNIX Internals                             Pate                AWL
 LINUX Kernel Internals                     various Germans     AWL
 Linux Install/Configuration/Using          Michael Kofler      AWL
