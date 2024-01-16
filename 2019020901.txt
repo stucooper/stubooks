@@ -3,7 +3,6 @@ label: 2019020901
 description: Canberra IT Lifeline books
 loc: flemshed
 
-Head First HTML & CSS                        Freeman/Freeman       ORA
 Security in Computing 4e                     Pfleeger/Pfleeger     PTR
 Data and Computer Communications 8e          Stallings             PTR
 Head First Java Programming                  Freeman/Robson        ORA

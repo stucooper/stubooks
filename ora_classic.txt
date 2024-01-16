@@ -17,6 +17,8 @@ Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Google Advertising Tools                      Davis               ORA
+Head First 2D Geometry                        Lindsey Fallow      ORA
+Head First HTML & CSS 2e                      Robson/Freeman      ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
