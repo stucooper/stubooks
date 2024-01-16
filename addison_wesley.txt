@@ -5,6 +5,7 @@ The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C++ Programming Style                 Cargill                         AWL
 Compilers                             Aho/Sehti/Ullman                AWL
+Computer Networking 3e                Kurose/Ross                     AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
