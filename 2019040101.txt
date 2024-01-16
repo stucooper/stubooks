@@ -2,7 +2,6 @@ name: IT - UNIX GRAPHICS
 label: 2019040101
 description: mostly OpenGL/Graphics books, some little used unix admin
 
-RESTful Web Services       Richardson          ORA
 Apache Web Server Admin    Aulds               Sybex
 OpenGL Super Bible 2e                          WaiteGroup
 GTK+/Gnome Application Development Pennington  NewRiders

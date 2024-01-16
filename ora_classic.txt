@@ -10,7 +10,7 @@ Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Essential CVS                                 Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
-Essential System Administration               Frisch              ORA
+Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Google Advertising Tools                      Davis               ORA
 Java Servlet Programming 2e                   Hunter              ORA
@@ -18,7 +18,7 @@ Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning XML                                  Ray                 ORA
 LDAP System Administration                    Carter              ORA
-Linux Device Drivers                          Rubini              ORA
+Linux Device Drivers 3e                       Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
@@ -30,6 +30,7 @@ Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
+RESTful Web Services                          Richardson          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                       McCarty             ORA
 SpamAssassin                                  Schwartz            ORA
