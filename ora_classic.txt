@@ -18,6 +18,7 @@ Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning XML                                  Ray                 ORA
 LDAP System Administration                    Carter              ORA
+Linux in a Nutshell 2e                         Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA

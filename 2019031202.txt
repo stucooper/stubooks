@@ -8,7 +8,6 @@ Linux Unleashed                            Various             SAMS
 Learning Debian GNU/Linux                  Bill McCarty        ORA
 Understanding the Linux Kernel 2e          Bovet/Cesati        ORA
 Linux Multimedia Guide                     Jeff Tranter        ORA
-Linux in a Nutshell 2e                     Ellen Siever        ORA
 Systems Performance                        Brendan Gregg       PTR
 Self-Service Linux                         Wilding/Behman      PTR
 Life with Unix                             Libes/Ressler       PTR
