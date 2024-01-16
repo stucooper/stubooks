@@ -31,6 +31,8 @@ Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
+SELINUX                                       McCarty             ORA
+SpamAssassin                                  Schwartz            ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 TCP/IP Network Administration 3e              Hunt                ORA
