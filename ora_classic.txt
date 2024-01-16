@@ -23,6 +23,7 @@ IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
+Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning XML                                  Ray                 ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
