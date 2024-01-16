@@ -3,6 +3,7 @@ An Introduction to Operating Systems  Harvey Deitel                   AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
+C++ Programming Style                 Cargill                         AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
 Domain Specific Languages             Fowler                          AWL
@@ -11,6 +12,7 @@ Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
+Effective C++                         Meyers                          AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
@@ -23,6 +25,7 @@ Interconnections 2e                   Radia Perlman                   AWL
 Intro to Database Systems 8e          C J Date                        AWL
 LISP 3e                               Winston/Horn                    AWL
 Linux Application Development         Johnson/Troan                   AWL
+Moving to Free Software               Gagne                           AWL
 NFS Illustrated                       Callaghan                       AWL
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
