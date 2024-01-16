@@ -1,4 +1,5 @@
 # IT books published by Addison/Wesley
+An Introduction to Operating Systems  Harvey Deitel                   AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
