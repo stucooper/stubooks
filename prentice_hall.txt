@@ -7,11 +7,15 @@ Distributed Operating Systems              Tanenbaum            PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
+Linux Routers                              Mancill              PTR
+Linux System Security                      Mann/Mitchell        PTR
 The Magic Garden Explained                 Goodheart/Cox        PTR
 The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
 Modern Operating Systems                   Tanenbaum            PTR
+Network Security                           Kaufmann/Perlman     PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
+OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
 Optimizing Network Performance content sw  Syme/Goldie          PTR
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR

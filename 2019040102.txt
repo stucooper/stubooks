@@ -10,7 +10,6 @@ CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA
 Programming Pearls 2e         Bentley          AWL
 Internet in a Nutshell       Quercia          ORA
-Linux Routers                Mancill          PTR
 SQLite                       Newman           SAMS
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Make                              RMS/McGrath      GNU
