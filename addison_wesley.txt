@@ -3,6 +3,9 @@ Advanced Unix Programming 2e          Marc Rochkind                   AWL
 Building Secure Software              Viega/McGraw                    AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
+Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
+Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
+Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
@@ -21,4 +24,5 @@ Programming with POSIX Threads        David R Butenhof                AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
 Software Security                     McGraw                          AWL
+Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
