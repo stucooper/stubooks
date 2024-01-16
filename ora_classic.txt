@@ -4,8 +4,8 @@ Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
+Building Linux Clusters                       Dpector             ORA
 Building Secure Servers with Linux            Bauer               ORA
-Building Secure Servers with Linux            Bauer               ORA dup
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Essential CVS                                 Vesperman           ORA
@@ -30,7 +30,9 @@ Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
+Programming Internet Email                    Wood                ORA
 RESTful Web Services                          Richardson          ORA
+Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                       McCarty             ORA
 SpamAssassin                                  Schwartz            ORA

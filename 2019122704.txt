@@ -13,5 +13,4 @@ The Linux Kernel Primer                      Rodriguez/Fischer      PTR
 The UNIX Programming Environment             Kernighan/Pike         PTR
 The Linux Development Platform               Rehman/Paul            PTR
 Advanced Linux Programming                   CodeSourcery           NewRiders
-Running Linux 3e                             Matt Welsh             ORA
 RedHat Networking and System Administration  Collings/Wall          RedHat
