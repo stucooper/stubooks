@@ -2,12 +2,15 @@
 Amt The Definitive Guide                      Holzner             ORA
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
+Applying RCS and SCCS                         Bolinger/Bronson    ORA
 bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Secure Servers with Linux            Bauer               ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
+Classic Shell Scripting                       Robbins/Beebe       ORA
+DocBook 5 The Definitive Guide                Walsh               ORA
 Essential CVS                                 Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
@@ -27,6 +30,7 @@ Network Troubleshooting Tools                 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
 Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
+Porting UNIX Software                         Lehey               ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
@@ -47,5 +51,6 @@ Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Samba                                   Ts/Eckstein         ORA
+Version Control with Subversion               Collins-Sussman     ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA

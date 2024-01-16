@@ -9,5 +9,4 @@ Secure Architectures with OpenBSD     Palmer/Nazario                  AWL
 The C++ Standard Library              Josuttis                        AWL
 The C++ Programming Language          Stroustrup                      AWL
 Teach yourself UNIX 24 Hours          Taylor/Armstrong                SAMS
-Porting UNIX Software                 Lehey                           ORA
 A New Kind of Science                 Wolfram                         Wolfram (CMC)
