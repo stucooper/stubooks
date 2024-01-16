@@ -2,16 +2,20 @@
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 Building Secure Software              Viega/McGraw                    AWL
 Compilers                             Aho/Sehti/Ullman                AWL
+Database Design for Mere Mortals 3e   Hernandez                       AWL
+Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
+Firewalls and Internet Security 2e    Cheswick/Bellovin/Rubin         AWL
 Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
 Interconnections 2e                   Radia Perlman                   AWL
 Intro to Database Systems 8e          C J Date                        AWL
 Linux Application Development         Johnson/Troan                   AWL
 NFS Illustrated                       Callaghan                       AWL
+Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming with POSIX Threads        David R Butenhof                AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
