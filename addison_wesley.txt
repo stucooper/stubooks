@@ -5,13 +5,13 @@ The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C++ Programming Style                 Cargill                         AWL
 Compilers                             Aho/Sehti/Ullman                AWL
-Database Design for Mere Mortals 3e   Hernandez                       AWL
-Domain Specific Languages             Fowler                          AWL
 Continuous Delivery                   Humble/Farley                   AWL
+Database Design for Mere Mortals 3e   Hernandez                       AWL
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
+Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
