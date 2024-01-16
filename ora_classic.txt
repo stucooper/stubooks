@@ -10,8 +10,9 @@ Building Secure Servers with Linux            Bauer               ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                       Robbins/Beebe       ORA
+DNS & BIND Cookbook                           Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
-Essential CVS                                 Vesperman           ORA
+Essential CVS 2e                              Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
@@ -21,6 +22,7 @@ Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning XML                                  Ray                 ORA
+lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
@@ -37,6 +39,7 @@ Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
 Programming Internet Email                    Wood                ORA
+RADIUS                                        Hassell             ORA
 RESTful Web Services                          Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
@@ -51,6 +54,7 @@ Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Samba                                   Ts/Eckstein         ORA
+Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
