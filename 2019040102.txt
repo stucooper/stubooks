@@ -5,7 +5,6 @@ loc: flemshed
 
 PGP: Pretty Good Privacy     Garfinkel        ORA
 Vi IMproved - Vim            Oualline         NewRiders
-OpenSource Network Admin     Kretchmar        PTR
 Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA

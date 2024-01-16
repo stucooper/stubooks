@@ -10,7 +10,9 @@ Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 The Magic Garden Explained                 Goodheart/Cox        PTR
 The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
 Modern Operating Systems                   Tanenbaum            PTR
+OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
+Real World Linux Security                  Toxen                PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Systems Programming                Rich Teer            PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
