@@ -13,6 +13,7 @@ Modern Operating Systems                   Tanenbaum            PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 Real World Linux Security                  Toxen                PTR
+Running Xen                                Matthews             PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Systems Programming                Rich Teer            PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
