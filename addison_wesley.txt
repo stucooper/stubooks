@@ -15,6 +15,7 @@ Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Effective C++                         Meyers                          AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
+Essential XML                         Box/Skonnard                    AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
 Firewalls and Internet Security 2e    Cheswick/Bellovin/Rubin         AWL
