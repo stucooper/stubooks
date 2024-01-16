@@ -12,10 +12,13 @@ The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
 Modern Operating Systems                   Tanenbaum            PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
+Optimizing Network Performance content sw  Syme/Goldie          PTR
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 A Software Tools Sampler                   Webb Miller          PTR
+Solaris Application Programming            Gove                 PTR
 Solaris Systems Programming                Rich Teer            PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
+Voice Over IP 2e                           Black                PTR
 
