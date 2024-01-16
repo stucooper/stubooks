@@ -13,12 +13,13 @@ Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Google Advertising Tools                      Davis               ORA
+IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning XML                                  Ray                 ORA
 LDAP System Administration                    Carter              ORA
-Linux in a Nutshell 2e                         Ellen Siever        ORA
+Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
@@ -39,6 +40,7 @@ SELINUX                                       McCarty             ORA
 SpamAssassin                                  Schwartz            ORA
 SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
+System Performance Tuning 2e                  Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
 Time Management for System Administrators     Limoncelli          ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
