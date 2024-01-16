@@ -18,5 +18,4 @@ Photoshop for the Web                     Mikkel Aaland          ORA
 Programming Language Semantics            Michael Scott          MK
 Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
 Cryptography and Network Security         William Stallings      PTR
-Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
 The Well-Grounded Rubyist                 David A. Black         Manning
