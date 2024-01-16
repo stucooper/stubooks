@@ -49,7 +49,9 @@ SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 System Performance Tuning 2e                  Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
+termcap & terminfo                            Strang/Mui          ORA
 Time Management for System Administrators     Limoncelli          ORA
+Understanding Japanese Information Processing Lunde               ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
