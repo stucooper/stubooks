@@ -26,6 +26,7 @@ Perl & LWP                        Burke               ORA
 Perl Best Practices               Conway              ORA
 Perl by Example 4e                Quigley             PTR
 Perl Cookbook                     Christiansen/Tork   ORA
+Perl Core language ltl black 2e   Holzner             coriolis
 Perl Debugged                     Scott/Wright        AWL
 Perl for System Administration    Blank-Edelman       ORA
 Perl for the Web                  Chris Radcliff      NewRiders
