@@ -3,6 +3,7 @@ An Introduction to Operating Systems  Harvey Deitel                   AWL
 Advanced Programming UNIX Env 2e pb   Stevens/Rago                    AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 Algorithms in C                       Robert Sedgewick                AWL
+Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
 The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
@@ -12,6 +13,7 @@ Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Computer Networking 3e                Kurose/Ross                     AWL
+Computer Science: An Overview 9e      J Glenn Brookshear              AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
@@ -43,6 +45,7 @@ Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Programming in Objective C            Kochan                          AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
+Programming Pearls 2e                 Bentley                         AWL
 Programming with POSIX Threads        David R Butenhof                AWL
 A Quarter Century of UNIX             Salus                           AWL
 Real Digital Forensics                Jones/Beitlich                  AWL

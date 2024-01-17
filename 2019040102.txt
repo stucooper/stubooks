@@ -7,7 +7,6 @@ Vi IMproved - Vim            Oualline         NewRiders
 Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
 GIMP Pocket Reference        Neumann          ORA
-Programming Pearls 2e         Bentley          AWL
 SQLite                       Newman           SAMS
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 GNU Make                              RMS/McGrath      GNU

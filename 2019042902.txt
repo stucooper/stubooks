@@ -10,7 +10,6 @@ Digital Typography                                       Knuth          CSLI
 Selected Papers on Computer Science                      Knuth          CSLI
 Introduction to Algorithms   Cormen/Leiserson/Rivest/Stein              MITP
 Algorithms in C  Parts 1-4                            Sedgewick         AWL
-Algorithms in C  Part 5 Graph Algorithms              Sedgewick         AWL
 Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Developers Guide to Debugging         Grotker/Holtmann Springer
