@@ -12,7 +12,6 @@ Debug It!                                Paul Butcher             PragProg
 Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
 Pragmatic Guide to Subversion            Mike Manson              PragProg
 Operating Systems with Linux             John O'Gorman            palgrave
-New Hacker's Dictionary 3e                   Eric Raymond       MITP
 Make 08: Toys and Games                      MakeZine           ORA
 A Generative Theory of Shape                 Michael Layton     Springer
 MYSTERY coffee table books eg Bradman

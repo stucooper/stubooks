@@ -1,0 +1,4 @@
+# MIT Press
+Hal's Legacy                                 ed David G Stork         mitp
+Introduction to Algorithms 2e                Cormen/Leiserson         mitp
+New Hacker's Dictionary 3e                   Eric Raymond             mitp
