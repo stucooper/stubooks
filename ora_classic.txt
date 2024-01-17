@@ -45,6 +45,7 @@ Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
 Porting UNIX Software                         Lehey               ORA
+POSIX.4 Programming for the Real World        Gallmeister         ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
