@@ -59,6 +59,7 @@ Software Security                     McGraw                          AWL
 TCP/IP Illustrated Volume 1           Stevens                         AWL
 TCP/IP Illustrated Volume 2           Stevens                         AWL
 TCP/IP Illustrated Volume 3           Stevens                         AWL
+UNIX Internals                        Pate                            AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
 Unix System V Network Programming     Rago                            AWL
