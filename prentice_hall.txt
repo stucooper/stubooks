@@ -47,6 +47,9 @@ Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
+Unix Network Programming 1e pback          W Richard Stevens    PTR
+Unix Network Programming Volume 1 2e       W Richard Stevens    PTR
+Unix Network Programming Volume 2 2e       W Richard Stevens    PTR
 The UNIX Programming Environment           Kernighan/Pike       PTR
 Voice Over IP 2e                           Black                PTR
 

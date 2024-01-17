@@ -8,7 +8,6 @@ Troubleshooting Linux Firewalls   Michael Shinn             AWL
 Building Linux VPNS               Kolesnikov/Hatch          NewRiders
 Wireless Networks for Dummies     Lewis/Davis               JohnWiley
 Network and Internetwork Security William Stallings         PTR
-Unix Network Programming 1e pback W Richard Stevens         PTR
 SNMP,v2,v3,RMON1&2  3e            William Stallings         AWL
 MySQL Cookbook 2e                         Paul DuBois            ORA
 MySQL 2e                                  Paul DuBois            SAMSDev
