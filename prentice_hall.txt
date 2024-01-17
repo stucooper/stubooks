@@ -15,6 +15,10 @@ Fundamentals of Algorithms                 Brassard/Bratley     PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
+Linux Debugging and Performance Tuning     Steve Best           PTR
+The Linux Kernel Primer                    Rodriguez/Fischer    PTR
+The Linux Programmers Toolbox              John Fusco           PTR
+Linux Programming by Example               Arnold Robbins       PTR
 Linux Routers                              Mancill              PTR
 Linux System Security                      Mann/Mitchell        PTR
 The Magic Garden Explained                 Goodheart/Cox        PTR
@@ -35,6 +39,7 @@ Solaris Systems Programming                Rich Teer            PTR
 The Standard C Library                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
+Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
 The UNIX Programming Environment           Kernighan/Pike       PTR
 Voice Over IP 2e                           Black                PTR
