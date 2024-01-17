@@ -7,6 +7,7 @@ C A Reference Manual                       Harbison/Steele      PTR
 Clean Code                                 Robert C. Martin     PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
+Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security          William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
