@@ -78,5 +78,6 @@ Using and Managing uucp                       Ed Ravin            ORA
 Using Samba                                   Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
+We the Media                                  Dan Gillmor         ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
