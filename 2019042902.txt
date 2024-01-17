@@ -3,12 +3,8 @@ label: 2019042902
 description: IT Algorithms books
 loc: flemshed
 
-The Art of Computer Programming Vol 1 3e Fundamental     Knuth          AWL
-The Art of Computer Programming Vol 2 3e Seminumerical   Knuth          AWL
-The Art of Computer Programming Vol 3 2e Sorting/Searching Knuth        AWL
 Digital Typography                                       Knuth          CSLI
 Selected Papers on Computer Science                      Knuth          CSLI
-Algorithms in C  Parts 1-4                            Sedgewick         AWL
 Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
 Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Developers Guide to Debugging         Grotker/Holtmann Springer
