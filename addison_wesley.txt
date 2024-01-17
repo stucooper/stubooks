@@ -24,6 +24,7 @@ Engineering Approach Comp Networking  Keshav                          AWL
 Essential XML                         Box/Skonnard                    AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
+Find the Bug                          Adam Barr                       AWL
 Firewalls and Internet Security 2e    Cheswick/Bellovin/Rubin         AWL
 Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
@@ -35,6 +36,7 @@ Linux Application Development         Johnson/Troan                   AWL
 Linux Kernel Development 3e           Robert Love                     AWL
 Moving to Free Software               Gagne                           AWL
 NFS Illustrated                       Callaghan                       AWL
+Object Technology A Manager's Guide   David A Taylor                  AWL
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Programming in Objective C            Kochan                          AWL

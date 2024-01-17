@@ -3,10 +3,8 @@ label: 2019122301
 description: IT books including databases
 loc: flemshed
 
-Find the Bug                             Adam Barr               AWL
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
 Linux Assembly Language Programming      Bob Neveln              PTR
 SQL for Dummies                          Allen G Taylor          Wiley
 Relational Database Design clearly explained Jan L Harrington    MKR
-Object Technology A Manager's Guide      David A Taylor          AWL
 An Introduction to Database Systems Vol 1 5e  C J Date           AWL

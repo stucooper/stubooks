@@ -24,6 +24,7 @@ Hackers and Painters                          Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
+Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
