@@ -2,6 +2,10 @@
 Hal's Legacy                                 ed David G Stork         mitp
 Introduction to Algorithms 3e                Cormen/Leiserson         mitp
 The Invisible Computer                       Norman                   mitp
+The Little Schemer 4e                        Friedman/Felleison       mitp
+A Little Java, A Few Patterns                Felleisen/Friedman       mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
+The Reasoned Schemer                         Friedman/Byrd            mitp
 streetlights and shadows                     Klein                    mitp
+What we know about Emotional Intelligence    Zeidner/Matthews         mitp

@@ -4,10 +4,7 @@ description: IT and Lisp books
 loc: flemshed
 
 Common Lisp: The Language 2e     Guy Steele               DigialPress
-The Little Schemer 4e            Friedman/Felleison       MITP
-The Reasoned Schemer             Friedman/Byrd            MITP
 ANSI Common Lisp                 Paul Graham              PTR
-A Little Java, A Few Patterns    Felleisen/Friedman       MITP
 Unix Hater's Handbook            Garfinker/Weise          IDG
 Artists' Guide to the GIMP       Michael J Hammel         SSC
 JavaScript Application Design             Nicolas Bevacqua       Manning
