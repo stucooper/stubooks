@@ -5,9 +5,6 @@ loc: flemshed
 
 Advanced Programming in the UNIX Env hb      Stevens          AWL
 Advanced Programming in the UNIX Env 2e pb   Stevens/Rago     AWL
-UNIX Network Programming 3e Vol1             Stevens/Feiner/Rudoff AWL
-UNIX Network Programming 2e Vol1 Sockets/XTI Stevens           PTR
-UNIX Network Programming 2e Vol2 IPCs        Stevens           PTR
 C A Reference Manual                         Harbison/Steele   PTR
 POSIX.4 Programming for the Real World       Gallmeister       ORA
 The C Programming Language                   Kernighan/Ritchie PTR
