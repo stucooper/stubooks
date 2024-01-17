@@ -1,7 +1,8 @@
 Algorithmic Graph Theory                   McHugh               PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
-Cloud Computing Concepts/Tech/Arch        Thomas Erl             PTR
+Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
+Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
 Distributed Operating Systems              Tanenbaum            PTR

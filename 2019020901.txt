@@ -3,7 +3,6 @@ label: 2019020901
 description: Canberra IT Lifeline books
 loc: flemshed
 
-Data and Computer Communications 8e          Stallings             PTR
 Head First Java Programming                  Freeman/Robson        ORA
 Database Systems 5e                          Conolly/Begg          Pearson
 Thinking in Java 4e                          Bruce Eckel           PTR
