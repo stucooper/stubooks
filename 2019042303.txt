@@ -18,6 +18,4 @@ ProBlogger 2e                      Rowse/Garrett      JohnWiley
 Boomerang                          Lewis              AllenLane
 Makers                             Anderson           rhbusiness
 Makers                             Cory Doctorow      TOR
-streetlights and shadows           Klein              mitp
-The Invisible Computer             Norman             mitp
 colossus: Bletchley Park           Gannon             Atlantic
