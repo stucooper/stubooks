@@ -4,5 +4,4 @@ description: Unix Systems and Network Programming
 loc: flemshed
 
 Advanced Programming in the UNIX Env hb      Stevens          AWL
-Advanced Programming in the UNIX Env 2e pb   Stevens/Rago     AWL
 C The Pocket Reference                       Schildt           McGrawHill
