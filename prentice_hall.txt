@@ -1,10 +1,12 @@
 Algorithmic Graph Theory                   McHugh               PTR
+Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
 The C Programming Language                 Kernighan/Ritchie    PTR
 The C Programming Language 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
+Cryptography and Network Security          William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
@@ -15,8 +17,10 @@ Fundamentals of Algorithms                 Brassard/Bratley     PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
+Intrusion Detection with Snort             Rehman               PTR
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
+The Linux Development Platform             Rehman/Paul          PTR
 The Linux Kernel Primer                    Rodriguez/Fischer    PTR
 The Linux Programmers Toolbox              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
@@ -33,6 +37,7 @@ Optimizing Network Performance content sw  Syme/Goldie          PTR
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR
+Self-Service Linux                         Wilding/Behman       PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Application Programming            Gove                 PTR
 Solaris Internals 2e                       McDougall/Mauro      PTR

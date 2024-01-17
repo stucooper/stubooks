@@ -4,7 +4,6 @@ description: IT and Lisp books
 loc: flemshed
 
 Common Lisp: The Language 2e     Guy Steele               DigialPress
-Lisp 3e                          Winston/Horn             AWL
 The Little Schemer 4e            Friedman/Felleison       MITP
 The Reasoned Schemer             Friedman/Byrd            MITP
 ANSI Common Lisp                 Paul Graham              PTR
@@ -16,5 +15,4 @@ R in Action                               Robert Kabacoff        Manning
 Photoshop for the Web                     Mikkel Aaland          ORA
 Programming Language Semantics            Michael Scott          MK
 Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg
-Cryptography and Network Security         William Stallings      PTR
 The Well-Grounded Rubyist                 David A. Black         Manning

@@ -4,7 +4,6 @@ description: old IT books version control
 loc: flemshed
 
 Programming in Ansi C                 Kumar/Agrawal                   West
-Intrusion Detection with Snort        Rehman                          PTR
 Secure Architectures with OpenBSD     Palmer/Nazario                  AWL
 The C++ Standard Library              Josuttis                        AWL
 The C++ Programming Language          Stroustrup                      AWL
