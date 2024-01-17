@@ -4,6 +4,7 @@ Broadband Network Architectures            Hellberg/Greene      PTR
 The C Programming Language                 Kernighan/Ritchie    PTR
 The C Programming Language 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
+Clean Code                                 Robert C. Martin     PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
 Cryptography and Network Security          William Stallings    PTR
@@ -38,6 +39,7 @@ Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR
 Self-Service Linux                         Wilding/Behman       PTR
+Software Craftsman                         Mancuso              PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Application Programming            Gove                 PTR
 Solaris Internals 2e                       McDougall/Mauro      PTR
@@ -45,6 +47,7 @@ Solaris Systems Programming                Rich Teer            PTR
 The Standard C Library                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
+Threads Primer                             Lewis/Berg           PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
 Unix Network Programming 1e pback          W Richard Stevens    PTR
