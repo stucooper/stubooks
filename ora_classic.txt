@@ -17,12 +17,15 @@ Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Google Advertising Tools                      Davis               ORA
+Googke The Missing Manual                     Milstein/Dornfest   ORA
+Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
+Learning Ruby                                 Michael Fitzgerald  ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning XML                                  Ray                 ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
@@ -30,6 +33,7 @@ LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
+Making Things Talk                            Tom Ioge            ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
@@ -43,7 +47,10 @@ Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
 Programming Internet Email                    Wood                ORA
 RADIUS                                        Hassell             ORA
+Rails Cookbook                                Rob Orsini          ORA
 RESTful Web Services                          Richardson          ORA
+Ruby Cookbook                                 Carlson/Richardson  ORA
+The Ruby Programming Language                 Flanagan/Matsumoto  ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                       McCarty             ORA
