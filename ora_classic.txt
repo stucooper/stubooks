@@ -41,6 +41,8 @@ Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Making Things Talk                            Tom Ioge            ORA
+MySQL Cookbook 2e                             Paul DuBois         ORA
+MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
 Network Troubleshooting Tools                 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
@@ -65,7 +67,9 @@ Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                       McCarty             ORA
 SpamAssassin                                  Schwartz            ORA
-SSHm The Secure Shell  The Definitive Guide   Barrett/Silverman   ORA
+SQL Cookbook                                  Anthony Molinaro    ORA
+SQL in a Nutshell 2e                          Kevin Kline         ORA
+SSH The Secure Shell  The Definitive Guide    Barrett/Silverman   ORA
 SVG Essentials                                Eisenberg           ORA
 System Performance Tuning 2e                  Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
@@ -81,5 +85,6 @@ Using Samba                                   Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 We the Media                                  Dan Gillmor         ORA
+Web Database Applications w PHP and MySQL     Williams/Lane       ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
