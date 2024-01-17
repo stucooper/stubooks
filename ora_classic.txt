@@ -1,4 +1,5 @@
 # CLassic O'Reilly books
+802.11 Security                               Potter/Fleck        ORA
 Amt The Definitive Guide                      Holzner             ORA
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
@@ -60,6 +61,7 @@ Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
+Programming C# 2e                             Liberty             ORA
 Programming Amazon Web Services               Murty               ORA
 Programming Collective Intelligence           Segaran             ORA
 Programming Internet Email                    Wood                ORA
