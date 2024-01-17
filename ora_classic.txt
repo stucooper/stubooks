@@ -71,8 +71,10 @@ termcap & terminfo                            Strang/Mui          ORA
 Time Management for System Administrators     Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
+Unix Backup & Recovery                        Preston             ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
+Using and Managing uucp                       Ed Ravin            ORA
 Using Samba                                   Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
