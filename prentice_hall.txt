@@ -9,6 +9,7 @@ Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
 Distributed Operating Systems              Tanenbaum            PTR
+Embedded Linux Primer 2e                   Christopher Hallinan PTR
 Expert C Programming                       Van der Linden       PTR
 Fundamentals of Algorithms                 Brassard/Bratley     PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
@@ -29,10 +30,12 @@ Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Application Programming            Gove                 PTR
+Solaris Internals 2e                       McDougall/Mauro      PTR
 Solaris Systems Programming                Rich Teer            PTR
 The Standard C Library                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
+The UNIX Programming Environment           Kernighan/Pike       PTR
 Voice Over IP 2e                           Black                PTR
 

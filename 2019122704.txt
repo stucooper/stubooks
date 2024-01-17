@@ -4,13 +4,11 @@ description: Kernel and Linux books
 loc: flemshed
 
 Operating Systems Concepts                   Silberschatz/Galvin    JohnWiley
-Embedded Linux Primer 2e                     Christopher Hallinan   PTR
 The Linux Programmers Toolbox                John Fusco             PTR
 Understanding the Linux Kernel 2e            Bovet/Cesati           ORA
 Linux Debugging and Performance Tuning       Steve Best             PTR
 Linux Programming by Example                 Arnold Robbins         PTR
 The Linux Kernel Primer                      Rodriguez/Fischer      PTR
-The UNIX Programming Environment             Kernighan/Pike         PTR
 The Linux Development Platform               Rehman/Paul            PTR
 Advanced Linux Programming                   CodeSourcery           NewRiders
 RedHat Networking and System Administration  Collings/Wall          RedHat
