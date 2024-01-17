@@ -5,6 +5,7 @@ Algorithms in C                       Robert Sedgewick                AWL
 The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
+The C Puzzle Book                     Feuer                           AWL
 C++ Programming Style                 Cargill                         AWL
 Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
