@@ -5,11 +5,5 @@ loc: flemshed
 
 Advanced Programming in the UNIX Env hb      Stevens          AWL
 Advanced Programming in the UNIX Env 2e pb   Stevens/Rago     AWL
-C A Reference Manual                         Harbison/Steele   PTR
 POSIX.4 Programming for the Real World       Gallmeister       ORA
-The C Programming Language                   Kernighan/Ritchie PTR
-The C Programming Language 2e                Kernighan/Ritchie PTR
-The Standard C Library                       Plauger           PTR
-Expert C Programming                         Van der Linden    PTR
-Standard C A Reference                       Plauger/Brodie    PTR
 C The Pocket Reference                       Schildt           McGrawHill

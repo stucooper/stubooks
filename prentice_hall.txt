@@ -1,11 +1,15 @@
 Algorithmic Graph Theory                   McHugh               PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
+The C Programming Language                 Kernighan/Ritchie    PTR
+The C Programming Language 2e              Kernighan/Ritchie    PTR
+C A Reference Manual                       Harbison/Steele      PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
 Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
 Distributed Operating Systems              Tanenbaum            PTR
+Expert C Programming                       Van der Linden       PTR
 Fundamentals of Algorithms                 Brassard/Bratley     PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
@@ -26,6 +30,8 @@ Security in Computing 4e                   Pfleeger/Pfleeger    PTR
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Application Programming            Gove                 PTR
 Solaris Systems Programming                Rich Teer            PTR
+The Standard C Library                     Plauger              PTR
+Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
 Voice Over IP 2e                           Black                PTR
