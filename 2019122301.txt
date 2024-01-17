@@ -4,8 +4,6 @@ description: IT books including databases
 loc: flemshed
 
 Find the Bug                             Adam Barr               AWL
-Code Reading                             Dimoidis Spinellis      AWL
-Code Quality                             Dimoidis Spinellis      AWL
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
 Linux Assembly Language Programming      Bob Neveln              PTR
 SQL for Dummies                          Allen G Taylor          Wiley

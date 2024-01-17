@@ -14,7 +14,5 @@ The C Programming Language                   Kernighan/Ritchie PTR
 The C Programming Language 2e                Kernighan/Ritchie PTR
 The Standard C Library                       Plauger           PTR
 Expert C Programming                         Van der Linden    PTR
-Practice of Programming                      Kernighan/Pike    AWL
 Standard C A Reference                       Plauger/Brodie    PTR
-C Interfaces and Implementations             Hanson            AWL
 C The Pocket Reference                       Schildt           McGrawHill
