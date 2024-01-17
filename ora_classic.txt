@@ -26,6 +26,7 @@ Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
 Head First SQL                                Beighley            ORA
+High Performance MySQL                        Schwartz/Zaitsev    ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
@@ -76,6 +77,7 @@ TCP/IP Network Administration 3e              Hunt                ORA
 termcap & terminfo                            Strang/Mui          ORA
 Time Management for System Administrators     Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
+Understanding MySQL Internals                 Pachev              ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unix Backup & Recovery                        Preston             ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
