@@ -3,7 +3,6 @@ label: 2019110602
 description: Recent ORA books
 loc: flemshed
 
-Learning PHP,MySQL,JavaScript,CSS 2e  Nixon                          ORA
 JavaScript Enlightenment              Lindley                        ORA
 Testable JavaScript                   Trostler                       ORA
 Programming Ruby 1.9                  Dave Thomas                    PragProg
