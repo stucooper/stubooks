@@ -7,10 +7,12 @@ bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Secure Servers with Linux            Bauer               ORA
+Building Wireless Community Networks          Flickeneger         ORA
 The Cathedral and the Bazaar                  Eric S. Raymond     ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                       Robbins/Beebe       ORA
+Designing Web Interfaces                      Scott/Neil          ORA
 DNS & BIND Cookbook                           Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
 Essential CVS 2e                              Vesperman           ORA
@@ -58,6 +60,7 @@ Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
+Programming Collective Intelligence           Segaran             ORA
 Programming Internet Email                    Wood                ORA
 RADIUS                                        Hassell             ORA
 Rails Cookbook                                Rob Orsini          ORA
@@ -89,4 +92,5 @@ Version Control with Subversion               Collins-Sussman     ORA
 We the Media                                  Dan Gillmor         ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
+Web Security Testing Cookbook                 Hope/Walther        ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
