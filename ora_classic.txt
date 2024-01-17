@@ -44,6 +44,7 @@ Managing Projects with GNU Make               Mecklenburg         ORA
 Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
+PGP: Pretty Good Privacy                      Garfinkel           ORA
 Porting UNIX Software                         Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
 Practical C Programming 3e                    Oualline            ORA

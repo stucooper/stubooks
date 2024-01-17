@@ -3,7 +3,6 @@ label: 2019040102
 description: mixture; mostly front end web and PHP
 loc: flemshed
 
-PGP: Pretty Good Privacy     Garfinkel        ORA
 Vi IMproved - Vim            Oualline         NewRiders
 Theory of Computation        Brookshear       BenjaminCummings
 CVS  Pocket Reference        Purdy            ORA
