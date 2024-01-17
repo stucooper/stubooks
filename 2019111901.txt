@@ -24,5 +24,4 @@ Removing the Spam                         Geoff Mulligan         AWL
 Coders at Work                            ed Peter Seibel        APress
 How Google Works                          Schmidt/Rosenberg      JohnMurray
 Makers                                    Chris Anderson         CrownBusiness
-Peer-to-Peer: Disruptive technologies     ed Andy Oram           ORA
 The First 20 million is the hardest       Po Bronson             SeckerWarburg

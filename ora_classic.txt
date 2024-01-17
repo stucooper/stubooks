@@ -7,6 +7,7 @@ bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Secure Servers with Linux            Bauer               ORA
+The Cathedral and the Bazaar                  Eric S. Raymond     ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                       Robbins/Beebe       ORA
@@ -16,8 +17,10 @@ Essential CVS 2e                              Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
+Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
 Google Advertising Tools                      Davis               ORA
 Googke The Missing Manual                     Milstein/Dornfest   ORA
+Hackers and Painters                          Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
@@ -25,6 +28,7 @@ IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
+Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning XML                                  Ray                 ORA
@@ -39,6 +43,7 @@ Network Troubleshooting Tools                 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
 Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
+Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
 Porting UNIX Software                         Lehey               ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
