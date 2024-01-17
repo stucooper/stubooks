@@ -1,5 +1,6 @@
 # MIT Press
 Hal's Legacy                                 ed David G Stork         mitp
+High Noon on the Electronic Frontier         ed Ludlow                mitp
 Introduction to Algorithms 3e                Cormen/Leiserson         mitp
 The Invisible Computer                       Norman                   mitp
 The Little Schemer 4e                        Friedman/Felleison       mitp

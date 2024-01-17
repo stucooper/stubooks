@@ -15,7 +15,6 @@ geek Silicon Valley (travel guide)     ashlee vance           GlobePequor
 QR Codes kill kittens                  Scott Stratten         Wiley
 Pogue's Basics                         David Pogue            Flatiron
 The Next Digital Decade                ed Szoka/Marcus        TechFreedom
-High Noon on the Electronic Frontier   ed Ludlow              MITP
 How to Fix the Future                  Andrew Keen            Atlantic
 net.wars                               Wendy M.Grossman       NewYorkUniversity
 The Dark Net                           Jamie Bartlett         Windmill
