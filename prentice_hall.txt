@@ -48,6 +48,7 @@ Solaris Systems Programming                Rich Teer            PTR
 The Standard C Library                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
+Systems Performance                        Brendan Gregg        PTR
 Threads Primer                             Lewis/Berg           PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
