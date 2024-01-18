@@ -33,6 +33,7 @@ Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
+Head First Java                               Sierra/Bates        ORA
 Head First JavaScript Programming             Freeman/Robson      ORA
 Head First Physics                            Lang                ORA
 Head First SQL                                Beighley            ORA
@@ -42,8 +43,10 @@ HTML5 Up and Running                          Pilgrim             ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
+Java in a Nutshell 4e                         David Flanagan      ORA
 Java Enterprise in a Nutshell                 FLanagan/Farley     ORA
 Java Examples in a Nutshell                   Flanagan            ORA
+Java Network Programming 2e                   Harold              ORA
 Java Servlet Programming 2e                   Hunter              ORA
 JavaScript Application Cookbook               Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e               David Flanagan      ORA
@@ -120,6 +123,7 @@ Version Control with Subversion               Collins-Sussman     ORA
 We the Media                                  Dan Gillmor         ORA
 Web 2.0 Architectures                         Governor/Hinchclif  ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA
+Web Design in a Nutshell                      Jennifer Niederst   ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA
 Web Security Testing Cookbook                 Hope/Walther        ORA
