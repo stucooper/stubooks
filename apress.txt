@@ -14,6 +14,7 @@ Practical Ruby for System Adminstration   Hamou                  apress
 Practical Mono                            Mamone                 apress
 Pro Deep Learning with Tensor Flow        Pattanayak             apress
 Pro Django                                Alchin                 apress
+Pro Java ME Apps                          Ovidiu Iliescu         apress
 Pro OpenSSH                               Stahnke                apress
 Pro Puppet 2e                             Krum/vanHevelingen     apress
 Pulling strings with Puppet               James Turnbull         apress
