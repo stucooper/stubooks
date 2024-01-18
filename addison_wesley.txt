@@ -10,6 +10,8 @@ Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL
+Art of Computer Prog Vol 4 Fascicle 1 Knuth                           AWL
+Art of Computer Prog Vol 4 Fascicle 2 Knuth                           AWL
 The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
@@ -43,6 +45,7 @@ History of Programming Languages      Bergin/Gibson                   AWL
 Interconnections 2e                   Radia Perlman                   AWL
 Internet Email Protocols              Jacobson                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
+Korn Shell Programming Tutorial       Rosenberg                       AWL
 LISP 3e                               Winston/Horn                    AWL
 Linux Application Development         Johnson/Troan                   AWL
 Linux Kernel Development 3e           Robert Love                     AWL
