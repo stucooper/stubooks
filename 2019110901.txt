@@ -4,7 +4,6 @@ description: More IT books
 loc: flemshed
 
 Structure and Interpretation Computer Programs Abelson/Sussman    MITP
-Design Patterns                                Gamma/Helm         AWL
 Operating Systems with Linux                   John O'Gorman      palgrave
 Dynamic HTML 3e                                Danny Goodman      ORA
 OpenStack Swift                                Joe Arnold         ORA
@@ -15,4 +14,3 @@ The Whole Internet 2e             Ed Krol               ORA
 jQuery in Action                  Bibeault/Katz         Manning
 Unicode Explained                 Jukka Korpela         ORA
 Algorithms of the Intelligent Web Murmanis/Babenko      Manning
-Head First HTML and CSS           Robson                ORA
