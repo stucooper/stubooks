@@ -3,8 +3,6 @@ label: 201904031404
 desc: Hardbacks, literary mostly
 loc: flemshed
 
-That Old Cape Magic                   Richard Russo         ChattoWindus
-Bridge of Sighs                       Richard Russo         ChattoWindus
 The Good German                       Joseph Kanon          LittleBrown
 Testaments                           Attwood           DontCare (CMC)
 A Beautiful Mind                      Sylvia Nasar              faber
