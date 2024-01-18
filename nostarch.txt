@@ -2,8 +2,9 @@
 Ardunino Workshop                 Boxall              nostarch
 The Art of R Programming          Matloff             nostarch
 The Blender Book                  Wartmann            nostarch
-The Book of IMAP                  Heinlein/Hartleben  nostarch
 The Book of CSS3                  Gasston             nostarch
+The Book of Gimp                  Lecarme/Delvare     nostarch
+The Book of IMAP                  Heinlein/Hartleben  nostarch
 The Book of IRC                   Charalabidis        nostarch
 The Book of Ruby                  Collingbourne       nostarch
 The Cult of Mac                   Kahney              nostarch
