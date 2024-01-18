@@ -22,6 +22,7 @@ Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Computer Networking 3e                Kurose/Ross                     AWL
 Computer Science: An Overview 9e      J Glenn Brookshear              AWL
+Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
 Design and Evolution of C++           Bjarne Stroustrup               AWL
@@ -29,6 +30,7 @@ Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
+Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
 Effective Java 2e                     Bloch                           AWL

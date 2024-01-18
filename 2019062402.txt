@@ -12,7 +12,6 @@ Are you smart enough to work at Google?             Poundstone  LittleBrown
 Routing Protocols and Concepts                      Graziani    Cisco
 Java Network Programming 2e                         Harold      ORA
 Modern Data Analysis: Applied Statistics            Hamilton    BrooksCole
-Discrete & Combinatorial Mathematics 3e             Grimaldi    AWL
 Wikinomics                                 Tapscott/Williams    Penguin
 MySQL Tutorial                             Welling/Thompson     MySQL
 
