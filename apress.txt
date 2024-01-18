@@ -1,5 +1,6 @@
 # apress books, mostly howto IT, some policy books
 Beginning OpenOffice Calc                 Artymiak               apress
+Black Hat                                 Biggs                  apress
 Coders at Work                            Seibel                 apress
 Definitive Guide to Django                Holovaty               apress
 Dive into Python                          Pilgrim                apress
