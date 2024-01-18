@@ -33,6 +33,7 @@ Linux System Security                      Mann/Mitchell        PTR
 The Magic Garden Explained                 Goodheart/Cox        PTR
 The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
 Modern Operating Systems                   Tanenbaum            PTR
+Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
 OpenSource Network Administration          Kretchmar            PTR
