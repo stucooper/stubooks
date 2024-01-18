@@ -34,6 +34,7 @@ Effective C++                         Meyers                          AWL
 Effective Java 2e                     Bloch                           AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
+Essential GWT                         Kerki                           AWL
 Essential XML                         Box/Skonnard                    AWL
 Exploiting Online Games               Hoglund/McGraw                  AWL
 Exploiting Software                   Hoglund/McGraw                  AWL
