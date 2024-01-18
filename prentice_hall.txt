@@ -1,3 +1,4 @@
+Agile Java                                 Langr                PTR
 Algorithmic Graph Theory                   McHugh               PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
@@ -23,6 +24,8 @@ Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 Intrusion Detection with Snort             Rehman               PTR
 Java Application Development on Linux      Albing/Schwartz      PTR
+JSP and Java                               Art Taylor           PTR
+Just Java 2 6e                             Peter van der Linden PTR
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
 The Linux Development Platform             Rehman/Paul          PTR
@@ -38,6 +41,7 @@ Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
 not Just Java 2e                           Peter van der Linden PTR
+Object-Oriented Software Construction      Bertrand Meyer       PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR

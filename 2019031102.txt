@@ -7,7 +7,6 @@ The Game Design Reader               Salen/Zimmerman        mitp
 Gamer's Guide to Coding              Gordon McComb          Sterling
 Network Algorithmics                 George Varghese        MK
 Head First Java (Dup?)               Sierra/Bates           ORA
-Just Java 2 6e                    Peter van der Linden    PTR
 Java in a Nutshell 4e             David Flanagan          ORA
 Practical Java                    Peter Haggar            AWL
 Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
