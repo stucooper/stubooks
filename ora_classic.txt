@@ -34,10 +34,12 @@ Head First Physics                            Lang                ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e                Musciano/Kennedy    ORA
+HTML5 Up and Running                          Pilgrim             ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
+JavaScript Application Cookbook               Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e               David Flanagan      ORA
 JavaScript Enlightenment                      Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
@@ -48,6 +50,7 @@ Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning PHP,MySQL,JavaScript,CSS 4e          Nixon               ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
+Learning Web Design                           Niederst            ORA
 Learning XML                                  Ray                 ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
@@ -87,6 +90,7 @@ SpamAssassin                                  Schwartz            ORA
 SQL Cookbook                                  Anthony Molinaro    ORA
 SQL in a Nutshell 2e                          Kevin Kline         ORA
 SSH The Secure Shell  The Definitive Guide    Barrett/Silverman   ORA
+Stopping Spam                                 Schwartz/Garfinkel  ORA
 SVG Essentials                                Eisenberg           ORA
 System Performance Tuning 2e                  Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
@@ -105,8 +109,10 @@ Using Samba                                   Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 We the Media                                  Dan Gillmor         ORA
+Web 2.0 Architectures                         Governor/Hinchclif  ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
+Web Site Cookbook                             Addison             ORA
 Web Security Testing Cookbook                 Hope/Walther        ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA

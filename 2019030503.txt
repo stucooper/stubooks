@@ -4,6 +4,5 @@ description: ORA web books
 loc: flemshed
 
 Learning JavaScript 2e            Shelly Powers             ORA
-JavaScript Application Cookbook   Jerry Bradenbaugh         ORA
 GIMP 2.6 for Photographers             Goelker                   rockynook
 Planning for IPv6                      Hagen                     ORA
