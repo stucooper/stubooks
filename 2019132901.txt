@@ -1,6 +1,0 @@
-name: not important
-label: 2019122901
-description: IT books
-loc: flemshed
-
-Operating Systems Design and Implementation Tanenbaum            PTR
