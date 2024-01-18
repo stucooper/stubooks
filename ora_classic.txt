@@ -42,6 +42,8 @@ HTML5 Up and Running                          Pilgrim             ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
+Java Enterprise in a Nutshell                 FLanagan/Farley     ORA
+Java Examples in a Nutshell                   Flanagan            ORA
 Java Servlet Programming 2e                   Hunter              ORA
 JavaScript Application Cookbook               Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e               David Flanagan      ORA
