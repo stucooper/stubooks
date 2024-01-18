@@ -9,5 +9,4 @@ JavaScript Application Cookbook   Jerry Bradenbaugh         ORA
 Dynamic HTML: Definitive Guide 3e Danny Goodman             ORA
 JavaScript: Definitive Guide 5e   David Flanagan            ORA
 GIMP 2.6 for Photographers             Goelker                   rockynook
-Beginning OpenOffice Calc              Artymiak                  APress
 Planning for IPv6                      Hagen                     ORA

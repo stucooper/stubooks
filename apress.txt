@@ -1,6 +1,12 @@
 # apress books, mostly howto IT, some policy books
+Beginning OpenOffice Calc                 Artymiak               apress
+Coders at Work                            Seibel                 apress
 Definitive Guide to Django                Holovaty               apress
+Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress
+Founders at Work                          Livingston             apress
 Practical Common Lisp                     Seibel                 apress
 Practical Ruby for System Adminstration   Hamou                  apress
 Pro Django                                Alchin                 apress
+Pro Puppet 2e                             Krum/vanHevelingen     apress
+Pulling strings with Puppet               James Turnbull         apress
