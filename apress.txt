@@ -1,0 +1,6 @@
+# apress books, mostly howto IT, some policy books
+Definitive Guide to Django                Holovaty               apress
+Expert MySQL                              Charles A Bell         apress
+Practical Common Lisp                     Seibel                 apress
+Practical Ruby for System Adminstration   Hamou                  apress
+Pro Django                                Alchin                 apress
