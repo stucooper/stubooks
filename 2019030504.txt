@@ -4,15 +4,12 @@ description: Networking books
 loc: flemshed
 
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
-Troubleshooting Linux Firewalls   Michael Shinn             AWL
 Building Linux VPNS               Kolesnikov/Hatch          NewRiders
 Wireless Networks for Dummies     Lewis/Davis               JohnWiley
 Network and Internetwork Security William Stallings         PTR
-SNMP,v2,v3,RMON1&2  3e            William Stallings         AWL
 MySQL 2e                                  Paul DuBois            SAMSDev
 MySQL Clustering                          Alex Davies/Fisk       MySQL
 MySQL Database Design and Tuning          Robert Schneider       MySQL
-Expert MySQL                              Charles A Bell         APress
 Advanced PHP Programming                  George Schlossnagle    SAMSDev
 PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
 SQL Pocket Guide 2e                       Jonathan Gennick       ORA

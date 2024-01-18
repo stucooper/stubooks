@@ -26,6 +26,7 @@ Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
+Effective Java 2e                     Bloch                           AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Essential XML                         Box/Skonnard                    AWL
@@ -51,14 +52,17 @@ Programming in Objective C            Kochan                          AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Bentley                         AWL
 Programming with POSIX Threads        David R Butenhof                AWL
+Python Web Development with Django    Forcier/Bissex                  AWL
 A Quarter Century of UNIX             Salus                           AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Relational Database selected writings Date                            AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
+SNMP,v2,v3,RMON1&2 3e                 William Stallings               AWL
 Software Security                     McGraw                          AWL
 TCP/IP Illustrated Volume 1           Stevens                         AWL
 TCP/IP Illustrated Volume 2           Stevens                         AWL
 TCP/IP Illustrated Volume 3           Stevens                         AWL
+Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 UNIX Internals                        Pate                            AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
