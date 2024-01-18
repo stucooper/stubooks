@@ -9,6 +9,8 @@ Expert MySQL                              Charles A Bell         apress
 Founders at Work                          Livingston             apress
 Practical Common Lisp                     Seibel                 apress
 Practical Ruby for System Adminstration   Hamou                  apress
+Practical Mono                            Mamone                 apress
+Pro Deep Learning with Tensor Flow        Pattanayak             apress
 Pro Django                                Alchin                 apress
 Pro OpenSSH                               Stahnke                apress
 Pro Puppet 2e                             Krum/vanHevelingen     apress
