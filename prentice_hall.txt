@@ -11,6 +11,7 @@ Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security          William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR
 Data Structures Using C                    Esakov/Weiss         PTR
+Definitive Guide to the Xen Hypervisor     Chisnall             PTR
 Design of the UNIX Operating System        Maurice J Bach       PTR
 Distributed Operating Systems              Tanenbaum            PTR
 Embedded Linux Primer 2e                   Christopher Hallinan PTR
@@ -20,6 +21,7 @@ Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 Intrusion Detection with Snort             Rehman               PTR
+Java Application Development on Linux      Albing/Schwartz      PTR
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
 The Linux Development Platform             Rehman/Paul          PTR
