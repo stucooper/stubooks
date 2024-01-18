@@ -29,9 +29,11 @@ Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
+Head First JavaScript Programming             Freeman/Robson      ORA
 Head First Physics                            Lang                ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
+HTML/XHTML Definitive Guide 4e                Musciano/Kennedy    ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
@@ -39,6 +41,7 @@ Java Servlet Programming 2e                   Hunter              ORA
 JavaScript: Definitive Guide 5e               David Flanagan      ORA
 JavaScript Enlightenment                      Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
+jQuery Cookbook                               Community Experts   ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning Debian GNU/Linux                     Bill McCarty        ORA
 Learning GNU Emacs                            Cameron/Rosenblatt  ORA

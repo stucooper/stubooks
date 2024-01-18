@@ -7,7 +7,6 @@ Structure and Interpretation Computer Programs Abelson/Sussman    MITP
 Operating Systems with Linux                   John O'Gorman      palgrave
 Create your own Blog                           Tris Hussey        SAMS
 Samsung Galaxy 8 for Dummies                   Bill Hughes        JohnWiley
-jQuery Cookbook                   Community Expertys    ORA
 The Whole Internet 2e             Ed Krol               ORA
 jQuery in Action                  Bibeault/Katz         Manning
 Unicode Explained                 Jukka Korpela         ORA

@@ -3,7 +3,6 @@ label: 2019030503
 description: ORA web books
 loc: flemshed
 
-HTML/XHTML Definitive Guide 4e    Musciano/Kennedy          ORA
 Learning JavaScript 2e            Shelly Powers             ORA
 JavaScript Application Cookbook   Jerry Bradenbaugh         ORA
 GIMP 2.6 for Photographers             Goelker                   rockynook
