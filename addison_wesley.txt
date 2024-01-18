@@ -49,6 +49,7 @@ Object Technology A Manager's Guide   David A Taylor                  AWL
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Programming in Objective C            Kochan                          AWL
+Programming in Python 3               Summerfield                     AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Bentley                         AWL
 Programming with POSIX Threads        David R Butenhof                AWL
@@ -62,6 +63,7 @@ Software Security                     McGraw                          AWL
 TCP/IP Illustrated Volume 1           Stevens                         AWL
 TCP/IP Illustrated Volume 2           Stevens                         AWL
 TCP/IP Illustrated Volume 3           Stevens                         AWL
+Text processing in Python             Mertz                           AWL
 Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 UNIX Internals                        Pate                            AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
