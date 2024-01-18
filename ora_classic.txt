@@ -16,6 +16,7 @@ Classic Shell Scripting                       Robbins/Beebe       ORA
 Designing Web Interfaces                      Scott/Neil          ORA
 DNS & BIND Cookbook                           Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
+Dynamic HTML 3e                               Danny Goodman       ORA
 Essential CVS 2e                              Vesperman           ORA
 Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
@@ -31,9 +32,12 @@ Head First HTML & CSS 2e                      Robson/Freeman      ORA
 Head First Physics                            Lang                ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
+Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java Servlet Programming 2e                   Hunter              ORA
+JavaScript: Definitive Guide 5e               David Flanagan      ORA
+JavaScript Enlightenment                      Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 Kerberos: The Definitive Guide                Garman              ORA
 Learning Debian GNU/Linux                     Bill McCarty        ORA
@@ -84,6 +88,7 @@ SVG Essentials                                Eisenberg           ORA
 System Performance Tuning 2e                  Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
 termcap & terminfo                            Strang/Mui          ORA
+Testable JavaScript                           Trostler            ORA
 Time Management for System Administrators     Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
@@ -100,4 +105,5 @@ We the Media                                  Dan Gillmor         ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Security Testing Cookbook                 Hope/Walther        ORA
+Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA

@@ -1,10 +1,8 @@
-name: RECENT ORA
+name: some random it
 label: 2019110602
-description: Recent ORA books
+description: random it books
 loc: flemshed
 
-JavaScript Enlightenment              Lindley                        ORA
-Testable JavaScript                   Trostler                       ORA
 Programming Ruby 1.9                  Dave Thomas                    PragProg
 Python Machine Learning               Rashka                         Packt
 Mind Change                           Susan Greenfield      RandomHouse

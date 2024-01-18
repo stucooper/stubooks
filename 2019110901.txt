@@ -5,8 +5,6 @@ loc: flemshed
 
 Structure and Interpretation Computer Programs Abelson/Sussman    MITP
 Operating Systems with Linux                   John O'Gorman      palgrave
-Dynamic HTML 3e                                Danny Goodman      ORA
-OpenStack Swift                                Joe Arnold         ORA
 Create your own Blog                           Tris Hussey        SAMS
 Samsung Galaxy 8 for Dummies                   Bill Hughes        JohnWiley
 jQuery Cookbook                   Community Expertys    ORA
