@@ -6,7 +6,6 @@ loc: flemshed
 The Game Design Reader               Salen/Zimmerman        mitp
 Gamer's Guide to Coding              Gordon McComb          Sterling
 Network Algorithmics                 George Varghese        MK
-Practical Java                    Peter Haggar            AWL
 Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
 Dave Barry Turns 50                      Dave Barry           RandomHouse
 The Eureka Way                           Alan Koehler         ABC

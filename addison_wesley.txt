@@ -56,6 +56,7 @@ Moving to Free Software               Gagne                           AWL
 New Hacker's Dictionary               ed Eric S. Raymond              AWL
 NFS Illustrated                       Callaghan                       AWL
 Object Technology A Manager's Guide   David A Taylor                  AWL
+Practical Java                        Peter Haggar                    AWL
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Programming in Objective C            Kochan                          AWL
