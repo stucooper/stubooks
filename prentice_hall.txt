@@ -7,6 +7,7 @@ C A Reference Manual                       Harbison/Steele      PTR
 Clean Code                                 Robert C. Martin     PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum            PTR
+Core Java 2 Volume 1 Fundamentals          Horstmann/Cornell    PTR
 Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security          William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR
@@ -36,6 +37,7 @@ Modern Operating Systems                   Tanenbaum            PTR
 Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
+not Just Java 2e                           Peter van der Linden PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
@@ -53,6 +55,7 @@ The Standard C Library                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 Systems Performance                        Brendan Gregg        PTR
+Technical Java                             Grant Palmer         PTR
 Threads Primer                             Lewis/Berg           PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR
