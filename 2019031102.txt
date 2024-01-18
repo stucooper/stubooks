@@ -9,7 +9,6 @@ Network Algorithmics                 George Varghese        MK
 Head First Java (Dup?)               Sierra/Bates           ORA
 Technical Java                    Grant Palmer            PTR
 Just Java 2 6e                    Peter van der Linden    PTR
-Design Patterns                   Gamma/Helm/Johasson/Vlissides AWL
 not Just Java 2e                  Peter van der Linden    PTR
 Java in a Nutshell 4e             David Flanagan          ORA
 Practical Java                    Peter Haggar            AWL
