@@ -3,6 +3,5 @@ label: 2019030503
 description: ORA web books
 loc: flemshed
 
-Learning JavaScript 2e            Shelly Powers             ORA
 GIMP 2.6 for Photographers             Goelker                   rockynook
 Planning for IPv6                      Hagen                     ORA
