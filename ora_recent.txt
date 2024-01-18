@@ -14,7 +14,7 @@ Data Science at the Command Line              Janssens            ORA
 Database in Depth                             C J Date            ORA
 Designing Connected Products                  Goodman             ORA
 Designing Interfaces                          Tidwell             ORA
-DevOps with OpenShift                         Hepburn/O'Connor    ORA
+DevOps with OpenShift                         Picozzi/Hepburn     ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
@@ -38,7 +38,7 @@ Mastering Ethereum                            Antonopoulos        ORA
 Mining the Social Web                         Russell             ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
-OpenShift for Developers                      Shipley             ORA
+OpenShift for Developers                      Shipley/Dumpleton   ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Practical Monitoring                          Julian              ORA

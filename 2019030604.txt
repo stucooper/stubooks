@@ -8,6 +8,4 @@ PostgreSQL 2e                     Korry Douglas         SAMS
 Maximum RPM                       Edward C Bailey       SAMS
 tmux                              Brian P Hogan         PragProg
 Applied Cryptography              Bruce Schneier        JohnWiley
-DevOps with Open Shift            Picozzi/Hepurn        ORA
-OpenShift for DevOps              Shiopton/Dumpleton    ORA
 MongoDB in Action                 Kyle Banker           Manning
