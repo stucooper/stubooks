@@ -28,6 +28,7 @@ Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
+Head First Physics                            Lang                ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 Internet in a Nutshell                        Quercia             ORA
