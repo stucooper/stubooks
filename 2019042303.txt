@@ -9,9 +9,6 @@ Crypto                             Levy               Viking
 In the Plex google                 Levy               SimonSchuster
 Hackers                            Levy               Penguin
 Code: Hidden language of software  Petzold            Microsoft
-Data and Goliath                   Schneier           Norton
-Liars and Outliers                 Schneier           JohnWiley
-Secrets and Lies                   Schneier           JohnWiley
 Who owns the future?               Lanier             AllenLane
 The Cuckoo's Egg                   Stoll              BodleyHead
 ProBlogger 2e                      Rowse/Garrett      JohnWiley

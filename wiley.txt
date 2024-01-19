@@ -1,0 +1,12 @@
+# IT books and IT policy books published by JohnWiley
+# they also do the "for dummies" series
+# All Bruce Schneier books go here even if other publisher
+Applied Cryptography                         Bruce Schneier       JohnWiley
+Click here to Kill Everybody                 Bruce Schneier       Norton
+Data and Goliath                             Bruce Schneier       Norton
+Liars and Outliers                           Bruce Schneier       JohnWiley
+Operating Systems Concepts                   Silberschatz/Galvin  JohnWiley
+Practical Cryptography                       Ferguson/Schneier    JohnWiley
+Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
+Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
+Secrets and Lies                             Bruce Schneier       JohnWiley

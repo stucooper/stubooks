@@ -10,7 +10,5 @@ The Computational Beauty of Nature       Gary William Flake mitp
 Mathematica 2e                           Stephen Wolfram    AWL
 Art and Science of Digital Compositing 2e Ron Brinkmore     MK
 Hacking Secret Codes with Python         Al Sweigart        self
-Practical Cryptography                   Ferguson/Schneier  JohnWiley
-Raspberry Pi User Guide                  Upton/Halfacree    JohnWiley
 The Blender Gamekit 2e                   Wartmann           Blender
 Max Hits: Building Promoting Websites    Slocombe              Rotovision

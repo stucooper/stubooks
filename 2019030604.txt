@@ -7,5 +7,4 @@ Linux Firewalls 2e                Robert Ziegler        NewRiders
 PostgreSQL 2e                     Korry Douglas         SAMS
 Maximum RPM                       Edward C Bailey       SAMS
 tmux                              Brian P Hogan         PragProg
-Applied Cryptography              Bruce Schneier        JohnWiley
 MongoDB in Action                 Kyle Banker           Manning
