@@ -7,11 +7,13 @@ The Art of Intrusion                         Mitnick/Simon        JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
 Liars and Outliers                           Bruce Schneier       JohnWiley
+Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts                   Silberschatz/Galvin  JohnWiley
 Practical Cryptography                       Ferguson/Schneier    JohnWiley
 Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
 Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
 Secrets and Lies                             Bruce Schneier       JohnWiley
 SQL For Dummies                              Taylor               JohnWiley
+Topics in C Programming Revised              Kochan/Wood          JohnWiley
 Wikis for Dummies                            Woods/Thoeny         JohnWiley
 Wireless Networks for Dummies                Lewis/Davis          JohnWiley

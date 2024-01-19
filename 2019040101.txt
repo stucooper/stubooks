@@ -5,7 +5,6 @@ description: mostly OpenGL/Graphics books, some little used unix admin
 Apache Web Server Admin    Aulds               Sybex
 OpenGL Super Bible 2e                          WaiteGroup
 GTK+/Gnome Application Development Pennington  NewRiders
-Topics in C Programming Revised Kochan/Wood    Wiley
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
 God Emperor of Dune                          Frank Herbert           NewEnglish
