@@ -4,7 +4,6 @@ description: it books on policy and crypto
 loc: flemshed
 
 The Glass Cage                     Carr               BodleyHead
-The Art of Deception               Mitnick            JohnWiley
 Crypto                             Levy               Viking
 In the Plex google                 Levy               SimonSchuster
 Hackers                            Levy               Penguin

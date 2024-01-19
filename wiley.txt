@@ -2,6 +2,8 @@
 # they also do the "for dummies" series
 # All Bruce Schneier books go here even if other publisher
 Applied Cryptography                         Bruce Schneier       JohnWiley
+The Art of Deception                         Kevin Mitnick        JohnWiley
+The Art of Intrusion                         Mitnick/Simon        JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
 Liars and Outliers                           Bruce Schneier       JohnWiley
@@ -10,3 +12,6 @@ Practical Cryptography                       Ferguson/Schneier    JohnWiley
 Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
 Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
 Secrets and Lies                             Bruce Schneier       JohnWiley
+SQL For Dummies                              Taylor               JohnWiley
+Wikis for Dummies                            Woods/Thoeny         JohnWiley
+Wireless Networks for Dummies                Lewis/Davis          JohnWiley
