@@ -127,5 +127,6 @@ Web Design in a Nutshell                      Jennifer Niederst   ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA
 Web Security Testing Cookbook                 Hope/Walther        ORA
+The Whole Internet 2e                         Ed Krol             ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
