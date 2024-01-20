@@ -66,9 +66,10 @@ lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
-Linux Multimedia Guide                     Jeff Tranter        ORA
+Linux Multimedia Guide                        Jeff Tranter        ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
 Making Things Talk                            Tom Ioge            ORA
+Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
 MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
