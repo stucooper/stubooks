@@ -6,5 +6,6 @@ jQuery in Action                          Bibeault/Katz          Manning
 MongoDB in Action                         Kyle Banker            Manning
 PostGIS in Action 2e                      Obe/Hsu                Manning
 R in Action                               Robert Kabacoff        Manning
+Ruby in Practice                          McAnally/Arkin         Manning
 The Well-Grounded Rubyist                 David A. Black         Manning
 
