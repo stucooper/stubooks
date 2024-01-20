@@ -5,7 +5,6 @@ description: Latex books and random IT
 Googled: the end of the world as we know it         Auletta     Virgin
 Latex A Document Prepartion System 2e               Lamport     AWL
 The TeXbook                                         Knuth       AWL
-IP Routing Fundamentals                             Sportack    Cisco
 The LaTeX Companion 2e                              Mittlebach  AWL
 The LaTeX Web Companion                             Goosens     AWL
 Are you smart enough to work at Google?             Poundstone  LittleBrown
