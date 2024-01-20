@@ -1,0 +1,10 @@
+# Books by Manning publisher
+Algorithms of the Intelligent Web         Murmanis/Babenko       Manning
+Hello World                               Sande                  Manning
+JavaScript Application Design             Nicolas Bevacqua       Manning
+jQuery in Action                          Bibeault/Katz          Manning
+MongoDB in Action                         Kyle Banker            Manning
+PostGIS in Action 2e                      Obe/Hsu                Manning
+R in Action                               Robert Kabacoff        Manning
+The Well-Grounded Rubyist                 David A. Black         Manning
+

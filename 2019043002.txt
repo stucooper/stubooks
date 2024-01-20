@@ -4,7 +4,6 @@ description: Python books
 loc: flemshed
 
 Python the Complete Reference                Brown         McGrawHill
-Hello World                                  Sande         Manning
 Programming Python 3e                        Lutz          ORA
 Python Standard Library                      Lundb         ORA
 Learning Python 2e                           Lutz/Asher    ORA

@@ -6,5 +6,4 @@ OSDC Conference Proceedings 2005 Melb      various              OSDC
 OSDC Conference Proceedings 2006 Melb      various              OSDC
 OSDC Conference Proceedings 2007 Bris      various              OSDC
 OSDC Conference Proceedings 2008 Sydney    various              OSDC
-PostGIS in Action 2e                       Obe/Hsu              Manning
 Open Source Development with CVS           Fogel                Coriolis
