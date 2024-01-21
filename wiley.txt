@@ -10,6 +10,7 @@ Data and Goliath                             Bruce Schneier       Norton
 Liars and Outliers                           Bruce Schneier       JohnWiley
 Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts                   Silberschatz/Galvin  JohnWiley
+Pentium Chronicles                           Robert P. Colwell    JohnWiley
 Practical Cryptography                       Ferguson/Schneier    JohnWiley
 Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
 Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
