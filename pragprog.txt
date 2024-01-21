@@ -1,5 +1,10 @@
 # Pragmatic Programmers Publishers
+Debug It!                                Paul Butcher             PragProg
+Pragmatic Ajax                           Gehtland/Galbraith       PragProg
+Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
+Pragmatic Guide to Subversion            Mike Manson              PragProg
 Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
+Seven Languages in Seven Weeks           Bruce A Tate             PragProg
 SQL Antipatterns                         Bill Karwin              PragProg
 Technical Blogging                       Antonio Congiano         PragProg
 tmux                                     Brian P Hogan            PragProg
