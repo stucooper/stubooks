@@ -1,5 +1,6 @@
 # IT books with boutique puvlishers, that I have less than 5 books of
 # If the book count hits 5 or more, spin out to a new file
+Advanced C Programming by Example            John W. Perry        PWS
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Cracking the Coding Interview 6e             MvDowell             CareerCup
