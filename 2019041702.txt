@@ -4,5 +4,4 @@ description: Just about all non-bio Dickens I have
 
 Dickens at Christmas hb             Dickens            Vintage
 Pictures from Italy                 Dickens            PenguinBlackClassics
-Bleak House                         Dickens            PenguinYellowClassics
 American Notes                      Dickens            PenguinYellowClassics
