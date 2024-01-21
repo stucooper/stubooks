@@ -10,7 +10,9 @@ Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Coding projects in Python                    various              DK
 Cracking the Coding Interview 6e             MvDowell             CareerCup
+Database Systems Concepts                    Silberschatz/Korth   McGrawHill
 Debugging with GDB                           RMS/Cygnus           GNUPress
+Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Free Software Free Society                   RMS                  GNUPress
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GNU Make                                     RMS/McGrath          GNUPress
