@@ -1,0 +1,5 @@
+# Maths books and history and bios
+Calculus Wars                      Jason Bardi            HighStakes
+Genius in my Basement              Alexander Masters      FourthEstate
+Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
+My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster
