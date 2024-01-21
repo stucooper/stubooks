@@ -9,7 +9,6 @@ loc: flemshed
 
 Continuous Delivery                      Humble/Farley         AWL
 Non-Designers Design & Type Books        Robin Williams        PeachPit
-Computer Architecture: Quantitative Approach Hennessy/Patterson MK
 Looking Good in Print 2e                 Roger C Parker        Ventuna
 Presenting Numbers, Tables and Charts    Bigword/Spore         Oxford
 Social Media and the Law (Australia)     Various               LexisNexis

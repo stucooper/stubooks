@@ -1,0 +1,10 @@
+# Morgan Kaufmann publishers. Includes Elsevier imprint
+Big Book of LDAP RFCs                         ed Pete Loshin             MK
+Computer Architecture: Quant Approach 2e      Hennessy/Patterson         MK
+Computer Architecture: Quant Approach 4e      Hennessy/Patterson         MK
+Computer Organization and Design 5e           Hennessy/Patterson         MK
+Data Mining 2e                                Witten/Framk               MK
+Learning Processing                           Daniel Shiffman            MK
+Managing Gigabytes 2e                         Witten/Moffat              MK
+Relational Database Design clearly explained  Jan L Harrington           MK
+

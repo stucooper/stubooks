@@ -6,5 +6,4 @@ loc: flemshed
 Digital Typography                                       Knuth          CSLI
 Selected Papers on Computer Science                      Knuth          CSLI
 Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
-Managing Gigabytes 2e                 Witten/Moffat    MorganKaufmann
 Developers Guide to Debugging         Grotker/Holtmann Springer

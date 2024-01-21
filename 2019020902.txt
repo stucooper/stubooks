@@ -8,7 +8,6 @@ OpenVPN                                      Markus Fielner        Packt
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
 Processing                            Reas/Fry                   MITP
-Learning Processing                   Daniel Shiffman            MK
 Programming Perl 2e                Wall/Christiansen/Schwar ORA
 Official Guide to CGI.pm           Lincoln Stein            JohnWiley
 Learning Perl/Tk                   Nancy Walsh              ORA

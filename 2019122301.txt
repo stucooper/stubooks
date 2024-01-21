@@ -4,5 +4,4 @@ description: IT books including databases
 loc: flemshed
 
 Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
-Relational Database Design clearly explained Jan L Harrington    MKR
 An Introduction to Database Systems Vol 1 5e  C J Date           AWL
