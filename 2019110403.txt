@@ -8,7 +8,6 @@ loc: flemshed
 # the entries to different files later
 
 Continuous Delivery                      Humble/Farley         AWL
-Twisted: Network Programming Essentials  Abe Fettig            ORA
 Non-Designers Design & Type Books        Robin Williams        PeachPit
 Computer Architecture: Quantitative Approach Hennessy/Patterson MK
 Data Manipulation with R                 Phil Spector          Springer

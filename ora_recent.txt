@@ -20,6 +20,7 @@ Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Facebook: The Missing Manual                  Veer                ORA
+Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                        Zichermann          ORA
 The Geek Atlas                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
@@ -58,5 +59,6 @@ Revolution in the Valley                      Andy Hertzfeld      ORA
 Site Reliability Engineering                  Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
+Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 Web Development with Node and Express         Brown               ORA
