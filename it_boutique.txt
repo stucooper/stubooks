@@ -17,6 +17,8 @@ Free Software Free Society                   RMS                  GNUPress
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GNU Make                                     RMS/McGrath          GNUPress
 Hacking Secret Codes with Python             Al Sweigart          self
+Handbook of Prog Langs Volume 3              ed Salus             MTP
+Handbook of Prog Langs Volume 4              ed Salus             MTP
 Linux Network Servers                        Craig Hunt           Sybex
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
@@ -28,6 +30,7 @@ Optimizing Linux Performance                 Philip Ezolt         HP
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
 Stealing the Network                         various              syngress
+Successful Lisp                              Lamkins              bookfix
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 Vortualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 Web Services Business/Architecture           various              expert
