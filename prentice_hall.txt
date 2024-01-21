@@ -48,6 +48,7 @@ Object-Oriented Software Construction      Bertrand Meyer       PTR
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
+Operating Systems: The XINU Approach       Douglas Comer        PTR
 Optimizing Network Performance content sw  Syme/Goldie          PTR
 Practical guide SNMP3 network mgmt         David Zeltserman     PTR
 Real World Linux Security                  Toxen                PTR
@@ -64,6 +65,7 @@ Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum     PTR
 Systems Performance                        Brendan Gregg        PTR
 Technical Java                             Grant Palmer         PTR
+Thinking in Java 4e                        Bruce Eckel          PTR
 Threads Primer                             Lewis/Berg           PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 UNIX Internals New Frontiers               Uresh Valhalia       PTR

@@ -4,6 +4,4 @@ description: Canberra IT Lifeline books
 loc: flemshed
 
 Database Systems 5e                          Conolly/Begg          Pearson
-Thinking in Java 4e                          Bruce Eckel           PTR
-Operating Systems: The XINU Approach         Douglas Comer         PTR
 
