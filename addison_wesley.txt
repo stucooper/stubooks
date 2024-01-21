@@ -7,7 +7,6 @@ Ajax                                  Edmond Woychowsky               AWL
 Algorithms in C                       Robert Sedgewick                AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
-Art of Compiler Design: Theory/Pract  Pittman/Peters                  AWL
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL

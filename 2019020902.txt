@@ -7,7 +7,6 @@ Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
 OpenVPN                                      Markus Fielner        Packt
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
-Art of Compiler Design                Pittman/Peters             PTR
 Processing                            Reas/Fry                   MITP
 Learning Processing                   Daniel Shiffman            MK
 Programming Perl 2e                Wall/Christiansen/Schwar ORA

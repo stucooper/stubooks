@@ -1,5 +1,6 @@
 Agile Java                                 Langr                PTR
 Algorithmic Graph Theory                   McHugh               PTR
+Art of Compiler Design: Theory/Pract       Pittman/Peters       PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
 The C Programming Language                 Kernighan/Ritchie    PTR
