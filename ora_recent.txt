@@ -1,6 +1,6 @@
 # new O'Reilly books, published since 2010
 # earliers see ora_classic
-# also see ora_python
+# For convenience, python books are considered recent
 21st Century C                                Klemens             ORA
 Ambient Findability                           Morville            ORA
 The Art of Agile Development                  Shore/Warden        ORA
@@ -28,6 +28,8 @@ Interactive Data Visualisation for the Web    Murray              ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
 Kubernetes: Up & Running                      Hightower           ORA
+Learning Python 2e                            Lutz/Asher          ORA
+Learning Python 4e                            Lutz                ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide                   White               ORA
 Machine Learning for Hackers                  Drew Conway         ORA
@@ -43,10 +45,13 @@ OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Practical Monitoring                          Julian              ORA
 Programming Collective Intelligence           Segaran             ORA
+Programming Python 3e                         Lutz                ORA
 Planning for IPv6                             Hagen               ORA
 producing open source software                Fogel               ORA
 The Productive Programmer                     Ford                ORA
 Prometheus: Up & Running                      Brazil              ORA
+Python Cookbook 2e                            Martelli/Ascher     ORA
+Python Standard Library                       Lundb               ORA
 R for Data Science                            Wickham             ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley                      Andy Hertzfeld      ORA
