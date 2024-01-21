@@ -11,4 +11,12 @@ Lockhart        PostgreSQL User's Guide                  postgres
 Pale            NMap6: Network Exploration and Security  packtprintout
 Cederqvist      Version Management with CVS              printout
 Kuruvilla       JIRA Development Cookbook                packtprintout
-Chassell,Stallman Texinfo                                gnu
+Chassell,Stallman Texinfo                                gnuprintout
+Version Control with Git 2e      Loeliger           ORAprintout
+Site Reliability Engineering     Google             ORAprintout
+ActiveMQ in Action               Snyder             Manningprintout
+Java Message Service             Richards           ORAprintout
+Maximum RPM                      Bailey             RedHatprintout
+Mastering Puppet                 Uphill             Packtprintout
+Extending Puppet                 Franceschi         Packtprintout
+Optus Notebooks                  Cooper             Cooper
