@@ -2,5 +2,6 @@
 # but the SAMS Developer Library (here: SAMSDev)  series are very good
 # and are often re-cast as Addison Wesley titles, maybe they did a deal
 Advanced PHP Programming                  George Schlossnagle    SAMSDev
+Create your own Blog                      Tris Hussey            SAMS
 MySQL 2e                                  Paul DuBois            SAMSDev
 PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
