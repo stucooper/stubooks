@@ -3,7 +3,6 @@ label: 2019043002
 description: Python books
 loc: flemshed
 
-Python the Complete Reference                Brown         McGrawHill
 Programming Python 3e                        Lutz          ORA
 Python Standard Library                      Lundb         ORA
 Learning Python 2e                           Lutz/Asher    ORA
