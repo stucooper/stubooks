@@ -3,4 +3,3 @@ label: 2019030604
 description: IT books, smaller box
 loc: flemshed
 
-tmux                              Brian P Hogan         PragProg
