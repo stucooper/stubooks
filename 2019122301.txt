@@ -3,5 +3,4 @@ label: 2019122301
 description: IT books including databases
 loc: flemshed
 
-Database Management Systems 2e           Ramakrishnan/Gehrke     McGrawHill
 An Introduction to Database Systems Vol 1 5e  C J Date           AWL
