@@ -13,6 +13,7 @@ Cracking the Coding Interview 6e             MvDowell             CareerCup
 Database Systems Concepts                    Silberschatz/Korth   McGrawHill
 Debugging with GDB                           RMS/Cygnus           GNUPress
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
+Everyday Cryptography                        Keith Martin         Oxford
 Free Software Free Society                   RMS                  GNUPress
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GNU Make                                     RMS/McGrath          GNUPress
