@@ -4,7 +4,6 @@ description: mixture; mostly front end web and PHP
 loc: flemshed
 
 Theory of Computation        Brookshear       BenjaminCummings
-SQLite                       Newman           SAMS
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
 Guide to buying and selling your home    FIXME               FIXME
 How the hell did this happen?        P J O'Rourke          Grove

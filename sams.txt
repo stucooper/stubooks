@@ -8,3 +8,4 @@ MySQL 2e                                  Paul DuBois            SAMSDev
 PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
 PostgreSQL 2e                             Korry Douglas          SAMSDev
 Maximum RPM                               Edward C Bailey        SAMS
+SQLite                                    Newman                 SAMSDev
