@@ -1,3 +1,6 @@
 # Pragmatic Programmers Publishers
-tmux                              Brian P Hogan         PragProg
+Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
+SQL Antipatterns                         Bill Karwin              PragProg
+Technical Blogging                       Antonio Congiano         PragProg
+tmux                                     Brian P Hogan            PragProg
 

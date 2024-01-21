@@ -3,11 +3,8 @@ label: 2019122706
 description: Ruby and Pragmatic Programmers Books
 loc: flemshed
 
-Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
 Seven Languages in Seven Weeks           Bruce A Tate             PragProg
 Pragmatic Ajax                           Gehtland/Galbraith       PragProg
-Technical Blogging                       Antonio Congiano         PragProg
-SQL Antipatterns                         Bill Karwin              PragProg
 Debug It!                                Paul Butcher             PragProg
 Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
 Pragmatic Guide to Subversion            Mike Manson              PragProg
