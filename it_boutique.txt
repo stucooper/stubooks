@@ -1,0 +1,12 @@
+# IT books with boutique puvlishers, that I have less than 5 books of
+# If the book count hits 5 or more, spin out to a new file
+Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
+Code Complete 2e                             McConnell            Microsoft
+Cracking the Coding Interview 6e             MvDowell             CareerCup
+Gamer's Guide to Coding                      Gordon/McComb        Sterling
+Linux Network Servers                        Craig Hunt           Sybex
+Operating Systems Advanced Concepts          Maekawa              BenjCummings
+Operating Systems with Linux                 John O'Gorman        palgrave
+Optimizing Linux Performance                 Philip Ezolt         HP
+Stealing the Network                         various              syngress
+Writing Solid Code                           Steve Maguire        Microsoft
