@@ -3,7 +3,6 @@ label: 2019110702
 description: Non fiction Allen Lane Hardbacks and others
 loc: flemshed
 
-Einstein's Unfinished Revolution      Lee Smolin                AllenLane
 A Bright Shining Lie                  Neil Sheehan              JonathanCape
 Gonzo: Life of Hunter S Thompson      Jann Wenner/Corey Seymour  LittleBrown
 Crime and Punishment                  Fyodor Dostoyevsky         Vintage
