@@ -1,5 +1,0 @@
-name: PYTHON
-label: 2019043002
-description: Python books
-loc: flemshed
-
