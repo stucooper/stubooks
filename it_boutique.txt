@@ -9,6 +9,9 @@ Coding projects in Python                    various              DK
 Cracking the Coding Interview 6e             MvDowell             CareerCup
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 Linux Network Servers                        Craig Hunt           Sybex
+MySQL Clustering                             Alex Davies/Fisk     MySQL
+MySQL Database Design and Tuning             Robert Schneider     MySQL
+MySQL Tutorial                               Welling/Thompson     MySQL
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
 Optimizing Linux Performance                 Philip Ezolt         HP
