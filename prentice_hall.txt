@@ -49,6 +49,7 @@ OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
 Optimizing Network Performance content sw  Syme/Goldie          PTR
+Practical guide SNMP3 network mgmt         David Zeltserman     PTR
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR
