@@ -1,9 +1,11 @@
 # CLassic O'Reilly books
 802.11 Security                               Potter/Fleck        ORA
+802.11 Wireless Networks Definitive Guide 2e  Gast                ORA
 Amt The Definitive Guide                      Holzner             ORA
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 Applying RCS and SCCS                         Bolinger/Bronson    ORA
+Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
@@ -42,6 +44,7 @@ HTML/XHTML Definitive Guide 4e                Musciano/Kennedy    ORA
 HTML5 Up and Running                          Pilgrim             ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
+IP Routing                                    Malhotra            ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java in a Nutshell 4e                         David Flanagan      ORA
 Java Enterprise in a Nutshell                 FLanagan/Farley     ORA
@@ -128,6 +131,7 @@ We the Media                                  Dan Gillmor         ORA
 Web 2.0 Architectures                         Governor/Hinchclif  ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA
 Web Design in a Nutshell                      Jennifer Niederst   ORA
+Web Navigation Designing User Experience      Fleming             ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA
 Web Security Testing Cookbook                 Hope/Walther        ORA
