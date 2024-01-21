@@ -10,6 +10,7 @@ Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Coding projects in Python                    various              DK
 Cracking the Coding Interview 6e             MvDowell             CareerCup
+Database Systems 5e                          Conolly/Begg         Pearson
 Database Systems Concepts                    Silberschatz/Korth   McGrawHill
 Debugging with GDB                           RMS/Cygnus           GNUPress
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
