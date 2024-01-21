@@ -45,6 +45,7 @@ Find the Bug                          Adam Barr                       AWL
 Firewalls and Internet Security 2e    Cheswick/Bellovin/Rubin         AWL
 Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
+Guide to the SQL Standard             C J Date                        AWL
 History of Programming Languages      Bergin/Gibson                   AWL
 Interconnections 2e                   Radia Perlman                   AWL
 Internet Email Protocols              Jacobson                        AWL
