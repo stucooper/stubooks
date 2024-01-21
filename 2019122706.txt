@@ -3,7 +3,6 @@ label: 2019122706
 description: 
 loc: flemshed
 
-Make 08: Toys and Games                      MakeZine           ORA
 A Generative Theory of Shape                 Michael Layton     Springer
 
 
