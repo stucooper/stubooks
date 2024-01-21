@@ -1,9 +1,2 @@
-name: Perl & Shell
-label: 2019052901
-description: Loads of Perl books
-loc: flemshed
-
-
-
-Learning the Korn Shell                          Rosenblatt          ORA OCS
+Learning the Korn Shell                          Rosenblatt          ORA
 
