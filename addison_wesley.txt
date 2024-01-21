@@ -7,6 +7,7 @@ Ajax                                  Edmond Woychowsky               AWL
 Algorithms in C                       Robert Sedgewick                AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
+Art of Compiler Design: Theory/Pract  Pittman/Peters                  AWL
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL
@@ -30,6 +31,7 @@ Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
+Designing Storage Area Networks 2e    Tom Clark                       AWL
 Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
@@ -59,6 +61,7 @@ Object Technology A Manager's Guide   David A Taylor                  AWL
 Practical Java                        Peter Haggar                    AWL
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
+Procmail Companion                    Martin McCarthy                 AWL
 Programming in Objective C            Kochan                          AWL
 Programming in Python 3               Summerfield                     AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
@@ -66,6 +69,7 @@ Programming Pearls 2e                 Bentley                         AWL
 Programming with POSIX Threads        David R Butenhof                AWL
 Python Web Development with Django    Forcier/Bissex                  AWL
 A Quarter Century of UNIX             Salus                           AWL
+Real-Time Systems and Prog Langs 4e   Burns/Wellings                  AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Relational Database selected writings Date                            AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
