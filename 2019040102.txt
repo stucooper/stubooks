@@ -6,8 +6,6 @@ loc: flemshed
 Theory of Computation        Brookshear       BenjaminCummings
 SQLite                       Newman           SAMS
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 
-GNU Make                              RMS/McGrath      GNU
-Debugging with GDB                    RMS/Cygnus       GNU
 Guide to buying and selling your home    FIXME               FIXME
 How the hell did this happen?        P J O'Rourke          Grove
 The Howard Era (essays)              various               Quadrant

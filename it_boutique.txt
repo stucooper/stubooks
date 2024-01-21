@@ -7,7 +7,10 @@ Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Coding projects in Python                    various              DK
 Cracking the Coding Interview 6e             MvDowell             CareerCup
+Debugging with GDB                           RMS/Cygnus           GNUPress
+Free Software Free Society                   RMS                  GNUPress
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
+GNU Make                                     RMS/McGrath          GNUPress
 Linux Network Servers                        Craig Hunt           Sybex
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
