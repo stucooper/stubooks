@@ -4,4 +4,3 @@ description: Networking books
 loc: flemshed
 
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
-SQL Pocket Guide 2e                       Jonathan Gennick       ORA
