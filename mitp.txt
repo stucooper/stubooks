@@ -9,5 +9,5 @@ Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 streetlights and shadows                     Klein                    mitp
-Structure Interpretation Computer Programs   Abelson/Sussman          mitp
+Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp
 What we know about Emotional Intelligence    Zeidner/Matthews         mitp
