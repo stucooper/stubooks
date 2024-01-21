@@ -1,5 +1,0 @@
-name: VARIOUS (H)ITS
-label: 2019122301
-description: IT books including databases
-loc: flemshed
-
