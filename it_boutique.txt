@@ -5,6 +5,7 @@
 Advanced C Programming by Example            John W. Perry        PWS
 Ansible for DevOps                           Geerling             leanpub
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
+The Blender Gamekit 2e                       Wartmann             Blender
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Coding projects in Python                    various              DK
@@ -13,6 +14,7 @@ Debugging with GDB                           RMS/Cygnus           GNUPress
 Free Software Free Society                   RMS                  GNUPress
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GNU Make                                     RMS/McGrath          GNUPress
+Hacking Secret Codes with Python             Al Sweigart          self
 Linux Network Servers                        Craig Hunt           Sybex
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL

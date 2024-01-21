@@ -9,6 +9,4 @@ The Computational Beauty of Nature       Gary William Flake mitp
 20 years of the Internet in Australia    Glenda Korporaal   aarnet
 Mathematica 2e                           Stephen Wolfram    AWL
 Art and Science of Digital Compositing 2e Ron Brinkmore     MK
-Hacking Secret Codes with Python         Al Sweigart        self
-The Blender Gamekit 2e                   Wartmann           Blender
 Max Hits: Building Promoting Websites    Slocombe              Rotovision
