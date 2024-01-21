@@ -1,6 +1,7 @@
 # IT books and IT policy books published by JohnWiley
 # they also do the "for dummies" series
 # All Bruce Schneier books go here even if other publisher
+Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley
 The Art of Intrusion                         Mitnick/Simon        JohnWiley
