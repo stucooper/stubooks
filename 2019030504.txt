@@ -4,7 +4,4 @@ description: Networking books
 loc: flemshed
 
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
-MySQL 2e                                  Paul DuBois            SAMSDev
-Advanced PHP Programming                  George Schlossnagle    SAMSDev
-PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
 SQL Pocket Guide 2e                       Jonathan Gennick       ORA

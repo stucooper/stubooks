@@ -1,0 +1,6 @@
+# SAMS publishing. Many of their books are pretty basic or just bad
+# but the SAMS Developer Library (here: SAMSDev)  series are very good
+# and are often re-cast as Addison Wesley titles, maybe they did a deal
+Advanced PHP Programming                  George Schlossnagle    SAMSDev
+MySQL 2e                                  Paul DuBois            SAMSDev
+PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
