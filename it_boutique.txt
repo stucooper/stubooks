@@ -1,5 +1,7 @@
 # IT books with boutique puvlishers, that I have less than 5 books of
 # If the book count hits 5 or more, spin out to a new file
+# Some publishers I have 2-4 books by eg Microsfort BenjCummings but
+# don't expect I'll ever hit 5 books.
 Advanced C Programming by Example            John W. Perry        PWS
 Ansible for DevOps                           Geerling             leanpub
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
@@ -18,6 +20,8 @@ MySQL Tutorial                               Welling/Thompson     MySQL
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
 Optimizing Linux Performance                 Philip Ezolt         HP
+Python The Complete Reference                Martin C. Brown      McGrawHill
+Python Tricks The Book                       Dan Bader            DanBader
 Stealing the Network                         various              syngress
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 Vortualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
