@@ -1,13 +1,3 @@
-name: SPORT
-label: 2019131002
-description: Sports books
-loc: flemshed
-
-The Cricket War                   Gideon Haigh            text
-The Summer Game                   Gideon Haigh            ABC
-Unplayable                        Tiger Woods             SimonSchuster
-Eddie Charlton Book of Snooker    Eddie Charlton          Viking O'Neil
-How to be really interesting      Steve Davis             Penguin
 Force of Nature: Life of Linus Pauling             Hager     SimonShuster
 Cultural Amnesia                               Clive James   Norton
 Mathematics in Western Culture                  Kline            Pelican
