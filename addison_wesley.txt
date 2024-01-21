@@ -50,6 +50,7 @@ Interconnections 2e                   Radia Perlman                   AWL
 Internet Email Protocols              Jacobson                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
+Learn Python the Hard Way 3e          Shaw                            AWL
 LISP 3e                               Winston/Horn                    AWL
 Linux Application Development         Johnson/Troan                   AWL
 Linux Kernel Development 3e           Robert Love                     AWL
