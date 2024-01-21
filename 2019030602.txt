@@ -9,4 +9,3 @@ Unix Hater's Handbook            Garfinker/Weise          IDG
 Artists' Guide to the GIMP       Michael J Hammel         SSC
 Photoshop for the Web                     Mikkel Aaland          ORA
 Programming Language Semantics            Michael Scott          MK
-Hello Android Google's Mobile Dev Platform Ed Burnette           PragProg

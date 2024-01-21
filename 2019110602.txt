@@ -3,7 +3,6 @@ label: 2019110602
 description: random it books
 loc: flemshed
 
-Programming Ruby 1.9                  Dave Thomas                    PragProg
 Python Machine Learning               Rashka                         Packt
 Mind Change                           Susan Greenfield      RandomHouse
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
