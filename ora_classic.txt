@@ -83,6 +83,7 @@ Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
 PGP: Pretty Good Privacy                      Garfinkel           ORA
 Porting UNIX Software                         Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
+Power Programming with RPC                    John Bloomer        ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                            Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
