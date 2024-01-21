@@ -2,5 +2,4 @@ name: random IT
 label: 2019091201
 description: random it
 
-Repairing and Upgrading Your PC           Thompson/Thompson ORA
 

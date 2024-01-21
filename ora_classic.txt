@@ -92,6 +92,7 @@ Programming Collective Intelligence           Segaran             ORA
 Programming Internet Email                    Wood                ORA
 RADIUS                                        Hassell             ORA
 Rails Cookbook                                Rob Orsini          ORA
+Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                          Richardson          ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
 The Ruby Programming Language                 Flanagan/Matsumoto  ORA
