@@ -3,7 +3,6 @@ label: 2019040102
 description: mixture; mostly front end web and PHP
 loc: flemshed
 
-Vi IMproved - Vim            Oualline         NewRiders
 Theory of Computation        Brookshear       BenjaminCummings
 SQLite                       Newman           SAMS
 Virtualisation: A Beginner's Guide    Ruest/Ruest      McGrawHill 

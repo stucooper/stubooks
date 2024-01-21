@@ -8,5 +8,4 @@ Programming Python 3e                        Lutz          ORA
 Python Standard Library                      Lundb         ORA
 Learning Python 2e                           Lutz/Asher    ORA
 Learning Python 4e                           Lutz          ORA
-Python Web Programming                       Holden        NewRiders
 Python Cookbook                              Martelli/Ascher ORA

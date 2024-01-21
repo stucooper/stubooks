@@ -4,7 +4,6 @@ description: Networking books
 loc: flemshed
 
 Practical guide SNMP3 network mgmt David Zeltserman         PTR
-Building Linux VPNS               Kolesnikov/Hatch          NewRiders
 MySQL 2e                                  Paul DuBois            SAMSDev
 MySQL Clustering                          Alex Davies/Fisk       MySQL
 MySQL Database Design and Tuning          Robert Schneider       MySQL

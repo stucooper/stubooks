@@ -3,7 +3,6 @@ label: 2019030604
 description: IT books, smaller box
 loc: flemshed
 
-Linux Firewalls 2e                Robert Ziegler        NewRiders
 PostgreSQL 2e                     Korry Douglas         SAMS
 Maximum RPM                       Edward C Bailey       SAMS
 tmux                              Brian P Hogan         PragProg

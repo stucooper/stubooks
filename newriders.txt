@@ -1,0 +1,8 @@
+# Books from New Riders publishing
+Advanced Linux Programming            CodeSourcery           NewRiders
+Building Linux VPNS                   Kolesnikov/Hatch       NewRiders
+GTK+/Gnome Application Development    Havoc Pennington       NewRiders
+GIMP Essential Reference              Alex Harford           NewRiders
+Linux Firewalls 2e                    Robert Ziegler         NewRiders
+Python Web Programming                Steve Holden           NewRiders
+Vi IMproved - Vim                     Oualline               NewRiders
