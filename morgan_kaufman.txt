@@ -4,6 +4,7 @@ Computer Architecture: Quant Approach 2e      Hennessy/Patterson         MK
 Computer Architecture: Quant Approach 4e      Hennessy/Patterson         MK
 Computer Organization and Design 5e           Hennessy/Patterson         MK
 Data Mining 2e                                Witten/Framk               MK
+Debugging by Thinking                         Robert Metzger             MK
 Learning Processing                           Daniel Shiffman            MK
 Managing Gigabytes 2e                         Witten/Moffat              MK
 Relational Database Design clearly explained  Jan L Harrington           MK
