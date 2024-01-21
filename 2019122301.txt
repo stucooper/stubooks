@@ -3,4 +3,3 @@ label: 2019122301
 description: IT books including databases
 loc: flemshed
 
-An Introduction to Database Systems Vol 1 5e  C J Date           AWL

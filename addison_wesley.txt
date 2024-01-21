@@ -49,6 +49,7 @@ Guide to the SQL Standard             C J Date                        AWL
 History of Programming Languages      Bergin/Gibson                   AWL
 Interconnections 2e                   Radia Perlman                   AWL
 Internet Email Protocols              Jacobson                        AWL
+Intro to Database Systems Vol 1 5e    C J Date                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
 Learn Python the Hard Way 3e          Shaw                            AWL
