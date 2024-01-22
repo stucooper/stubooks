@@ -9,7 +9,6 @@ loc: flemshed
 
 Non-Designers Design & Type Books        Robin Williams        PeachPit
 Looking Good in Print 2e                 Roger C Parker        Ventuna
-Presenting Numbers, Tables and Charts    Bigword/Spore         Oxford
 Social Media and the Law (Australia)     Various               LexisNexis
 Vintage Tomorrows (steampunk)            Carrot/Johnson        ORA
 Beginning OpenGL                       Luke Benstead        CourseTech
