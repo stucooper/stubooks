@@ -6,10 +6,5 @@ loc: flemshed
 The Good German                       Joseph Kanon          LittleBrown
 Testaments                           Attwood           DontCare (CMC)
 A Beautiful Mind                      Sylvia Nasar              faber
-Mathematical Quickies                 Trigg                     Dover
-Riddles in Mathematics                Eugene Northrop           Penguin
-From Erdos to Kiev: Problems Olympic Caliber Honsberger         MathsAssocUSA
-Maths Olympiads: 2000-2001            various                   MathsAssocUSA
 In Code                               Sarah Flannery            Workman
-Revised 4 Unit Maths Course           J. Corroneous             selfpublised
 

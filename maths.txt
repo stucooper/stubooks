@@ -1,5 +1,10 @@
 # Maths books and history and bios
 Calculus Wars                      Jason Bardi            HighStakes
+From Erdos to Kiev: Olympic prons  Honsberger             MathsAssocUSA
 Genius in my Basement              Alexander Masters      FourthEstate
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
+Mathematical Quickies              Trigg                  Dover
+Maths Olympiads: 2000-2001         various                MathsAssocUSA
 My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster
+Revised 4 Unit Maths Course        J. Coroneous           self
+Riddles in Mathematics             Eugene Northrop        Penguin
