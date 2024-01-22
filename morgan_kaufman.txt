@@ -7,5 +7,6 @@ Data Mining 2e                                Witten/Framk               MK
 Debugging by Thinking                         Robert Metzger             MK
 Learning Processing                           Daniel Shiffman            MK
 Managing Gigabytes 2e                         Witten/Moffat              MK
+Programming Language Semantics                Michael Scott              MK
 Relational Database Design clearly explained  Jan L Harrington           MK
 

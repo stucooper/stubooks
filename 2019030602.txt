@@ -3,4 +3,3 @@ label: 2019030602
 description: IT and Lisp books
 loc: flemshed
 
-Programming Language Semantics            Michael Scott          MK
