@@ -3,9 +3,4 @@ label: 2019030602
 description: IT and Lisp books
 loc: flemshed
 
-Common Lisp: The Language 2e     Guy Steele               DigialPress
-ANSI Common Lisp                 Paul Graham              PTR
-Unix Hater's Handbook            Garfinker/Weise          IDG
-Artists' Guide to the GIMP       Michael J Hammel         SSC
-Photoshop for the Web                     Mikkel Aaland          ORA
 Programming Language Semantics            Michael Scott          MK

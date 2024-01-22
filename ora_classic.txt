@@ -84,6 +84,7 @@ Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                              Shelley Powers      ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
 PGP: Pretty Good Privacy                      Garfinkel           ORA
+Photoshop for the Web                         Mikkel Aaland       ORA
 Porting UNIX Software                         Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
 Power Programming with RPC                    John Bloomer        ORA
