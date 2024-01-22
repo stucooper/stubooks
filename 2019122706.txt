@@ -4,13 +4,3 @@ description:
 loc: flemshed
 
 A Generative Theory of Shape                 Michael Layton     Springer
-
-
-
-
-
-
-
-
-
-
