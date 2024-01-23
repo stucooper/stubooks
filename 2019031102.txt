@@ -3,10 +3,6 @@ label: 2019031102
 description: Various IT books including gaming
 loc: flemshed
 
-The Game Design Reader               Salen/Zimmerman        mitp
-Gamer's Guide to Coding              Gordon McComb          Sterling
-Network Algorithmics                 George Varghese        MK
 Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
 Dave Barry Turns 50                      Dave Barry           RandomHouse
 The Eureka Way                           Alan Koehler         ABC
-When the World Stopped to Listen         Stuart Isacoff       AlfredKnopf
