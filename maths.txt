@@ -1,6 +1,7 @@
 # Maths books and history and bios
 Calculus Wars                      Jason Bardi            HighStakes
 From Erdos to Kiev: Olympic prons  Honsberger             MathsAssocUSA
+A Generative Theory of Shape       Michael Layton         Springer
 Genius in my Basement              Alexander Masters      FourthEstate
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
 Mathematical Quickies              Trigg                  Dover
