@@ -3,4 +3,3 @@ label: 2019110901
 description: More IT books
 loc: flemshed
 
-Unicode Explained                 Jukka Korpela         ORA

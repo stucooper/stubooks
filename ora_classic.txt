@@ -120,6 +120,7 @@ Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
 Understanding MySQL Internals                 Pachev              ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
+Unicode Explained                             Jukka Korpela       ORA
 Unix Backup & Recovery                        Preston             ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
