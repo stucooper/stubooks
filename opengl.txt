@@ -1,0 +1,5 @@
+# Books on Graphics Programming and OpenGL
+Beginning OpenGL Game Progamming 2e    Luke Benstead        CourseTech
+Computer Graphics 2e                   Foley/Van Dam        AWL
+OpenCL Programming Guide               Munshi/Gaster        AWL
+OpenGL Super Bible 2e                  Wright/Lipchak       WaiteGroup

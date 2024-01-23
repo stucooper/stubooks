@@ -1,9 +1,8 @@
 name: IT - UNIX GRAPHICS
 label: 2019040101
-description: mostly OpenGL/Graphics books, some little used unix admin
+description: mostly scifi books
 
 Apache Web Server Admin    Aulds               Sybex
-OpenGL Super Bible 2e                          WaiteGroup
 Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
 Heretics of Dune                             Frank Herbert           Gollancz
 God Emperor of Dune                          Frank Herbert           NewEnglish
