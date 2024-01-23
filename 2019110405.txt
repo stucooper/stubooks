@@ -5,6 +5,5 @@ description: Art books: museums and exhibition catalogues
 Penguin and the Lane Brothers             Stuart Kells    BlackInc
 Penguin Special: Life of Allen Lane       Jeremy Lewis    Penguin
 Penguin Portrait                          ed Hare         Penguin
-American Visions: Art in America          Robert Hughes   Vintage
 Orientalism                        Edward W Said          Vintage
 Israel: A History                  Martin Gilbert         BlackSwan
