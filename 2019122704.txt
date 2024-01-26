@@ -4,4 +4,3 @@ description: Kernel and Linux books
 loc: flemshed
 
 Understanding the Linux Kernel 2e            Bovet/Cesati           ORA
-RedHat Networking and System Administration  Collings/Wall          RedHat

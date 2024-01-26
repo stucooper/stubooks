@@ -35,6 +35,7 @@ Operating Systems with Linux                 John O'Gorman        palgrave
 Optimizing Linux Performance                 Philip Ezolt         HP
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
+RedHat Networking and System Administration  Collings/Wall        RedHat
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
