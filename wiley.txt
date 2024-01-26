@@ -1,12 +1,14 @@
 # IT books and IT policy books published by JohnWiley
 # they also do the "for dummies" series
 # All Bruce Schneier books go here even if other publisher
+Advanved Penetration Testing                 Wil Allsopp          JohnWiley
 Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley
 The Art of Intrusion                         Mitnick/Simon        JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
+Hnnds on Hacking                             Hickey/Arcuri        JohnWiley
 Liars and Outliers                           Bruce Schneier       JohnWiley
 Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts                   Silberschatz/Galvin  JohnWiley
