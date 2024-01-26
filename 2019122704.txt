@@ -1,6 +1,0 @@
-name: KERNEL INTERNALS
-label: 2019122794
-description: Kernel and Linux books
-loc: flemshed
-
-Understanding the Linux Kernel 2e            Bovet/Cesati           ORA
