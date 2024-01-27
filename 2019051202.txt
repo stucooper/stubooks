@@ -3,7 +3,3 @@ label: 2019051202
 description: Chris Cleave
 loc: flemshed
 
-Incendiary                             Chris Cleave      ChattoWindus
-Gold                                   Chris Cleave      Sceptre
-The Other Hand                         Chris Cleave      Sceptre
-Everyone Brave is Forgiven             Chris Cleave      Sceptre
