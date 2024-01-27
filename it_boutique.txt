@@ -27,7 +27,9 @@ GNU Make                                     RMS/McGrath          GNUPress
 Hacking Secret Codes with Python             Al Sweigart          self
 Handbook of Prog Langs Volume 3              ed Salus             MTP
 Handbook of Prog Langs Volume 4              ed Salus             MTP
+HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
 Linux Network Servers                        Craig Hunt           Sybex
+Multiprotocol Routing for SANs               Judd                 brocade
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
@@ -36,6 +38,7 @@ Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
 Optimizing Linux Performance                 Philip Ezolt         HP
+Principles of SAN Design                     Judd/Kruger          brocade
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat
