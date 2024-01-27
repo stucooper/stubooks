@@ -1,6 +1,7 @@
 # IT books published by Addison/Wesley
 An Introduction to Operating Systems  Harvey Deitel                   AWL
 Advanced C++                          James O. Coplien                AWL
+Advanced Programming UNIX Env 1e hb   Stevens  lost?                  AWL
 Advanced Programming UNIX Env 2e pb   Stevens/Rago                    AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 Ajax                                  Edmond Woychowsky               AWL
