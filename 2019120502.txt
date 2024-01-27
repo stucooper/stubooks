@@ -4,4 +4,3 @@ description: Comer TCP/IP series and other IT books
 loc: flemshed
 
 Types and Programming Languages            Benjamin Pierce      MITP
-Unix Systems Programming                   Kay/Steven Robbins   PTR
