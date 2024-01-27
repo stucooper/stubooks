@@ -1,9 +1,9 @@
 # Authors I have 3-10 books of, not enough for their own file
-Alibi                                Joseph   Kanon          sphere
-Defectors                            Joseph   Kanon          SimonSchuster
-The Good German                      Joseph   Kanon          LittleBrown
-Istanbul Passage                     Joseph   Kanon          SimonSchuster
-Leaving Berlin                       Joseph   Kanon          SimonSchuster
-Los Alamos                           Joseph   Kanon          abacus
-The Prodigal Spy                     Joseph   Kanon          abacus
-Stardust                             Joseph   Kanon          SimonSchuster
+Alibi                                Joseph Kanon          sphere
+Defectors                            Joseph Kanon          SimonSchuster
+The Good German                      Joseph Kanon          LittleBrown
+Istanbul Passage                     Joseph Kanon          SimonSchuster
+Leaving Berlin                       Joseph Kanon          SimonSchuster
+Los Alamos                           Joseph Kanon          abacus
+The Prodigal Spy                     Joseph Kanon          abacus
+Stardust                             Joseph Kanon          SimonSchuster
