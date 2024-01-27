@@ -3,7 +3,3 @@ label: 2019043001
 description: Poker bios and history mostly no strategy
 
 Black Butterfly                      Gatiss                  Scribner
-The Accidental Billionaires          Mezrich                 arrow
-Bringing Down the House              Mezrich                 arrow
-Ugly Americans                       Mezrich                 arrow
-Busting Vegas                        Mezrich                 arrow
