@@ -2,6 +2,5 @@ name: SPORTS
 label: 2019130801
 description: Sports books, non-AFL
 
-White King and Red Queen         Daniel Johnson          Atlantic
 The Kingdom of the Cults         Walter Martin           BethanyHouse
 The Beer Bible                   Willie Simpson          smh
