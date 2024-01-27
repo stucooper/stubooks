@@ -4,7 +4,6 @@ description: IT Lifestyle books
 loc: flemshed
 
 Wikinomics                        Don Tapscott/Williams Atlantic
-Nudist on the Late Shift          Po Bronson            Vintage
 The Hacker Ethic                  Pekka Himanen         RandomHouse
 Cult of the Amateur               Andrew Keen           nichoasBrealey
 Sonic Boom Napster                John Alderman         FourthEstate
@@ -25,6 +24,5 @@ Republic, Lost                   Lawrence Lessig          Twelve
 The Apple Revolution             Luke Dormehl             Virgin
 The Slow Fix                     Carl Honore              WilliamCollins
 Fatal System Error               Joseph Menn              PublicAffairs
-Top Dog                          Po Bronson/Merryman      ebury
 Remix                            Lawrence Lessig          Bloomsbury
 You are not a gadget             Jaron Lanier             AllenLane
