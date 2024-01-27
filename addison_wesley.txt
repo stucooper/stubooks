@@ -57,7 +57,9 @@ Korn Shell Programming Tutorial       Rosenberg                       AWL
 Learn Python the Hard Way 3e          Shaw                            AWL
 LISP 3e                               Winston/Horn                    AWL
 Linux Application Development         Johnson/Troan                   AWL
+Linux Install/Configuration/Using     Michael Kofler         lost?    AWL
 Linux Kernel Development 3e           Robert Love                     AWL
+LINUX Kernel Internals                various Germans        lost?    AWL
 Moving to Free Software               Gagne                           AWL
 New Hacker's Dictionary               ed Eric S. Raymond              AWL
 NFS Illustrated                       Callaghan                       AWL
