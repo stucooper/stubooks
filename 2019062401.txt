@@ -1,5 +1,0 @@
-name: IT - PRINTOUT BOUND EBOOKS
-label: 2019062401
-description: Ebooks that have been instantiated
-
-Optus Notebooks                  Cooper             Cooper
