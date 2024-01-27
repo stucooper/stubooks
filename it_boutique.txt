@@ -22,6 +22,7 @@ Free Software Free Society                   RMS                  GNUPress
 Fundamentals of Operating Systems            A M Lister           Macmillan
 Games of Stategy 3e                          Dixit/Skeath         Viva
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
+GIMP 2.6 for Photographers                   Goelker              rockynook
 GNU Make                                     RMS/McGrath          GNUPress
 Hacking Secret Codes with Python             Al Sweigart          self
 Handbook of Prog Langs Volume 3              ed Salus             MTP
