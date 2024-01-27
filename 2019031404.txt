@@ -1,6 +1,0 @@
-name: HARDBACKS
-label: 201904031404
-desc: Hardbacks, literary mostly
-loc: flemshed
-
-
