@@ -3,16 +3,3 @@ label: 2019030802
 description: Folio Society Hardbacks
 loc: flemshed
 
-The Moon's a Balloon                      David Niven            Folio
-Plums of P G Wodehouse                    P G Wodehouse          Folio
-Genius of James Thurber                   James Thurber		 Folio
-The Secret Agent                          Joseph Conrad          Folio
-Silent Spring                             Rachel Carson		 Folio
-Name of the Rose                          Umberto Echo		 Folio
-The Twelve Caesars                        Suetonius/Graves	 Folio
-Complete Tales of the Unexpected          Roald Dahl		 Folio
-The Classical World                       Robin Lane Fox	 Folio
-History of Western Philosophy             Bertrand Russell	 Folio
-Goodbye to All That                       Robert Graves		 Folio
-Beethoven                                 Alexander Thayer       Folio
-The Life of Mozart                        Edward Holmes          Folio
