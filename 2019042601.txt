@@ -2,4 +2,3 @@ name: POKER - LIMIT
 label: 2019042601
 description: poker books, mostly limit
 
-Once upon a time in Russia            Mezrich           Heinemann
