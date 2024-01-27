@@ -11,4 +11,5 @@ New Hacker's Dictionary 3e                   Eric Raymond             mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 streetlights and shadows                     Klein                    mitp
 Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp
+Types and Programming Languages              Benjamin Pierce  lost?   mitp
 What we know about Emotional Intelligence    Zeidner/Matthews         mitp
