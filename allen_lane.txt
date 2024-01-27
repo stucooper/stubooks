@@ -16,7 +16,7 @@ The Better Angels of Our Nature Pinker           Penguin
 Between East and West          Applebaum         Penguin
 The Black Swan                 Taleb             Penguin
 Blink                          Gladwell          Penguin
-Blitzed                        Ohler             Penguin
+Blitzed                        Ohler             Penguin R2023
 Blueprint                      Plomin            Penguin
 Blood and Guts                 Porter            Penguin
 The Body Keeps the Score       Van Der Kolk      Penguin
@@ -39,10 +39,10 @@ The Craftsman                  Sennett           Penguin
 Crimes Against Humanity        Robertson         Penguin
 Dark Continent                 Mazower           Penguin
 Denying the Holocaust          Lipstadt          Penguin
-The Descent of Man             Perry             Penguin
-Dial M for Murdoch             Watson/Hickman    Penguin
+The Descent of Man             Perry             Penguin R2023
+Dial M for Murdoch             Watson/Hickman    Penguin R2020
 Digital Gold                   Popper            Penguin
-Don't be Evil                  Foroohar          Penguin
+Don't be Evil                  Foroohar          Penguin R2023
 The Egyptians                  Shenker           Penguin
 The Element                    Robinson          Penguin
 Enemies and Neighbours         Black             Penguin
@@ -61,7 +61,7 @@ Every Song Ever                Ratliff           Penguin
 The Fall of the Ottomans       Rogan             Penguin
 Feline Philosophy              Gray              Penguin
 A Fistful of Shells            Green             Penguin
-Flash Boys                     Lewis             Penguin
+Flash Boys                     Lewis             Penguin R2022
 Fooled by Randomness           Taleb             Penguin
 Freakonomics                   Levitt/Dubner     Penguin
 The Gates of Europe            Plokhy            Penguin
