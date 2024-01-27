@@ -1,4 +1,0 @@
-name: POKER - LIMIT
-label: 2019042601
-description: poker books, mostly limit
-
