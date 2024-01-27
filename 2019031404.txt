@@ -4,6 +4,4 @@ desc: Hardbacks, literary mostly
 loc: flemshed
 
 Testaments                           Attwood           DontCare (CMC)
-A Beautiful Mind                      Sylvia Nasar              faber
-In Code                               Sarah Flannery            Workman
 
