@@ -28,6 +28,7 @@ Hacking Secret Codes with Python             Al Sweigart          self
 Handbook of Prog Langs Volume 3              ed Salus             MTP
 Handbook of Prog Langs Volume 4              ed Salus             MTP
 HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
+How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Linux Network Servers                        Craig Hunt           Sybex
 The Macintosh Way                            Guy Kawasaki         ScottForesman
 Multiprotocol Routing for SANs               Judd                 brocade
