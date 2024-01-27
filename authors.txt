@@ -8,6 +8,10 @@ Leaving Berlin                       Joseph Kanon          SimonSchuster
 Los Alamos                           Joseph Kanon          abacus
 The Prodigal Spy                     Joseph Kanon          abacus
 Stardust                             Joseph Kanon          SimonSchuster
+# Michael Lewis see also allen_lane.txt
+The Future Just Happened             Michael Lewis         coronet
+Liar's Poker                         Michael Lewis         Hodder
+Panic!                            ed Michael Lewis         Penguin
 The Accidental Billionaires          Ben Mezrich           arrow
 Bitcoin Billionaires                 Ben Mezrich           abacus
 Bringing Down the House              Ben Mezrich           arrow
