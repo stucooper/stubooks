@@ -11,6 +11,7 @@ Stardust                             Joseph Kanon          SimonSchuster
 # Michael Lewis see also allen_lane.txt
 The Future Just Happened             Michael Lewis         coronet
 Liar's Poker                         Michael Lewis         Hodder
+The Money Culture                    Michael Lewis         HodderStoughton
 Panic!                            ed Michael Lewis         Penguin
 The Accidental Billionaires          Ben Mezrich           arrow
 Bitcoin Billionaires                 Ben Mezrich           abacus
