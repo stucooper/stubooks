@@ -29,6 +29,7 @@ Intrusion Detection with Snort             Rehman               PTR
 Java Application Development on Linux      Albing/Schwartz      PTR
 JSP and Java                               Art Taylor           PTR
 Just Java 2 6e                             Peter van der Linden PTR
+Life with Unix                             Libes/Ressler        PTR lost?
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
 The Linux Development Platform             Rehman/Paul          PTR

@@ -5,5 +5,4 @@ loc: flemshed
 
 Linux Programming Unleashed                Various             SAMS
 Linux Unleashed                            Various             SAMS
-Life with Unix                             Libes/Ressler        PTR
 Linux File Systems                         Moshe Bar           McGrawHill
