@@ -1,0 +1,17 @@
+ActiveMQ in Action                 Snyder                manning printout
+Advanced PostgreSQL                Duffy                 printout
+Elec 370 Operating Systems Notes   Betz                  UniNcle printout
+Extending Puppet                   Franceschi            packt printout
+Java Message Service               Richards              ora printout
+JIRA Development Cookbook          Kuruvilla             packt printout
+Mastering Puppet                   Uphill                packt printout
+Maximum RPM                        Bailey                RedHat printout
+NMap6 Network Exploration Security Pale                  packt printout
+The PL/pgSQL Procedural Language   Duffy                 printout
+PostgreSQL Programmer's Guide      Lockhart              printout
+PostgreSQL Administrator's Guide   Lockhart              printout
+PostgreSQL User's Guide            Lockhart              printout
+Site Reliability Engineering       Google                ora printout
+Texinfo                            Chassell,Stallman     gnu printout
+Version Control with Git 2e        Loeliger              ora printout
+Version Management with CVS        Cederqvist            printout

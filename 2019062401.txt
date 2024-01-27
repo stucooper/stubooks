@@ -2,21 +2,4 @@ name: IT - PRINTOUT BOUND EBOOKS
 label: 2019062401
 description: Ebooks that have been instantiated
 
-Betz            Elec 370 Operating Systems Notes         UniNcle
-Duffy           The PL/pgSQL Procedural Language         printouts
-Duffy           Advanced PostgreSQL                      printouts
-Lockhart        PostgreSQL Programmer's Guide            postgres
-Lockhart        PostgreSQL Administrator's Guide         postgres
-Lockhart        PostgreSQL User's Guide                  postgres
-Pale            NMap6: Network Exploration and Security  packtprintout
-Cederqvist      Version Management with CVS              printout
-Kuruvilla       JIRA Development Cookbook                packtprintout
-Chassell,Stallman Texinfo                                gnuprintout
-Version Control with Git 2e      Loeliger           ORAprintout
-Site Reliability Engineering     Google             ORAprintout
-ActiveMQ in Action               Snyder             Manningprintout
-Java Message Service             Richards           ORAprintout
-Maximum RPM                      Bailey             RedHatprintout
-Mastering Puppet                 Uphill             Packtprintout
-Extending Puppet                 Franceschi         Packtprintout
 Optus Notebooks                  Cooper             Cooper
