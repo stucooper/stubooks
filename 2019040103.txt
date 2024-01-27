@@ -1,5 +1,0 @@
-name: UNIX/C PROGRAMMING
-label: 2019040103
-description: changed
-loc: flemshed
-
