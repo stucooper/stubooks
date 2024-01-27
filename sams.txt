@@ -4,6 +4,8 @@
 Advanced PHP Programming                  George Schlossnagle    SAMSDev
 Create your own Blog                      Tris Hussey            SAMS
 Linux Shell Scripting with Bash           Ken O. Burtch          SAMSDev
+Linux Programming Unleashed               Various                SAMS lost?
+Linux Unleashed                           Various                SAMS lost?
 MySQL 2e                                  Paul DuBois            SAMSDev
 PHP and MySQL Web Development 2e          Welling/Thomson        SAMSDev
 PostgreSQL 2e                             Korry Douglas          SAMSDev
