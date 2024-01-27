@@ -8,4 +8,5 @@ GIMP Essential Reference              Alex Harford           NewRiders
 GNU Autoconf, Automake and Libtool    Vaughan/Ellison        NewRiders
 Linux Firewalls 2e                    Robert Ziegler         NewRiders
 Python Web Programming                Steve Holden           NewRiders
+Understanding Directory Services      Sheresh/Sheresh        NewRiders
 Vi IMproved - Vim                     Oualline               NewRiders
