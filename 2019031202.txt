@@ -5,4 +5,3 @@ loc: flemshed
 
 Linux Programming Unleashed                Various             SAMS
 Linux Unleashed                            Various             SAMS
-Linux File Systems                         Moshe Bar           McGrawHill
