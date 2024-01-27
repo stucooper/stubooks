@@ -1,5 +1,0 @@
-name: POKER - BIOS HISTORY
-label: 2019043001
-description: Poker bios and history mostly no strategy
-
-Black Butterfly                      Gatiss                  Scribner
