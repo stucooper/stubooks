@@ -3,23 +3,3 @@ label: 2019031603
 description: Science Biographies
 loc: flemshed
 
-Richard Feynman                     John and Mary Gribbin  Viking
-Einstein                            White/Gribbin          SimonSchuster
-Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
-The Fellowship                      John Gribbin           Penguin
-American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic
-Genius: Feynman and Modern Physics  James Gleick           Abacus
-Chaos                               James Gleick           Cardinal
-The Information                     James Gleick           FourthEstate
-The Earth Moves                     Dan Hofstadter         Norton
-What Just Happened                  James Gleick           Abacus
-Isaac Newton                        James Gleick           Harper
-Darwin                              Gribbin/White          Pocket
-Cosmos                              Cark Sagan             Abacus
-Atomic                              Jim Baggott            Icon
-Pandora's Keepers                   Brian Van De Mark      BackBay
-Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC
-History of World in 100 objects     Neil MacGregor         AllenLane
-Bomb Book and Compass               Simon Winchester       Penguin
-A Crack in the Edge of the World    Simon Winchester       Penguin
-Charles Darwin 4 books              Charles Darwin         US

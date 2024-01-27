@@ -1,0 +1,21 @@
+# Science books and scientist bios. Maths in maths.txt
+Atomic                              Jim Baggott            Icon
+American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic R2023
+Bomb Book and Compass               Simon Winchester       Penguin
+Chaos                               James Gleick           Cardinal
+Charles Darwin 4 books              Charles Darwin         US lost?
+Cosmos                              Carl Sagan             Abacus
+A Crack in the Edge of the World    Simon Winchester       Penguin
+Darwin                              Gribbin/White          Pocket
+The Earth Moves                     Dan Hofstadter         Norton
+Einstein                            White/Gribbin          SimonSchuster
+The Fellowship                      John Gribbin           Penguin
+Genius: Feynman and Modern Physics  James Gleick           Abacus
+The Information                     James Gleick           FourthEstate
+Isaac Newton                        James Gleick           Harper
+Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
+Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC lost?
+Pandora's Keepers                   Brian Van De Mark      BackBay
+Richard Feynman                     John and Mary Gribbin  Viking
+What Just Happened                  James Gleick           Abacus
+History of World in 100 objects     Neil MacGregor         AllenLane
