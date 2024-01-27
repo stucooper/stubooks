@@ -1,5 +1,0 @@
-name: SCIENCE
-label: 2019031603
-description: Science Biographies
-loc: flemshed
-
