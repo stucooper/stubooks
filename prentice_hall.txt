@@ -38,8 +38,8 @@ The Linux Programmers Toolbox              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
 Linux Routers                              Mancill              PTR
 Linux System Security                      Mann/Mitchell        PTR
-The Magic Garden Explained                 Goodheart/Cox        PTR
-The Magic Garden Explained Solutions Manl  Goodheart/Cox        PTR
+The Magic Garden Explained                 Goodheart/Cox  lcb   PTR
+The Magic Garden Explained Solutions Manl  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
