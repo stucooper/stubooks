@@ -19,7 +19,7 @@ Debugging with GDB                           RMS/Cygnus           GNUPress
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Everyday Cryptography                        Keith Martin         Oxford
 Free Software Free Society                   RMS                  GNUPress
-Fundamentals of Operating Systems            A M Lister           Macmillan
+Fundamentals of Operating Systems            A M Lister     lcb   Macmillan
 Games of Stategy 3e                          Dixit/Skeath         Viva
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GIMP 2.6 for Photographers                   Goelker              rockynook

@@ -90,4 +90,4 @@ UNIX Internals                        Pate                            AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
 Unix System V Network Programming     Rago                            AWL
-UNIX Systems for Modern Architectures Schimmel                        AWL
+UNIX Systems for Modern Architectures Schimmel                   lcb  AWL

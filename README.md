@@ -12,3 +12,6 @@ AWL     Addison Wesley (Longman)
 
 Book abbreviations:
 2e,3e   2nd edition, 3rd edition
+
+Location abbreviations:
+lcb    Little Creatures Box (empty beer case)
