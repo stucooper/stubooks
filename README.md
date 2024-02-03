@@ -15,3 +15,4 @@ Book abbreviations:
 
 Location abbreviations:
 lcb    Little Creatures Box (empty beer case)
+cib    Cisco Box
