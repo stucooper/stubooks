@@ -6,7 +6,7 @@ OpenCL Programming Guide               Munshi/Gaster        AWL
 OpenGL Distilled                       Martz                AWL
 OpenGL ES 2.0 Programming Guide        Munshi/Ginsburg      AWL
 OpenGL Programming for the X Windows   Kilgard              AWL
-OpenGL Programming Guide               Woo/Neider           AWL
+OpenGL Programming Guide 3e            Woo/Neider           AWL
 OpenGL Reference Manual 3e             Architecture Board   AWL
 OpenGL Shading Language 2e             Rost                 AWL
 OpenGL Super Bible 2e                  Wright/Lipchak       WaiteGroup
