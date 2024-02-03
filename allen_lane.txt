@@ -208,6 +208,7 @@ History of World  100 objects  Neil MacGregor    AllenLane Hardback
 Hitler                         Simms             AllenLane Hardback
 Hitler (single volume)         Kershaw           AllenLane Paperback
 The Inner Level                Wilkinson         AllenLane Hardback
+Kissinger 1923-68 The Idealist Ferguson          PenguinPress Hardback
 Lewis Carroll in Numberland    Wilson            AllenLane Hardback
 The Master Algorithm           Domingos          AllenLane Hardback
 Meetings with Remarkable Manuscripts De Hamel    AllenLane Hardback
