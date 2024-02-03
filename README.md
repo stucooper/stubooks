@@ -9,6 +9,7 @@ Publisher abbreviations:
 ORA	O'Reilly and Associates https://www.oreilly.com
 PTR     Prentice Hall
 AWL     Addison Wesley (Longman)
+MK      Morgan Kaufmann and Elsevier
 
 Book abbreviations:
 2e,3e   2nd edition, 3rd edition
@@ -16,3 +17,6 @@ Book abbreviations:
 Location abbreviations:
 lcb    Little Creatures Box (empty beer case)
 cib    Cisco Box
+
+lending abbreviations:
+cmc/CMC Charles Cave, Epping
