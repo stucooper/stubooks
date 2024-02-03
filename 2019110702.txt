@@ -4,7 +4,6 @@ description: Non fiction Allen Lane Hardbacks and others
 loc: flemshed
 
 A Bright Shining Lie                  Neil Sheehan              JonathanCape
-Gonzo: Life of Hunter S Thompson      Jann Wenner/Corey Seymour  LittleBrown
 Blood, Tears and Folloy: WW2          Len Deighton               Pimlico
 Radical Sydney                        Terry Irving/Rowan Cahill  UNSW
 fin                                   James Delingpole           Picador
