@@ -11,7 +11,7 @@ The Cult of Mac                   Kahney              nostarch
 Designing BSD Rootkits            Kong                nostarch
 Lego Builder's Guide 2e           Bedford             nostarch
 How Linux Works 2e                Ward                nostarch
-How Wikipedia Works               Ayers/Mathews       nostarch
+How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
 The IDA Pro Book                  Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
