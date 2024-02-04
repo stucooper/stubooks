@@ -3,7 +3,3 @@ label: 2019042902
 description: IT Algorithms books
 loc: flemshed
 
-Digital Typography                                       Knuth          CSLI
-Selected Papers on Computer Science                      Knuth          CSLI
-Reverse Engineering Code with IDA Pro             Kaminsky       Syngress
-Developers Guide to Debugging         Grotker/Holtmann Springer

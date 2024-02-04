@@ -16,6 +16,8 @@ Database Management Systems 2e               Ramakrishnan/Gehrke  McGrawHill
 Database Systems 5e                          Conolly/Begg         Pearson
 Database Systems Concepts                    Silberschatz/Korth   McGrawHill
 Debugging with GDB                           RMS/Cygnus           GNUPress
+Developers Guide to Debugging                Grotker/Holtmann     Springer
+Digital Typography                           Knuth                CSLI
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Everyday Cryptography                        Keith Martin         Oxford
 Free Software Free Society                   RMS                  GNUPress
@@ -45,6 +47,8 @@ Principles of SAN Design                     Judd/Kruger          brocade
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat
+Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
+Selected Papers on Computer Science          Knuth                CSLI
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
