@@ -1,5 +1,0 @@
-name: ALGORITHMS
-label: 2019042902
-description: IT Algorithms books
-loc: flemshed
-
