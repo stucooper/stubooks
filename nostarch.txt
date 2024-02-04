@@ -21,6 +21,7 @@ Nagios 2e                         Barth               nostarch
 The Official GNOME2 Devel Guide   Warkus              nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
 Think like a Programmer           Spraul              nostarch
+Python Crash Course               Eric Matthes        nostarch
 Python for Kids                   Briggs              nostarch
 Realm of Racket                   Felleisen           nostarch
 Scratch Programming Playground    Sweigart            nostarch

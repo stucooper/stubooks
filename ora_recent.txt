@@ -11,6 +11,7 @@ Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
+Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
 Designing Connected Products                  Goodman             ORA
 Designing Interfaces                          Tidwell             ORA
