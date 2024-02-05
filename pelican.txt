@@ -12,10 +12,9 @@
 # New Pelicans but not in the numbered series
 The Beginning of Infinity                David Deutsch        Pelican
 # Old Pelicans 1960s/70s/80s
+Facts from Figures                       Moroney              Pelican
+The Great Tradition                      F.R.Leavis           Pelican
 Lives of the Great Composers Vol 1       ed Bacharach         Pelican
 Lives of the Great Composers Vol 2       ed Bacharach         Pelican
 Lives of the Great Composers Vol 3       ed Bacharach         Pelican
 Mathematics in Western Culture           Morris Kline         Pelican
-
-
-
