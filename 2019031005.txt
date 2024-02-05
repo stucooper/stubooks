@@ -1,7 +1,0 @@
-name: MATHS - SCIENCE
-label: 2019031005
-description: Maths books
-loc: flemshed
-
-
-FIXME: many more books
