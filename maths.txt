@@ -1,13 +1,20 @@
 # Maths books and history and bios
+Adventures of a Mathematician      Stanislaw Ulam         Scribners
+Alan Turing: The Enigma            Andrew Hodges          Vintage
 A Beautiful Mind                   Sylvia Nasar           faber
+Big Book of Numbers                Adam Spencer           Xoum
 Calculus Wars                      Jason Bardi            HighStakes
+The Cracking Codebook              Simon Singh            HerperCollins
+Fluke: Maths Myths of Conicidences Joseph Mazur           OneWorld
 From Erdos to Kiev: Olympic prons  Honsberger             MathsAssocUSA
 A Generative Theory of Shape       Michael Layton         Springer
 Genius in my Basement              Alexander Masters      FourthEstate
 In Code                            Sarah Flannery         Workman
+The Man who Knew Infinity          Robert Kanigel         Abacus
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
 Mathematical Quickies              Trigg                  Dover
 Maths Olympiads: 2000-2001         various                MathsAssocUSA
 My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster
 Revised 4 Unit Maths Course        J. Coroneous           self
 Riddles in Mathematics             Eugene Northrop        Penguin
+The Simpsons their Maths secrets   Simon Singh            bloomsbury
