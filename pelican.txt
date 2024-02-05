@@ -1,0 +1,21 @@
+# A Pelican Introduction Series (ordered by spine number!)
+1  Economics: The User's Guide           Ha-Joon Chung        Pelican
+3  Revolutionary Russia 1891-1991        Orlando Figes        Pelican
+4  The Domesticated Brain                Bruce Hood           Pelican
+6  Classical Literature                  Richard Jenkyns      Pelican
+10 Social Class in the 21st Century      Mike Savage          Pelican
+14 Basic Income: How we can make happen  Guy Standing         Pelican
+20 The Human Planet                      Lewis/Maslin         Pelican
+21 Think Again: How to Reason/Argue      Sinnott-Armstrong    Pelican
+24 National Populism                     Eatwell/Goodwin      Pelican
+30 Art of Statistics                     David Spiegelhater   Pelican
+# New Pelicans but not in the numbered series
+The Beginning of Infinity                David Deutsch        Pelican
+# Old Pelicans 1960s/70s/80s
+Lives of the Great Composers Vol 1       ed Bacharach         Pelican
+Lives of the Great Composers Vol 2       ed Bacharach         Pelican
+Lives of the Great Composers Vol 3       ed Bacharach         Pelican
+Mathematics in Western Culture           Morris Kline         Pelican
+
+
+
