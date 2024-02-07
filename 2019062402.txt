@@ -3,14 +3,6 @@ label: 2019062402
 description: Latex books and random IT
 
 Googled: the end of the world as we know it         Auletta     Virgin
-Latex A Document Prepartion System 2e               Lamport     AWL
-The TeXbook                                         Knuth       AWL
-The LaTeX Companion 2e                              Mittlebach  AWL
-The LaTeX Web Companion                             Goosens     AWL
 Are you smart enough to work at Google?             Poundstone  LittleBrown
 Modern Data Analysis: Applied Statistics            Hamilton    BrooksCole
 Wikinomics                                 Tapscott/Williams    Penguin
-
-notes: LaTex books and the texbook are in Carlingford at the moment
-notes: together with other LaTeX books.. might reorganise this into
-notes: a full LaTex/TeX box (as much as possible) and another general IT box

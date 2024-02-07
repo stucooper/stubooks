@@ -46,6 +46,7 @@ Find the Bug                          Adam Barr                       AWL
 Firewalls and Internet Security 2e    Cheswick/Bellovin/Rubin         AWL
 Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
+Guide to LaTeX 4e                     Kopka/Daly                      AWL
 Guide to the SQL Standard             C J Date                        AWL
 History of Programming Languages      Bergin/Gibson                   AWL
 How to set up/maintain website 2e     Lincoln Stein                   AWL lost?
@@ -54,6 +55,10 @@ Internet Email Protocols              Jacobson                        AWL
 Intro to Database Systems Vol 1 5e    C J Date                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
+Latex A Document Prepartion System 2e Lamport                         AWL
+The LaTeX Companion 2e                Mittlebach                      AWL
+The LaTeX Graphics Companion          Goosens/Rahtz/Mittlebach        AWL
+The LaTeX Web Companion               Goosens                         AWL
 Learn Python the Hard Way 3e          Shaw                            AWL
 LISP 3e                               Winston/Horn                    AWL
 Linux Application Development         Johnson/Troan                   AWL
@@ -84,6 +89,7 @@ Software Security                     McGraw                          AWL
 TCP/IP Illustrated Volume 1           Stevens                         AWL
 TCP/IP Illustrated Volume 2           Stevens                         AWL
 TCP/IP Illustrated Volume 3           Stevens                         AWL
+The TeXbook                           Knuth                           AWL
 Text processing in Python             Mertz                           AWL
 Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 UNIX Internals                        Pate                            AWL
