@@ -3,14 +3,10 @@ label: 2019042303
 description: it books on policy and crypto
 loc: flemshed
 
-The Glass Cage                     Carr               BodleyHead
-Crypto                             Levy               Viking
-In the Plex google                 Levy               SimonSchuster
-Hackers                            Levy               Penguin
+
+
 Code: Hidden language of software  Petzold            Microsoft
-Who owns the future?               Lanier             AllenLane
 The Cuckoo's Egg                   Stoll              BodleyHead
 ProBlogger 2e                      Rowse/Garrett      JohnWiley
-Makers                             Anderson           rhbusiness
 Makers                             Cory Doctorow      TOR
 colossus: Bletchley Park           Gannon             Atlantic
