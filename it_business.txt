@@ -13,7 +13,9 @@ Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 freeloading: free starves creativity         Chris Ruen           scribe
+geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
+Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
 How apps are changing the world              Stephen Molloy       Aviva
 The Idea Factory: Bell Labs                  Jon Gertner          Penguin
 The Inevitable                               Kevin Kelly          Penguin
@@ -21,16 +23,21 @@ Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
+net.wars                                     Wendy M.Grossman     NYU
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
 rebel code                                   Glyn Moody           AllenLane
+Remix                                        Lawrence Lessig      Bloomsbury
+Republic, Lost                               Lawrence Lessig      Twelve
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
+Silicon Snake Oil                            Clifford Stoll       Macmillan
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
+We are Anonymous                             Penny Olson          BackBay
 What Technology Wants                        Kevin Kelly          viking
 You are not a gadget                         Jaron Lanier         vintage
 Zucked                                       Roger McNamee        HarperCollins

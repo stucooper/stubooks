@@ -10,7 +10,6 @@ Sonic Boom Napster                John Alderman         FourthEstate
 Does I.T Matter?                  Nicholas Carr         Harvard
 grown up digital                  Don Tapscott          McGraw Hill
 The Media Lab (MIT)               Steward Brand         Penguin
-Silicon Snake Oil                 Clifford Stoll        Macmillan
 How Music Got Free                Stephen Witt          Viking (DUPE IN CFORD)
 Internet is not the Answer        Andrew Keen           Atlantic
 Googled                          Ken Auletta              Virgin
@@ -19,9 +18,7 @@ Where Wizards Stay Up Late       hatner/lyon              Touchstone
 Making the Cisco Connection      David Bunnell            JohnWiley
 The Master Switch                Tim Wu                   Atlantic
 in Praise of Slow                Carl Honore              Orion
-Republic, Lost                   Lawrence Lessig          Twelve
 The Apple Revolution             Luke Dormehl             Virgin
 The Slow Fix                     Carl Honore              WilliamCollins
 Fatal System Error               Joseph Menn              PublicAffairs
-Remix                            Lawrence Lessig          Bloomsbury
 You are not a gadget             Jaron Lanier             AllenLane
