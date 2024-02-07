@@ -3,14 +3,11 @@ label: 2019110402
 description: IT Books, many bought at Canberra Lifeline
 
 The Mirror and the Light              Hilary Mantel              FourthEstate
-Chaos Monkeys: Inside Silicon Valley  Antonio Garcia Martinez    ebury
-Internet Wars                         Fergus Hanson              Longueville
 The Second Machine Age                Brynjolfsson/McAfee        Norton
 Johnny Lewis: Biography of Boxing King Paul Kent                 AllenUnwin
 The Con (servatorim of Music)         Jesse Pentecost            ABC
 Slide:ology                           Nancy Duarte               ORA
 How to be a Public Author             Paul Ewen                  Text
-Tomorrows vs Yesterdays               ed Andrew Keen             Atlantic
 He Who Must be Obeid                        Kate McClymont/Besser Vintage
 Catch and Kill (Harvey Weinstein)           Ronan Farrow        Fleet
 Australian Political Institutions 9e        Singleton et al     Pearson

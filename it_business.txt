@@ -1,12 +1,14 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 Blockchain 2035                              Tate/Knapp           self
+Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Competing on Analytics                       Davenport/Harris     harvard
 Crowdsourcing                                Jeff Howe            rh
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
+Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
@@ -23,9 +25,12 @@ Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
 rebel code                                   Glyn Moody           AllenLane
+The Shallows: Internet changes how we think  Nicholas Carr        atlantic
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
+Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 What Technology Wants                        Kevin Kelly          viking
 You are not a gadget                         Jaron Lanier         vintage
+Zucked                                       Roger McNamee        HarperCollins

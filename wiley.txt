@@ -10,6 +10,7 @@ The Bitcoin Standard                         Saifedean Ammous     JohnWiley
 Building the Internet of Things              Maciej Kranz         JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
+The Game Changer                             Dr Jason Fox         JohnWiley
 Hands on Hacking                             Hickey/Arcuri        JohnWiley
 HTML and CSS                                 Jon Duckett          JohnWiley
 Javascript and JQuery                        Jon Duckett          JohnWiley
