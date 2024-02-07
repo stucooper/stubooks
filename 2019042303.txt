@@ -5,8 +5,6 @@ loc: flemshed
 
 
 
-Code: Hidden language of software  Petzold            Microsoft
-The Cuckoo's Egg                   Stoll              BodleyHead
 ProBlogger 2e                      Rowse/Garrett      JohnWiley
 Makers                             Cory Doctorow      TOR
 colossus: Bletchley Park           Gannon             Atlantic
