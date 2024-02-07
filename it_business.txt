@@ -2,9 +2,11 @@
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 Blockchain 2035                              Tate/Knapp           self
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
+Code Book                                    Simon Singh          Fourth
 Competing on Analytics                       Davenport/Harris     harvard
 Crowdsourcing                                Jeff Howe            rh
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
+The Darkest Web                              Eileen Ormsby        AllenUnwin
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
@@ -24,6 +26,7 @@ Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU
+The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
@@ -32,6 +35,7 @@ Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
 Silicon Snake Oil                            Clifford Stoll       Macmillan
+Silk Road                                    Eileen Ormsby        Macmillan
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins

@@ -4,15 +4,12 @@ description: IT Policy books including Dark Web books
 loc: flemshed
 
 The Internet is not the answer         Andrew Keen            Atlantic
-Silk Road                              Eileen Ormsby          Macmillan
-The Darkest Web                        Eileen Ormsby          AllenUnwin
 Winners and Losers on the Internet     Kieran Levis           Atlantic
 TED Talks                              Chris Anderson         nicholasBrealey
 big data: does size matter?            Timandra Harkness      bloomsbury
 Fatal System Error                     Joseph Menn            publicAffairs
 QR Codes kill kittens                  Scott Stratten         Wiley
 Pogue's Basics                         David Pogue            Flatiron
-The Next Digital Decade                ed Szoka/Marcus        TechFreedom
 How to Fix the Future                  Andrew Keen            Atlantic
 The Dark Net                           Jamie Bartlett         Windmill
 Radicals: Outsides Changing the World  Jamie Bartlett         WilliamHeinemann
