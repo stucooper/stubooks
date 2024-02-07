@@ -6,6 +6,8 @@ Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley
 The Art of Intrusion                         Mitnick/Simon        JohnWiley
+The Bitcoin Standard                         Saifedean Ammous     JohnWiley
+Building the Internet of Things              Maciej Kranz         JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
 Hnnds on Hacking                             Hickey/Arcuri        JohnWiley

@@ -1,4 +1,5 @@
 # MIT Press
+10 PRINT CHR(205.5+RND(1)); : GOTO 10        Montefort et al          mitp
 Game Design Reader                           Salen/Zimmerman          mitp
 Hal's Legacy                                 ed David G Stork         mitp
 High Noon on the Electronic Frontier         ed Ludlow                mitp
@@ -8,6 +9,7 @@ The Little Schemer 4e                        Friedman/Felleison       mitp
 A Little Java, A Few Patterns                Felleisen/Friedman       mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
+Perspectives on Free and Open Source Software ed Feller               mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 streetlights and shadows                     Klein                    mitp
 Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp

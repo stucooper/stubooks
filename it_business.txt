@@ -1,0 +1,10 @@
+# IT history business policies etc. See also mitp.txt, wiley.txt
+Competing on Analytics                       Davenport/Harris     harvard
+DevOps Handbook                              Kim/Humble etc.      ItRev
+Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
+Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
+How apps are changing the world              Stephen Molloy       Aviva
+Open Source: Technology and Policy           Deek/McHugh          cambridge
+Sprint: Solve big problems test new ideas    Jake Knapp           bantam
+Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
+What Technology Wants                        Kevin Kelly          viking
