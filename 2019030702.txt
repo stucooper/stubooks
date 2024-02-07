@@ -3,7 +3,6 @@ label: 2019030702
 description: IT Lifestyle books
 loc: flemshed
 
-The Hacker Ethic                  Pekka Himanen         RandomHouse
 Internet is not the Answer        Andrew Keen           Atlantic
 War of the Worlds                Mark Slouka              Abacus
 Making the Cisco Connection      David Bunnell            JohnWiley

@@ -4,6 +4,7 @@ big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Blockchain 2035                              Tate/Knapp           self
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
+Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
 Code Book                                    Simon Singh          Fourth
 Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
@@ -24,10 +25,13 @@ Fatal System Error                           Joseph Menn          publicAffairs
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 freeloading: free starves creativity         Chris Ruen           scribe
+The Future of the Internet                   Jonathan Zittrain    Penguin
+Geek Manifesto : Why Science Matters         Mark Henderson       corgi
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
 Googled                                      Ken Auletta          Virgin
 grown up digital                             Don Tapscott         McGraw Hill
+The Hacker Ethic                             Pekka Himanen        RandomHouse
 Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
 Here Comes Everybody                         Clay Shirky          Penguin
 How apps are changing the world              Stephen Molloy       Aviva
@@ -46,15 +50,18 @@ The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
+Planet Google                                Randall Stross       Atlantic
 Quitter                                      Jon Acuff            Lampo
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
+Scrum                                        Jeff Sutherland      rhBusiness
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
 The Slow Fix                                 Carl Honore          WillCollins
 Silicon Snake Oil                            Clifford Stoll       Macmillan
 Silk Road                                    Eileen Ormsby        Macmillan
+Smarter than you think                       Clive Thompson       WillCollins
 Sonic Boom Napster                           John Alderman        FourthEstate
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve

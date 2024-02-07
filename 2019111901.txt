@@ -8,10 +8,7 @@ Cryptocurrency                            Paul Vigna            BodleyHead
 Cyberia                                   Douglas Rushkoff      Harper
 Life Inc                                  Douglas Rushkoff      RandomHouse
 Free Software Free Society essays         Richard Stallman      GNUPress
-Scrum                                     Jeff Sutherland       rhBusiness
-The Future of the Internet                Jonathan Zittrain     Penguin
 Digital Barbarism                         Mark Helprin           Harper
-Code and other laws of Cyberspace         Lawrence Lessig        BasicBooks
 The New Digital Age                       Schmidt/Cohen          Vintage
 How Google Works                          Schmidt/Rosenberg      JohnMurray
 Makers                                    Chris Anderson         CrownBusiness
