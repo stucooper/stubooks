@@ -1,5 +1,6 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
+big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Blockchain 2035                              Tate/Knapp           self
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
@@ -8,6 +9,7 @@ Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
 Crowdsourcing                                Jeff Howe            rh
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
+Cult of the Amateur                          Andrew Keen          nicBrealey
 The Dark Net                                 Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
@@ -24,10 +26,12 @@ The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 freeloading: free starves creativity         Chris Ruen           scribe
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
+Googled                                      Ken Auletta          Virgin
 grown up digital                             Don Tapscott         McGraw Hill
 Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
 Here Comes Everybody                         Clay Shirky          Penguin
 How apps are changing the world              Stephen Molloy       Aviva
+How to Fix the Future                        Andrew Keen          Atlantic
 How Music Got Free                           Stephen Witt         Viking
 The Idea Factory: Bell Labs                  Jon Gertner          Penguin
 The Inevitable                               Kevin Kelly          Penguin
@@ -48,11 +52,14 @@ rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
+The Slow Fix                                 Carl Honore          WillCollins
 Silicon Snake Oil                            Clifford Stoll       Macmillan
 Silk Road                                    Eileen Ormsby        Macmillan
+Sonic Boom Napster                           John Alderman        FourthEstate
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
+TED Talks                                    Chris Anderson       nicBrealey
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 We are Anonymous                             Penny Olson          BackBay
@@ -60,5 +67,6 @@ What Technology Wants                        Kevin Kelly          viking
 Where Wizards Stay Up Late                   hatner/lyon          Touchstone
 Wikinomics                                   Tapscott/Williams    Atlantic
 Wikipedia Revolution                         Andrew Lih           aurum
+Winners and Losers on the Internet           Kieran Levis         Atlantic
 You are not a gadget                         Jaron Lanier         vintage
 Zucked                                       Roger McNamee        HarperCollins

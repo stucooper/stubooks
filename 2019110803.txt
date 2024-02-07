@@ -4,9 +4,6 @@ description: IT Policy books including Dark Web books
 loc: flemshed
 
 The Internet is not the answer         Andrew Keen            Atlantic
-Winners and Losers on the Internet     Kieran Levis           Atlantic
-TED Talks                              Chris Anderson         nicholasBrealey
-big data: does size matter?            Timandra Harkness      bloomsbury
 QR Codes kill kittens                  Scott Stratten         Wiley
 Pogue's Basics                         David Pogue            Flatiron
 How to Fix the Future                  Andrew Keen            Atlantic

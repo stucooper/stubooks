@@ -4,14 +4,9 @@ description: IT Lifestyle books
 loc: flemshed
 
 The Hacker Ethic                  Pekka Himanen         RandomHouse
-Cult of the Amateur               Andrew Keen           nichoasBrealey
-Sonic Boom Napster                John Alderman         FourthEstate
 Internet is not the Answer        Andrew Keen           Atlantic
-Googled                          Ken Auletta              Virgin
 War of the Worlds                Mark Slouka              Abacus
 Making the Cisco Connection      David Bunnell            JohnWiley
 The Master Switch                Tim Wu                   Atlantic
 The Apple Revolution             Luke Dormehl             Virgin
-The Slow Fix                     Carl Honore              WilliamCollins
-Fatal System Error               Joseph Menn              PublicAffairs
 You are not a gadget             Jaron Lanier             AllenLane
