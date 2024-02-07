@@ -12,7 +12,6 @@ Geeks                                     Jon Katz              Hodder
 Scrum                                     Jeff Sutherland       rhBusiness
 The Future of the Internet                Jonathan Zittrain     Penguin
 Digital Barbarism                         Mark Helprin           Harper
-Open Source: Technology and Policy        Deek/McHugh            Cambridge
 Code and other laws of Cyberspace         Lawrence Lessig        BasicBooks
 The New Digital Age                       Schmidt/Cohen          Vintage
 You are not a gadget                      Jaron Lanier           Vintage

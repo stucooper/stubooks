@@ -1,10 +1,17 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Competing on Analytics                       Davenport/Harris     harvard
 DevOps Handbook                              Kim/Humble etc.      ItRev
+dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
+The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
+freeloading: free starves creativity         Chris Ruen           scribe
 How apps are changing the world              Stephen Molloy       Aviva
+The Inevitable                               Kevin Kelly          Penguin
+Now for then how to face digital w/out fear  Ben Hammersley       hodder
+Lab Rats                                     Dab Lyons            atlantic
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
+Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 What Technology Wants                        Kevin Kelly          viking
