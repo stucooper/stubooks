@@ -17,7 +17,6 @@ Googled                          Ken Auletta              Virgin
 War of the Worlds                Mark Slouka              Abacus
 Where Wizards Stay Up Late       hatner/lyon              Touchstone
 Making the Cisco Connection      David Bunnell            JohnWiley
-rebel code                       Glyn Moody               AllenLane
 The Master Switch                Tim Wu                   Atlantic
 in Praise of Slow                Carl Honore              Orion
 Republic, Lost                   Lawrence Lessig          Twelve
