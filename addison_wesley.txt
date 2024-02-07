@@ -32,6 +32,7 @@ Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Designing Storage Area Networks 2e    Tom Clark                       AWL
+Digital Typography                    Knuth                           csli
 Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
@@ -84,6 +85,7 @@ Real-Time Systems and Prog Langs 4e   Burns/Wellings                  AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Relational Database selected writings Date                            AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
+Selected Papers on Computer Science   Knuth                           csli
 SNMP,v2,v3,RMON1&2 3e                 William Stallings               AWL
 Software Security                     McGraw                          AWL
 TCP/IP Illustrated Volume 1           Stevens                         AWL
