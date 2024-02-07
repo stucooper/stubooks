@@ -1,5 +1,6 @@
 # MIT Press
 10 PRINT CHR(205.5+RND(1)); : GOTO 10        Montefort et al          mitp
+The Computational Beauty of Nature           Gary William Flake       mitp
 Game Design Reader                           Salen/Zimmerman          mitp
 Hal's Legacy                                 ed David G Stork         mitp
 High Noon on the Electronic Frontier         ed Ludlow                mitp
@@ -10,8 +11,9 @@ A Little Java, A Few Patterns                Felleisen/Friedman       mitp
 The Mathematics of Marriage                  Gottman/Murray           mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
-Perspectives on Free and Open Source Software ed Feller               mitp
+Perspectives on Free/Open Source Software    ed Feller                mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
+Rules of Play: Game Design Fundamentals      Salen/Zimmerman          mitp
 streetlights and shadows                     Klein                    mitp
 Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp
 Types and Programming Languages              Benjamin Pierce  lost?   mitp
