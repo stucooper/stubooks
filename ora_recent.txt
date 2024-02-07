@@ -30,6 +30,9 @@ Interactive Data Visualisation for the Web    Murray              ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
 Kubernetes: Up & Running                      Hightower           ORA
+Lean Analytics                                Croll/Yoskovitz     ORA
+Lean Customer Development                     Cindy Alvarez       ORA
+Lean UX                                       Gothelf/Seiden      ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 4e                            Lutz                ORA
 Hadoop Application Architectures              Grover              ORA
@@ -62,4 +65,5 @@ Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
 Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
+UX for Lean Startups                          Laura Klein         ORA
 Web Development with Node and Express         Brown               ORA
