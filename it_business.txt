@@ -10,12 +10,14 @@ Crowdsourcing                                Jeff Howe            rh
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 The Dark Net                                 Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
+Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 Does I.T Matter?                             Nicholas Carr        Harvard
 dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
+Epic Win for Anonymous                       Cole Stryker         overlook
 Fatal System Error                           Joseph Menn          publicAffairs
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
@@ -40,7 +42,8 @@ The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
-Radicals: Outsides Changing the World       Jamie Bartlett        Heinemann
+Quitter                                      Jon Acuff            Lampo
+Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
@@ -56,5 +59,6 @@ We are Anonymous                             Penny Olson          BackBay
 What Technology Wants                        Kevin Kelly          viking
 Where Wizards Stay Up Late                   hatner/lyon          Touchstone
 Wikinomics                                   Tapscott/Williams    Atlantic
+Wikipedia Revolution                         Andrew Lih           aurum
 You are not a gadget                         Jaron Lanier         vintage
 Zucked                                       Roger McNamee        HarperCollins
