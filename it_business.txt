@@ -4,6 +4,7 @@ big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Blockchain 2035                              Tate/Knapp           self
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
+Cluetrain Manifesto                          Doc Searls et al     Pearson
 Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
 Code Book                                    Simon Singh          Fourth
 Cognitive Surplus                            Clay Shirky          AllenLane
@@ -25,8 +26,10 @@ Epic Win for Anonymous                       Cole Stryker         overlook
 Fatal System Error                           Joseph Menn          publicAffairs
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
+Free                                         Chris Anderson       rhbusiness
 freeloading: free starves creativity         Chris Ruen           scribe
 The Future of the Internet                   Jonathan Zittrain    Penguin
+Future Perfect                               Steven Johnson       riverhead
 Geek Manifesto : Why Science Matters         Mark Henderson       corgi
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
@@ -38,19 +41,23 @@ The Hacker Ethic                             Pekka Himanen        RandomHouse
 Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
 Here Comes Everybody                         Clay Shirky          Penguin
 How apps are changing the world              Stephen Molloy       Aviva
+How is the Internet Changing way we think?   ed John Brockman     Atlantic
 How to Fix the Future                        Andrew Keen          Atlantic
 How Music Got Free                           Stephen Witt         Viking
 The Idea Factory: Bell Labs                  Jon Gertner          Penguin
 The Inevitable                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
+Industries of the Future                     Alec Ross            SimonSchuster
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
+The Long Tail                                Chris Anderson       Hyperion
 Makers                                       Anderson             rhbusiness
 The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU
+The New Digital Age                          Schmidt/Cohen        Knopf
 The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
@@ -76,6 +83,7 @@ TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
+User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
 We are Anonymous                             Penny Olson          BackBay
 What Technology Wants                        Kevin Kelly          viking
 Where Wizards Stay Up Late                   hatner/lyon          Touchstone
