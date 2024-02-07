@@ -4,7 +4,6 @@ description: various nonfiction books
 loc: flemshed
 
 When to Rob a Bank                              Levitt/Dubner     HarperCollins
-The Rise of the Robots Mass Unemployment        Ford              oneworld
 Too Big to Fail                                 Sorkin            Penguin
 David and Goliath: Underdogs, misfits           Gladwell          BackBay
 The Russian Revolution brief insight            Smith             Sterling
@@ -13,8 +12,6 @@ Sham: Self Help Actualization Movement          Salerno           nb
 The German Genius                               Watson            SimonSchuster
 How to win a million                            Laing             RandomHouse
 Fooled by Randomness                            Taleb             RandomHouse
-The Mathematics of Marriage                     Gottman/Murray    mitp
 The Seven Basic Plots                           Booker            Continuum
-Coders                                Clive Thompson             Picador
 Practical Guide to Designing with Data Brian Suda                FiveSimple
 Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon

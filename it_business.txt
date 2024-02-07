@@ -1,5 +1,6 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
+The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Blockchain 2035                              Tate/Knapp           self
@@ -7,6 +8,7 @@ Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
 Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
 Code Book                                    Simon Singh          Fourth
+Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
 Crowdsourcing                                Jeff Howe            rh
@@ -55,6 +57,7 @@ Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
 The Long Tail                                Chris Anderson       Hyperion
 Makers                                       Anderson             rhbusiness
+The Master Switch                            Tim Wu               Atlantic
 The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU
@@ -70,6 +73,7 @@ Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
+The Rise of the Robots Mass Unemployment     Ford                 oneworld
 Scrum                                        Jeff Sutherland      rhBusiness
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
 The Slow Fix                                 Carl Honore          WillCollins

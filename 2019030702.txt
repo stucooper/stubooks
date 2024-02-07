@@ -6,6 +6,5 @@ loc: flemshed
 Internet is not the Answer        Andrew Keen           Atlantic
 War of the Worlds                Mark Slouka              Abacus
 Making the Cisco Connection      David Bunnell            JohnWiley
-The Master Switch                Tim Wu                   Atlantic
 The Apple Revolution             Luke Dormehl             Virgin
 You are not a gadget             Jaron Lanier             AllenLane
