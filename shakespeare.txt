@@ -14,8 +14,40 @@ Three Roman PLays (JuliusC/AnthonyCleo/Coriol)    Shakespeare  Penguin
 Sonnetts and a Lover's Complaint                  Shakespeare  Penguin
 # Cambridge editions and criticism
 Cambridge Into to Shakespeare Histories           Shakespeare  Cambridge
+Cambridge History of Shakespeare on Screen 2e     Rothwell     Cambridge
 Hamlmet                                           Shakespeare  Cambridge
 Henry IV Part 1                                   Shakespeare  Cambridge
 King Lear                                         Shakespeare  Cambridge
 Romeo and Juliet                                  Shakespeare  Cambridge
 The Tempest                                       Shakespeare  Cambridge
+# RSC edition
+All's Well that Ends Well                         Shakespeare  RSC/Macmillan
+Antony and Cleopatra                              Shakespeare  RSC/Macmillan
+As You Like It                                    Shakespeare  RSC/Macmillan
+Comedy of Errors (US modern library printing)     Shakespeare  RSC/Macmillan
+Coriolanus                                        Shakespeare  RSC/Macmillan
+Cymbeline                                         Shakespeare  RSC/Macmillan
+Henry IV Part II                                  Shakespeare  RSC/Macmillan
+Henry IV Part I                                   Shakespeare  RSC/Macmillan
+Henry V                                           Shakespeare  RSC/Macmillan
+Henry VI Parts I,II and III                       Shakespeare  RSC/Macmillan
+Julius Caesar                                     Shakespeare  RSC/Macmillan
+King Lear                                         Shakespeare  RSC/Macmillan
+King John and Henry VIII                          Shakespeare  RSC/Macmillan
+Love's Labour's Lost                              Shakespeare  RSC/Macmillan
+Neasure for Measure                               Shakespeare  RSC/Macmillan
+Merry Wives of Windsor                            Shakespeare  RSC/Macmillan
+Nerchant of Venice                                Shakespeare  RSC/Macmillan
+Midsummer Night's Dream                           Shakespeare  RSC/Macmillan
+Much Ado about Nothing                            Shakespeare  RSC/Macmillan
+Othello                                           Shakespeare  RSC/Macmillan
+Pericles                                          Shakespeare  RSC/Macmillan
+Richard II                                        Shakespeare  RSC/Macmillan
+Richard III                                       Shakespeare  RSC/Macmillan
+Sonnets and Other Poems                           Shakespeare  RSC/Macmillan
+Taming of the Shrew                               Shakespeare  RSC/Macmillan
+Troilus and Cressida                              Shakespeare  RSC/Macmillan
+Twelfth Night                                     Shakespeare  RSC/Macmillan
+Two Gentlemen of Verona                           Shakespeare  RSC/Macmillan
+Winter's Tale                                     Shakespeare  RSC/Macmillan
+                                                  Shakespeare  RSC/Macmillan
