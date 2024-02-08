@@ -1,4 +1,8 @@
 # science fiction, ordered by author's surname then title
+Robot Visions                                  Isaac Asimov        gollancz
+The Fall of the Towers                         Samuel R. Delany    sphere
+A Scanner Darkly                               Philip K. Dick      gollancz
+Burning Chrome                                 William Gibson      HarpColl
 Count Zero                                     William Gibson      HarpColl
 Distrust that Particular Flavour               William Gibson      penguin
 Mona Lisa Overdrive                            William Gibson      HarpColl
