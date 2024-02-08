@@ -1,4 +1,6 @@
 # Australian Politics books including Australian issues
+Bulldozed                            Niki Savva              scribe
+Changing Jobs                        Jim Chalmers/Quigley    redback
 The End of Certainty                 Paul Kelly              AllenUnwin
 The First Stone                      Helen Garner            Picador
 The Good,Bad and the Unlikely        Mungo MacCallum         BlackInc
@@ -11,6 +13,7 @@ The Measure of the Years             Robert Menzies          Cassell
 Menzies' Child                       Gerard Henderson        AllenUnwin
 The Menzies Era                      John Howard             HarperCollins
 November 1975                        Paul Kelly              AllenUnwin
+Speaking My Mind                     Warren Mundine          wilkinson
 Triumph and Demise                   Paul Kelly              MelbUni
 Wednesdays with Bob                  Hawke/Derek Riley       Macmillan
 Whatever it takes  lost?             Graham Richardson       Bantam
