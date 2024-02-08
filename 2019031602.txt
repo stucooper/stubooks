@@ -3,14 +3,8 @@ label: 2019031602
 description: Various
 loc: flemshed
 
-The Woman who changed her brain      Barbara Arrowsmith-Young FreePress
 The Secret War                       Max Hastings          WilliamCollins
-The Pity of War                      Niall Ferguson        AllenLane
-The Brain that changes itself        Norman Doidge         Scribe
-The Brain's Way of Healing           Norman Doidge         Scribe
 The Greek Myths                      Robert Graves         Penguin
 The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
-In a Different Key                   Donovan/Zucker         AllenLane (DUPE)
-Neurotribes                          Steve Silberman        AllenUnwin
 Proust and the Squid                 Maryanne Wolf          Icon
 The Subtle Art of Not Giving a Fuck      Mark Manson         HarperOne
