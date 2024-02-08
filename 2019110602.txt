@@ -4,7 +4,5 @@ description: random it books
 loc: flemshed
 
 Mind Change                           Susan Greenfield      RandomHouse
-Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
-Without their Permission              Alexis Ohanian        BusinessPlus
 Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
 

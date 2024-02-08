@@ -28,7 +28,9 @@ Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 Digital Gold (bitcoin)                       Nathaniel Popper     HarperCollins
+Digital vs Human                             Richard Watson       scribe
 Does I.T Matter?                             Nicholas Carr        Harvard
+Dogfight: Apple and Google War               Fred Vogeistein      SarahCrich
 dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
@@ -77,6 +79,7 @@ The Master Switch                            Tim Wu               Atlantic
 The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU
+The Net Delusion                             Evgeny Morozov       penguin
 The New Digital Age                          Schmidt/Cohen        Knopf
 The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
@@ -122,6 +125,7 @@ Where Wizards Stay Up Late                   hatner/lyon          Touchstone
 Wikinomics                                   Tapscott/Williams    Atlantic
 Wikipedia Revolution                         Andrew Lih           aurum
 Winners and Losers on the Internet           Kieran Levis         Atlantic
+Without their Permission                     Alexis Ohanian       BusinessPlus
 The World and Wikipedia                      Dalby                Siduri
 You are not a gadget                         Jaron Lanier         vintage
 Zucked                                       Roger McNamee        HarperCollins
