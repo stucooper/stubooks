@@ -3,19 +3,3 @@ label: 2019030202
 description: Australian Politics Books
 loc: flemshed
 
-November 1975                        Paul Kelly             AllenUnwin
-Whatever it takes                    Graham Richardson      Bantam
-The Marmalade Files                  Lewis/Uhlmann          FourthEstate
-The Lucky Culture                    Nick Cater             HarperCollins
-The Good,Bad and the Unlikely        Mungo MacCallum        BlackInc
-Menzies' Child                       Gerard Henderson       AllenUnwin
-The Measure of the Years             Robert Menzies         Cassell
-The Hawke Ascendancy                 Paul Kelly             AngusRobertson
-The Menzies Era                    John Howard             HarperCollins
-Triumph and Demise                 Paul Kelly              MelbUni
-March of Patriots                  Paul Kelly              MelbUni
-Latham Diaries                     Mark Latham             MelbUni
-The End of Certainty               Paul Kelly              AllenUnwin
-Worth Fighting For                 Andrew Bolt             Wilkinson
-The First Stone                    Helen Garner            Picador
-Wednesdays with Bob                       Hawke/Derek Riley      Macmillan
