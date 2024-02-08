@@ -153,7 +153,6 @@ The Square and the Tower       Ferguson          Penguin
 Stalin: Waiting for Hitler     Kotkin            Penguin
 Talking to Strangers           Gladwell          Penguin
 Thank you for Being Late       Friedman          Penguin
-Thank you for Arguing          Heinrichs         Penguin (quasi-creamy)
 They can't kill us all         Lowery            Penguin
 This Changes Everything        Klein             Penguin
 Think Like a Freak             Levitt/Dubner     Penguin
@@ -230,3 +229,10 @@ Warlord                        D'Este            AllenLane Hardback
 Whiteshift                     Kaufmann          AllenLane Hardback
 Winners take All               Giridharadas      AllenLane Paperback
 You, Your Child and School     Robinson          AllenLane Paperback
+# Penguin brnaded (non-fiction in the Allen Lane style)
+Kennedy: Unfinished Life       Dallek            Penguin
+Reformation: Europe Divided    MacCulloch        Penguin
+The Storm of War               Roberts           Penguin
+Thank you for Arguing          Heinrichs         Penguin
+The War of the World           Ferguson          Penguin
+The Whisperers                 Figes             Penguin
