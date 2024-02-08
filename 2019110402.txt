@@ -3,7 +3,6 @@ label: 2019110402
 description: IT Books, many bought at Canberra Lifeline
 
 The Mirror and the Light              Hilary Mantel              FourthEstate
-The Second Machine Age                Brynjolfsson/McAfee        Norton
 Johnny Lewis: Biography of Boxing King Paul Kent                 AllenUnwin
 The Con (servatorim of Music)         Jesse Pentecost            ABC
 Slide:ology                           Nancy Duarte               ORA
