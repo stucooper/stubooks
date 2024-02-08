@@ -19,6 +19,7 @@ Competing on Analytics                       Davenport/Harris     harvard
 Crowdsourcing                                Jeff Howe            rh
 Crypto                                       Levy                 Viking
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
+Cryptocurrency                               Paul Vigna           BodleyHead
 The Cuckoo's Egg                             Stoll                BodleyHead
 Cult of the Amateur                          Andrew Keen          nicBrealey
 Cyberia                                      Douglas Rushkoff     Harper
