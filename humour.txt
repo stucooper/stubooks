@@ -1,7 +1,9 @@
 # Humorous books, alphabetical by author surname
-Bridge Burning and Other Hobbies                Kitty Flanagan    
+The Naked Jape                                  Jimmy Carr        Penguin
+Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare
 The 158-Pound Marriage                          John Irving       dontcare
 The Fourth Hand                                 John Irving       dontcare
+Sweet Sweet Revenge Ltd                         Jonas Jonasson    harpervia
 How to sound cultured                           Hodkingson        icon
 Last Chronicles of Ballyfungus                  Mary Manning      corgi
 The Looney                                      Spike Milligan    penguin
@@ -16,4 +18,6 @@ Memoirs 7: Peace Work                           Spike Milligan    penguin
 Take My Word For it                             Frank Muir/Norden methuen
 Overtaken                                       Alexei Sayle      sceptre
 1066 and all that                               Sellar/Yeatman    penguin
+Spectator Columns 2001-2009                     Taki              quartet
+Millions of Women are waiting to meet you       Sean Thomas       bloomsbury
 The Compleat Molesworth                         Willans/Searle    penguin
