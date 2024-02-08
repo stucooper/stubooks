@@ -1,0 +1,7 @@
+# science fiction, ordered by author's surname then title
+Chocky                                         John Wyndham        Penguin
+The Chrysalids                                 John Wyndham        Penguin
+The Day of the Triffids                        John Wyndham        Penguin
+The Kraken Wakes                               John Wyndham        Penguin
+The Midwich Cuckoos                            John Wyndham        Penguin
+The Day of the Triffids                        John Wyndham        Penguin
