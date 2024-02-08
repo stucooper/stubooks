@@ -103,10 +103,12 @@ Smarter than you think                       Clive Thompson       WillCollins
 Sonic Boom Napster                           John Alderman        FourthEstate
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
+Startup Focus                                pollenizer           pollenizer
 The Startup Way                              Eric Ries            portfolio
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
+Throwing Rocks at the Google Bus             Douglas Rushkoff     portfolio
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
@@ -114,6 +116,7 @@ The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
 User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
 War of the Worlds                            Mark Slouka          Abacus
 We are Anonymous                             Penny Olson          BackBay
+We are the Nerds (reddit)                    Christine Lagorio    platkus
 What Technology Wants                        Kevin Kelly          viking
 Where Wizards Stay Up Late                   hatner/lyon          Touchstone
 Wikinomics                                   Tapscott/Williams    Atlantic

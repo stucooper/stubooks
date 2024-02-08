@@ -6,6 +6,7 @@ Coders at Work                            Seibel                 apress
 Definitive Guide to Django                Holovaty               apress
 Definitive Guide to Terracotta            Terracotta Inc         apress
 Deploying OpenLDAP                        Jackiewicz             apress
+DevOps for Digital Leaders                Ravichandran/Taylor    apress
 Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress
 Founders at Work                          Livingston             apress
