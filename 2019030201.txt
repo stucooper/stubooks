@@ -3,9 +3,6 @@ label: 2019030201
 description: War books
 loc: flemshed
 
-Stalingrad                           Antony Beevor          Penguin
-The Last Lion: WSC Defender of the Realm      Manchester/Reid       BantamNY
-The Churchill Legend                      Cawthorne         Cleaver-Hume
 Modern Times Modern Places               Peter Conrad          ThomasHudson
 History of England IV: Revolution        Peter Ackroyd         Macmillan
 china modern (cookbook)                  ching-he huang        kylebooks
