@@ -5,6 +5,5 @@ loc: flemshed
 
 
 
-ProBlogger 2e                      Rowse/Garrett      JohnWiley
 Makers                             Cory Doctorow      TOR
 colossus: Bletchley Park           Gannon             Atlantic

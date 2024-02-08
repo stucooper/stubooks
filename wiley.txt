@@ -21,6 +21,7 @@ Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts            lcb    Silberschatz/Galvin  JohnWiley
 Pentium Chronicles                           Robert P. Colwell    JohnWiley
 Practical Cryptography                       Ferguson/Schneier    JohnWiley
+ProBlogger 2e                                Rowse/Garrett        JohnWiley
 Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
 Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
 Secrets and Lies                             Bruce Schneier       JohnWiley
