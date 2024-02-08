@@ -37,6 +37,7 @@ Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 Free                                         Chris Anderson       rhbusiness
 freeloading: free starves creativity         Chris Ruen           scribe
+From Gutenberg to Zuckerberg: Internet       John Naughton        quercus
 The Future of the Internet                   Jonathan Zittrain    Penguin
 Future Perfect                               Steven Johnson       riverhead
 Geek Manifesto : Why Science Matters         Mark Henderson       corgi
@@ -67,6 +68,7 @@ Life Inc                                     Douglas Rushkoff     RandomHouse
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
 The Long Tail                                Chris Anderson       Hyperion
+Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
 Makers                                       Anderson             rhbusiness
 Makers and Takers                            Rana Foroohar        crown
 The Master Switch                            Tim Wu               Atlantic
