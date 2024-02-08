@@ -1,9 +1,12 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
+Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
+The Big Switch                               Nicholas Carr        dontcare
+Blitz Scaling                                Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
@@ -55,7 +58,10 @@ In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
 The Intelligent Web                          Graham Shroff        Oxford
+Innovator's Dilemma                          Christensen          harvard
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
+The Joy of Linux                             Hall/Proffitt        dontcare
+Just for Fun                                 Linus Torvalds       dontcare
 Life Inc                                     Douglas Rushkoff     RandomHouse
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
@@ -74,12 +80,14 @@ The People vs Tech                           Jamie Bartlett       ebury
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
 Planet Google                                Randall Stross       Atlantic
 Present Shock                                Douglas Rushkoff     current
+Privacy is Power                             Carissa Veliz        Penguin
 Quitter                                      Jon Acuff            Lampo
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
 The Rise of the Robots Mass Unemployment     Ford                 oneworld
+The Second Machine Age                       Brynjolfsson/McAfee  Norton
 Scrum                                        Jeff Sutherland      rhBusiness
 The Shallows: Internet changes how we think  Nicholas Carr        atlantic
 The Slow Fix                                 Carl Honore          WillCollins
@@ -94,6 +102,7 @@ Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
+Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
 War of the Worlds                            Mark Slouka          Abacus
