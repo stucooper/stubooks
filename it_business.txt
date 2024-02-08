@@ -68,9 +68,8 @@ Innovator's Dilemma                          Christensen          harvard
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
-Life Inc                                     Douglas Rushkoff     RandomHouse
-Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
+Life Inc                                     Douglas Rushkoff     RandomHouse
 The Long Tail                                Chris Anderson       Hyperion
 Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
 Makers                                       Anderson             rhbusiness
@@ -82,6 +81,7 @@ net.wars                                     Wendy M.Grossman     NYU
 The Net Delusion                             Evgeny Morozov       penguin
 The New Digital Age                          Schmidt/Cohen        Knopf
 The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
+Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 The People vs Tech                           Jamie Bartlett       ebury
