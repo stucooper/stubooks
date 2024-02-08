@@ -12,3 +12,10 @@ Four Histories (Rich2/Henry4Pt1/Henry4Pt2/Henry5) Shakespeare  Penguin
 Four Tragedies (Haml/Othello/Lear/Macbeth)        Shakespeare  Penguin
 Three Roman PLays (JuliusC/AnthonyCleo/Coriol)    Shakespeare  Penguin
 Sonnetts and a Lover's Complaint                  Shakespeare  Penguin
+# Cambridge editions and criticism
+Cambridge Into to Shakespeare Histories           Shakespeare  Cambridge
+Hamlmet                                           Shakespeare  Cambridge
+Henry IV Part 1                                   Shakespeare  Cambridge
+King Lear                                         Shakespeare  Cambridge
+Romeo and Juliet                                  Shakespeare  Cambridge
+The Tempest                                       Shakespeare  Cambridge
