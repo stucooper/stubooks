@@ -79,6 +79,7 @@ Open Source: Technology and Policy           Deek/McHugh          cambridge
 The People vs Tech                           Jamie Bartlett       ebury
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
 Planet Google                                Randall Stross       Atlantic
+Pogue's Basics                               David Pogue          Flatiron
 Present Shock                                Douglas Rushkoff     current
 Privacy is Power                             Carissa Veliz        Penguin
 Quitter                                      Jon Acuff            Lampo

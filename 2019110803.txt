@@ -4,6 +4,3 @@ description: IT Policy books including Dark Web books
 loc: flemshed
 
 The Internet is not the answer         Andrew Keen            Atlantic
-QR Codes kill kittens                  Scott Stratten         Wiley
-Pogue's Basics                         David Pogue            Flatiron
-How to Fix the Future                  Andrew Keen            Atlantic
