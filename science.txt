@@ -10,6 +10,7 @@ Darwin                              Gribbin/White          Pocket
 The Earth Moves                     Dan Hofstadter         Norton
 Einstein                            White/Gribbin          SimonSchuster
 The Fellowship                      John Gribbin           Penguin
+Force of Nature: Life Linus Pauling Hager                  SimonShuster
 Genius: Feynman and Modern Physics  James Gleick           Abacus
 The Information                     James Gleick           FourthEstate
 Isaac Newton                        James Gleick           Harper

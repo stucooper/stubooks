@@ -230,6 +230,8 @@ Whiteshift                     Kaufmann          AllenLane Hardback
 Winners take All               Giridharadas      AllenLane Paperback
 You, Your Child and School     Robinson          AllenLane Paperback
 # Penguin brnaded (non-fiction in the Allen Lane style)
+Consider the Fork              Bee Wilson        Penguin
+French Toast                   Peta Mathias      Penguin
 Kennedy: Unfinished Life       Dallek            Penguin
 Reformation: Europe Divided    MacCulloch        Penguin
 The Storm of War               Roberts           Penguin
