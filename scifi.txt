@@ -1,4 +1,8 @@
 # science fiction, ordered by author's surname then title
+Count Zero                                     William Gibson      HarpColl
+Distrust that Particular Flavour               William Gibson      penguin
+Mona Lisa Overdrive                            William Gibson      HarpColl
+Neuromancer                                    William Gibson      HarpColl
 Chocky                                         John Wyndham        Penguin
 The Chrysalids                                 John Wyndham        Penguin
 The Day of the Triffids                        John Wyndham        Penguin
