@@ -16,13 +16,16 @@ Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
+Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
 Crowdsourcing                                Jeff Howe            rh
 Crypto                                       Levy                 Viking
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 Cryptocurrency                               Paul Vigna           BodleyHead
 The Cuckoo's Egg                             Stoll                BodleyHead
 Cult of the Amateur                          Andrew Keen          nicBrealey
+Cult of the Dead Cow                         Joseph Menn          publicAffairs
 Cyberia                                      Douglas Rushkoff     Harper
+Cyberphonia                                  Edward Lucas         bloomsbury
 The Dark Net                                 Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
@@ -55,6 +58,7 @@ grown up digital                             Don Tapscott         McGraw Hill
 Hackers                                      Levy                 Penguin
 The Hacker Ethic                             Pekka Himanen        RandomHouse
 Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
+Haunted Empire: Apple After Steve Jobs       Yukari Iwatani Kane  harper
 Here Comes Everybody                         Clay Shirky          Penguin
 How apps are changing the world              Stephen Molloy       Aviva
 How is the Internet Changing way we think?   ed John Brockman     Atlantic
