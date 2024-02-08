@@ -6,8 +6,6 @@ loc: flemshed
 Python Machine Learning               Rashka                         Packt
 Mind Change                           Susan Greenfield      RandomHouse
 Dogfight: Apple and Google War        Fred Vogeistein       SarahCrichton
-Ghost in the Wires                    Kevin Mitnick         LittleBrown
 Without their Permission              Alexis Ohanian        BusinessPlus
-The Intelligent Web                   Graham Shroff         Oxford
 Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
 

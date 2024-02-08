@@ -1,5 +1,6 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
+Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
@@ -37,7 +38,7 @@ Geek Manifesto : Why Science Matters         Mark Henderson       corgi
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
 The Glass Cage                               Carr                 BodleyHead
-Googled                                      Ken Auletta          Virgin
+Googled: end of the world as we know it      Ken Auletta          Virgin
 grown up digital                             Don Tapscott         McGraw Hill
 Hackers                                      Levy                 Penguin
 The Hacker Ethic                             Pekka Himanen        RandomHouse
@@ -52,6 +53,7 @@ The Inevitable                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
+The Intelligent Web                          Graham Shroff        Oxford
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
