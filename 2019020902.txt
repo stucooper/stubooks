@@ -4,7 +4,6 @@ description: Canberra IT Lifeline books
 loc: flemshed
 
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
-OpenVPN                                      Markus Fielner        Packt
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     Penguin
 Processing                            Reas/Fry                   MITP
