@@ -1,5 +1,6 @@
 # books by or connected to Rolling Stone Magazine
 # includes Hunter S. Thompson and P. J. O'Rourke
+The Baby Boom                       P J O'Rourke               atlantic
 A Cry from the Far Middle           P J O'Rourke               atlantic
 Gonzo: Life of Hunter S Thompson    Jann Wenner/Corey Seymour  LittleBrown
 How the hell did this happen?       P J O'Rourke               Grove
