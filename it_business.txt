@@ -65,6 +65,7 @@ In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
 The Intelligent Web                          Graham Shroff        Oxford
 Innovator's Dilemma                          Christensen          harvard
+The Innovators                               Walter Isaacson      SimonSchuster
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
