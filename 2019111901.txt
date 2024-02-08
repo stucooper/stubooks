@@ -5,10 +5,6 @@ loc: flemshed
 
 Digital Gold (bitcoin)                    Nathaniel Popper      HarperCollins
 Cryptocurrency                            Paul Vigna            BodleyHead
-Cyberia                                   Douglas Rushkoff      Harper
-Life Inc                                  Douglas Rushkoff      RandomHouse
 Free Software Free Society essays         Richard Stallman      GNUPress
 Digital Barbarism                         Mark Helprin           Harper
-The New Digital Age                       Schmidt/Cohen          Vintage
 How Google Works                          Schmidt/Rosenberg      JohnMurray
-Makers                                    Chris Anderson         CrownBusiness

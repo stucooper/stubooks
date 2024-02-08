@@ -17,6 +17,7 @@ Crypto                                       Levy                 Viking
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 The Cuckoo's Egg                             Stoll                BodleyHead
 Cult of the Amateur                          Andrew Keen          nicBrealey
+Cyberia                                      Douglas Rushkoff     Harper
 The Dark Net                                 Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
@@ -55,6 +56,7 @@ In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
 The Intelligent Web                          Graham Shroff        Oxford
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
+Life Inc                                     Douglas Rushkoff     RandomHouse
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Lab Rats                                     Dab Lyons            atlantic
 The Long Tail                                Chris Anderson       Hyperion
@@ -71,6 +73,7 @@ Open Source: Technology and Policy           Deek/McHugh          cambridge
 The People vs Tech                           Jamie Bartlett       ebury
 The Phoenix Project                          Kim/Behr/Spafford    Itrev
 Planet Google                                Randall Stross       Atlantic
+Present Shock                                Douglas Rushkoff     current
 Quitter                                      Jon Acuff            Lampo
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
