@@ -8,6 +8,7 @@ Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 The Big Switch                               Nicholas Carr        dontcare
 Blitz Scaling                                Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
+Bull                                         Douglas Rushkoff     spectre
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
 Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
@@ -41,6 +42,7 @@ From Gutenberg to Zuckerberg: Internet       John Naughton        quercus
 The Future of the Internet                   Jonathan Zittrain    Penguin
 Future Perfect                               Steven Johnson       riverhead
 Geek Manifesto : Why Science Matters         Mark Henderson       corgi
+Geek Natin Indian Science taking over world  Angela Saini         hodder
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
 The Glass Cage                               Carr                 BodleyHead
@@ -108,6 +110,7 @@ This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
+The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
 User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
 War of the Worlds                            Mark Slouka          Abacus
 We are Anonymous                             Penny Olson          BackBay
