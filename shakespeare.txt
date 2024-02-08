@@ -1,0 +1,6 @@
+# Penguins
+Four Comedies (Taming/Dream/AsYou/Twelfth)        Shakespeare  Penguin
+Four Histories (Rich2/Henry4Pt1/Henry4Pt2/Henry5) Shakespeare  Penguin
+Four Tragedies (Haml/Othello/Lear/Macbeth)        Shakespeare  Penguin
+Three Roman PLays (JuliusC/AnthonyCleo/Coriol)    Shakespeare  Penguin
+Sonnetts and a Lover's Complaint                  Shakespeare  Penguin

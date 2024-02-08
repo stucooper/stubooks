@@ -11,8 +11,3 @@ The Prodigy                        Hermann Hesse           Penguin
 The War in the Air                 H G Wells               Penguin
 The Man in the Iron Mask           Alexandre Dumas         Penguin
 The Three Musketeers               Alexandre Dumas         Penguin
-Four Comedies (Taming/Dream/AsYou/Twelfth) Shakespeare      Penguin
-Four Histories (Rich2/Henry4Pt1/Henry4Pt2/HenryV) Shakespeare Penguin
-Four Tragedies (Haml/Othello/Lear/Macbeth) Shakespeare      Penguin
-Three Roman PLays (JuliusC/AnthonyCleo/Coriol) Shakespeare  Penguin
-Sonnetts and a Lover's Complaint           Shakespeare      Penguin
