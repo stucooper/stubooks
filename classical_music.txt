@@ -21,6 +21,9 @@ Music, Sense and Nonsense                Alfred Brendel     Biteback
 Molto Agitato: Metropolitan Opera        Johanna Fiedler    Anchor
 A Natural History of the Piano           Stuart Isacoff     souvenir
 Operas of Puccini                        William Ashbrook   Oxford
+Overture Opera Guide: La Boheme          Puccini            OOG
+Overture Opera Guide: Don Giovanni       Mozart             OOG
+Overture Opera Guide: Carmen             Bizet              OOG
 Percy Grainger bio                       John Bird          currency
 Piano Notes (hb)                         Charles Rosen      Penguin
 Piano Technique                          Giesking/Leimer    Dover
