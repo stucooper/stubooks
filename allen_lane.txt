@@ -3,10 +3,10 @@
 1914-1918                      Stevenson         Penguin
 23 things don't tell Capitalism Ha-Joon Chang    Penguin
 Africa's Long Road Since Inde. Somerville        Penguin
+Age of Anger                   Mishra            Penguin
 The Animals Among Us           Bradshaw          Penguin
 Antifragile                    Taleb             Penguin
 Antwerp                        Pye               Penguin
-Age of Anger                   Mishra            Penguin
 The Ascent of Money            Ferguson          Penguin
 Be Like the Fox                Benner            Penguin
 A Beautiful Question           Wilczek           Penguin
@@ -17,8 +17,8 @@ Between East and West          Applebaum         Penguin
 The Black Swan                 Taleb             Penguin
 Blink                          Gladwell          Penguin
 Blitzed                        Ohler             Penguin R2023
-Blueprint                      Plomin            Penguin
 Blood and Guts                 Porter            Penguin
+Blueprint                      Plomin            Penguin
 The Body Keeps the Score       Van Der Kolk      Penguin
 The Bomber Mafia               Gladwell          Penguin
 Boomerang                      Lewis             Penguin
@@ -45,14 +45,14 @@ Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin R2023
 The Egyptians                  Shenker           Penguin
 The Element                    Robinson          Penguin
-Enemies and Neighbours         Black             Penguin
-Engineers of Victory           Kennedy           Penguin
-Enlightenment Now              Pinker            Penguin
-The Entreprenerial State       Mazzucato         Penguin
 The End                        Kershaw           Penguin
 The End of Average             Rose              Penguin
 The End of Everything          Mack              Penguin
 Enemies: History of the FBI    Weiner            Penguin
+Enemies and Neighbours         Black             Penguin
+Engineers of Victory           Kennedy           Penguin
+Enlightenment Now              Pinker            Penguin
+The Entreprenerial State       Mazzucato         Penguin
 The Establishment              Jones             Penguin
 Europe                         Simms             Penguin
 Europe                         Flannery          Penguin
@@ -74,7 +74,7 @@ Gravity's Engines              Scharf            Penguin
 Gulag                          Applebaum         Penguin (quasi)
 Happiness by Design            Doolan            Penguin
 Happy City                     Montgomery        Penguin
-A History of the World in Twleve Maps Brotton    Penguin
+History of the World in Twleve Maps Brotton      Penguin
 How not to be Wrong            Ellenberg         Penguin
 How to be right                O'Brien           Penguin (quasi)
 How the French Think           Hazareesingh      Penguin
