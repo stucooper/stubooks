@@ -13,6 +13,7 @@ A Beautiful Question           Wilczek           Penguin
 The Bed of Procrustes          Taleb             Penguin
 The Bestseller Code            Archer/Jockers    Penguin
 The Better Angels of Our Nature Pinker           Penguin
+The Better Half                Moalem            Penguin
 Between East and West          Applebaum         Penguin
 The Black Swan                 Taleb             Penguin
 Blink                          Gladwell          Penguin
@@ -33,9 +34,11 @@ Chernobyl                      Plokhy            Penguin
 China's War with Japan         Mitter            Penguin
 Chopin's Piano                 Kildea            Penguin
 Churchill                      Roberts           Penguin
+Climate Change Nation State    Anatol Lieven     Penguin
 Civilization                   Ferguson          Penguin
 Classical Mechanics            Susskind          Penguin
 The Craftsman                  Sennett           Penguin
+Creative Schools               Robinson          Penguin
 Crimes Against Humanity        Robertson         Penguin
 Dark Continent                 Mazower           Penguin
 Denying the Holocaust          Lipstadt          Penguin
@@ -43,6 +46,7 @@ The Descent of Man             Perry             Penguin R2023
 Dial M for Murdoch             Watson/Hickman    Penguin R2020
 Digital Gold                   Popper            Penguin
 Don't be Evil                  Foroohar          Penguin R2023
+The Drunkard's Walk            Milodinow         Penguin
 The Egyptians                  Shenker           Penguin
 The Element                    Robinson          Penguin
 The End                        Kershaw           Penguin
@@ -58,6 +62,7 @@ Europe                         Simms             Penguin
 Europe                         Flannery          Penguin
 Eva Braun                      Gortemaker        Penguin
 Every Song Ever                Ratliff           Penguin
+Exercised                      Lieberman         Penguin
 The Fall of the Ottomans       Rogan             Penguin
 Feline Philosophy              Gray              Penguin
 A Fistful of Shells            Green             Penguin
@@ -72,6 +77,7 @@ Goodbye, Things                Sasaki            Penguin
 Governing the World            Mazower           Penguin
 Gravity's Engines              Scharf            Penguin
 Gulag                          Applebaum         Penguin (quasi)
+The Fifth Risk                 Lewis             Penguin
 Happiness by Design            Doolan            Penguin
 Happy City                     Montgomery        Penguin
 History of the World in Twleve Maps Brotton      Penguin
@@ -85,9 +91,12 @@ In Defence of Food             Pollan            Penguin
 The Invention of Science       Wootton           Penguin
 Iron Curtain                   Applebaum         Penguin
 Iron Kingdom                   Clark             Penguin
+The Japanese                   Harding           Penguin
+The Knowledge Machine          Strevens          Penguin
 The Light Ages                 Falk              Penguin
 Limonov                        Carrere           Penguin
 I'm Feeling Lucky              Edwards           Penguin
+In Wartime                     Judah             Penguin
 Landscapes of Commmunism       Hatherley         Penguin
 The Language Instinct          Pinker            Penguin
 The Last Man in Russia         Bullough          Penguin
@@ -115,11 +124,13 @@ On Politics                    Ryan              Penguin
 The Order of Time              Rovelli           Penguin
 Outliers                       Gladwell          Penguin
 Our Boys                       Parr              Penguin
+Our Mathematical Universe      Tegmark           Penguin
 Owls of the Eastern Ice        Slaght            Penguin
 The Partition                  Townshend         Penguin
 The Party                      McGregor          Penguin
 The Price of Inequality        Stiglitz          Penguin
 Permanent Present Tense        Corkin            Penguin
+Philosoper of the Heart        Carlisle          Penguin
 Physics of the Impossible      Kaku              Penguin
 Plutocrats                     Freeman           Penguin
 Poor Economics                 Banerjee/Duflo    Penguin
@@ -179,6 +190,7 @@ When to Rob a Bank             Levitt/Dubner     Penguin
 White Fragility                Diangelo          Penguin
 Who owns the future?           Lanier            Penguin
 Whoops!                        Lanchester        Penguin
+Willpower                      BaumeisterTierney Penguin
 With our Backs to the Wall     Stevenson         Penguin
 Winter King                    Penn              Penguin
 The World Until Yesterday      Diamond           Penguin
@@ -190,7 +202,7 @@ An Uncertain Glory             Dreze and Sen     AllenLane Hardback
 The Big Screen                 Thomson           AllenLane Hardback
 Caste                          Wilkerson         AllenLane Paperback
 Coddling of the American Mind  Lukianoff/Haidt   AllenLane Hardback
-Creative Schools               Robinson          AllenLane Paperback
+Creative Schools               Robinson          AllenLane Paperback DUP
 David and Goliath              Gladwell          AllenLane Hardback
 Doom                           Ferguson          AllenLane Paperback
 The Demon in the Machine       Davies            AllenLane Paperback
@@ -200,7 +212,7 @@ English and their History      Tombs             AllenLane Hardback
 The Enlightenment              Robertson         AllenLane Hardback
 The Europeans                  Figes             AllenLane Hardback
 Fateful Choices                Kershaw           AllenLane Hardback no dustj
-The Fifth Risk                 Lewis             AllenLane Hardback
+The Fifth Risk                 Lewis             AllenLane Hardback DUP
 First Confession               Patten            AllenLane Hardback
 Future Perfect                 Johnson           AllenLane Hardback
 Has the West Lost it?          Mahbubani         AllenLane Hardback
