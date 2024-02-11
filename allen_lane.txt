@@ -72,17 +72,14 @@ Freakonomics                                 Levitt/Dubner     Penguin
 The Gates of Europe                          Plokhy            Penguin
 Germany                                      MacGregor         Penguin
 Ghost Wars                                   Coll              Penguin
-Gomorrah                                     Saviano           Pan     (quasi)
 Goodbye, Things                              Sasaki            Penguin
 Governing the World                          Mazower           Penguin
 Gravity's Engines                            Scharf            Penguin
-Gulag                                        Applebaum         Penguin (quasi)
 The Fifth Risk                               Lewis             Penguin
 Happiness by Design                          Doolan            Penguin
 Happy City                                   Montgomery        Penguin
 History of the World in Twleve Maps          Brotton           Penguin
 How not to be Wrong                          Ellenberg         Penguin
-How to be right                              O'Brien           Penguin (quasi)
 How the French Think                         Hazareesingh      Penguin
 How the Mind Works                           Pinker            Penguin
 Human Compatible                             Russell           Penguin
@@ -197,7 +194,7 @@ The World Until Yesterday                    Diamond           Penguin
 World War Two                                Stone             Penguin
 Zero Zero Zero                               Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
-All Things Made New            MacCulloch        AllenLane Hatherley
+All Things Made New            MacCulloch        AllenLane Hardback
 An Uncertain Glory             Dreze and Sen     AllenLane Hardback
 The Big Screen                 Thomson           AllenLane Hardback
 Caste                          Wilkerson         AllenLane Paperback
@@ -246,9 +243,12 @@ You, Your Child and School     Robinson          AllenLane Paperback
 # Penguin branded (non-fiction in the Allen Lane style)
 Consider the Fork              Bee Wilson        Penguin
 French Toast                   Peta Mathias      Penguin
+Gomorrah                                     Saviano           Pan
+Gulag                                        Applebaum         Penguin
 A History of Histories         John Burrow       Penguin
 History English Peoples 1900+  Andrew Roberts    Harper
 How Democracies Die            Levitsky/Ziblatt  Penguin
+How to be right                              O'Brien           Penguin
 Hooked Addicted processed food Michael Moss      Penguin
 Kennedy: Unfinished Life       Dallek            Penguin
 Natasha's Dance                Orlando Figes     Penguin R2023
