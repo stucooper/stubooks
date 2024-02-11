@@ -194,52 +194,52 @@ The World Until Yesterday                    Diamond           Penguin
 World War Two                                Stone             Penguin
 Zero Zero Zero                               Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
-All Things Made New            MacCulloch        AllenLane Hardback
-An Uncertain Glory             Dreze and Sen     AllenLane Hardback
-The Big Screen                 Thomson           AllenLane Hardback
-Caste                          Wilkerson         AllenLane Paperback
-Coddling of the American Mind  Lukianoff/Haidt   AllenLane Hardback
-Creative Schools               Robinson          AllenLane Paperback DUP
-David and Goliath              Gladwell          AllenLane Hardback
-Doom                           Ferguson          AllenLane Paperback
-The Demon in the Machine       Davies            AllenLane Paperback
-Einstein's Unfinished Revolution Smolin          AllenLane Hardback
-English Pastoral               Rebanks           AllenLane Paperback
-English and their History      Tombs             AllenLane Hardback
-The Enlightenment              Robertson         AllenLane Hardback
-The Europeans                  Figes             AllenLane Hardback
-Fateful Choices                Kershaw           AllenLane Hardback no dustj
-The Fifth Risk                 Lewis             AllenLane Hardback DUP
-First Confession               Patten            AllenLane Hardback
-Future Perfect                 Johnson           AllenLane Hardback
-Has the West Lost it?          Mahbubani         AllenLane Hardback
-Here Comes Trouble             Michael Moore     AllenLane Paperbac
-History of World  100 objects  Neil MacGregor    AllenLane Hardback
-Hitler                         Simms             AllenLane Hardback
-Hitler (single volume)         Kershaw           AllenLane Paperback
-The Inner Level                Wilkinson         AllenLane Hardback
-Kissinger 1923-68 The Idealist Ferguson          PenguinPress Hardback
-Lewis Carroll in Numberland    Wilson            AllenLane Hardback
-The Master Algorithm           Domingos          AllenLane Hardback
-Masters and Commanders         Andrew Roberts    AllenLane Hardback
-Meetings with Remarkable Manuscripts De Hamel    AllenLane Hardback
-The New Map                    Yergin            AllenLane Hardback
-Nothing but a Circus           Levin             AllenLane Paperback
-Ocean of Life                  Roberts           AllenLane Hardback
-The Optician of Lampedusa      Kirby             AllenLane Hardback
-Origin Story                   Christian         AllenLane Paperback
-People, Power and Profits      Stiglitz          AllenLane Hardback
-The Pity of War                Ferguson          AllenLane Hardback no dustj
-The Premonition                Lewis             AllenLane Hardback
-Ring of Truth (Wagner's Ring)  Roger Scruton     AllenLane Hardback
-Shutdown                       Tooze             AllenLane Paperback
-Terror and Consent             Bobbitt           AllenLane Paperback
-To Explain the World           Weinberg          AllenLane Hardback
-Wagner's Parsifal              Roger Scruton     AllenLane Hardback
-Warlord                        D'Este            AllenLane Hardback
-Whiteshift                     Kaufmann          AllenLane Hardback
-Winners take All               Giridharadas      AllenLane Paperback
-You, Your Child and School     Robinson          AllenLane Paperback
+All Things Made New                          MacCulloch        ALane hb
+An Uncertain Glory                           Dreze and Sen     ALane hb
+The Big Screen                               Thomson           ALane hb
+Caste                                        Wilkerson         ALane pp
+Coddling of the American Mind                Lukianoff/Haidt   ALane hb
+Creative Schools                             Robinson          ALane pp DUP
+David and Goliath                            Gladwell          ALane hb
+Doom                                         Ferguson          ALane pp
+The Demon in the Machine                     Davies            ALane pp
+Einstein's Unfinished Revolution             Smolin            ALane hb
+English Pastoral                             Rebanks           ALane pp
+English and their History                    Tombs             ALane hb
+The Enlightenment                            Robertson         ALane hb
+The Europeans                                Figes             ALane hb
+Fateful Choices                              Kershaw           ALane hb no dustj
+The Fifth Risk                               Lewis             ALane hb DUP
+First Confession                             Patten            ALane hb
+Future Perfect                               Johnson           ALane hb
+Has the West Lost it?                        Mahbubani         ALane hb
+Here Comes Trouble                           Michael Moore     ALane pp
+History of World  100 objects                Neil MacGregor    ALane hb
+Hitler                                       Simms             ALane hb
+Hitler (single volume)                       Kershaw           ALane pp
+The Inner Level                              Wilkinson         ALane hb
+Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
+Lewis Carroll in Numberland                  Wilson            ALane hb
+The Master Algorithm                         Domingos          ALane hb
+Masters and Commanders                       Andrew Roberts    ALane hb
+Meetings with Remarkable Manuscripts         De Hamel          ALane hb
+The New Map                                  Yergin            ALane hb
+Nothing but a Circus                         Levin             ALane pp
+Ocean of Life                                Roberts           ALane hb
+The Optician of Lampedusa                    Kirby             ALane hb
+Origin Story                                 Christian         ALane pp
+People, Power and Profits                    Stiglitz          ALane hb
+The Pity of War                              Ferguson          ALane hb no dustj
+The Premonition                              Lewis             ALane hb
+Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
+Shutdown                                     Tooze             ALane pp
+Terror and Consent                           Bobbitt           ALane pp
+To Explain the World                         Weinberg          ALane hb
+Wagner's Parsifal                            Roger Scruton     ALane hb
+Warlord                                      D'Este            ALane hb
+Whiteshift                                   Kaufmann          ALane hb
+Winners take All                             Giridharadas      ALane pp
+You, Your Child and School                   Robinson          ALane pp
 # Penguin branded (non-fiction in the Allen Lane style)
 Consider the Fork              Bee Wilson        Penguin
 French Toast                   Peta Mathias      Penguin
