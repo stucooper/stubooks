@@ -1,201 +1,201 @@
 # Creamy Penguin paperback covers
-12 Rules For Life              Peterson          Penguin
-1914-1918                      Stevenson         Penguin
-23 things don't tell Capitalism Ha-Joon Chang    Penguin
-Africa's Long Road Since Inde. Somerville        Penguin
-Age of Anger                   Mishra            Penguin
-The Animals Among Us           Bradshaw          Penguin
-Antifragile                    Taleb             Penguin
-Antwerp                        Pye               Penguin
-The Ascent of Money            Ferguson          Penguin
-Be Like the Fox                Benner            Penguin
-A Beautiful Question           Wilczek           Penguin
-The Bed of Procrustes          Taleb             Penguin
-The Bestseller Code            Archer/Jockers    Penguin
-The Better Angels of Our Nature Pinker           Penguin
-The Better Half                Moalem            Penguin
-Between East and West          Applebaum         Penguin
-The Black Swan                 Taleb             Penguin
-Blink                          Gladwell          Penguin
-Blitzed                        Ohler             Penguin R2023
-Blood and Guts                 Porter            Penguin
-Blueprint                      Plomin            Penguin
-The Body Keeps the Score       Van Der Kolk      Penguin
-The Bomber Mafia               Gladwell          Penguin
-Boomerang                      Lewis             Penguin
-Braiding Sweetgrass            Kimmerer          Penguin
-Bullshit jobs                  Graeber           Penguin
-The Butchering Art             Fitzharris        Penguin
-Calling Bullshit               Bergstrom/West    Penguin
-The Candy Machine              Feiling           Penguin
-Cat Sense                      Bradshaw          Penguin
-A Certain Idea of France       Jackson           Penguin
-Chernobyl                      Plokhy            Penguin
-China's War with Japan         Mitter            Penguin
-Chopin's Piano                 Kildea            Penguin
-Churchill                      Roberts           Penguin
-Climate Change Nation State    Anatol Lieven     Penguin
-Civilization                   Ferguson          Penguin
-Classical Mechanics            Susskind          Penguin
-The Craftsman                  Sennett           Penguin
-Creative Schools               Robinson          Penguin
-Crimes Against Humanity        Robertson         Penguin
-Dark Continent                 Mazower           Penguin
-Denying the Holocaust          Lipstadt          Penguin
-The Descent of Man             Perry             Penguin R2023
-Dial M for Murdoch             Watson/Hickman    Penguin R2020
-Digital Gold                   Popper            Penguin
-Don't be Evil                  Foroohar          Penguin R2023
-The Drunkard's Walk            Milodinow         Penguin
-The Egyptians                  Shenker           Penguin
-The Element                    Robinson          Penguin
-The End                        Kershaw           Penguin
-The End of Average             Rose              Penguin
-The End of Everything          Mack              Penguin
-Enemies: History of the FBI    Weiner            Penguin
-Enemies and Neighbours         Black             Penguin
-Engineers of Victory           Kennedy           Penguin
-Enlightenment Now              Pinker            Penguin
-The Entreprenerial State       Mazzucato         Penguin
-The Establishment              Jones             Penguin
-Europe                         Simms             Penguin
-Europe                         Flannery          Penguin
-Eva Braun                      Gortemaker        Penguin
-Every Song Ever                Ratliff           Penguin
-Exercised                      Lieberman         Penguin
-The Fall of the Ottomans       Rogan             Penguin
-Feline Philosophy              Gray              Penguin
-A Fistful of Shells            Green             Penguin
-Flash Boys                     Lewis             Penguin R2022
-Fooled by Randomness           Taleb             Penguin
-Freakonomics                   Levitt/Dubner     Penguin
-The Gates of Europe            Plokhy            Penguin
-Germany                        MacGregor         Penguin
-Ghost Wars                     Coll              Penguin
-Gomorrah                       Saviano           Pan     (quasi)
-Goodbye, Things                Sasaki            Penguin
-Governing the World            Mazower           Penguin
-Gravity's Engines              Scharf            Penguin
-Gulag                          Applebaum         Penguin (quasi)
-The Fifth Risk                 Lewis             Penguin
-Happiness by Design            Doolan            Penguin
-Happy City                     Montgomery        Penguin
-History of the World in Twleve Maps Brotton      Penguin
-How not to be Wrong            Ellenberg         Penguin
-How to be right                O'Brien           Penguin (quasi)
-How the French Think           Hazareesingh      Penguin
-How the Mind Works             Pinker            Penguin
-Human Compatible               Russell           Penguin
-Humble Pi                      Parker            Penguin
-In Defence of Food             Pollan            Penguin
-The Invention of Science       Wootton           Penguin
-Iron Curtain                   Applebaum         Penguin
-Iron Kingdom                   Clark             Penguin
-The Japanese                   Harding           Penguin
-The Knowledge Machine          Strevens          Penguin
-The Light Ages                 Falk              Penguin
-Limonov                        Carrere           Penguin
-I'm Feeling Lucky              Edwards           Penguin
-In Wartime                     Judah             Penguin
-Landscapes of Commmunism       Hatherley         Penguin
-The Language Instinct          Pinker            Penguin
-The Last Man in Russia         Bullough          Penguin
-Leadership and Self-Deception  Arbinger Institut Penguin
-Leonardo Da Vinci              Nicholl           Penguin
-Life 3.0                       Tengmark          Penguin
-The Long '68                   Vinen             Penguin
-Lost Japan                     Kerr              Penguin
-Making of t British Landscape  Pryor             Penguin
-Margaret Thatcher Volume 2     Moore             Penguin
-The Map and the Territory 2.0  Greenspan         Penguin
-Mindwise                       Epley             Penguin
-Mindware                       Nisbett           Penguin
-Misbehaving                    Thaler            Penguin
-Modern Romance                 Ansari            Penguin
-Moonwalking with Einstein      Foer              Penguin
-Music in the Castle of Heaven  Eliot Gardner     Penguin
-My Italians                    Saviano           Penguin
-Napoleon the Great             Roberts           Penguin
-Never Again (Britain 1945-51)  Hennessy          Penguin
-Nudge                          Thaler/Sunstein   Penguin
-The Numbers Game               Anderson/Sally    Penguin
-On Grand Strategy              Gaddis            Penguin
-On Politics                    Ryan              Penguin
-The Order of Time              Rovelli           Penguin
-Outliers                       Gladwell          Penguin
-Our Boys                       Parr              Penguin
-Our Mathematical Universe      Tegmark           Penguin
-Owls of the Eastern Ice        Slaght            Penguin
-The Partition                  Townshend         Penguin
-The Party                      McGregor          Penguin
-The Price of Inequality        Stiglitz          Penguin
-Permanent Present Tense        Corkin            Penguin
-Philosoper of the Heart        Carlisle          Penguin
-Physics of the Impossible      Kaku              Penguin
-Plutocrats                     Freeman           Penguin
-Poor Economics                 Banerjee/Duflo    Penguin
-Priestdaddy                    Lockwood          Penguin
-Promised You a Miracle         Beckett           Penguin
-The Quantum Universe           Cox/Forshaw       Penguin
-The Quest                      Yergin            Penguin
-Reality is not what it seems   Rovelli           Penguin
-The Reckoning                  Soil              Penguin
-Refuge                         Betts/Collier     Penguin
-The Righteous Mind             Haidt             Penguin
-Rio de Janeiro                 Soares            Penguin
-Risk Savvy                     Gigerenzer        Penguin
-The Road to Character          Brooks            Penguin
-The Road to Somewhere          Goodhart          Penguin
-The Roads to Sata              Booth             Penguin
-Roller-Coaster                 Kershaw           Penguin
-The Russia Anxiety             Smith             Penguin
-Scarcity                       Mullainathan      Penguin
-The Secret World               Andrew            Penguin
-The Sense of Style             Pinker            Penguin
-Seven Brief Lessons on Physics Rovelli           Penguin
-Shady Characters               Houston           Penguin
-The Shepherd's Life            Rebanks           Penguin
-The Signal and the Noise       Silver            Penguin
-Silence: A Christian History   MacCulloch        Penguin
-The Sleepwalkers               Clark             Penguin
-Sontag                         Moser             Penguin
-The Spirit Level               Wilkinson/Pickett Penguin
-The Square and the Tower       Ferguson          Penguin
-Stalin: Waiting for Hitler     Kotkin            Penguin
-Talking to Strangers           Gladwell          Penguin
-Thank you for Being Late       Friedman          Penguin
-They can't kill us all         Lowery            Penguin
-This Changes Everything        Klein             Penguin
-Think Like a Freak             Levitt/Dubner     Penguin
-Thinking, Fast and Slow        Kahneman          Penguin
-Too Big to Fail                Ross Sorkin       Penguin
-Tombstone                      Yisheng           Penguin
-Trans-Europe Express           Hatherley         Penguin
-Turing's Cathedral             Dyson             Penguin
-The Undoing Project            Lewis             Penguin
-Until the End of Time          Greene            Penguin
-Universal                      Cox/Forshaw       Penguin
-Unweaving the Rainbow          Dawkins           Penguin
-Upheaval                       Diamond           Penguin
-The Value of Everything        Mazzucato         Penguin
-The Vanquished                 Gerwarth          Penguin
-Victorious Century             Cannadine         Penguin
-We are our brains              Swaab             Penguin
-Weapons of Math Destruction    O'Neil            Penguin
-What is Populism?              Muller            Penguin
-What Money Can't Buy           Sandel            Penguin
-What you did not tell          Mazower           Penguin
-When China Rules the World     Jacques           Penguin
-When to Rob a Bank             Levitt/Dubner     Penguin
-White Fragility                Diangelo          Penguin
-Who owns the future?           Lanier            Penguin
-Whoops!                        Lanchester        Penguin
-Willpower                      BaumeisterTierney Penguin
-With our Backs to the Wall     Stevenson         Penguin
-Winter King                    Penn              Penguin
-The World Until Yesterday      Diamond           Penguin
-World War Two                  Stone             Penguin
-Zero Zero Zero                 Saviano           Penguin
+12 Rules For Life                            Peterson          Penguin
+1914-1918                                    Stevenson         Penguin
+23 things don't tell Capitalism              Ha-Joon Chang     Penguin
+Africa's Long Road Since Independence        Somerville        Penguin
+Age of Anger                                 Mishra            Penguin
+The Animals Among Us                         Bradshaw          Penguin
+Antifragile                                  Taleb             Penguin
+Antwerp                                      Pye               Penguin
+The Ascent of Money                          Ferguson          Penguin
+Be Like the Fox                              Benner            Penguin
+A Beautiful Question                         Wilczek           Penguin
+The Bed of Procrustes                        Taleb             Penguin
+The Bestseller Code                          Archer/Jockers    Penguin
+The Better Angels of Our Nature               Pinker           Penguin
+The Better Half                              Moalem            Penguin
+Between East and West                        Applebaum         Penguin
+The Black Swan                               Taleb             Penguin
+Blink                                        Gladwell          Penguin
+Blitzed                                      Ohler             Penguin R2023
+Blood and Guts                               Porter            Penguin
+Blueprint                                    Plomin            Penguin
+The Body Keeps the Score                     Van Der Kolk      Penguin
+The Bomber Mafia                             Gladwell          Penguin
+Boomerang                                    Lewis             Penguin
+Braiding Sweetgrass                          Kimmerer          Penguin
+Bullshit jobs                                Graeber           Penguin
+The Butchering Art                           Fitzharris        Penguin
+Calling Bullshit                             Bergstrom/West    Penguin
+The Candy Machine                            Feiling           Penguin
+Cat Sense                                    Bradshaw          Penguin
+A Certain Idea of France                     Jackson           Penguin
+Chernobyl                                    Plokhy            Penguin
+China's War with Japan                       Mitter            Penguin
+Chopin's Piano                               Kildea            Penguin
+Churchill                                    Roberts           Penguin
+Climate Change Nation State                  Anatol Lieven     Penguin
+Civilization                                 Ferguson          Penguin
+Classical Mechanics                          Susskind          Penguin
+The Craftsman                                Sennett           Penguin
+Creative Schools                             Robinson          Penguin
+Crimes Against Humanity                      Robertson         Penguin
+Dark Continent                               Mazower           Penguin
+Denying the Holocaust                        Lipstadt          Penguin
+The Descent of Man                           Perry             Penguin R2023
+Dial M for Murdoch                           Watson/Hickman    Penguin R2020
+Digital Gold                                 Popper            Penguin
+Don't be Evil                                Foroohar          Penguin R2023
+The Drunkard's Walk                          Milodinow         Penguin
+The Egyptians                                Shenker           Penguin
+The Element                                  Robinson          Penguin
+The End                                      Kershaw           Penguin
+The End of Average                           Rose              Penguin
+The End of Everything                        Mack              Penguin
+Enemies: History of the FBI                  Weiner            Penguin
+Enemies and Neighbours                       Black             Penguin
+Engineers of Victory                         Kennedy           Penguin
+Enlightenment Now                            Pinker            Penguin
+The Entreprenerial State                     Mazzucato         Penguin
+The Establishment                            Jones             Penguin
+Europe                                       Simms             Penguin
+Europe                                       Flannery          Penguin
+Eva Braun                                    Gortemaker        Penguin
+Every Song Ever                              Ratliff           Penguin
+Exercised                                    Lieberman         Penguin
+The Fall of the Ottomans                     Rogan             Penguin
+Feline Philosophy                            Gray              Penguin
+A Fistful of Shells                          Green             Penguin
+Flash Boys                                   Lewis             Penguin R2022
+Fooled by Randomness                         Taleb             Penguin
+Freakonomics                                 Levitt/Dubner     Penguin
+The Gates of Europe                          Plokhy            Penguin
+Germany                                      MacGregor         Penguin
+Ghost Wars                                   Coll              Penguin
+Gomorrah                                     Saviano           Pan     (quasi)
+Goodbye, Things                              Sasaki            Penguin
+Governing the World                          Mazower           Penguin
+Gravity's Engines                            Scharf            Penguin
+Gulag                                        Applebaum         Penguin (quasi)
+The Fifth Risk                               Lewis             Penguin
+Happiness by Design                          Doolan            Penguin
+Happy City                                   Montgomery        Penguin
+History of the World in Twleve Maps          Brotton           Penguin
+How not to be Wrong                          Ellenberg         Penguin
+How to be right                              O'Brien           Penguin (quasi)
+How the French Think                         Hazareesingh      Penguin
+How the Mind Works                           Pinker            Penguin
+Human Compatible                             Russell           Penguin
+Humble Pi                                    Parker            Penguin
+In Defence of Food                           Pollan            Penguin
+The Invention of Science                     Wootton           Penguin
+Iron Curtain                                 Applebaum         Penguin
+Iron Kingdom                                 Clark             Penguin
+The Japanese                                 Harding           Penguin
+The Knowledge Machine                        Strevens          Penguin
+The Light Ages                               Falk              Penguin
+Limonov                                      Carrere           Penguin
+I'm Feeling Lucky                            Edwards           Penguin
+In Wartime                                   Judah             Penguin
+Landscapes of Commmunism                     Hatherley         Penguin
+The Language Instinct                        Pinker            Penguin
+The Last Man in Russia                       Bullough          Penguin
+Leadership and Self-Deception                Arbinger Institut Penguin
+Leonardo Da Vinci                            Nicholl           Penguin
+Life 3.0                                     Tengmark          Penguin
+The Long '68                                 Vinen             Penguin
+Lost Japan                                   Kerr              Penguin
+Making of t British Landscape                Pryor             Penguin
+Margaret Thatcher Volume 2                   Moore             Penguin
+The Map and the Territory 2.0                Greenspan         Penguin
+Mindwise                                     Epley             Penguin
+Mindware                                     Nisbett           Penguin
+Misbehaving                                  Thaler            Penguin
+Modern Romance                               Ansari            Penguin
+Moonwalking with Einstein                    Foer              Penguin
+Music in the Castle of Heaven                Eliot Gardner     Penguin
+My Italians                                  Saviano           Penguin
+Napoleon the Great                           Roberts           Penguin
+Never Again (Britain 1945-51)                Hennessy          Penguin
+Nudge                                        Thaler/Sunstein   Penguin
+The Numbers Game                             Anderson/Sally    Penguin
+On Grand Strategy                            Gaddis            Penguin
+On Politics                                  Ryan              Penguin
+The Order of Time                            Rovelli           Penguin
+Outliers                                     Gladwell          Penguin
+Our Boys                                     Parr              Penguin
+Our Mathematical Universe                    Tegmark           Penguin
+Owls of the Eastern Ice                      Slaght            Penguin
+The Partition                                Townshend         Penguin
+The Party                                    McGregor          Penguin
+The Price of Inequality                      Stiglitz          Penguin
+Permanent Present Tense                      Corkin            Penguin
+Philosoper of the Heart                      Carlisle          Penguin
+Physics of the Impossible                    Kaku              Penguin
+Plutocrats                                   Freeman           Penguin
+Poor Economics                               Banerjee/Duflo    Penguin
+Priestdaddy                                  Lockwood          Penguin
+Promised You a Miracle                       Beckett           Penguin
+The Quantum Universe                         Cox/Forshaw       Penguin
+The Quest                                    Yergin            Penguin
+Reality is not what it seems                 Rovelli           Penguin
+The Reckoning                                Soil              Penguin
+Refuge                                       Betts/Collier     Penguin
+The Righteous Mind                           Haidt             Penguin
+Rio de Janeiro                               Soares            Penguin
+Risk Savvy                                   Gigerenzer        Penguin
+The Road to Character                        Brooks            Penguin
+The Road to Somewhere                        Goodhart          Penguin
+The Roads to Sata                            Booth             Penguin
+Roller-Coaster                               Kershaw           Penguin
+The Russia Anxiety                           Smith             Penguin
+Scarcity                                     Mullainathan      Penguin
+The Secret World                             Andrew            Penguin
+The Sense of Style                           Pinker            Penguin
+Seven Brief Lessons on Physics               Rovelli           Penguin
+Shady Characters                             Houston           Penguin
+The Shepherd's Life                          Rebanks           Penguin
+The Signal and the Noise                     Silver            Penguin
+Silence: A Christian History                 MacCulloch        Penguin
+The Sleepwalkers                             Clark             Penguin
+Sontag                                       Moser             Penguin
+The Spirit Level                             Wilkinson/Pickett Penguin
+The Square and the Tower                     Ferguson          Penguin
+Stalin: Waiting for Hitler                   Kotkin            Penguin
+Talking to Strangers                         Gladwell          Penguin
+Thank you for Being Late                     Friedman          Penguin
+They can't kill us all                       Lowery            Penguin
+This Changes Everything                      Klein             Penguin
+Think Like a Freak                           Levitt/Dubner     Penguin
+Thinking, Fast and Slow                      Kahneman          Penguin
+Too Big to Fail                              Ross Sorkin       Penguin
+Tombstone                                    Yisheng           Penguin
+Trans-Europe Express                         Hatherley         Penguin
+Turing's Cathedral                           Dyson             Penguin
+The Undoing Project                          Lewis             Penguin
+Until the End of Time                        Greene            Penguin
+Universal                                    Cox/Forshaw       Penguin
+Unweaving the Rainbow                        Dawkins           Penguin
+Upheaval                                     Diamond           Penguin
+The Value of Everything                      Mazzucato         Penguin
+The Vanquished                               Gerwarth          Penguin
+Victorious Century                           Cannadine         Penguin
+We are our brains                            Swaab             Penguin
+Weapons of Math Destruction                  O'Neil            Penguin
+What is Populism?                            Muller            Penguin
+What Money Can't Buy                         Sandel            Penguin
+What you did not tell                        Mazower           Penguin
+When China Rules the World                   Jacques           Penguin
+When to Rob a Bank                           Levitt/Dubner     Penguin
+White Fragility                              Diangelo          Penguin
+Who owns the future?                         Lanier            Penguin
+Whoops!                                      Lanchester        Penguin
+Willpower                                    BaumeisterTierney Penguin
+With our Backs to the Wall                   Stevenson         Penguin
+Winter King                                  Penn              Penguin
+The World Until Yesterday                    Diamond           Penguin
+World War Two                                Stone             Penguin
+Zero Zero Zero                               Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
 All Things Made New            MacCulloch        AllenLane Hatherley
 An Uncertain Glory             Dreze and Sen     AllenLane Hardback
@@ -243,7 +243,7 @@ Warlord                        D'Este            AllenLane Hardback
 Whiteshift                     Kaufmann          AllenLane Hardback
 Winners take All               Giridharadas      AllenLane Paperback
 You, Your Child and School     Robinson          AllenLane Paperback
-# Penguin brnaded (non-fiction in the Allen Lane style)
+# Penguin branded (non-fiction in the Allen Lane style)
 Consider the Fork              Bee Wilson        Penguin
 French Toast                   Peta Mathias      Penguin
 A History of Histories         John Burrow       Penguin
