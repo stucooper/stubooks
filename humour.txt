@@ -1,12 +1,17 @@
 # Humorous books, alphabetical by author surname
 The Naked Jape                                  Jimmy Carr        Penguin
+Shakespeares Star Wars: Verily, A New Hope      Ian Doescher      lucasbooks
 Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare
+More Rules for Life                             Kitty Flanagan    dontcare
 The 158-Pound Marriage                          John Irving       dontcare
 The Fourth Hand                                 John Irving       dontcare
 Sweet Sweet Revenge Ltd                         Jonas Jonasson    harpervia
+Girt                                            David Hunt        BlackInc
+True Girt                                       David Hunt        BlackInc
 Crazy Rich Asians                               Kevin Kwan        AllenUnwin
 How to sound cultured                           Hodkingson        icon
 The Phantom Tollbooth                           Norton Juster     Lions
+Stuff White People Like                         Christian Lander  HardieGrant
 Land of Green Ginger                            Langley           Puffin
 Last Chronicles of Ballyfungus                  Mary Manning      corgi
 The Looney                                      Spike Milligan    penguin
@@ -21,6 +26,7 @@ Memoirs 6: Goodbye Soldier                      Spike Milligan    penguin
 Memoirs 7: Peace Work                           Spike Milligan    penguin
 Take My Word For it                             Frank Muir/Norden methuen
 Overtaken                                       Alexei Sayle      sceptre
+Islamic Republic of Australia                   Sami Shah         ABC
 1066 and all that                               Sellar/Yeatman    penguin
 Spectator Columns 2001-2009                     Taki              quartet
 Millions of Women are waiting to meet you       Sean Thomas       bloomsbury
