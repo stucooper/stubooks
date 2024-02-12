@@ -2,18 +2,4 @@ name: BARNES AMIS
 label: 2019030101
 description: Julian Barnes and Martin Amis
 
-Martin Amis: The Biography            Richard Bradford Constable
-Lionel Asbo                           Martin Amis      JonathanCape
-Koba the Dread                        Martin Amis      JonathanCape
-The Zone of Interest                  Martin Amis      JonathanCape
-The Rachel Papers                     Martin Amis      Penguin
-Dead Babies                           Martin Amis      Penguin
-Success                               Martin Amis      Penguin
-Other People                          Martin Amis      Penguin
-Money                                 Martin Amis      Penguin
-London Fields                         Martin Amis      Penguin
-Experience                            Martin Amis      Vintage
-The Pregnant Widow                    Martin Amis      Vintage
-House of Meetings                     Martin Amis      Vintage
-The War Against Cliche                Martin Amis      Vintage
-The Moronic Inferno                   Martin Amis      Vintage
+
