@@ -11,7 +11,9 @@ A Generative Theory of Shape       Michael Layton         Springer
 Genius in my Basement              Alexander Masters      FourthEstate
 In Code                            Sarah Flannery         Workman
 The Man who Knew Infinity          Robert Kanigel         Abacus
+The Man who knew too much (Turing) David Leavitt          Norton
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
+The Mathematical Brain             Brian Butterworth      Macmillan
 Mathematical Quickies              Trigg                  Dover
 Maths Olympiads: 2000-2001         various                MathsAssocUSA
 My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster

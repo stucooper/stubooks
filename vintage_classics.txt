@@ -1,8 +1,10 @@
 # Vintage classics + Proust
 # 2 Vintage Classics 007 books in james_bond.txt
+The Handmaid's Tale             Margaret Attwood Vintage (CMC)
 How Proust Can Change Your Life Alain de Botton  Picador
 Crime and Punishment            Dostoyevsky      Vintage
 Everything Flows                Grossman         Vintage
+Power without Glory             Frank Hardy      Vintage lost?
 Catch-22                        Heller           Vintage
 Les Miserables                  Hugo             Vintage
 Ape and Essence                 Huxley           Vintage
