@@ -3,11 +3,7 @@ label: 2019030902
 description: Orange Popular Penguins
 
 I, Claudius                        Robert Graves           Penguin
-Tender is the Night                F Scott Fitzgerald      Penguin
-Curious Case of Benjamin Button    F Scott Fitzgerald      Penguin
-The Beautiful and Damned           F Scott Fitzgerald      Penguin
-The Great Gatsby                  F Scott Fitzgerald      Penguin
-The Surgeon of Crowthorne         Simon Winchester        Penguin
+
 Serious                           John McEnroe            timewarner
 King of the World                 David Remnick           Picador
 Harvey Penick's Little Red Book   Harvey Penick           SimonSchuster
