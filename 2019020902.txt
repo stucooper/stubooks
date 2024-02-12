@@ -5,7 +5,7 @@ loc: flemshed
 
 Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
 The Upstarts                                 Stone                 LittleBrown
-Accidental Empires                           Robert X Cringely     Penguin
+Accidental Empires                           Robert X Cringely     dontcare
 Processing                            Reas/Fry                   MITP
 Programming Perl 2e                Wall/Christiansen/Schwar ORA
 Official Guide to CGI.pm           Lincoln Stein            JohnWiley
