@@ -196,6 +196,7 @@ Zero Zero Zero                               Saviano           Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
 All Things Made New                          MacCulloch        ALane hb
 An Uncertain Glory                           Dreze and Sen     ALane hb
+Beyond Order                                 Jordan Peterson   ALane pp
 The Big Screen                               Thomson           ALane hb
 Caste                                        Wilkerson         ALane pp
 Coddling of the American Mind                Lukianoff/Haidt   ALane hb
@@ -219,6 +220,7 @@ Hitler                                       Simms             ALane hb
 Hitler (single volume)                       Kershaw           ALane pp
 The Inner Level                              Wilkinson         ALane hb
 Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
+Leadership in War                            Andrew Roberts    ALane hb
 Lewis Carroll in Numberland                  Wilson            ALane hb
 The Master Algorithm                         Domingos          ALane hb
 Masters and Commanders                       Andrew Roberts    ALane hb
@@ -233,6 +235,7 @@ The Pity of War                              Ferguson          ALane hb no dustj
 The Premonition                              Lewis             ALane hb
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
 Shutdown                                     Tooze             ALane pp
+Skin in the Game                             Taleb             ALane pp
 Terror and Consent                           Bobbitt           ALane pp
 To Explain the World                         Weinberg          ALane hb
 Wagner's Parsifal                            Roger Scruton     ALane hb
@@ -241,10 +244,12 @@ Whiteshift                                   Kaufmann          ALane hb
 Winners take All                             Giridharadas      ALane pp
 You, Your Child and School                   Robinson          ALane pp
 # Penguin branded (non-fiction in the Allen Lane style)
+The Atlantic and its Enemies (Cold War)      Norman Stone      Penguin
 Consider the Fork                            Bee Wilson        Penguin
 French Toast                                 Peta Mathias      Penguin
 Gomorrah                                     Saviano           Pan
 Gulag                                        Applebaum         Penguin
+The Happiness Hypothesis                     Haidt             arrow
 A History of Histories                       John Burrow       Penguin
 History English Peoples 1900+                Andrew Roberts    Harper
 How Democracies Die                          Levitsky/Ziblatt  Penguin
