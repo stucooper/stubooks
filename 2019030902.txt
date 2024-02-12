@@ -2,7 +2,6 @@ name: ORANGE PENGUINS
 label: 2019030902
 description: Orange Popular Penguins
 
-I, Claudius                        Robert Graves           Penguin
 
 Serious                           John McEnroe            timewarner
 King of the World                 David Remnick           Picador
