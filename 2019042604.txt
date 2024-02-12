@@ -1,8 +1,7 @@
-name: CREAMY PENGUINS
+name: 
 label: 2019042604
-description: (see allen_lane.txt)
+description: 
 loc: flemshed
 
-In Defence of Food            Michael Pollan     Penguin
 You Aren't What you Eat       Stephen Poole                 Scribe
 Ulysses                           James Joyce           Penguin
