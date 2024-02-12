@@ -124,6 +124,7 @@ TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Throwing Rocks at the Google Bus             Douglas Rushkoff     portfolio
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
+Tools and Weapons                            Brad Smith           PenguinPress
 Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
