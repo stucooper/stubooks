@@ -8,6 +8,7 @@ Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 The Big Switch                               Nicholas Carr        dontcare
 Blitz Scaling                                Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
+Blockchain Revolution                        Don Tapscott         portfolio
 Bull                                         Douglas Rushkoff     spectre
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
@@ -39,6 +40,7 @@ dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
 Epic Win for Anonymous                       Cole Stryker         overlook
+Faking It                                    Toby Walsh           LaTrobeUni
 Fatal System Error                           Joseph Menn          publicAffairs
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
@@ -70,6 +72,7 @@ The Inevitable                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
+Instagram                                    Leaver/Highfield     polity
 The Intelligent Web                          Graham Shroff        Oxford
 Innovator's Dilemma                          Christensen          harvard
 The Innovators                               Walter Isaacson      SimonSchuster
