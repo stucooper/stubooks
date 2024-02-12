@@ -1,6 +1,7 @@
 # Books by Manning publisher see also perl.txt
 Algorithms of the Intelligent Web         Murmanis/Babenko       Manning
 Getting MEAN                              Simon Holmes           Manning
+Gnuplot in Action                         Janert                 Manning
 Hello World                               Sande                  Manning
 JavaScript Application Design             Nicolas Bevacqua       Manning
 jQuery in Action                          Bibeault/Katz          Manning

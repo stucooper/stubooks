@@ -2,6 +2,7 @@
 # earliers see ora_classic
 # For convenience, python books are considered recent
 21st Century C                                Klemens             ORA
+97 Things every Programmer Should Know        ed Kelvin Henney    ORA
 Ambient Findability                           Morville            ORA
 The Art of Agile Development                  Shore/Warden        ORA
 The Art of Concurrency                        Breshears           ORA
@@ -32,9 +33,11 @@ Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
-Kubernetes: Up & Running                      Hightower           ORA
+Kubernetes: Up and Running                    Hightower           ORA
+Lavarel: Up and Running                       Matt Stauffer       ORA
 Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
+Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
@@ -68,6 +71,7 @@ Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering                  Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
+Think Python 2e                               Allen B Downey      ORA
 Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA

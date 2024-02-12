@@ -49,6 +49,7 @@ Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat
 Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
 Selected Papers on Computer Science          Knuth                CSLI
+Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG

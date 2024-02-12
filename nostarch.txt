@@ -1,6 +1,7 @@
 # IT books published by nostarch; often with bright yellow cartoon covers
 Ardunino Workshop                 Boxall              nostarch
 The Art of R Programming          Matloff             nostarch
+Automate the Boring Stuff wPython Sweigart            nostarch
 The Blender Book                  Wartmann            nostarch
 The Book of CSS3                  Gasston             nostarch
 The Book of Gimp                  Lecarme/Delvare     nostarch
@@ -9,6 +10,7 @@ The Book of IRC                   Charalabidis        nostarch
 The Book of Ruby                  Collingbourne       nostarch
 The Cult of Mac                   Kahney              nostarch
 Designing BSD Rootkits            Kong                nostarch
+Learn to Program in Minecraft     Craig Richardson    nostarch
 Lego Builder's Guide 2e           Bedford             nostarch
 How Linux Works 2e                Ward                nostarch
 How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
@@ -19,6 +21,7 @@ The Linux Programming Interface   Kerrisk             nostarch
 Network Flow Analysis             Lucas               nostarch
 Nagios 2e                         Barth               nostarch
 The Official GNOME2 Devel Guide   Warkus              nostarch
+Practical Packet Analysis         Sanders             nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
 Think like a Programmer           Spraul              nostarch
 Python Crash Course               Eric Matthes        nostarch
