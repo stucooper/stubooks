@@ -1,5 +1,0 @@
-name: BARNES AMIS
-label: 2019030101
-description: Julian Barnes and Martin Amis
-
-
