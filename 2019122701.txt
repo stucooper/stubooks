@@ -4,10 +4,7 @@ description: Various books
 loc: flemshed
 
 
-In Black and White                            Warren Mundine   Pantera
 Nineteen Eighty-Four                          George Orwell    Penguin
 Bad Blood                                     John Carreyou    Picador
 From Bicycles to Bentleys                     Joseph Chou      selfpublished
-Hawke the PM                                  Blanche d'Apuget MUP
-Hawke: The Early Years                        Blanche d'Apuget MUP
 
