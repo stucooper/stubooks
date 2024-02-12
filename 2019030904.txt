@@ -3,11 +3,6 @@ label: 2019030904
 description: Penguin Classics
 loc: flemshed
 
-The Brothers Karamazov                   Dostoyevsky (McDuff)    Penguin
-A Short History of the World             H G Wells               Penguin
-Under Western Eyes                       Joseph Conrad           Penguin
-Complete Poems                           Walt Whitman            Penguin
-Rising Sun                                    Crichton       Ballantine
 Amis and Son                        Neil Powell             Pan
 Stanley and the Women               Kingsley Amis           Vintage
 Kingsley Amis Memoirs               Kingsley Amis           Penguin
