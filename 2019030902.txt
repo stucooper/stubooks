@@ -1,6 +1,0 @@
-name: ORANGE PENGUINS
-label: 2019030902
-description: Orange Popular Penguins
-
-
-loc: flemshed
