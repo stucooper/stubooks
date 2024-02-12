@@ -4,7 +4,6 @@ description: Mostly Maths, bit of science
 loc: flemshed
 
 Exactly (Precision Engineers)               Simon Winchester   WilliamCollins
-Genius at Play (John Conway)                Siobhan Roberts    bloomsbury
 The Second Creation                         Crease/Mann        rutgers
 The Gene: An Intimate History               Siddhartha Mukherjee Scriber
 Quadriviium                                 various            Bloomsbury (CMC)
