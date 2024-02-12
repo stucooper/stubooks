@@ -3,7 +3,4 @@ label: 2019030902
 description: Orange Popular Penguins
 
 
-Serious                           John McEnroe            timewarner
-King of the World                 David Remnick           Picador
-Harvey Penick's Little Red Book   Harvey Penick           SimonSchuster
 loc: flemshed
