@@ -2,8 +2,3 @@ name: BLACK PENGUIN CLASSICS
 label: 2019030502
 description: Black Penguin Classics
 
-Plays Unpleasant                  George Bernard Shaw       PengClassics
-Emma                              Jane Austen               PengClassics
-The Phantom of the Opera          Gaston Leroux             PengClassics
-Vanity Fair                       Willaim Thackeray         PengClassics
-Crime and Punishment              Fyodor Dostoyevsky        PengClassics

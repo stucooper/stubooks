@@ -2,10 +2,12 @@
 # Alphabetical by author (middle column) then title
 Eichmann in Jerusalem               Arendt             PengBlackClassics
 Emma                                Austen             PengBlackClassics
+Emma                                Austen             PengClassics lost? DUP
 Northanger Abbey                    Austen             PengYellowClassics
 Persuasion                          Austen             PengBlackClassics
 Pride and Prejudice                 Austen             PengYellowClassics
 Sense and Sensibility               Austen             PengBlackClassics
+Plays Unpleasant                    G Bernard Shaw     PengClassics lost?
 Barber Seville/Marriage of Figaro   Beaumarchais       PengYellowClassics
 Don Juan                            Byron              PengYellowClassics
 Alice in Wonderland/Looking-Glass   Carroll            PengBlackClassics
@@ -30,6 +32,7 @@ Pickwick Papers                     Dickens            PengYellowClassics
 Sketches by Boz                     Dickens            PengYellowClassics
 Tale of Two Cities                  Dickens            PengYellowClassics
 Crime and Punishment                Dostoyevsky        PengYellowClassics
+Crime and Punishment                Fyodor Dostoyevsky PengBlackClassics lost?
 Gambler/Bobok/NastyStory            Dostoyevsky        PengYellowClassics
 The House of the Dead               Dostoyevsky        PengYellowClassics
 The Idiot                           Dostoyevsky        PengYellowClassics
@@ -44,6 +47,7 @@ Homer: The Iliad                    Homer/Fagles       PengYellowClassics
 Selected Essays                     Samuel Johnson     PengBlackClassics
 Selected Writings                   Samuel Johnson     PengYellowClassics
 Three Men in a Boat                 Jerome K Jerome    PengBlackClassics
+The Phantom of the Opera            Gaston Leroux      PengClassics lost?
 The Odyssey                         Homer/E V Rieu     PengYellowClassics
 Ruba'iyat of Omar Khayyam           Omar Khayyam       PengYellowClassics
 The History of England              Lord Macaulay      PengBlackClassics
@@ -57,6 +61,7 @@ Three Theban Plays                  Sophocles/Fagles   PengYellowClassics
 Treasure Island                     R Louis Stephenson PengBlackClassics
 Twelve Caesars                      Suetonius/Graves   PengYellowClassics
 Gulliver's Travels                  Swift              PengYellowClassics
+Vanity Fair                         William Thackeray  PengClassics lost?
 Walden                              Thoreau            PengIllustratedClassics
 Anna Karenina                       Tolstoy            PengBlackClassics
 Adventures of Huckleberry Finn      Mark Twain         PengBlackClassics
