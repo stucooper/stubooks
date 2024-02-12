@@ -10,6 +10,7 @@ Darwin                              Gribbin/White          Pocket
 The Earth Moves                     Dan Hofstadter         Norton
 Einstein                            White/Gribbin          SimonSchuster
 Emperor of All Maladies             Siddhartha Mukerjee    Fourth
+Failure is Not an Option            Gene Kranz             SimonSchuster
 The Fellowship                      John Gribbin           Penguin
 Force of Nature: Life Linus Pauling Hager                  SimonShuster
 Genius: Feynman and Modern Physics  James Gleick           Abacus
