@@ -2,6 +2,7 @@
 Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 Are you smart enough to work at Google?      Poundstone           LittleBrown
+The Art of Immersion                         Frank Rose           norton
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
@@ -119,6 +120,7 @@ Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Startup Focus                                pollenizer           pollenizer
 The Startup Way                              Eric Ries            portfolio
+Stolen Focus                                 Johann Hari          bloomsbury
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
