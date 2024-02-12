@@ -1,4 +1,0 @@
-name: RACING AND AFL
-label: 2019122901
-description: Horseracing and AFL books
-loc: flemshed
