@@ -3,11 +3,3 @@ label: 2019130403
 description: Penguin Classics, both black and yellow
 loc: flemshed
 
-Complete Poems                          William Blake      PengClassics
-Silas Marner                            George Eliot       PengClassics
-Complete Stories                        Dorothy Parker     PengClassics
-Complete Poems                          John Keats         PengClassics
-The Prodigy                        Hermann Hesse           Penguin
-The War in the Air                 H G Wells               Penguin
-The Man in the Iron Mask           Alexandre Dumas         Penguin
-The Three Musketeers               Alexandre Dumas         Penguin
