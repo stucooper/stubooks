@@ -4,7 +4,5 @@ description: Various books
 loc: flemshed
 
 
-Nineteen Eighty-Four                          George Orwell    Penguin
-Bad Blood                                     John Carreyou    Picador
-From Bicycles to Bentleys                     Joseph Chou      selfpublished
+
 
