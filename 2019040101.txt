@@ -15,6 +15,4 @@ Second Foundation                            Isaac Asimov            HarperColl
 Prelude to Foundation                        Isaac Asimov            HarperColl
 Foundation's Edge                            Isaac Asimov            HarperVoy
 Foundation and Earth                         Isaac Asimov            HarperVoy
-Schindler's List                       Keneally           Sceptre
-Bulldog Drummond                       Sapper             Hodder
 loc: flemshed
