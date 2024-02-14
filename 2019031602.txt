@@ -3,7 +3,3 @@ label: 2019031602
 description: Various
 loc: flemshed
 
-The Secret War                       Max Hastings          WilliamCollins
-The Greek Myths                      Robert Graves         Penguin
-The Magical Chorus: Russian Culture  Solomon Volkov         Knopf
-Proust and the Squid                 Maryanne Wolf          Icon
