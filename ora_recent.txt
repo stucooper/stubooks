@@ -41,6 +41,7 @@ Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
+Learning Ruby                                 Michael Fitzgerald  ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
 Hadoop Application Architectures              Grover              ORA
@@ -67,8 +68,11 @@ Python Cookbook 2e                            Martelli/Ascher     ORA
 Python for Data Analysis                      Wes McKinney        ORA
 Python Standard Library                       Lundb               ORA
 R for Data Science                            Wickham             ORA
+Rails Cookbook                                Rob Orsini          ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley                      Andy Hertzfeld      ORA
+Ruby Cookbook                                 Carlson/Richardson  ORA
+The Ruby Programming Language                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering                  Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA

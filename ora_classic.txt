@@ -1,4 +1,5 @@
-# CLassic O'Reilly books
+# CLassic O'Reilly books: published before 2010
+# anything Ruby, Rails and Python goes to ora_recent.txt regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Definitive Guide 2e  Gast                ORA
 Amt The Definitive Guide                      Holzner             ORA
@@ -63,7 +64,6 @@ Learning JavaScript 2e                        Powers              ORA
 Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e          Nixon               ORA
-Learning Ruby                                 Michael Fitzgerald  ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning Web Design                           Niederst            ORA
 Learning XML                                  Ray                 ORA
@@ -99,11 +99,8 @@ Programming Amazon Web Services               Murty               ORA
 Programming Collective Intelligence           Segaran             ORA
 Programming Internet Email                    Wood                ORA
 RADIUS                                        Hassell             ORA
-Rails Cookbook                                Rob Orsini          ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                          Richardson          ORA
-Ruby Cookbook                                 Carlson/Richardson  ORA
-The Ruby Programming Language                 Flanagan/Matsumoto  ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                       McCarty             ORA
