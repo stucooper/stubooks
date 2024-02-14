@@ -1,6 +1,7 @@
 # MIT Press
 10 PRINT CHR(205.5+RND(1)); : GOTO 10        Montefort et al          mitp
 The Computational Beauty of Nature           Gary William Flake       mitp
+Evocative Objects                            ed Turkle                mitp
 From Airline Reservs to Sonic the Hedgehog   Martin Campbell-Kelly    mitp
 Game Design Reader                           Salen/Zimmerman          mitp
 Hal's Legacy                                 ed David G Stork         mitp
