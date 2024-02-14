@@ -84,7 +84,7 @@ The Internet is not the answer               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
-Lab Rats                                     Dab Lyons            atlantic
+Lab Rats                                     Dan Lyons            atlantic
 Life Inc                                     Douglas Rushkoff     RandomHouse
 The Long Tail                                Chris Anderson       Hyperion
 Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
