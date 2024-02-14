@@ -1,0 +1,4 @@
+# crime novels, thrillers etc. see also connelly.txt
+# alphanetical by author surname
+The Island of Sheep                           John Buchan            Penguin
+The Thirty-Nine Steps                         John Buchan            Penguin
