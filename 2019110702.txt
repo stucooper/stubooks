@@ -3,13 +3,6 @@ label: 2019110702
 description: Non fiction Allen Lane Hardbacks and others
 loc: flemshed
 
-A Bright Shining Lie                  Neil Sheehan              JonathanCape
-Blood, Tears and Folloy: WW2          Len Deighton               Pimlico
-Radical Sydney                        Terry Irving/Rowan Cahill  UNSW
 fin                                   James Delingpole           Picador
-Lazarus Rising (hb)                      John Howard        HarperCollins
 Hitch 22                                 Christopher Hitchens Twelve
-Star: Warren Beatty                      Peter Biskind      SimonSchuster
 Doomsday Men                             P. D. Smith        AllenLane
-Go Set a Watchmen                        Harper Lee
-Down and Dirty in Pictures               Peter Biskind
