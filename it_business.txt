@@ -44,6 +44,7 @@ Epic Win for Anonymous                       Cole Stryker         overlook
 Everybody Lies (Google internet searches)    Stephens-Davidowitz  bloomsbury
 Faking It                                    Toby Walsh           LaTrobeUni
 Fatal System Error                           Joseph Menn          publicAffairs
+Filter Bubblet: Internet hiding from you     Eli Pariser          Viking
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
 The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 Free                                         Chris Anderson       rhbusiness
@@ -126,6 +127,7 @@ Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 TED Talks                                    Chris Anderson       nicBrealey
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Throwing Rocks at the Google Bus             Douglas Rushkoff     portfolio
+To Save Everything Click Here                Evgeny Morozov       publicaffairs
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Tools and Weapons                            Brad Smith           PenguinPress
 Under the Radar                              Bob Young            coriolis
