@@ -73,7 +73,6 @@ Linux in a Nutshell 2e                        Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
-Make 08: Toys and Games                       MakeZine            ORA
 Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA

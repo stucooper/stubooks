@@ -41,6 +41,8 @@ Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
+Make 08: Toys and Games                       MakeZine            ORA
+Make: AVR Programming                         Elliot Williams     MakerMedia
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide                   White               ORA
 Machine Learning for Hackers                  Drew Conway         ORA
