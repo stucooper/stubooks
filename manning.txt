@@ -3,6 +3,7 @@ Algorithms of the Intelligent Web         Murmanis/Babenko       Manning
 Getting MEAN                              Simon Holmes           Manning
 Gnuplot in Action                         Janert                 Manning
 Hello World                               Sande                  Manning
+Hello World 2e                            Sande                  Manning
 JavaScript Application Design             Nicolas Bevacqua       Manning
 jQuery in Action                          Bibeault/Katz          Manning
 MongoDB in Action                         Kyle Banker            Manning
