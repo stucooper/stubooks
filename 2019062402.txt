@@ -1,4 +1,0 @@
-name: LATEX
-label: 2019062402
-description: Latex books and random IT
-
