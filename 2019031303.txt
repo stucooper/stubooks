@@ -1,5 +1,0 @@
-name: PHILOSOPHY
-label: 2019031303
-description: Books on Philosophy
-loc: flemshed
-
