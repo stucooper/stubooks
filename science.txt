@@ -14,6 +14,7 @@ Failure is Not an Option            Gene Kranz             SimonSchuster
 The Fellowship                      John Gribbin           Penguin
 Force of Nature: Life Linus Pauling Hager                  SimonShuster
 Genius: Feynman and Modern Physics  James Gleick           Abacus
+How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
 Isaac Newton                        James Gleick           Harper
 John von Neumann                    Norman Macrae          pantheon
