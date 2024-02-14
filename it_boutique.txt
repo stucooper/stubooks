@@ -34,6 +34,7 @@ How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Linux File Systems                           Moshe Bar            McGrawHill
 Linux Network Servers                        Craig Hunt           Sybex
 The Macintosh Way                            Guy Kawasaki         ScottForesman
+Modern Data Analysis: Applied Statistics     Hamilton  lost?      BrooksCole
 Multiprotocol Routing for SANs               Judd                 brocade
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
