@@ -3,7 +3,9 @@ Antigua, Penny, Puce               Robert Graves                 Penguin
 Big Brother                        Lioner Shriver       R2023    Fourth
 The Catcher in the Rye             J D Salinger                  Penguin
 The Complete Saki                  Saki                          Penguin
+Diary                              Chuck Palahniuk               Vintage
 Go Set a Watchman                  Harper Lee                    Heinemann
+The God of Small Things            Arundhati Roy                 flamingo
 I, Claudius                        Robert Graves                 Penguin
 Joy Luck Club                      Amy Tan                       minerva
 Last Orders                        Graham Swift                  Picador
@@ -17,6 +19,8 @@ The Prodigy                        Hermann Hesse                 Penguin lost?
 The Rules of Attraction            Bret Easton Ellis             picador
 Shantaram                          Gregory David Roberts         scribe
 The Shipping News                  E Annie Proulx                Fourth
+Surveillance                       Jonathan Raban                picador
+Super Sad True Love Story          Gary Shteyngart               granta
 The Tax Inspector                  Peter Carey                   faber
 Tortilla Flat                      John Steinbeck                Penguin
 Unbearable Lightness of Being      Milan Kundera                 faber
