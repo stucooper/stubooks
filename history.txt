@@ -1,6 +1,7 @@
 # War and History books
 Arnhem                             Antony Beevor       Penguin
 Berlin: The Downfall               Antony Beevor       Penguin
+Between Silk and Cyanide           Leo Marks           harpercollins
 Cold War                           Isaacs/Downing      abacus
 Five Days in London                John Lukacs         scribe
 History of England IV: Revolution  Peter Ackroyd       Macmillan
