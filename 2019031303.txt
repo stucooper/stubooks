@@ -3,12 +3,5 @@ label: 2019031303
 description: Books on Philosophy
 loc: flemshed
 
-Man who mistook his wife for a hat     Oliver Sachs         Picador
 Voltaire's Bastards                    John Ralston Saul    Penguin
 Principles of Mathematics              Bertrand Russell     Routledge
-Punch Down Under                     ed Barry Humphries    Robson
-Love, Sex and other Natural Disasters The Onion            Quirk
-Whiter Shades of Pale                Christian Lander      hardieGrant
-The Compleet Molesworth              Willans/Serle         Pavilion
-Kinky Friedman Crime Club  lost?     Kinky Friedman        faber (CFORD)
-And it's Goodnight from Him          Ronnie Corbett        michaelJoseph
