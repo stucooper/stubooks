@@ -66,6 +66,7 @@ Linux Application Development         Johnson/Troan                   AWL
 Linux Install/Configuration/Using     Michael Kofler         lost?    AWL
 Linux Kernel Development 3e           Robert Love                     AWL
 LINUX Kernel Internals                various Germans        lost?    AWL
+More Programming Pearls               Jon Bentley                     AWL
 Moving to Free Software               Gagne                           AWL
 New Hacker's Dictionary               ed Eric S. Raymond              AWL
 NFS Illustrated                       Callaghan                       AWL
@@ -77,7 +78,7 @@ Procmail Companion                    Martin McCarthy                 AWL
 Programming in Objective C            Kochan                          AWL
 Programming in Python 3               Summerfield                     AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
-Programming Pearls 2e                 Bentley                         AWL
+Programming Pearls 2e                 Jon Bentley                     AWL
 Programming with POSIX Threads        David R Butenhof                AWL
 Python Web Development with Django    Forcier/Bissex                  AWL
 A Quarter Century of UNIX             Salus                           AWL
