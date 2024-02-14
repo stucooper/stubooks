@@ -3,29 +3,17 @@ label: 2019031004
 description: BBC Comedy
 loc: flemshed
 
-The Illustrated Hancock                    Roger Wilmut           Macdonald
-Lady don't fall backwards                  Joan LeMesurier        Pan
-Hancock (bio)                              Freddie Hancock        BBC
+
+
 From Fringe to Flying Circus               Roger Wilmut           EyreMethuen
 The Complete Beyond the Fringe             Bennett/Cook/Miller/Moore Methuen
-Fifty Years of Hancock's Half Hour         Richard Webber         century
-Hancock Artiste (hb)                       Roger Wilmut           eyreMethuen
-When the Wind Changed (Tony Hancock bio)   Cliff Goodwin          Arrow
-The Complete Avengers           Rogers                  Boxtree
-The Avengers Companion          Carraze/Putheaud        Bay
+
+
+
 Brazil                          Palin                   Weidenfeld
-Little Britain Scripts          Lucas/Walliams          HarperCollins
+
 James Bond Companion            Chancellor              JohnMurray
 From Fringe to Flying Circus    Wilmut                  methuen
-T is for Television: Russell Davies Aldridge/Murray     Reynolds/Hearn
-The Children of Men              P.D.James          faber
-American Gods                          Gaiman          headline
-2312                                   StanleyRobinson Orbit
-Illuminatus Trilogy                    Shea/Wilson     dontcare
-Brave New World                        Huxley          Granada
-Brave New World Revisited              Huxley          Granada
 Doctor Who Dalek Handbook              Tribe/Goss      BBC
-The Peripheral                         William Gibson          Viking
-All Tomorrows Parties                  William Gibson          Viking
 Doctor Who: The Pirate Planet               James Goss              BBC
 Feed                                     M T Anderson        Candlewick
