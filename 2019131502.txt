@@ -3,9 +3,4 @@ label: 2019131502
 description: late packing from Carlingford
 loc: flemshed
 
-21 Lessons for the 21st Century             Yuval Noah Harari   JonathanCape
-Remembering Bob                             ed Sue Pieters-Hawke AllenUnwin
-Top Price                                Matt Price             HarperCollins
-Nixon and Kissinger                      Robert Dallek          Harper
-When we were young and foolish           Greg Sheridan          AllenUnwin
 Style Manual for authors, editors and printers  AusGovt             AGPS

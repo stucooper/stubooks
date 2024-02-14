@@ -6,7 +6,6 @@ loc: flemshed
 When to Rob a Bank                              Levitt/Dubner     HarperCollins
 Too Big to Fail                                 Sorkin            Penguin
 The Russian Revolution brief insight            Smith             Sterling
-The German Genius                               Watson            SimonSchuster
 How to win a million                            Laing             RandomHouse
 Fooled by Randomness                            Taleb             RandomHouse
 The Seven Basic Plots                           Booker            Continuum
