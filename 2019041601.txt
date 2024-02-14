@@ -2,5 +2,3 @@ name: POKER - OLD
 label: 2019041601
 description: Old, little consulted poker books
 
-Las Vegas City Guide                        LonelyPlanet
-Insight City Guide Las Vegas                Apa
