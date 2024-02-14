@@ -33,6 +33,7 @@ The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
+Digital Barbarism        lost?               Mark Helprin           Harper
 Digital Gold (bitcoin)                       Nathaniel Popper     HarperCollins
 Digital vs Human                             Richard Watson       scribe
 Does I.T Matter?                             Nicholas Carr        Harvard
@@ -70,6 +71,7 @@ How apps are changing the world              Stephen Molloy       Aviva
 How is the Internet Changing way we think?   ed John Brockman     Atlantic
 How to Deliver a TED talk                    Jeremy Donovan       McGrawHill
 How to Fix the Future                        Andrew Keen          Atlantic
+How Google Works                             Schmidt/Rosenberg    JohnMurray
 How Music Got Free                           Stephen Witt         Viking
 The Idea Factory: Bell Labs                  Jon Gertner          Penguin
 The Inevitable                               Kevin Kelly          Penguin

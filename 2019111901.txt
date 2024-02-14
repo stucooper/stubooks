@@ -3,6 +3,4 @@ label: 2019111901
 description: IT Policy books
 loc: flemshed
 
-Free Software Free Society essays         Richard Stallman      GNUPress
-Digital Barbarism                         Mark Helprin           Harper
-How Google Works                          Schmidt/Rosenberg      JohnMurray
+
