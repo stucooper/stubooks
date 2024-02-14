@@ -3,4 +3,3 @@ label: 2019110803
 description: IT Policy books including Dark Web books
 loc: flemshed
 
-The Internet is not the answer         Andrew Keen            Atlantic
