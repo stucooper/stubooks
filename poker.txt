@@ -38,6 +38,7 @@ Fighting Fuzzy Thinking           David Sklansky      TwoPlusTwo
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
 Gambler's Guide to the World      Jesse May           broadway
 Gambling                          Mike Atherton       HodderStoughton
+Games                             King                Kingfisher
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Getting the Best of it            David Sklansky      TwoPlusTwo
 Ghosts at the table               Des Wilson          Mainstream
@@ -74,6 +75,7 @@ Making the Final Table            Erick Lindgren      HarperCollins
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
 Mastering Pot-Limit Omaha         Okolowitz           D&B
 Mathematics of Poker              Bill Chen           Conjelco
+Mollys Game                       Bloom               WilliamCollins lost?
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza
 NLH A Complete Course             Angel Largay        ECW
 No Limit Holdem for Winners       Andrea/Dan Shavick  howtobooks
@@ -137,3 +139,6 @@ Winning Touraments One Hand at a time Vol 1 various   Dimat
 Winning Touraments One Hand at a time Vol 2 various   Dimat
 Your Best Poker Friend            Al Schoonmaker      LyleStuart
 Zen and the art of Poker          Larry Phillips      Plume/Penguin
+# non-poker games below
+Card Games for Smart Kids         Golick              Sterling
+Killer Cribbage                   Barlow              Puzzlewright

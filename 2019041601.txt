@@ -2,10 +2,5 @@ name: POKER - OLD
 label: 2019041601
 description: Old, little consulted poker books
 
-Games                   King                Kingfisher
 Las Vegas City Guide                        LonelyPlanet
 Insight City Guide Las Vegas                Apa
-Risky Business            Alvarez           bloomsbury
-Mollys Game               Bloom             WilliamCollins
-Killer Cribbage           Barlow            Puzzlewright
-Card Games for Smart Kids   Golick          Sterling
