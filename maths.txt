@@ -7,10 +7,12 @@ Calculus Wars                      Jason Bardi            HighStakes
 The Cracking Codebook              Simon Singh            HerperCollins
 Fluke: Maths Myths of Conicidences Joseph Mazur           OneWorld
 From Erdos to Kiev: Olympic prons  Honsberger             MathsAssocUSA
+GameTek: games teach us about life Geoffrey Engelstein    HarperCollins
 A Generative Theory of Shape       Michael Layton         Springer
 Genius at Play (John Conway)       Siobhan Roberts        bloomsbury
 Genius in my Basement              Alexander Masters      FourthEstate
 In Code                            Sarah Flannery         Workman
+The Joy of X                       Steven Strogatz        atlantic
 The Man who Knew Infinity          Robert Kanigel         Abacus
 The Man who knew too much (Turing) David Leavitt          Norton
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
