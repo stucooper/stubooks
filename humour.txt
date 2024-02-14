@@ -1,6 +1,7 @@
 # Humorous books, alphabetical by author surname
 The Naked Jape                                  Jimmy Carr        Penguin
 Smoking Monkeys,Drilling Rigs,Bio-Diesel Bikes  Paul Carter       AllenUnwin
+Male Order (mans style guide)                   Richard Clune     NewHolland
 Making out in Chinese                           Daniels           Yenbooks
 Shakespeares Star Wars: Verily, A New Hope      Ian Doescher      lucasbooks
 Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare
