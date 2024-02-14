@@ -2,6 +2,3 @@ name: CHARLES DICKENS
 label: 2019041702
 description: Just about all non-bio Dickens I have
 
-Dickens at Christmas hb             Dickens            Vintage
-Pictures from Italy                 Dickens            PenguinBlackClassics
-American Notes                      Dickens            PenguinYellowClassics
