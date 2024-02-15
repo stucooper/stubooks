@@ -3,7 +3,3 @@ label: 2019030702
 description: IT Lifestyle books
 loc: flemshed
 
-Internet is not the Answer        Andrew Keen           Atlantic
-Making the Cisco Connection      David Bunnell            JohnWiley
-The Apple Revolution             Luke Dormehl             Virgin
-You are not a gadget             Jaron Lanier             AllenLane

@@ -1,6 +1,7 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
 Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
+The Apple Revolution  lost?                  Luke Dormehl         Virgin
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Art of Immersion                         Frank Rose           norton
 The Attention Merchants                      Tim Wu               Atlantic
@@ -18,7 +19,6 @@ Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
-
 Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
 Crowdsourcing                                Jeff Howe            rh
 Crypto                                       Levy                 Viking
