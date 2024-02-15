@@ -77,7 +77,7 @@ Revolution in the Valley                      Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
 The Ruby Programming Language                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
-Site Reliability Engineering                  Beyer               ORA
+Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
 Think Python 2e                               Allen B Downey      ORA
