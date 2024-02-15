@@ -16,6 +16,7 @@ The Fellowship                      John Gribbin           Penguin
 Force of Nature: Life Linus Pauling Hager                  SimonShuster
 The Gene: An Intimate History       Siddhartha Mukherjee   Scriber lost?
 Genius: Feynman and Modern Physics  James Gleick           Abacus
+Godel Escher Bach                   Douglas Hofstadter     Penguin
 How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
 Isaac Newton                        James Gleick           Harper
