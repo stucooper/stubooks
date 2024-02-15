@@ -13,6 +13,7 @@ Emperor of All Maladies             Siddhartha Mukerjee    Fourth
 Failure is Not an Option            Gene Kranz             SimonSchuster
 The Fellowship                      John Gribbin           Penguin
 Force of Nature: Life Linus Pauling Hager                  SimonShuster
+The Gene: An Intimate History       Siddhartha Mukherjee   Scriber lost?
 Genius: Feynman and Modern Physics  James Gleick           Abacus
 How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
@@ -24,5 +25,6 @@ Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC lost?
 Pandora's Keepers                   Brian Van De Mark      BackBay
 Quantum Man: Richard Feynman's life Lawrence M Krauss      norton
 Richard Feynman                     John and Mary Gribbin  Viking
+Second Creation Makers 21c Physics  Crease/Mann            rutgers lost?
 Teller Memoirs                      Edward Teller          Perseus
 What Just Happened                  James Gleick           Abacus
