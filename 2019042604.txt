@@ -3,5 +3,3 @@ label: 2019042604
 description: 
 loc: flemshed
 
-You Aren't What you Eat       Stephen Poole                 Scribe
-Ulysses                           James Joyce           Penguin
