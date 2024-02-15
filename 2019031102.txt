@@ -3,6 +3,4 @@ label: 2019031102
 description: Various IT books including gaming
 loc: flemshed
 
-Radicals, Resistance and Revenge         Judge Pirro          CentreStreet
-Dave Barry Turns 50                      Dave Barry           RandomHouse
-The Eureka Way                           Alan Koehler         ABC
+
