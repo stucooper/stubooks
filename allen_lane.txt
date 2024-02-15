@@ -135,7 +135,7 @@ The Price of Inequality                      Stiglitz          Penguin
 Priestdaddy                                  Lockwood          Penguin
 Promised You a Miracle                       Beckett           Penguin
 The Quantum Universe                         Cox/Forshaw       Penguin
-The Quest                                    Yergin            Penguin
+The Quest                                    Daniel Yergin     Penguin
 Reality is not what it seems                 Rovelli           Penguin
 The Reckoning                                Soil              Penguin
 Refuge                                       Betts/Collier     Penguin
@@ -203,7 +203,7 @@ The Big Screen                               Thomson           ALane hb
 Caste                                        Wilkerson         ALane pp
 Coddling of the American Mind                Lukianoff/Haidt   ALane hb
 Creative Schools                             Robinson          ALane pp DUP
-David and Goliath                            Gladwell          ALane hb
+David and Goliath                            Malcolm Gladwell  ALane hb
 Doom                                         Ferguson          ALane pp
 Doomsday Men                                 P. D. Smith       ALane hb
 The Demon in the Machine                     Davies            ALane pp
@@ -216,7 +216,7 @@ Fateful Choices                              Kershaw           ALane hb no dustj
 The Fifth Risk                               Lewis             ALane hb DUP
 First Confession                             Patten            ALane hb
 Future Perfect                               Johnson           ALane hb
-Has the West Lost it?                        Mahbubani         ALane hb
+Has the West Lost it?                        Kishore Mahbubani ALane hb
 Here Comes Trouble                           Michael Moore     ALane pp
 History of World  100 objects                Neil MacGregor    ALane hb
 Hitler                                       Simms             ALane hb
