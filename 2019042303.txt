@@ -5,5 +5,3 @@ loc: flemshed
 
 
 
-Makers                             Cory Doctorow      TOR
-colossus: Bletchley Park           Gannon             Atlantic
