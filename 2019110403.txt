@@ -1,9 +1,0 @@
-name: IT - VARIOUS
-label: 2019110403
-description: IT Books, many inherited from RD
-loc: flemshed
-
-# Box 110403 is now full of poker books and garaged.
-# Books in this file are probably shelved and I will move
-# the entries to different files later
-
