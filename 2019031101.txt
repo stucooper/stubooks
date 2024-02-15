@@ -1,5 +1,0 @@
-name: SHAKESPEREANA
-label: 2019031101
-description: About Shakespeare
-loc: flemshed
-
