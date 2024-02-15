@@ -1,5 +1,0 @@
-name: SHAKESPEARE (NON-RSC)
-label: 2019031201
-description: Shakespeare editions, non-RSC
-
-loc: flemshed
