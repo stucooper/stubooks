@@ -42,7 +42,7 @@ Hot Water                      1932 own?
 How right you are, Jeeves      1960 US == Jeeves in the Offing
 Fish Preferred                 1929 US == Summer Lightning
 Frozen Assets                  1964
-Full Moon                      1947 own?
+Full Moon                      1947 own arp
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
 A Gentleman of Leisure         1910 own?
 The Girl on the boat           1922 own?
@@ -60,7 +60,7 @@ The inimitable Jeeves          1932 own? JO1
 Jeeves                         1932 US == The inimitable Jeeves
 Jeeves and the Feudal Spirit   1954 own?
 Jeeves in the Offing           1960 own?
-Laughing Gas                   1936 own?
+Laughing Gas                   1936 own arp
 The Little Nugget              1913
 The Little Warrior             1920 US == Jill the Reckless
 Leave it to Psmith             1923 own arp R2024
@@ -84,7 +84,7 @@ The Old Reliable               1951
 Over Seventy                   1957
 Performing Flea                1953
 Picadilly Jim                  1917 own?
-Pigs have wings                1952 own?
+Pigs have wings                1952 own arp
 The Pothunters                 1902
 The Prince and Betty           1912
 Psmith in the City             1910 own?
@@ -96,13 +96,13 @@ Right Ho, Jeeves               1934 own?
 Ring for Jeeves                1953 own?
 Sam the Sudden                 1925
 Sam in the Suburbs             1925 US == Sam the Sudden
-Service with a Smile           1961 own?
+Service with a Smile           1961 own arp
 The Small Bachelor             1927 own arp
 Something Fishy                1957 own?
 Something Fresh                1915 own?
 Something New                  1915 US == Something Fresh
 Spring Fever                   1948 own?
-Stiff Upper Lip, Jeeves        1963 own?
+Stiff Upper Lip, Jeeves        1963 own arp
 Summer Lightning               1929
 Summer Moonshine               1937
 The Swoop                      1909
@@ -113,7 +113,7 @@ Three Men and a Maid           1922 US == The Girl on the Boat
 Ukridge                        1924
 Uneasy Money                   1916
 Uncle Dynamite                 1948 own?
-Uncle Fred in the Springtime   1939 own?
+Uncle Fred in the Springtime   1939 own arp
 Very Good, Jeeves              1930
 The White Feather              1907
 William Tell Told Again        1904
