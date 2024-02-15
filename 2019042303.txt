@@ -1,7 +1,0 @@
-name: IT - POLICY CRYPTO
-label: 2019042303
-description: it books on policy and crypto
-loc: flemshed
-
-
-
