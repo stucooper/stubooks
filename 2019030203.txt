@@ -1,4 +1,0 @@
-name: MEDIA ECO
-label: 2019030203
-description: Media and Umberto Eco
-
