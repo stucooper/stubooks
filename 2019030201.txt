@@ -3,9 +3,3 @@ label: 2019030201
 description: War books
 loc: flemshed
 
-china modern (cookbook)                  ching-he huang        kylebooks
-The Foodie Handbook                      Techamuanvivit        Conran
-Tools: A Field Guide                     Dodds                 ABC
-Fantastic Home Maintenance Manual        Paul                  Aurum
-Things Bogans Like                       various               hachette
-Gittinomics                              Gittins               AllenUnwin
