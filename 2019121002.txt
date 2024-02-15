@@ -6,6 +6,7 @@ loc: flemshed
 Enchantress of Florence                 Salman Rushdie       JonathanCape
 Shalimar the Clown                    Salman Rushdie        JonathanCape
 The Satanic Verses                    Salman Rushdie        Viking
+Step across this line                             Rushdie         JonathanCape
 Golden House                      Salman Rushdie             JonathanCape
 Imaginary Homelands               Salman Rushdie             Vintage
 Fury                               Rushdie                  Vintage
