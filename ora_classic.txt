@@ -8,10 +8,10 @@ Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 Applying RCS and SCCS                         Bolinger/Bronson    ORA
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                                 Albing/Vossen       ORA
-Building Internet Firewalls 2e                Chapman/Zwicky      ORA
+Building Internet Firewalls 2e           2000 Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Scalable Web Sites                   Henderson           ORA
-Building Secure Servers with Linux            Bauer               ORA
+Building Secure Servers with Linux       2002 Bauer               ORA
 Building Wireless Community Networks     2002 Flickeneger         ORA
 The Cathedral and the Bazaar                  Eric S. Raymond     ORA
 Cascading Style Sheets: Definitive Guide      Eric A Meyer        ORA
@@ -25,7 +25,7 @@ DNS & BIND Cookbook                           Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
 Dynamic HTML 3e                               Danny Goodman       ORA
 Essential CVS 2e                              Vesperman           ORA
-Essential SNMP 2e                             Mauro/Schmidt       ORA
+Essential SNMP 2e                        2005 Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
@@ -51,13 +51,13 @@ Java in a Nutshell 4e                         David Flanagan      ORA
 Java Enterprise in a Nutshell                 FLanagan/Farley     ORA
 Java Examples in a Nutshell                   Flanagan            ORA
 Java Network Programming 2e                   Harold              ORA
-Java Servlet Programming 2e                   Hunter              ORA
+Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook               Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e               David Flanagan      ORA
 JavaScript Enlightenment                      Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 jQuery Cookbook                               Community Experts   ORA
-Kerberos: The Definitive Guide                Garman              ORA
+Kerberos: The Definitive Guide           2003 Garman              ORA
 Learning Debian GNU/Linux                     Bill McCarty        ORA
 Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning JavaScript 2e                        Powers              ORA
@@ -70,15 +70,16 @@ Learning XML                            2001  Erik T Ray          ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                  1999  Ellen Siever        ORA
+Linux Device Drivers                    1998  Rubini              ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
-Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
+Linux Network Administrator's Guide 2e  2000  Kirch/Dawson        ORA
 Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
 MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL                 Viega/Messier       ORA
-Network Troubleshooting Tools                 Sloan               ORA
+Network Troubleshooting Tools            2001 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
 Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
@@ -92,9 +93,9 @@ POSIX.4 Programming for the Real World        Gallmeister         ORA
 Power Programming with RPC                    John Bloomer        ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                       2005 Wingerd             ORA
-Practical PostgreSQL                          Warsley             ORA
+Practical PostgreSQL                     2002 Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
-Programming Amazon Web Services               Murty               ORA
+Programming Amazon Web Services          2008 Murty               ORA
 Programming C# 2e                             Liberty             ORA
 Programming Collective Intelligence      2007 Segaran             ORA
 Programming Internet Email               1999 Wood                ORA
@@ -109,11 +110,11 @@ SELINUX                                  2004 McCarty             ORA
 SpamAssassin                             2004 Schwartz            ORA
 SQL Cookbook                                  Anthony Molinaro    ORA
 SQL in a Nutshell 2e                          Kevin Kline         ORA
-SSH The Secure Shell  The Definitive Guide    Barrett/Silverman   ORA
+SSH The Secure Shell Definitive Guide    2001 Barrett/Silverman   ORA
 Stopping Spam                                 Schwartz/Garfinkel  ORA
 SVG Essentials                           2002 Eisenberg           ORA
 System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
-TCP/IP Network Administration 3e              Hunt                ORA
+TCP/IP Network Administration 3e         2002 Hunt                ORA
 termcap & terminfo                            Strang/Mui          ORA
 Testable JavaScript                           Trostler            ORA
 Time Management for System Administrators     Limoncelli          ORA
@@ -123,7 +124,7 @@ Understanding MySQL Internals                 Pachev              ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unicode Explained                             Jukka Korpela       ORA
 Unix Backup & Recovery                   1999 Preston             ORA
-Unix in a Nutshell SVR4                       Gilly               ORA
+Unix in a Nutshell SVR4                  1992 Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Drupal                                  Byron/Berry         ORA
 Using and Managing uucp                       Ed Ravin            ORA
