@@ -11,7 +11,7 @@ Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
-Building Wireless Sensor Networks             Faludi              ORA
+Building Wireless Sensor Networks        2010 Faludi              ORA
 Clojure Programming                           Enerick/Carper      ORA
 Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
