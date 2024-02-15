@@ -2,10 +2,3 @@ name: MEDIA ECO
 label: 2019030203
 description: Media and Umberto Eco
 
-The Rise and Rise of Kerry Packer    Paul Barry             AllenUnwin
-This is not the end of the book      Eco/Carriere           HarvillSecker
-Apocalypse Postponed                 Umberto Eco            Flamingo
-How to travel with a Salmon          Umberto Eco            HarvillSecker
-The Name of the Rose                 Umberto Eco            Picador
-Focault's Pendulum                   Umberto Eco            Picador
-Misreadings                          Umberto Eco            Picador
