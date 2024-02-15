@@ -3,6 +3,3 @@ label: 2019110702
 description: Non fiction Allen Lane Hardbacks and others
 loc: flemshed
 
-fin                                   James Delingpole           Picador
-Hitch 22                                 Christopher Hitchens Twelve
-Doomsday Men                             P. D. Smith        AllenLane
