@@ -1,5 +1,0 @@
-name: IT General
-label: 2019050604
-description: old IT books version control
-loc: flemshed
-
