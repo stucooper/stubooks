@@ -32,6 +32,7 @@ Handbook of Prog Langs Volume 3              ed Salus             MTP
 Handbook of Prog Langs Volume 4              ed Salus             MTP
 HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
 How to succeed in business using LinkedIn    Butow/Taylor         Amacom
+iPhone app design manual                     brown                ilex
 Linux File Systems                           Moshe Bar            McGrawHill
 Linux Network Servers                        Craig Hunt           Sybex
 Looking Good in Print 2e                     Roger C Parker       Ventuna
@@ -59,6 +60,7 @@ Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
-Vortualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
+Viral Marketing                              Nelson-Field         Oxford
+Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 Web Services Business/Architecture           various              expert
 Writing Solid Code                           Steve Maguire        Microsoft
