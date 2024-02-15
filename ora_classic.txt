@@ -128,6 +128,7 @@ Using and Managing uucp                       Ed Ravin            ORA
 Using Samba                                   Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
+Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
 We the Media                                  Dan Gillmor         ORA
 Web 2.0 Architectures                         Governor/Hinchclif  ORA
 Web Database Applications w PHP and MySQL     Williams/Lane       ORA

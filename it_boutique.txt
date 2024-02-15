@@ -33,12 +33,14 @@ HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
 How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Linux File Systems                           Moshe Bar            McGrawHill
 Linux Network Servers                        Craig Hunt           Sybex
+Looking Good in Print 2e                     Roger C Parker       Ventuna
 The Macintosh Way                            Guy Kawasaki         ScottForesman
 Modern Data Analysis: Applied Statistics     Hamilton  lost?      BrooksCole
 Multiprotocol Routing for SANs               Judd                 brocade
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
+Non-Designers Design & Type Books            Robin Williams       PeachPit
 Object Oriented Analysis and Design          Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
@@ -50,6 +52,7 @@ Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat
 Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
 Selected Papers on Computer Science          Knuth                CSLI
+Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix

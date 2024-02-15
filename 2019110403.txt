@@ -7,7 +7,3 @@ loc: flemshed
 # Books in this file are probably shelved and I will move
 # the entries to different files later
 
-Non-Designers Design & Type Books        Robin Williams        PeachPit
-Looking Good in Print 2e                 Roger C Parker        Ventuna
-Social Media and the Law (Australia)     Various               LexisNexis
-Vintage Tomorrows (steampunk)            Carrot/Johnson        ORA
