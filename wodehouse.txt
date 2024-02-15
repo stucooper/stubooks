@@ -5,10 +5,18 @@
 # The Cat Nappers (US) == Aunt's Aren't Gentlemen (UK)
 # UK titles are preferred throughout. Earliest published date preferred.
 # See Frances Donaldson pp 355-359
+#
+# Omnibus/Publisher codes
+# JO1, JO2 Jeeves Ombnibus 1,2 etc.
+# arp Arrow Paperback
+
 The Adventures of Sally        1922
+Bill the Conqueror             1924
+Carry on Jeeves                1925
 The Coming of Bill             1919
 The Clicking of Cuthbert       1922 own?
 A Damsel in Distress           1919 own?
+Divots                         1926 US == Heart of a Goof
 The Gold Bat                   1904
 The Head of Kay's              1905
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
@@ -16,10 +24,15 @@ A Gentleman of Leisure         1910 own?
 The Girl on the boat           1922 own?
 The Globe by the way Book      1908
 Golf Without Tears             1922 US == The Clicking of Cuthbert
+He rather enjoyed it           1924 US == Ukridge
+Heart of a Goof                1926 own?
 Indiscretions of Archie        1921 own?
 Jill the Reckless              1920
+The inimitable Jeeves          1932 own? JO1
+Jeeves                         1932 US == The inimitable Jeeves
 The Little Nugget              1913
 The Little Warrior             1920 US == Jill the Reckless
+Leave it to Psmith             1932 own Arp R2024
 Love Among the Chickens        1906 own?
 The Man Upstairs               1915
 The Man with Two Left Feet     1917
@@ -32,12 +45,16 @@ The Prince and Betty           1912
 Psmith in the City             1910 own?
 Psmith Journalist              1915 own?
 A Prefect's Uncle              1903
+Sam the Sudden                 1925
+Sam in the Suburbs             1925 US == Sam the Sudden
+THe Small Bachelor             1927 own arp
 Something Fresh                1915 own?
 Something New                  1915 US == Something Fresh
 The Swoop                      1909
 Tales of St Austin's           1903
 Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
+Ukridge                        1924
 Uneasy Money                   1916
 The White Feather              1907
 William Tell Told Again        1904
