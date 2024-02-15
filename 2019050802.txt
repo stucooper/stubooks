@@ -1,4 +1,0 @@
-name: VARIOUS (H)ITS
-label: 2019050802
-description: IT books
-
