@@ -5,8 +5,6 @@ loc: flemshed
 
 Release the Bats                           D B C Pierre             faber
 Made in America                            Bill Bryson              Minerva
-The Cargo Club                             Peter Corris             Penguin
-Pokerface                                  Peter Corris             Penguin
 The Black Cloud                            Fred Hoyle               Penguin
 The Joke's Over (HST Memories)             Ralph Steadman           Arrow
 Scorn: Wittiest Insults                    Matthew Parris           Profile
