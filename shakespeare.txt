@@ -28,7 +28,11 @@ Henry IV Part 1                                   Shakespeare  Cambridge
 King Lear                                         Shakespeare  Cambridge
 Romeo and Juliet                                  Shakespeare  Cambridge
 The Tempest                                       Shakespeare  Cambridge
-# RSC edition
+# Oxford editions
+Hamlet                                            Shakespeare  Oxford
+# No Fear editions
+No Fear: Richard III                              Shakespeare  SparkNotes
+# RSC editions
 All's Well that Ends Well                         Shakespeare  RSC/Macmillan
 Antony and Cleopatra                              Shakespeare  RSC/Macmillan
 As You Like It                                    Shakespeare  RSC/Macmillan
