@@ -1,5 +1,0 @@
-name: IT WEB PHP LINUX
-label: 2019040102
-description: mixture; mostly front end web and PHP
-loc: flemshed
-
