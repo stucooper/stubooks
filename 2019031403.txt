@@ -3,6 +3,3 @@ label: 2019031403
 desc: Non-fiction Current Affairs
 loc: flemshed
 
-Imperium                                 Ryszard Kapuscinski  granta
-Girls at the Piano                     Virginia Lloyd         AllenUnwin
-Long Walk to Freedom         lost?     Nelson Mandela         MacdonaldPurnell
