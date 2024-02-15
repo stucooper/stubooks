@@ -248,7 +248,7 @@ Weirdest People in the World                 Joseph Heinrich   ALane hb
 Whiteshift                                   Kaufmann          ALane hb
 Winners take All                             Giridharadas      ALane pp
 You, Your Child and School                   Robinson          ALane pp
-# Penguin branded (non-fiction in the Allen Lane style)
+# Penguin branded (non-fiction in the Allen Lane style or Allen Lane authors)
 The Atlantic and its Enemies (Cold War)      Norman Stone      Penguin
 Bohemians                                    Norman Ohler      Houghton hb
 Books v Cigarettes                           George Orwell     Peng GreatIdeas
@@ -268,6 +268,7 @@ Kennedy: Unfinished Life                     Dallek            Penguin
 Natasha's Dance                              Orlando Figes     Penguin R2023
 The New Jim Crow                             Michelle Alexande The New Press
 Paris Secret History                         Andrew Hussey     Penguin
+The Prize                                    Daniel Yergin     FreePress
 Reformation: Europe Divided                  MacCulloch        Penguin
 Short History Drunkenness                    Mark Forsyth      Penguin
 The Storm of War                             Roberts           Penguin

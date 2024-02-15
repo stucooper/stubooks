@@ -20,6 +20,7 @@ How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
 Isaac Newton                        James Gleick           Harper
 John von Neumann                    Norman Macrae          pantheon
+Metamagical Themas                  Douglas Hofstadter     Penguin
 No Ordinary Genius: Illus Feynman   ed Sykes               Weidenfeld
 Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
 Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC lost?
