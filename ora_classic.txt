@@ -2,7 +2,7 @@
 # anything Ruby, Rails and Python goes to ora_recent.txt regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Definitive Guide 2e  Gast                ORA
-Amt The Definitive Guide                      Holzner             ORA
+Ant The Definitive Guide 2e              2005 Holzner             ORA
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 Applying RCS and SCCS                         Bolinger/Bronson    ORA
@@ -29,7 +29,7 @@ Essential SNMP 2e                             Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Exploring Expect                              Libes               ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
-Google Advertising Tools                      Davis               ORA
+Google Advertising Tools                 2006 Davis               ORA
 Googke The Missing Manual                     Milstein/Dornfest   ORA
 Hackers and Painters  (2nd copy CMC Epping)   Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
@@ -66,7 +66,7 @@ Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e          Nixon               ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning Web Design                           Niederst            ORA
-Learning XML                                  Ray                 ORA
+Learning XML                            2001  Erik T Ray          ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                        Ellen Siever        ORA
@@ -84,20 +84,21 @@ Mastering Algorithms with C                   Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                              Shelley Powers      ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
-PGP: Pretty Good Privacy                      Garfinkel           ORA
+PGP: Pretty Good Privacy                 1995 Garfinkel           ORA
 PHP Cookbook 2e                               Sklar/Trachtenberg  ORA
 Photoshop for the Web                         Mikkel Aaland       ORA
 Porting UNIX Software                         Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
 Power Programming with RPC                    John Bloomer        ORA
 Practical C Programming 3e                    Oualline            ORA
-Practical Perforce                            Wingerd             ORA
+Practical Perforce                       2005 Wingerd             ORA
 Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
-Programming C# 2e                             Liberty             ORA
 Programming Amazon Web Services               Murty               ORA
+Programming C# 2e                             Liberty             ORA
 Programming Collective Intelligence           Segaran             ORA
-Programming Internet Email                    Wood                ORA
+Programming Internet Email               1999 Wood                ORA
+Programming with Qt 2e                   2003 Matthias Dalheimer  ORA
 RADIUS                                        Hassell             ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                          Richardson          ORA
@@ -120,12 +121,12 @@ Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
 Understanding MySQL Internals                 Pachev              ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unicode Explained                             Jukka Korpela       ORA
-Unix Backup & Recovery                        Preston             ORA
+Unix Backup & Recovery                   1999 Preston             ORA
 Unix in a Nutshell SVR4                       Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
 Using Drupal                                  Byron/Berry         ORA
 Using and Managing uucp                       Ed Ravin            ORA
-Using Samba                                   Ts/Eckstein         ORA
+Using Samba 2e                           2003 Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
