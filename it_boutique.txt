@@ -56,6 +56,7 @@ Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
+Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 Vortualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 Web Services Business/Architecture           various              expert

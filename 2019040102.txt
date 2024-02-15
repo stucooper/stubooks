@@ -3,9 +3,3 @@ label: 2019040102
 description: mixture; mostly front end web and PHP
 loc: flemshed
 
-Theory of Computation        Brookshear       BenjaminCummings
-Guide to buying and selling your home    FIXME               FIXME
-Culture of Complaint                 Robert Hughes         NewYorkPublic
-The Best of Spectator Aus 2014-2017  ed Dean               WP
-Funemployed                          Justin Heazlewood     Affirm
-Dostoyevsky biography                     Richard Freeborn       Haus
