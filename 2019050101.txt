@@ -4,9 +4,4 @@ description: Lifeline Thornleigh books
 loc: flemshed
 
 Blandings Ommibus: SFresh/SLightning/HWeather     Wodehouse       Hutchison
-Monsuier X Most famous gambler in history         Reid            bloomsbury
-Siren's Call                                      Wroby           malarkey
 Rich kids of Instagram                            Sloan           Gallery
-Think Big                                         Trump           Harper
-Small Wars, Faraway Places                        Burleigh        viking
-To Rise Again at a decent hour                    Ferris          Penguin
