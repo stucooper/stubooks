@@ -2,7 +2,3 @@ name: VARIOUS (H)ITS
 label: 2019050802
 description: IT books
 
-OSDC Conference Proceedings 2005 Melb      various              OSDC
-OSDC Conference Proceedings 2006 Melb      various              OSDC
-OSDC Conference Proceedings 2007 Bris      various              OSDC
-OSDC Conference Proceedings 2008 Sydney    various              OSDC

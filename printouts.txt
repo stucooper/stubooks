@@ -9,6 +9,10 @@ Mastering Puppet                   Uphill                packt printout
 Maximum RPM                        Bailey                RedHat printout
 NMap6 Network Exploration Security Pale                  packt printout
 Optus Total Technical Picture      optus                 optus printout
+OSDC Conf Proceedings 2005 Melb    various               OSDC
+OSDC Conf Proceedings 2006 Melb    various               OSDC
+OSDC Conf Proceedings 2007 Bris    various               OSDC
+OSDC Conf Proceedings 2008 Sydney  various               OSDC
 The PL/pgSQL Procedural Language   Duffy                 printout
 PostgreSQL Programmer's Guide      Lockhart              printout
 PostgreSQL Administrator's Guide   Lockhart              printout
