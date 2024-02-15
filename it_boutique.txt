@@ -64,5 +64,6 @@ Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 Viral Marketing                              Nelson-Field         Oxford
 Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
+The Way to Go: Thorough INtro to Go Proglang Ivo Balbaert         iUniverse
 Web Services Business/Architecture           various              expert
 Writing Solid Code                           Steve Maguire        Microsoft
