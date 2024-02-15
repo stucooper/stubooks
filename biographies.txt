@@ -2,6 +2,7 @@
 # For this file I'm not interested in the publisher, so field 3 is
 # the surname of the subject
 Time of My Life                           John Bell          Bell
+Wired: John Belushi                       Bob Woodward       Belushi
 Thanks a lot Mr Kibbewhite: My Story      Roger Daltrey      Daltrey
 Happiest Refugee                          Ahn Do             Do
 Dostoyevsky biography                     Richard Freeborn   Dostoyevsky
@@ -17,4 +18,5 @@ Long Walk to Freedom         lost?        Nelson Mandela     Mandela
 Spike Milligan                            Humphrey Carpenter Milligan
 Nixon and Kissinger                       Robert Dallek      Nixon/Kissinger
 Lou Reed: The Life                        Mick Wall          Reed
+Altered States                            Ken Russell        Russell
 Golden Boy: Albert Speer Story            Paula Astridge     Speer

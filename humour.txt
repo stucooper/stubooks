@@ -1,6 +1,7 @@
 # Humorous books, alphabetical by author surname
 Dave Barry Turns 50                             Dave Barry        RandomHouse
 The Naked Jape                                  Jimmy Carr        Penguin
+The Comedy Bible                                Judy Carter       Currency
 Smoking Monkeys,Drilling Rigs,Bio-Diesel Bikes  Paul Carter       AllenUnwin
 Male Order (mans style guide)                   Richard Clune     NewHolland
 Making out in Chinese                           Daniels           Yenbooks
@@ -35,7 +36,10 @@ Memoirs 4: Mussolini: His Part in my Downfall   Spike Milligan    penguin
 Memoirs 5: Where have all the bullets gone?     Spike Milligan    penguin
 Memoirs 6: Goodbye Soldier                      Spike Milligan    penguin
 Memoirs 7: Peace Work                           Spike Milligan    penguin
+The Frank Muir Book                             Frank Muir        Heinemann
+A Kentish Lad                                   Frank Muir        Bantam
 Take My Word For it                             Frank Muir/Norden methuen
+The Naked Truth                                 Leslie Nielsen    Pocket
 Love, Sex and other Natural Disasters           The Onion         Quirk
 Overtaken                                       Alexei Sayle      sceptre
 Islamic Republic of Australia                   Sami Shah         ABC

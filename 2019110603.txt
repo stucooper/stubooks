@@ -3,25 +3,4 @@ label: 2019110603
 description: Cult TV and Movies books
 loc: flemshed
 
-Boardwalk Empire                            Nelson Johnson     ebury
-The Avengers Files                          Andrew Pixley      ReynoldsHearn
-The Prisoner Original Scripts Volume 1      ed Fairclough      ReynoldsHearn
-Fame in the 20th Century                    Clive James        BBC
-Profiles                                    Kenneth Tynan      NickHern
-Didn't you kill my mother-in-law?           Wilmut/Rosengard   Methuen
-Parky's People                              Michael Parkinson  HodderStoughton
-The Comedy Bible                            Judy Carter        Currency
-Understanding Me                            Marshall McLuhan   MITP
-Wired: John Belushi               Bob Woodward              faber
-Leslie Nielsen: The Naked Truth             Nielsen/Fischer    Pocket
-Wanna Cook? Breaking Bad                    Guffey/Koontz      ECW
-Sticky Fingers: Jann Wenner       Joe Hagan                 Penguin
-The Rolling Stone Interviews      various                   BackBay
-The Naked Truth                   Leslie Nielsen/Fisher     Pocket
-A Kentish Lad                     Frank Muir                Bantam
-The Frank Muir Book                     Frank Muir          Heinemann
-Altered States                    Ken Russell               Bantam
-To be or not to be: Chooseable Hamlet        Ryan North         breadpig
-McLuhan Pros and Cons                        ed Rosenthal       Pelican
-Dopesick                                     Beth Macy          Apollo
-Futuretainment                               Mike Walsh         Phaidon
+

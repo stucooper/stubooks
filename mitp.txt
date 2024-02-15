@@ -21,5 +21,6 @@ streetlights and shadows                     Klein                    mitp
 Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp
 The Techno-Human Condition                   Allenby/Sarewitz         mitp
 Types and Programming Languages              Benjamin Pierce  lost?   mitp
+Understanding Me                             Marshall McLuhan lost?   mitp
 Vision Science: Photons to Phenomenology     Stephen E Palmer lost?   mitp
 What we know about Emotional Intelligence    Zeidner/Matthews         mitp
