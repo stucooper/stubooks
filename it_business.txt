@@ -1,4 +1,5 @@
 # IT history business policies etc. See also mitp.txt, wiley.txt
+20 years of the Internet in Australia        Glenda Korporaal     aarnet
 Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 The Apple Revolution  lost?                  Luke Dormehl         Virgin
@@ -96,6 +97,7 @@ Makers                                       Anderson             rhbusiness
 Makers                            lost?      Cory Doctorow        TOR
 Makers and Takers                            Rana Foroohar        crown
 The Master Switch                            Tim Wu               Atlantic
+Max Hits: Building Promoting Websites        Slocombe             Rotovision
 The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU

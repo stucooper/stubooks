@@ -3,8 +3,3 @@ label: 2019130101
 description: Heavy IT books
 loc: flemshed
 
-Vision Science: Photons to Phenomenology Stephen E Palmer   mitp
-20 years of the Internet in Australia    Glenda Korporaal   aarnet
-Mathematica 2e                           Stephen Wolfram    AWL
-Art and Science of Digital Compositing 2e Ron Brinkmore     MK
-Max Hits: Building Promoting Websites    Slocombe              Rotovision

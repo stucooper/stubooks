@@ -1,4 +1,5 @@
 # Morgan Kaufmann publishers. Includes Elsevier imprint
+Art and Science of Digital Compositing 2e     Ron Brinkmore     lost?    MK
 Big Book of LDAP RFCs                         ed Pete Loshin             MK
 Computer Architecture: Quant Approach 2e      Hennessy/Patterson         MK
 Computer Architecture: Quant Approach 4e      Hennessy/Patterson  lcb    MK
