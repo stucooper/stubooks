@@ -8,6 +8,7 @@
 #
 # Omnibus/Publisher codes
 # JO1, JO2 Jeeves Ombnibus 1,2 etc.
+# lab Life At Blandings Omnibus
 # arp Arrow Paperback
 
 The Adventures of Sally        1922
@@ -19,6 +20,7 @@ A Damsel in Distress           1919 own?
 Divots                         1926 US == Heart of a Goof
 The Gold Bat                   1904
 The Head of Kay's              1905
+Fish Preferred                 1929 US == Summer Lightning
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
 A Gentleman of Leisure         1910 own?
 The Girl on the boat           1922 own?
@@ -36,7 +38,10 @@ Leave it to Psmith             1932 own Arp R2024
 Love Among the Chickens        1906 own?
 The Man Upstairs               1915
 The Man with Two Left Feet     1917
+Meet Mr Mulliner               1927 own?
+Money for Nothing              1928 own?
 Nostly Sally                   1922 US == The Adventures of Sally
+Mr Mulliner Speaking           1929
 My Man Jeeves                  1919
 Not George Washington          1907
 Picadilly Jim                  1917 own?
@@ -47,14 +52,16 @@ Psmith Journalist              1915 own?
 A Prefect's Uncle              1903
 Sam the Sudden                 1925
 Sam in the Suburbs             1925 US == Sam the Sudden
-THe Small Bachelor             1927 own arp
+The Small Bachelor             1927 own arp
 Something Fresh                1915 own?
 Something New                  1915 US == Something Fresh
+Summer LIghtning               1929
 The Swoop                      1909
 Tales of St Austin's           1903
 Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
 Ukridge                        1924
 Uneasy Money                   1916
+Very Good, Jeeves              1930
 The White Feather              1907
 William Tell Told Again        1904
