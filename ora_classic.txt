@@ -12,7 +12,7 @@ Building Internet Firewalls 2e                Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Scalable Web Sites                   Henderson           ORA
 Building Secure Servers with Linux            Bauer               ORA
-Building Wireless Community Networks          Flickeneger         ORA
+Building Wireless Community Networks     2002 Flickeneger         ORA
 The Cathedral and the Bazaar                  Eric S. Raymond     ORA
 Cascading Style Sheets: Definitive Guide      Eric A Meyer        ORA
 Cisco Cookbook                                Dooley/Brown        ORA
@@ -20,7 +20,7 @@ Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                       Robbins/Beebe       ORA
 CSS Cookbook                                  Schmitt             ORA
 Designing with Javascript                     Heinle/Pena         ORA
-Designing Web Interfaces                      Scott/Neil          ORA
+Designing Web Interfaces                 2009 Scott/Neil          ORA
 DNS & BIND Cookbook                           Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
 Dynamic HTML 3e                               Danny Goodman       ORA
@@ -63,13 +63,13 @@ Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning JavaScript 2e                        Powers              ORA
 Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
-Learning PHP,MySQL,JavaScript,CSS 4e          Nixon               ORA
+Learning PHP,MySQL,JavaScript,CSS 4e    2014  Nixon               ORA
 Learning the vi and vim editors 7e            Robbins/Hannah      ORA
 Learning Web Design                           Niederst            ORA
 Learning XML                            2001  Erik T Ray          ORA
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
-Linux in a Nutshell 2e                        Ellen Siever        ORA
+Linux in a Nutshell 2e                  1999  Ellen Siever        ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
 Linux Network Administrator's Guide 2e        Kirch/Dawson        ORA
@@ -85,7 +85,7 @@ Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                              Shelley Powers      ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
 PGP: Pretty Good Privacy                 1995 Garfinkel           ORA
-PHP Cookbook 2e                               Sklar/Trachtenberg  ORA
+PHP Cookbook 2e                          2006 Sklar/Trachtenberg  ORA
 Photoshop for the Web                         Mikkel Aaland       ORA
 Porting UNIX Software                         Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
@@ -96,22 +96,23 @@ Practical PostgreSQL                          Warsley             ORA
 Practical UNIX & Internet Security            Garfinkel           ORA
 Programming Amazon Web Services               Murty               ORA
 Programming C# 2e                             Liberty             ORA
-Programming Collective Intelligence           Segaran             ORA
+Programming Collective Intelligence      2007 Segaran             ORA
 Programming Internet Email               1999 Wood                ORA
+Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA
 Programming with Qt 2e                   2003 Matthias Dalheimer  ORA
 RADIUS                                        Hassell             ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                          Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
-SELINUX                                       McCarty             ORA
-SpamAssassin                                  Schwartz            ORA
+SELINUX                                  2004 McCarty             ORA
+SpamAssassin                             2004 Schwartz            ORA
 SQL Cookbook                                  Anthony Molinaro    ORA
 SQL in a Nutshell 2e                          Kevin Kline         ORA
 SSH The Secure Shell  The Definitive Guide    Barrett/Silverman   ORA
 Stopping Spam                                 Schwartz/Garfinkel  ORA
-SVG Essentials                                Eisenberg           ORA
-System Performance Tuning 2e                  Musumeci/Loukides   ORA
+SVG Essentials                           2002 Eisenberg           ORA
+System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e              Hunt                ORA
 termcap & terminfo                            Strang/Mui          ORA
 Testable JavaScript                           Trostler            ORA
@@ -132,12 +133,12 @@ Version Control with Subversion               Collins-Sussman     ORA
 Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
 We the Media                                  Dan Gillmor         ORA
 Web 2.0 Architectures                         Governor/Hinchclif  ORA
-Web Database Applications w PHP and MySQL     Williams/Lane       ORA
+Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
 Web Design in a Nutshell                      Jennifer Niederst   ORA
 Web Navigation Designing User Experience      Fleming             ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA
-Web Security Testing Cookbook                 Hope/Walther        ORA
+Web Security Testing Cookbook            2008 Hope/Walther        ORA
 The Whole Internet 2e                         Ed Krol             ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
