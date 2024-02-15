@@ -1,5 +1,0 @@
-name: War
-label: 2019030201
-description: War books
-loc: flemshed
-
