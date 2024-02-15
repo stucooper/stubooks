@@ -1,5 +1,0 @@
-name: IT LIFESTYLE
-label: 2019030702
-description: IT Lifestyle books
-loc: flemshed
-
