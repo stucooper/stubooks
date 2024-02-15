@@ -1,5 +1,0 @@
-name: POKER HOLDEM
-label: 2019121001
-description: Poker mostly Holdem books
-
-
