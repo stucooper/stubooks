@@ -12,12 +12,21 @@
 # arp Arrow Paperback
 
 The Adventures of Sally        1922
+America, I like you            1957 US == Over Seventy
+Angle Cake                     1952 US == Barmy in Wonderland
+Author! Author!                1953 US == Performing Flea
+Barmy in Wonderland            1952 own?
+Bertie Wooster sees it through 1954 US == Jeeves and the Feudal Spirit
+Biffen's Millions              1964 US == Frozen Assets
 Big Money                      1931 own?
 Bill the Conqueror             1924
 Blandings Castle               1935 own?
+Bring on the Girls             1953
 Brinkley Manor                 1934 US == Right Ho, Jeeves
+The Butler Did it              1957 US == Something Fishy
 Carry on Jeeves                1925
 The Clicking of Cuthbert       1922 own?
+Cocktail Time                  1958 own?
 The Code of the Woosters       1938 own
 The Coming of Bill             1919
 Crime Wave at Blandings        1937 US == Lord Emsworth and Others
@@ -25,10 +34,15 @@ A Damsel in Distress           1919 own?
 Divots                         1926 US == Heart of a Goof
 Doctor Sally                   1932 own?
 Eggs, Beans and Crumpets       1940 own?
+A Few Quick Ones               1959 own?
+French Leave                   1956 own?
 The Gold Bat                   1904
 The Head of Kay's              1905
 Hot Water                      1932 own?
+How right you are, Jeeves      1960 US == Jeeves in the Offing
 Fish Preferred                 1929 US == Summer Lightning
+Frozen Assets                  1964
+Full Moon                      1947 own?
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
 A Gentleman of Leisure         1910 own?
 The Girl on the boat           1922 own?
@@ -37,21 +51,26 @@ Golf Without Tears             1922 US == The Clicking of Cuthbert
 He rather enjoyed it           1924 US == Ukridge
 Heart of a Goof                1926 own?
 Heavy Weather                  1933
+Ice in the Bedroom             1961
 If I were you                  1931
 Indiscretions of Archie        1921 own?
 Jill the Reckless              1920
+Joy in the Morning             1946 own?
 The inimitable Jeeves          1932 own? JO1
 Jeeves                         1932 US == The inimitable Jeeves
+Jeeves and the Feudal Spirit   1954 own?
+Jeeves in the Offing           1960 own?
 Laughing Gas                   1936 own?
 The Little Nugget              1913
 The Little Warrior             1920 US == Jill the Reckless
-Leave it to Psmith             1923 own Arp R2024
+Leave it to Psmith             1923 own arp R2024
 Louder and Funnier             1932
 The Luck of the Bodkins        1935
 Lord Emsworth and Others       1937
 Love Among the Chickens        1906 own?
 The Man Upstairs               1915
 The Man with Two Left Feet     1917
+The Mating Season              1949 own? jo3,jwo
 Meet Mr Mulliner               1927 own?
 Money in the Bank              1942 own?
 Money for Nothing              1928 own?
@@ -60,19 +79,30 @@ Mr Mulliner Speaking           1929
 Mulliner Nights                1933 own?
 My Man Jeeves                  1919
 Not George Washington          1907
+Nothing Serious                1950
+The Old Reliable               1951
+Over Seventy                   1957
+Performing Flea                1953
 Picadilly Jim                  1917 own?
+Pigs have wings                1952 own?
 The Pothunters                 1902
 The Prince and Betty           1912
 Psmith in the City             1910 own?
 Psmith Journalist              1915 own?
 A Prefect's Uncle              1903
 Quick Service                  1940
+The Return of Jeeves           1953 US == Ring for Jeeves
 Right Ho, Jeeves               1934 own?
+Ring for Jeeves                1953 own?
 Sam the Sudden                 1925
 Sam in the Suburbs             1925 US == Sam the Sudden
+Service with a Smile           1961 own?
 The Small Bachelor             1927 own arp
+Something Fishy                1957 own?
 Something Fresh                1915 own?
 Something New                  1915 US == Something Fresh
+Spring Fever                   1948 own?
+Stiff Upper Lip, Jeeves        1963 own?
 Summer Lightning               1929
 Summer Moonshine               1937
 The Swoop                      1909
@@ -82,6 +112,7 @@ Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
 Ukridge                        1924
 Uneasy Money                   1916
+Uncle Dynamite                 1948 own?
 Uncle Fred in the Springtime   1939 own?
 Very Good, Jeeves              1930
 The White Feather              1907
