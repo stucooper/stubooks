@@ -145,4 +145,5 @@ Your Best Poker Friend            Al Schoonmaker      LyleStuart
 Zen and the art of Poker          Larry Phillips      Plume/Penguin
 # non-poker games below
 Card Games for Smart Kids         Golick              Sterling
+Foster on Mah Jong                Foster              doddMead
 Killer Cribbage                   Barlow              Puzzlewright
