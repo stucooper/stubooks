@@ -7,4 +7,5 @@ Day of Jackal/Odessa File/Dogs of War         Frederick Forsyth      hutchinson
 The Maltese Falcon                            Dashiell Hammett       Penguin
 Bulldog Drummond                              Sapper                 Hodder
 # True Crime
-Can of Worms II                lost?     Evan Whitton        fairfax
+Can of Worms II                lost?          Evan Whitton  fairfax
+Last King of the X                            Ibrahim       Macmillan
