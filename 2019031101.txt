@@ -3,9 +3,3 @@ label: 2019031101
 description: About Shakespeare
 loc: flemshed
 
-Shakespeare On Toast                 Ben Crystal            Icon
-Shakespeare's Words: Glossary        David and Ben Crystal  Penguin
-Shakespeare's Restless World: 25 objects NeilMacGregor      Viking
-D-Day Normandy                             Beevor                Penguin
-History of England IV Revolution           Ackroyd               Macmillan
-Captial in the 21st Century                Piketty               Harvard
