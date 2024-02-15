@@ -1,9 +1,6 @@
 # books on the piano
 
 Cloud Atlas                            David Mitchell         Sceptre
-Frankenstein                       Mary Shelley            Penguin
-Dracula                           Bram Stoker             Penguin
-Battle Hymn of the Tiger Mother               Amy Chua         bloomsbury
 Life on Mars Official Companion                Adams/Thompson   Pocket
 The Onion Iconic Magazine Covers               TheOnion         LittleBrown
 Psychogeography                                Self/Steadman    bloomsbury
