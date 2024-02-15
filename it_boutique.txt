@@ -56,6 +56,7 @@ Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat
 Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
 Selected Papers on Computer Science          Knuth                CSLI
+Shells" User's Guide HP                      HP 9000              HP
 Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
