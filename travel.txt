@@ -1,8 +1,9 @@
 # alphabetical on the place the travel book is about
-A Short history of Nearly everything        Bryson            BlackSwan
-Brazil                                      Palin             Weidenfeld
-Down Under                                  Bryson            BlackSwan
-Imperium (Soviet Republics)                 Ryszard Kapuscinski  granta
+A Short history of Nearly everything        Bryson            Anywhere
+Down Under                                  Bryson            Australia
+Brazil                                      Palin             Brazil
 Insight City Guide Las Vegas                Apa               LasVegas
 Las Vegas City Guide                        LonelyPlanet      LasVegas
-Notes from a Small Island                   Bryson            BlackSwan
+Imperium (Soviet Republics)                 Ryszard Kapuscinski  Soviet Russia
+The House (Sydney Opera House)              Helen Pitt        Sydney
+Notes from a Small Island                   Bryson            UK

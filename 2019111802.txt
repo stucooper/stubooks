@@ -2,10 +2,4 @@ name: TOP SHELF
 label: 2019111802
 description: Books from above my bookshelves in the garage
 
-The House (Sydney Opera House)           Helen Pitt          AllenUnwin
-Big Science (Ernest Lawrence)            Michael Hiltzik     SimonSchuster
-Homo Deus: Brief History of Tomorrow     Yuval Noah Harari   Vintage
-Encyclopeida Neurotica                    Winokur           StMartinsGriffin
-Artists in Exile                          Horowitz          HarperPerennial
-Cancer Explained                          Stephens          Wakefield
-Fighting Cancer                           Frank             BlackInc
+

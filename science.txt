@@ -1,6 +1,7 @@
 # Science books and scientist bios. Maths in maths.txt
 Atomic                              Jim Baggott            Icon
 American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic R2023
+Big Science (Ernest Lawrence)       Michael Hiltzik        SimonSchuster
 Bomb Book and Compass               Simon Winchester       Penguin
 Chaos                               James Gleick           Cardinal
 Charles Darwin 4 books              Charles Darwin         US lost?
