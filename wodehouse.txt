@@ -1,0 +1,28 @@
+# This file is a bit different for two reasons
+# (1) I would like to collect all of Wodehouse so I'm enumerating his works
+# (2) His books often published under different US titles
+#     so they are mentioned also eg
+# The Cat Nappers (US) == Aunt's Aren't Gentlemen (UK)
+# UK titles are preferred throughout. Earliest published date preferred.
+# See Frances Donaldson pp 355-359
+The Gold Bat                   1904
+The Head of Kay's              1905
+The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
+A Gentleman of Leisure         1910 own?
+The Globe by the way Book      1908
+The Little Nugget              1913
+Love Among the Chickens        1906 own?
+The Man Upstairs               1915
+Not George Washington          1907
+The Pothunters                 1902
+The Prince and Betty           1912
+Psmith in the City             1910 own?
+Psmith Journalist              1915 own?
+A Prefect's Uncle              1903
+Something Fresh                1915 own?
+Something New                  1915 US == Something Fresh
+The Swoop                      1909
+Tales of St Austin's           1903
+Uneasy Money                   1916
+The White Feather              1907
+William Tell Told Again        1904
