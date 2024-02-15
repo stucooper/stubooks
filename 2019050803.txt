@@ -1,5 +1,0 @@
-name: COFFEE TABLE
-label: 2019050803
-description: random books, some coffee table sized
-loc: flemshed
-
