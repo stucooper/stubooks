@@ -3,6 +3,4 @@ label: 2019110602
 description: random it books
 loc: flemshed
 
-Mind Change                           Susan Greenfield      RandomHouse
-Head in the Cloud: Knowing things     William Poundstone    LittleBrown (CMC)
 
