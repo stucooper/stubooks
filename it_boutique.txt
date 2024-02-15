@@ -42,6 +42,7 @@ Multiprotocol Routing for SANs               Judd                 brocade
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
+A New Kind of Science                (CMC)   Wolfram              Wolfram 
 Non-Designers Design & Type Books            Robin Williams       PeachPit
 Object Oriented Analysis and Design          Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
@@ -49,6 +50,7 @@ Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
 Optimizing Linux Performance                 Philip Ezolt         HP
 Principles of SAN Design                     Judd/Kruger          brocade
+Programming in Ansi C             lost?      Kumar/Agrawal        West
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
 RedHat Networking and System Administration  Collings/Wall        RedHat

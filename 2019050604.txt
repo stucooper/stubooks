@@ -3,9 +3,3 @@ label: 2019050604
 description: old IT books version control
 loc: flemshed
 
-Programming in Ansi C                 Kumar/Agrawal                   West
-Secure Architectures with OpenBSD     Palmer/Nazario                  AWL
-The C++ Standard Library              Josuttis                        AWL
-The C++ Programming Language          Stroustrup                      AWL
-Teach yourself UNIX 24 Hours          Taylor/Armstrong                SAMS
-A New Kind of Science                 Wolfram                         Wolfram (CMC)

@@ -17,7 +17,9 @@ The Art of UNIX Programming           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
 The C Puzzle Book                     Feuer                           AWL
+The C++ Programming Language          Stroustrup              lost?   AWL
 C++ Programming Style                 Cargill                         AWL
+The C++ Standard Library              Josuttis                lost?   AWL
 Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
@@ -86,6 +88,7 @@ A Quarter Century of UNIX             Salus                           AWL
 Real-Time Systems and Prog Langs 4e   Burns/Wellings                  AWL
 Real Digital Forensics                Jones/Beitlich                  AWL
 Relational Database selected writings Date                            AWL
+Secure Architectures with OpenBSD     Palmer/Nazario          lost?   AWL
 Secure Programming w Static Analysis  Chess/West                      AWL
 Selected Papers on Computer Science   Knuth                           csli
 SNMP,v2,v3,RMON1&2 3e                 William Stallings               AWL
