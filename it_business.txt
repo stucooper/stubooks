@@ -99,6 +99,7 @@ The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 net.wars                                     Wendy M.Grossman     NYU
 The Net Delusion                             Evgeny Morozov       penguin
+The New Analog                               Damon Krukowski      NewPress
 The New Digital Age                          Schmidt/Cohen        Knopf
 The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
