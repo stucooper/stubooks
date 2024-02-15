@@ -9,6 +9,7 @@ Cosmos                              Carl Sagan             Abacus
 A Crack in the Edge of the World    Simon Winchester       Penguin
 Darwin                              Gribbin/White          Pocket
 The Earth Moves                     Dan Hofstadter         Norton
+Einstein                            Walter Isaacson        SimonSchuster
 Einstein                            White/Gribbin          SimonSchuster
 Emperor of All Maladies             Siddhartha Mukerjee    Fourth
 Failure is Not an Option            Gene Kranz             SimonSchuster
