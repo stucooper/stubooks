@@ -1,5 +1,0 @@
-name: TOP SHELF
-label: 2019111802
-description: Books from above my bookshelves in the garage
-
-
