@@ -21,7 +21,7 @@ Classic Shell Scripting                       Robbins/Beebe       ORA
 CSS Cookbook                                  Schmitt             ORA
 Designing with Javascript                     Heinle/Pena         ORA
 Designing Web Interfaces                 2009 Scott/Neil          ORA
-DNS & BIND Cookbook                           Liu                 ORA
+DNS & BIND Cookbook                      2002 Liu                 ORA
 DocBook 5 The Definitive Guide                Walsh               ORA
 Dynamic HTML 3e                               Danny Goodman       ORA
 Essential CVS 2e                              Vesperman           ORA
@@ -78,7 +78,7 @@ Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
 MySQL Stored Procedure Programming            Guy Harrison        ORA
-Network Security with OpenSSL                 Viega/Messier       ORA
+Network Security with OpenSSL            2002 Viega/Messier       ORA
 Network Troubleshooting Tools            2001 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
 Mastering Algorithms with C                   Loudon              ORA
@@ -94,16 +94,16 @@ Power Programming with RPC                    John Bloomer        ORA
 Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                       2005 Wingerd             ORA
 Practical PostgreSQL                     2002 Warsley             ORA
-Practical UNIX & Internet Security            Garfinkel           ORA
+Practical UNIX & Internet Security 2e    1996 Garfinkel/Spafford  ORA
 Programming Amazon Web Services          2008 Murty               ORA
 Programming C# 2e                             Liberty             ORA
 Programming Collective Intelligence      2007 Segaran             ORA
 Programming Internet Email               1999 Wood                ORA
 Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA
 Programming with Qt 2e                   2003 Matthias Dalheimer  ORA
-RADIUS                                        Hassell             ORA
+RADIUS                                   2002 Hassell             ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
-RESTful Web Services                          Richardson          ORA
+RESTful Web Services                     2007 Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                  2004 McCarty             ORA
@@ -115,9 +115,9 @@ Stopping Spam                                 Schwartz/Garfinkel  ORA
 SVG Essentials                           2002 Eisenberg           ORA
 System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e         2002 Hunt                ORA
-termcap & terminfo                            Strang/Mui          ORA
+termcap & terminfo                    3e 1998 Strang/Mui          ORA
 Testable JavaScript                           Trostler            ORA
-Time Management for System Administrators     Limoncelli          ORA
+Time Management for Sys Administrators   2005 Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
 Understanding MySQL Internals                 Pachev              ORA
