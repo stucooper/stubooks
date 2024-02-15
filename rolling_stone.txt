@@ -1,5 +1,6 @@
 # books by or connected to Rolling Stone Magazine
 # includes Hunter S. Thompson and P. J. O'Rourke
+# also includes Rock Bands, Pop Music and Pop Culture
 Age and Guile beat Youth            P J O'Rourke               picador
 All the trouble in the world        P J O'Rourke               picador
 The Bachelor Home Companion         P J O'Rourke               picador
@@ -13,9 +14,11 @@ How the hell did this happen?       P J O'Rourke               Grove
 How the hell did this happen?       P J O'Rourke               atlantic
 None of My Business                 P J O'Rourke               atlantic
 Republican Party Reptile            P J O'Rourke               picador
+Living in the 79s                   Alison Pressley            randomHouse
 Fear and Loathing in Las Vegas      Hunter S Thompson          flamingo
 Generation of Swune                 Hunter S Thompson          picador
 Hell's Angels                       Hunter S Thompson          penguin
+Love Becomes Funeral Pyre doors bio Mick Wall                  orion
 20 Years of Rolling Stone           Jann Wenner                Fontana
 The Rolling Stone Interviews        Jann Wenner                BackBay
 Gonzo: Life of Hunter S Thompson    Jann Wenner/Corey Seymour  LittleBrown
