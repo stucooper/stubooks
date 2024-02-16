@@ -3,10 +3,3 @@ label: 2019111402
 description: Shiploads of smaller sized books
 loc: flemshed
 
-Release the Bats                           D B C Pierre             faber
-Made in America                            Bill Bryson              Minerva
-The Black Cloud                            Fred Hoyle               Penguin
-The Joke's Over (HST Memories)             Ralph Steadman           Arrow
-Scorn: Wittiest Insults                    Matthew Parris           Profile
-The Angry Chef                             Anthony Warner           OneWorld
-Permanent Present Tense                Corkin               Permanent
