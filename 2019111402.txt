@@ -1,5 +1,0 @@
-name: SHIPLOADS
-label: 2019111402
-description: Shiploads of smaller sized books
-loc: flemshed
-
