@@ -145,6 +145,7 @@ Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
 User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
+Viral Loop: Power of Pass-it-on              Adam Penenberg       sceptre
 War of the Worlds                            Mark Slouka          Abacus
 We are Anonymous                             Penny Olson          BackBay
 We are the Nerds (reddit)                    Christine Lagorio    platkus
