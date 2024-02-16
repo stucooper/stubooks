@@ -95,6 +95,7 @@ Practical C Programming 3e                    Oualline            ORA
 Practical Perforce                       2005 Wingerd             ORA
 Practical PostgreSQL                     2002 Warsley             ORA
 Practical UNIX & Internet Security 2e    1996 Garfinkel/Spafford  ORA
+Practical UNIX & Internet Security 3e    2003 Garfinkel/Spafford  ORA
 Programming Amazon Web Services          2008 Murty               ORA
 Programming C# 2e                             Liberty             ORA
 Programming Collective Intelligence      2007 Segaran             ORA
