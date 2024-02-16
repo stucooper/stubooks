@@ -2,6 +2,9 @@
 # alphanetical by author surname
 The Island of Sheep                           John Buchan            Penguin
 The Thirty-Nine Steps                         John Buchan            Penguin
+The Big Sleep                                 Raymond Chandler       pan
+Farewell My Lovely                            Raymond Chandler       penguin
+Killer in the Rain                            Raymond Chandler       pan
 Murder in Mesopotamia                         Agatha Christie        Harper
 Day of Jackal/Odessa File/Dogs of War         Frederick Forsyth      hutchinson
 The Maltese Falcon                            Dashiell Hammett       Penguin
