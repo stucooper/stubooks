@@ -36,9 +36,10 @@ The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
-Digital Barbarism        lost?               Mark Helprin           Harper
+Digital Barbarism        lost?               Mark Helprin         Harper
 Digital Gold (bitcoin)                       Nathaniel Popper     HarperCollins
 Digital vs Human                             Richard Watson       scribe
+Disrupted start-up bubble                    Dan Lyons            hachette
 Does I.T Matter?                             Nicholas Carr        Harvard
 Dogfight: Apple and Google War               Fred Vogeistein      SarahCrich
 dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
