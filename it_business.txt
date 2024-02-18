@@ -20,6 +20,7 @@ Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
 Competing on Analytics                       Davenport/Harris     harvard
+Convergence Culture                 lost?    Jenkins              NewYorkUni
 Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
 Crowdsourcing                                Jeff Howe            rh
 Crypto                                       Levy                 Viking

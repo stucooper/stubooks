@@ -18,6 +18,7 @@ The Man who knew too much (Turing) David Leavitt          Norton
 Man Who Loved Only Numbers (Erdos) Paul Hoffman           FourthEstate
 The Mathematical Brain             Brian Butterworth      Macmillan
 Mathematical Quickies              Trigg                  Dover
+Mathematics for the Million        Hogben                 AllenUnwin
 Maths Olympiads: 2000-2001         various                MathsAssocUSA
 My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster
 Quadriviium                        various                Bloomsbury (CMC)

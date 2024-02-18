@@ -4,7 +4,3 @@ description: assorted
 notes: BOX BUSTED AND THE BOOKS IN IT HAVE BEEN RE-HOUSED. THIS ENTRY IS
 notes: OUT OF DATE AND WILL BE DELETED SOON
 
-Hit Factory                        Stock              NewHolland
-Mathematics for the Million        Hogben             AllenUnwin
-Journey to the Centre of the Earth Verne              WardLock
-Convergence Culture                Jenkins            NewYorkUni
