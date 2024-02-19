@@ -20,7 +20,7 @@ Aunts aren't Gentlemen         1974 own arp R2023
 Angle Cake                     1952 US == Barmy in Wonderland
 Author! Author!                1953 US == Performing Flea
 Bachelors Anonymous            1973
-Barmy in Wonderland            1952 own?
+Barmy in Wonderland            1952 own coronet
 Bertie Wooster sees it through 1954 US == Jeeves and the Feudal Spirit
 Biffen's Millions              1964 US == Frozen Assets
 Big Money                      1931 own?
@@ -54,7 +54,7 @@ Frozen Assets                  1964
 Full Moon                      1947 own arp
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
 Galahad at Blandings           1965 own hj
-A Gentleman of Leisure         1910 own?
+A Gentleman of Leisure         1910 own star
 The Girl in Blue               1970 own?
 The Girl on the boat           1922 own?
 The Globe by the way Book      1908
@@ -84,7 +84,7 @@ The Man Upstairs               1915
 The Man with Two Left Feet     1917
 The Mating Season              1949 own JO3,JWO
 Meet Mr Mulliner               1927 own?
-Money in the Bank              1942 own?
+Money in the Bank              1942 own peng 
 Money for Nothing              1928 own?
 Mostly Sally                   1922 US == The Adventures of Sally
 Mr Mulliner Speaking           1929
