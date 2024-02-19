@@ -6,7 +6,8 @@ Between Silk and Cyanide           Leo Marks           harpercollins
 Blood, Tears and Folloy: WW2       Len Deighton        Pimlico
 A Bright Shining Lie               Neil Sheehan        JonathanCape
 Cold War                           Isaacs/Downing      abacus
-colossus: Bletchley Park  lost?    Gannon             Atlantic
+colossus: Bletchley Park  lost?    Gannon              Atlantic
+The Cultural Revolution            Frank Dikotter      bloomsbury
 Five Days in London                John Lukacs         scribe
 The German Genius                  Peter Watson        SimonSchuster
 History of England Vol 1 Foundat   Peter Ackroyd       Macmillan
@@ -30,5 +31,6 @@ Splendid and Vile (London Blitz)   Erik Larson         WilliamCollins
 Stalingrad                         Antony Beevor       Penguin
 Stasiland                          Anna Funder         text
 Utterly Exasperated Hist Britain   John O'Farrell      doubleday
+Tragedy of Liberation              Frank Dikotter      bloomsbury
 Vietnam: A History                 Stanley Karnow      Pimlico
 We'll Show the World Bris Expo 88  Jackie Ryan         UQP
