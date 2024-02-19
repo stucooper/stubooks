@@ -140,7 +140,7 @@ Tales of St Austin's           1903
 Thank You Jeeves               1934 own pvc JO1
 Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
-Ukridge                        1924 arp
+Ukridge                        1924 own arp
 Uneasy Money                   1916 own png
 Uncle Dynamite                 1948 own UFO
 Uncle Fred in the Springtime   1939 own arp UFO
@@ -148,3 +148,8 @@ Very Good, Jeeves              1930 own JO3 pvc
 The White Feather              1907
 William Tell Told Again        1904
 Young Men in Spats             1936 own arp
+# About Wodehouse
+P G Wodehouse A Biography      own Frances Donaldson AndreDeutsch
+P G Wodehouse Illustrated Bio  own Joseph Connolly EelPie
+P G Wodehouse A Literary Bio   own Benny Green Pavilion
+Jeeves and Wooster             own Nigel Cawthorne
