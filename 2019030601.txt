@@ -2,9 +2,3 @@ name: ASIA TRAVEL
 label: 2019030601
 description: Books on Asia and Travel
 
-Mao: The Unknown Story           Jung Chang/Halliday      Vintage
-Teach yourself Chinese           Elizabeth Scorfield      HodderStoughton
-How Starbucks Saved My Life      Michael GatesGill        Bantam
-Essential Guide to Singlish      Miel                     Gartbooks
-The Art of War                         Sun Tzu                Oxford
-Human Traces                        Sebastian Faulks       Vintage
