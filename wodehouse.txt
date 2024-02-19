@@ -13,6 +13,10 @@
 # GO:  Clicking of Cuthbert/Heart of a Goof
 # lab Life At Blandings Omnibus
 # arp Arrow Paperback
+#  hj Herbert Jenkins or Barrie Jenkins typically small hardbacks
+# ovl Overlook New York beautiful small hardbacks with comic dustjackets
+# png Penguin red spine standalone
+# pvc Penguin Very Colourful with Ben Elton Stephen Fry quotes
 
 The Adventures of Sally        1922
 America, I like you            1957 US == Over Seventy
@@ -25,26 +29,26 @@ Bertie Wooster sees it through 1954 US == Jeeves and the Feudal Spirit
 Biffen's Millions              1964 US == Frozen Assets
 Big Money                      1931 own?
 Bill the Conqueror             1924
-Blandings Castle               1935 own?
+Blandings Castle               1935 own pvc
 Bring on the Girls             1953
 Brinkley Manor                 1934 US == Right Ho, Jeeves
 Brinksmanship Galaha Threepwoo 1965 US == Galahad at Blandings 
 The Butler Did it              1957 US == Something Fishy
-Carry on Jeeves                1925
+Carry on Jeeves                1925 own pvc
 The Cat Nappers                1974 US == Aunts aren't Gentlemen
 The Clicking of Cuthbert       1922 own GO
-Cocktail Time                  1958 own?
-The Code of the Woosters       1938 own
+Cocktail Time                  1958 own hj
+The Code of the Woosters       1938 own pengred
 The Coming of Bill             1919
 Company for Henry              1967
 Crime Wave at Blandings        1937 US == Lord Emsworth and Others
 A Damsel in Distress           1919 own?
 Divots                         1926 US == Heart of a Goof
-Do Butlers Burgle Banks?       1968 own?
+Do Butlers Burgle Banks?       1968 own png
 Doctor Sally                   1932 own?
-Eggs, Beans and Crumpets       1940 own?
-A Few Quick Ones               1959 own?
-French Leave                   1956 own png
+Eggs, Beans and Crumpets       1940 own png
+A Few Quick Ones               1959 own hj
+French Leave                   1956 own png hj
 The Gold Bat                   1904
 The Head of Kay's              1905
 Hot Water                      1932 own?
@@ -55,7 +59,7 @@ Full Moon                      1947 own arp
 The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
 Galahad at Blandings           1965 own hj
 A Gentleman of Leisure         1910 own star
-The Girl in Blue               1970 own?
+The Girl in Blue               1970 own pvc
 The Girl on the boat           1922 own?
 The Globe by the way Book      1908
 Golf Without Tears             1922 US == The Clicking of Cuthbert
@@ -64,18 +68,18 @@ Heart of a Goof                1926 own GO
 Heavy Weather                  1933
 Ice in the Bedroom             1961
 If I were you                  1931
-Indiscretions of Archie        1921 own?
+Indiscretions of Archie        1921 own hj
 Jill the Reckless              1920
 Joy in the Morning             1946 own?
-The inimitable Jeeves          1932 own? JO1
+The inimitable Jeeves          1932 own JO1 pvc
 Jeeves                         1932 US == The inimitable Jeeves
-Jeeves and the Feudal Spirit   1954 own JO4
+Jeeves and the Feudal Spirit   1954 own JO4 hj
 Jeeves and the tie that binds  1971 US == Much Obliged, Jeeves
-Jeeves in the Offing           1960 own JO4
+Jeeves in the Offing           1960 own JO4 pvc
 Laughing Gas                   1936 own arp
 The Little Nugget              1913
 The Little Warrior             1920 US == Jill the Reckless
-Leave it to Psmith             1923 own arp R2024
+Leave it to Psmith             1923 own arp R2024 pengred
 Louder and Funnier             1932
 The Luck of the Bodkins        1935
 Lord Emsworth and Others       1937
@@ -84,12 +88,12 @@ The Man Upstairs               1915
 The Man with Two Left Feet     1917
 The Mating Season              1949 own JO3,JWO
 Meet Mr Mulliner               1927 own?
-Money in the Bank              1942 own peng 
-Money for Nothing              1928 own?
+Money in the Bank              1942 own png 
+Money for Nothing              1928 own pvc
 Mostly Sally                   1922 US == The Adventures of Sally
 Mr Mulliner Speaking           1929
 Much Obliged, Jeeves           1971
-Mulliner Nights                1933 own?
+Mulliner Nights                1933 own hj
 My Man Jeeves                  1919
 No Nudes is Good Nudes         1969 US == A Pelican at Blandings
 Not George Washington          1907
@@ -99,7 +103,7 @@ Over Seventy                   1957
 Pearls, Girls and Monty Bodkin 1972 own png
 A Pelican at Blandings         1969 own arp
 Performing Flea                1953
-Picadilly Jim                  1917 own?
+Picadilly Jim                  1917 own pvc
 Pigs have wings                1952 own arp
 The Plot that thickened        1972 US == Pearls, Girls and Monty Bodkin
 Plum Pie                       1966
@@ -107,31 +111,31 @@ The Pothunters                 1902
 A Prefect's Uncle              1903
 The Prince and Betty           1912
 Psmith in the City             1910 own?
-Psmith Journalist              1915 own?
+Psmith Journalist              1915 own png
 The Purloined Paperweight      1966 US == Company for Henry
 Quick Service                  1940
 The Return of Jeeves           1953 US == Ring for Jeeves
 Right Ho, Jeeves               1934 own?
-Ring for Jeeves                1953 own JO3
-Sam the Sudden                 1925
+Ring for Jeeves                1953 own JO3 pvc
+Sam the Sudden                 1925 own png
 Sam in the Suburbs             1925 US == Sam the Sudden
 Service with a Smile           1961 own arp
 The Small Bachelor             1927 own arp
 Something Fishy                1957 own?
 Something Fresh                1915 own?
 Something New                  1915 US == Something Fresh
-Spring Fever                   1948 own?
-Stiff Upper Lip, Jeeves        1963 own arp JO4
+Spring Fever                   1948 own hj
+Stiff Upper Lip, Jeeves        1963 own arp JO4 ovl
 Summer Lightning               1929
 Summer Moonshine               1937
 Sunset at Blandings            1977 own?
 The Swoop                      1909
 Tales of St Austin's           1903
-Thank You Jeeves               1934 own?
+Thank You Jeeves               1934 own pvc
 Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
 Ukridge                        1924
-Uneasy Money                   1916
+Uneasy Money                   1916 own png
 Uncle Dynamite                 1948 own?
 Uncle Fred in the Springtime   1939 own arp
 Very Good, Jeeves              1930 JO3
