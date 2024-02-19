@@ -7,7 +7,8 @@
 # See Frances Donaldson pp 355-359
 #
 # Omnibus/Publisher codes
-# JO1, JO2 Jeeves Ombnibus 1,2 etc.
+# JO1,JO3,JO4 Jeeves Ombnibus 1,3,4
+# JO1: Thank you, Jeeves/Code of the Woosters/Inimitable Jeeves
 # JO3: Mating Season/Ring for Jeeves/Very Good, Jeeves
 # JO4: Jeeves and Feudal Spirit/Stiff Upper Lip Jeeves/Jeeves in the Offing
 # GO:  Clicking of Cuthbert/Heart of a Goof
@@ -15,10 +16,13 @@
 # JWO: Jeeves&Wooster Omnibus: Mating Season/Code of Woosters/Right Ho Jeeves
 # UFO: Uncle Fred Omminus: UF in the Springtime/Uncle Dynamite/Cocktail Time
 # arp Arrow Paperback
+# cnet Coronet paperback
 #  hj Herbert Jenkins or Barrie Jenkins typically small hardbacks
 # ovl Overlook New York beautiful small hardbacks with comic dustjackets
 # png Penguin red spine standalone
 # pvc Penguin Very Colourful with Ben Elton Stephen Fry quotes
+# str Star Paperbacks
+
 
 The Adventures of Sally        1922 own pvc
 America, I like you            1957 US == Over Seventy
@@ -40,7 +44,7 @@ Carry on Jeeves                1925 own pvc
 The Cat Nappers                1974 US == Aunts aren't Gentlemen
 The Clicking of Cuthbert       1922 own GO arp
 Cocktail Time                  1958 own hj UFO arp
-The Code of the Woosters       1938 own pengred JWO arp
+The Code of the Woosters       1938 own pengred JWO arp JO1
 The Coming of Bill             1919
 Company for Henry              1967
 Crime Wave at Blandings        1937 US == Lord Emsworth and Others
@@ -133,7 +137,7 @@ Summer Moonshine               1937
 Sunset at Blandings            1977 own cnet
 The Swoop                      1909
 Tales of St Austin's           1903
-Thank You Jeeves               1934 own pvc
+Thank You Jeeves               1934 own pvc JO1
 Their Mutual Child             1919 US == The Coming of Bill
 Three Men and a Maid           1922 US == The Girl on the Boat
 Ukridge                        1924 arp
