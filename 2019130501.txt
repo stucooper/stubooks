@@ -1,5 +1,0 @@
-name: BEATLES POP MUSIC
-label: 2019130501
-description: Beatles and pop bios
-loc: flemshed
-
