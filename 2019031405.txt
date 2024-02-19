@@ -3,11 +3,3 @@ label: 2019031405
 desc: P G Wodehouse single volumes
 loc: flemshed
 
-Ukridge                               P G Wodehouse         Arrow
-Hot Water                             P G Wodehouse         Arrow
-Young Men in Spats                    P G Wodehouse         Arrow
-Meet Mr Mulliner                      P G Wodehouse         Arrow
-Big Money                             P G Wodehouse         Arrow
-A Pelican at Blandings                P G Wodehouse         Arrow
-The Inimitable Jeeves                 P G Wodehouse         Arrow
-Stiff Upper Lip, Jeeves               P G Wodehouse         Arrow
