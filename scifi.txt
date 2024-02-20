@@ -1,4 +1,13 @@
 # science fiction, ordered by author's surname then title
+# Foundation series in proper order
+Foundation                                     Isaac Asimov        Harper
+Foundation and Empire                          Isaac Asimov        Harper
+Second Foundation                              Isaac Asimov        Harper
+Foundation's Edge                              Isaac Asimov        Harper
+Foundation and Earth                           Isaac Asimov        Harper
+Prelude to Foundation                          Isaac Asimov        Harper
+Forward the Foundation                         Isaac Asimov        bantam
+# </Foundation series>
 Robot Visions                                  Isaac Asimov        gollancz
 The Fall of the Towers                         Samuel R. Delany    sphere
 A Scanner Darkly                               Philip K. Dick      gollancz

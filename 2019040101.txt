@@ -9,10 +9,4 @@ God Emperor of Dune                          Frank Herbert           NewEnglish
 Chapter House Dune                           Frank Herbert           NewEnglish
 King Rat                                     China Mieville          Pan
 Embassytown                                  China Mieville          Pan
-Foundation                                   Isaac Asimov            HarperColl
-Foundation and Empire                        Isaac Asimov            HarperColl
-Second Foundation                            Isaac Asimov            HarperColl
-Prelude to Foundation                        Isaac Asimov            HarperColl
-Foundation's Edge                            Isaac Asimov            HarperVoy
-Foundation and Earth                         Isaac Asimov            HarperVoy
 loc: flemshed
