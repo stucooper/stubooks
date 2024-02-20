@@ -14,7 +14,7 @@ Male Order (mans style guide)                   Richard Clune     NewHolland
 Making out in Chinese                           Daniels           Yenbooks
 fin                                             James Delingpole  Picador
 Shakespeares Star Wars: Verily, A New Hope      Ian Doescher      lucasbooks
-Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare
+Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare R2022
 More Rules for Life                             Kitty Flanagan    dontcare
 Kinky Friedman Crime Club                       Kinky Friedman    faber lost?
 The Fry Chronicles                              Stephen Fry       Penguin
@@ -44,7 +44,7 @@ Born standing up                                Steve Martin      pocket
 The Looney                                      Spike Milligan    penguin
 The Lost Goon Shows                             Spike Milligan    robson
 Puckoon                                         Spike Milligan    penguin R2023
-Memoirs 1: Adolf Hitler My Part in his Downfall Spike Milligan    penguin
+Memoirs 1: Adolf Hitler My Part in his Downfall Spike Milligan    penguin R2024
 Memoirs 2: Rommel? Gunner Who?                  Spike Milligan    penguin
 Memoirs 3: Monty: His Part in My Victory        Spike Milligan    penguin
 Memoirs 4: Mussolini: His Part in my Downfall   Spike Milligan    penguin
