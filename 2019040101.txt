@@ -1,5 +1,0 @@
-name: IT - UNIX GRAPHICS
-label: 2019040101
-description: mostly scifi books
-
-loc: flemshed
