@@ -15,6 +15,7 @@ The Mathematics of Marriage                  Gottman/Murray           mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
 Perspectives on Free/Open Source Software    ed Feller                mitp
+Processing                                   Reas/Fry                 mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 Rules of Play: Game Design Fundamentals      Salen/Zimmerman          mitp
 streetlights and shadows                     Klein                    mitp
