@@ -11,6 +11,7 @@ Forward the Foundation                         Isaac Asimov        bantam
 Robot Visions                                  Isaac Asimov        gollancz
 The Fall of the Towers                         Samuel R. Delany    sphere
 A Scanner Darkly                               Philip K. Dick      gollancz
+Do Androids Dream of Electric Sheep?           Philip K. Dick      gollancz
 American Gods                                  Neil Gaiman         headline
 Norse Mythology                                Neil Gaiman         bloomsbury
 All Tomorrows Parties                          William Gibson      Viking
@@ -25,11 +26,18 @@ The Black Cloud                                Fred Hoyle          Penguin
 Brave New World                                Huxley              Granada
 Brave New World Revisited                      Huxley              Granada
 The Children of Men                            P.D.James           faber
+Flowers for Algernon                           Daniel Keys         gollancz
+The Lies of Locke Lamora                       Scott Lynch         gollancz
+I Am Legend                                    Richard Matheson    gollancz
+Eric                                           Terry Prachett      gollancz
+The Name of the Wind                           Patrick Rothfuss    gollancz
 Illuminatus Trilogy                            Shea/Wilson         dontcare
+Hyperion                                       Dan Simmons         gollancz
 2312                                           Kim StanleyRobinson Orbit
 Antarctica                                     Kim StanleyRobinson HarperCollins
 The Ministry for the Future                    Kim StanleyRobinson Orbit
 Journey to the Centre of the Earth      lost?  Verne               WardLock
+The Book of the New Sun                        Gene Wolfe          gollancz
 Chocky                                         John Wyndham        Penguin
 The Chrysalids                                 John Wyndham        Penguin
 The Day of the Triffids                        John Wyndham        Penguin
