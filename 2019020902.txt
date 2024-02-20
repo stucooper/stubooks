@@ -3,7 +3,6 @@ label: 2019020902
 description: Canberra IT Lifeline books
 loc: flemshed
 
-Unix System Administrators Handbook 3e       Nemeth/Snyder         PTR
 The Upstarts                                 Stone                 LittleBrown
 Accidental Empires                           Robert X Cringely     dontcare
 Processing                            Reas/Fry                   MITP

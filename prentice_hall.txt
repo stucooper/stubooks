@@ -72,6 +72,8 @@ Threads Primer                             Lewis/Berg           PTR
 Understanding AJAX                         Joshua Eichorn       PTR
 Understanding Unix/Linux Programming       Bruce Molay          PTR
 UNIX Internals New Frontiers               Uresh Valhalia   lcb PTR
+Unix System Administrators Handbook 3e     Nemeth/Snyder        PTR lost?
+Unix and Linux Sys Adminis Handbook 4e     Nemeth/Snyder        PTR 2011
 Unix Network Programming 1e pback          W Richard Stevens    PTR
 Unix Network Programming Volume 1 2e       W Richard Stevens    PTR
 Unix Network Programming Volume 2 2e       W Richard Stevens    PTR
