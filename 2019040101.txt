@@ -3,10 +3,6 @@ label: 2019040101
 description: mostly scifi books
 
 Apache Web Server Admin    Aulds               Sybex
-Dune/Messiah/ChildrenOfDune                  Frank Herbert           Guild
-Heretics of Dune                             Frank Herbert           Gollancz
-God Emperor of Dune                          Frank Herbert           NewEnglish
-Chapter House Dune                           Frank Herbert           NewEnglish
 King Rat                                     China Mieville          Pan
 Embassytown                                  China Mieville          Pan
 loc: flemshed
