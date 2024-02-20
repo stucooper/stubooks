@@ -3,5 +3,3 @@ label: 2019020902
 description: Canberra IT Lifeline books
 loc: flemshed
 
-The Upstarts                                 Stone                 LittleBrown
-Accidental Empires                           Robert X Cringely     dontcare
