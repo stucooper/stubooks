@@ -1,6 +1,11 @@
 # Humorous books, alphabetical by author surname
 Slapped Together: Dilbert Business Anthology    Scott Adams       Harpercollins
+Dave Barry in Cyberspace                        Dave Barry        Fawcett
+Dave Barry is from Mars and Venus               Dave Barry        Crown
+Dave Barry is not taking this sitting down      Dave Barry        Ballantine
 Dave Barry Turns 50                             Dave Barry        RandomHouse
+I'll Mature When I'm Dead                       Dave Barry        BerkleyBooks
+tricky business                                 Dave Barry        putnam
 The Naked Jape                                  Jimmy Carr        Penguin
 The Comedy Bible                                Judy Carter       Currency
 Smoking Monkeys,Drilling Rigs,Bio-Diesel Bikes  Paul Carter       AllenUnwin
@@ -17,6 +22,8 @@ The Complete Polysyllabic Spree                 Nick Hornby       viking
 The 158-Pound Marriage                          John Irving       dontcare
 The Fourth Hand                                 John Irving       dontcare
 Sweet Sweet Revenge Ltd                         Jonas Jonasson    harpervia
+Fairway to Hell                      lost?      Carl Hiaasen      Bantam
+Kick Ass (columns)                   lost?      Carl Hiaasen      UPFlorida
 Girt                                            David Hunt        BlackInc
 True Girt                                       David Hunt        BlackInc
 Always look on the bright side of life          Eric Idle         W&N
@@ -26,7 +33,8 @@ The Phantom Tollbooth                           Norton Juster     Lions
 Stuff White People Like                         Christian Lander  HardieGrant
 Whiter Shades of Pale                           Christian Lander  hardieGrant
 Land of Green Ginger                            Langley           Puffin
-Last Chronicles of Ballyfungus                  Mary Manning      corgi
+Last Chronicles of Ballyfungus                  Mary Manning      corg
+Born standing up                                Steve Martin      pocket
 The Looney                                      Spike Milligan    penguin
 The Lost Goon Shows                             Spike Milligan    robson
 Puckoon                                         Spike Milligan    penguin R2023
@@ -44,6 +52,7 @@ The Naked Truth                                 Leslie Nielsen    Pocket
 Love, Sex and other Natural Disasters           The Onion         Quirk
 Scorn: Wittiest Insults                 lost?   Matthew Parris    Profile
 Overtaken                                       Alexei Sayle      sceptre
+Junk Mail                               lost?   Will Self         bloomsbury
 Islamic Republic of Australia                   Sami Shah         ABC
 1066 and all that                               Sellar/Yeatman    penguin
 Rich kids of Instagram lost?                    Sloan             Gallery

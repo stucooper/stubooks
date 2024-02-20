@@ -3,21 +3,9 @@ label: 2019042903
 description: HUMOUR
 loc: flemshed
 
-Stark                                        Elton              Sphere
-1066 and all that                            Sellar/Yeatman     penguin
-Dave Barry is from Mars and Venus            Barry              Crown
-tricky business                              Barry              putnam
-I'll Mature When I'm Dead                    Barry              BerkleyBooks
-Dave Barry is not taking this sitting down   Barry              Ballantine
-Dave Barry in Cyberspace                     Barry          Fawcett Columbine
-Born standing up                             Steve Martin       pocket
-Kick Ass (columns)                      Carl Hiaasen            UPFlorida
-Fairway to Hell                         Carl Hiaasen            Bantam
 Weird Maths                                   Darling/Banerjee      OneWorld
-The Secret Life: Three Essays                 Andrew O'Hagan        Faber
 Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
 Peer Gynt                         Henrik Ibsen            Penguin
 Dolls House/LeagueYouth/LadySea   Henrik Ibsen            Penguin
 Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
 Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
-Junk Mail                                     Will Self             bloomsbury
