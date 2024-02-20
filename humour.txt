@@ -16,6 +16,7 @@ Shakespeares Star Wars: Verily, A New Hope      Ian Doescher      lucasbooks
 Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare
 More Rules for Life                             Kitty Flanagan    dontcare
 Kinky Friedman Crime Club                       Kinky Friedman    faber lost?
+The Fry Chronicles                              Stephen Fry       Penguin
 The Wind in the Willows                         Kenneth Grahame   methuen
 Helene Hanff Omnibus                            Helene Hanff      warner
 The Complete Polysyllabic Spree                 Nick Hornby       viking
@@ -27,12 +28,16 @@ Kick Ass (columns)                   lost?      Carl Hiaasen      UPFlorida
 Girt                                            David Hunt        BlackInc
 True Girt                                       David Hunt        BlackInc
 Always look on the bright side of life          Eric Idle         W&N
+The Greedy Bastard Diary                        Eric Idle         W&N
 Crazy Rich Asians                               Kevin Kwan        AllenUnwin
 How to sound cultured                           Hodkingson        icon
 The Phantom Tollbooth                           Norton Juster     Lions
 Stuff White People Like                         Christian Lander  HardieGrant
 Whiter Shades of Pale                           Christian Lander  hardieGrant
-Land of Green Ginger                            Langley           Puffin
+Land of Green Ginger                            Noel Langley      Puffin
+Selected Works of T.S. Spivet                   Reif Larsen       HarvillSecker
+Short History of Tractors in Ukranian           Monica Lewycka    Penguin
+The Carnal Prayer Mat                           Li Yu             Wordsworth
 Last Chronicles of Ballyfungus                  Mary Manning      corg
 Born standing up                                Steve Martin      pocket
 The Looney                                      Spike Milligan    penguin
@@ -63,5 +68,6 @@ Spectator Columns 2001-2009                     Taki              quartet
 Millions of Women are waiting to meet you       Sean Thomas       bloomsbury
 The Compleat Molesworth                         Willans/Searle    penguin
 The Compleet Molesworth (16th bday)             Willans/Serle     Pavilion
+Comedy at the Edge                              Richard Zoglin    Bloomsbury
 # no-author/various books
 Things Bogans Like                              various           hachette
