@@ -3,12 +3,3 @@ label: 2019110902
 description: Lots of sports bios and books
 loc: flemshed
 
-Seeing futher: Science and the Royal Society ed Bryson       HarperPress
-The Making of the Atomic Bomb                Richard Rhodes  SimonSchuster
-Inside the Centre: Life of Oppenheimer       Ray Monk        JonathanCape
-Surely you're joking Mr Feynman              Richard Feynman Norton
-Six Easy Pieces                              Richard Feynman AWL
-Why People Believe Weird Things              Michael Shermer souvenir
-The Emperor's Codes: Bletchley Park          Michael Smith   Bantam
-The Age of Entanglement                      Louisa Gilder   Vintage
-What Do you care what other people think?    Richard Feynman Penguin
