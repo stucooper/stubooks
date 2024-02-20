@@ -5,6 +5,7 @@
 Advanced C Programming by Example            John W. Perry        PWS
 ANSI Common Lisp                             Paul Graham          PTR
 Ansible for DevOps                           Geerling             leanpub
+Apache Web Server Admin               lost?  Aulds                Sybex
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
 The Blender Gamekit 2e                       Wartmann             Blender
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft

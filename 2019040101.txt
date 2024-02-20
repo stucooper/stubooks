@@ -2,7 +2,4 @@ name: IT - UNIX GRAPHICS
 label: 2019040101
 description: mostly scifi books
 
-Apache Web Server Admin    Aulds               Sybex
-King Rat                                     China Mieville          Pan
-Embassytown                                  China Mieville          Pan
 loc: flemshed
