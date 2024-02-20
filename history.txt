@@ -8,6 +8,8 @@ A Bright Shining Lie               Neil Sheehan        JonathanCape
 Cold War                           Isaacs/Downing      abacus
 colossus: Bletchley Park  lost?    Gannon              Atlantic
 The Cultural Revolution            Frank Dikotter      bloomsbury
+Decline and Fall Roman Empire I    Edward Gibbon       BrittanicaGt lost?
+Decline and Fall Roman Empire II   Edward Gibbon       BrittanicaGt lost?
 Empire                             Jeremy Paxman       BBC
 Five Days in London                John Lukacs         scribe
 The German Genius                  Peter Watson        SimonSchuster
@@ -18,6 +20,13 @@ History of the Second World War    Basil Liddell Hart  Pan
 Ideas                              Peter Watson        phoenix
 Iron Curtain: Crushing East Europe Anne Applebaum      doubleday
 Israel: A History                  Martin Gilbert      BlackSwan
+Lands and Peoples I:   British Isles and Western Europe         GrolierSociety
+Lands and Peoples II:  Baltic States and Central Europe         GrolierSociety
+Lands and Peoples III: Near and Middle East                     GrolierSociety
+Lands and Peoples IV:  Southern Asia and the Far East           GrolierSociety
+Lands and Peoples V:   Africa, Australia and Southern Islands   GrolierSociety
+Lands and Peoples VI:  Canada and the United States             GrolierSociety
+Lands and Peoples VII: Latin America and General Articles       GrolierSociety
 Modern Times Modern Places         Peter Conrad        ThomasHudson
 Orientalism                        Edward W Said       Vintage
 Origins of the Second World War    A J P Taylor        Penguin
