@@ -3,7 +3,6 @@ label: 2019050603
 description: various nonfiction books
 loc: flemshed
 
-When to Rob a Bank                              Levitt/Dubner     HarperCollins
 The Russian Revolution brief insight            Smith             Sterling
 How to win a million                            Laing             RandomHouse
 The Seven Basic Plots                           Booker            Continuum
