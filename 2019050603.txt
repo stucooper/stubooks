@@ -1,5 +1,0 @@
-name: TALEB - NONFICT
-label: 2019050603
-description: various nonfiction books
-loc: flemshed
-
