@@ -3,6 +3,3 @@ label: 2019050603
 description: various nonfiction books
 loc: flemshed
 
-The Seven Basic Plots                           Booker            Continuum
-Practical Guide to Designing with Data Brian Suda                FiveSimple
-Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon
