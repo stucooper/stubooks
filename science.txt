@@ -1,4 +1,5 @@
 # Science books and scientist bios. Maths in maths.txt
+The Age of Entanglement             Louisa Gilder          Vintage
 Atomic                              Jim Baggott            Icon
 American Prometheus: Oppenheimer    Bird/Sherwin           Atlantic R2023
 Big Science (Ernest Lawrence)       Michael Hiltzik        SimonSchuster
@@ -12,6 +13,7 @@ The Earth Moves                     Dan Hofstadter         Norton
 Einstein                            Walter Isaacson        SimonSchuster
 Einstein                            White/Gribbin          SimonSchuster
 Emperor of All Maladies             Siddhartha Mukerjee    Fourth
+The Emperor's Codes: Bletchley Park Michael Smith          Bantam
 Failure is Not an Option            Gene Kranz             SimonSchuster
 The Fellowship                      John Gribbin           Penguin
 Force of Nature: Life Linus Pauling Hager                  SimonShuster
@@ -20,8 +22,10 @@ Genius: Feynman and Modern Physics  James Gleick           Abacus
 Godel Escher Bach                   Douglas Hofstadter     Penguin
 How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
+Inside Centre: Life of Oppenheimer  Ray Monk               JonathanCape lost?
 Isaac Newton                        James Gleick           Harper
 John von Neumann                    Norman Macrae          pantheon
+The Making of the Atomic Bomb       Richard Rhodes         SimonSchuster
 Metamagical Themas                  Douglas Hofstadter     Penguin
 No Ordinary Genius: Illus Feynman   ed Sykes               Weidenfeld
 Oppenheimer: Portrait of an Enigma  Jeremy Bernstein       Duckworth
@@ -30,5 +34,10 @@ Pandora's Keepers                   Brian Van De Mark      BackBay
 Quantum Man: Richard Feynman's life Lawrence M Krauss      norton
 Richard Feynman                     John and Mary Gribbin  Viking
 Second Creation Makers 21c Physics  Crease/Mann            rutgers lost?
+Seeing futher: Science Royal Soc    ed Bryson              HarperPress
+Six Easy Pieces                     Richard Feynman        AWL
+Surely you're joking Mr Feynman     Richard Feynman        Norton
 Teller Memoirs                      Edward Teller          Perseus
+What Do you care other ppl think?   Richard Feynman        Penguin
 What Just Happened                  James Gleick           Abacus
+Why People Believe Weird Things     Michael Shermer        souvenir
