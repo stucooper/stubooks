@@ -4,8 +4,3 @@ description: HUMOUR
 loc: flemshed
 
 Weird Maths                                   Darling/Banerjee      OneWorld
-Hedda Gabler/Pillars/Wild Duck    Henrik Ibsen            Penguin
-Peer Gynt                         Henrik Ibsen            Penguin
-Dolls House/LeagueYouth/LadySea   Henrik Ibsen            Penguin
-Ghosts/PublicEnemy/WhenDeadWake   Henrik Ibsen            Penguin
-Masterbuilder/Rosmersholm/LittleEyolf/Borkman  Henrik Ibsen Penguin
