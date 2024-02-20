@@ -3,8 +3,6 @@ label: 2019050603
 description: various nonfiction books
 loc: flemshed
 
-The Russian Revolution brief insight            Smith             Sterling
-How to win a million                            Laing             RandomHouse
 The Seven Basic Plots                           Booker            Continuum
 Practical Guide to Designing with Data Brian Suda                FiveSimple
 Plato at the Googleplex: Philosophy   Rebecca Goldstein          Pantheon
