@@ -10,7 +10,7 @@ Greek Myths II                            Robert Graves          Folio
 History of Western Philosophy             Bertrand Russell	 Folio
 The Life of Mozart                        Edward Holmes          Folio
 Lives of the Engineers                    Samuel Smiles          Folio
-Michelangelo                              Howard Hibberd         Folio
+Michelangelo                              Howard Hibberd         Folio cftbl
 Name of the Rose                          Umberto Echo		 Folio
 The Moon's a Balloon                      David Niven            Folio
 Plums of P G Wodehouse                    P G Wodehouse          Folio
