@@ -1,6 +1,9 @@
 # books on writing and language
+Bendable Learnings                              Don Watson          knopf
 The Curious Case of the Misplaced Modifier      Bonnie Trenga       dontcare
+Death Sentence                                  Don Watson          knopf
 A Dictionary of Modern English Usage            H.W Fowler          Oxford
+Don't Come the Raw Prawn: Aussie Phrase Book    John Blackman       sun
 The Elements of Style 4e                        Strunk/E B White    longman
 The English Language                            Robert Burchfield   Oxford
 A Grammar of the English Language               William Corbett     Oxford
@@ -18,3 +21,4 @@ Style Manual for authors editors printers 6e    AusGovt             AGPS
 Style Guide by The Economist          1993      Economist           Economist
 Style Guide by NewsLimited    3e      2005      NewsLimited         NewsLtd
 The Use and Abuse English Language 2e 1970      Robert Graves/Hodge Paragon
+Weasel Words                                    Don Watson          knopf
