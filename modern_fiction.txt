@@ -14,6 +14,8 @@ Helen Garner Stories               Garner                        Text
 Go Set a Watchman                  Harper Lee                    Heinemann
 The God of Small Things            Arundhati Roy                 flamingo
 Goodbye to All That                Robert Graves                 Penguin
+Gore Vidal Selected Essays         Gore Vidal                    abacus
+The Grapes of Wrath                John Steinbeck                penguin
 Human Traces                       Sebastian Faulks              Vintage
 I, Claudius                        Robert Graves                 Penguin
 If This is a Man/The Truce         Primo Levi                    abacus
@@ -28,6 +30,7 @@ Mirror and the Light               Hilary Mantel                 FourthEstate
 Moscow 2042                        Vladimir Voinovich            JonathanCape
 Nancy Mitford Omnibus              Nancy Mitford                 Penguin
 Nineteen Eighty-Four               George Orwell                 Penguin
+On the Road: The Original Scroll   Jack Kerouac                  Penguin
 The Other Side of the Story        Marian Keyes                  Penguin
 Pachinko                           Min Jin Lee                   apollo
 Peter Camenzind                    Hermann Hesse                 Penguin lost?
@@ -44,6 +47,7 @@ Tortilla Flat                      John Steinbeck                Penguin
 Ulysses                            James Joyce                   Penguin
 Ulysses Annotated Student ed       James Joyce                   Penguin
 Unbearable Lightness of Being      Milan Kundera                 faber
+Unwomanly Face of War              Svetlana Alexievich           Penguin
 Watership Down                     Richard Adams                 Penguin
 We need to talk about Kevin        Lioner Shriver                serpentstail
 What I talk about talk Running     Haruki Murakami               HarvellSecker
