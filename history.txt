@@ -12,22 +12,25 @@ Decline and Fall Roman Empire I    Edward Gibbon       BrittanicaGt lost?
 Decline and Fall Roman Empire II   Edward Gibbon       BrittanicaGt lost?
 Empire                             Jeremy Paxman       BBC
 Five Days in London                John Lukacs         scribe
+Gallipoli                          Les Carlyon         Macmillan
 The German Genius                  Peter Watson        SimonSchuster
 History of England Vol 1 Foundat   Peter Ackroyd       Macmillan
 History of England Vol 2 Tudors    Peter Ackroyd       Macmillan
 History of England IV: Revolution  Peter Ackroyd       Macmillan
 History of the Second World War    Basil Liddell Hart  Pan
 Ideas                              Peter Watson        phoenix
+In our time                        Bragg               Sceptre
 Iron Curtain: Crushing East Europe Anne Applebaum      doubleday
 Israel: A History                  Martin Gilbert      BlackSwan
-Lands and Peoples I:   British Isles and Western Europe         GrolierSociety
-Lands and Peoples II:  Baltic States and Central Europe         GrolierSociety
-Lands and Peoples III: Near and Middle East                     GrolierSociety
-Lands and Peoples IV:  Southern Asia and the Far East           GrolierSociety
-Lands and Peoples V:   Africa, Australia and Southern Islands   GrolierSociety
-Lands and Peoples VI:  Canada and the United States             GrolierSociety
-Lands and Peoples VII: Latin America and General Articles       GrolierSociety
+Lands/Peoples I:   British Isles and Western Europe    GrolierSociety
+Lands/Peoples II:  Baltic States and Central Europe    GrolierSociety
+Lands/Peoples III: Near and Middle East                GrolierSociety
+Lands/Peoples IV:  Southern Asia and the Far East      GrolierSociety
+Lands/Peoples V:   Africa, Australia and South Isles   GrolierSociety
+Lands/Peoples VI:  Canada and the United States        GrolierSociety
+Lands/Peoples VII: Latin America and General Articles  GrolierSociety
 Modern Times Modern Places         Peter Conrad        ThomasHudson
+Mythos: Greek Legends Retold       Stephen Fry         Penguin
 Orientalism                        Edward W Said       Vintage
 Origins of the Second World War    A J P Taylor        Penguin
 Radical Newcastle                  ed Bennett/Cushing  UNSW
