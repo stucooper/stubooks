@@ -5,6 +5,7 @@ Extending Puppet                   Franceschi            packt printout
 Hands-on TCP/IP in Practice        optus                 optus printout
 Java Message Service               Richards              ora printout
 JIRA Development Cookbook          Kuruvilla             packt printout
+Kubernetes: Sched Future Cloudscale David K Rensin       ORA
 Mastering Puppet                   Uphill                packt printout
 Maximum RPM                        Bailey                RedHat printout
 NMap6 Network Exploration Security Pale                  packt printout
