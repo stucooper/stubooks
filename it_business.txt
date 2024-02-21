@@ -139,6 +139,7 @@ The Startup Way                              Eric Ries            portfolio
 Stolen Focus                                 Johann Hari          bloomsbury
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
 TED Talks                                    Chris Anderson       nicBrealey
+TEDX Sydney                                  TedX                 TedX
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
 Throwing Rocks at the Google Bus             Douglas Rushkoff     portfolio
 To Save Everything Click Here                Evgeny Morozov       publicaffairs
