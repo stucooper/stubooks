@@ -2,10 +2,3 @@ name: CANBERRA IT
 label: 2019110402
 description: IT Books, many bought at Canberra Lifeline
 
-Johnny Lewis: Biography of Boxing King Paul Kent                 AllenUnwin
-The Con (servatorim of Music)         Jesse Pentecost            ABC
-Slide:ology                           Nancy Duarte               ORA
-How to be a Public Author             Paul Ewen                  Text
-He Who Must be Obeid                        Kate McClymont/Besser Vintage
-Catch and Kill (Harvey Weinstein)           Ronan Farrow        Fleet
-Penguin Book of Journalism                  ed Stephen Glover   Penguin

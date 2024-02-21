@@ -108,6 +108,7 @@ RESTful Web Services                     2007 Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 SELINUX                                  2004 McCarty             ORA
+Slide:ology                        lost?      Nancy Duarte        ORA
 SpamAssassin                             2004 Schwartz            ORA
 SQL Cookbook                                  Anthony Molinaro    ORA
 SQL in a Nutshell 2e                          Kevin Kline         ORA
