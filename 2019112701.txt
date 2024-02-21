@@ -3,20 +3,3 @@ label: 2019112701
 description: Various books
 loc: flemshed
 
-White                                      Bret Easton Ellis   Picador
-Mud Crab Boogie/Goodoo/Wind and the Monkey Roger Barrett       HarperCollins
-The Playful Brain (Puzzles improve minds)  Richard Restak      Riverhead
-The Introvert Advantage                    Marti Laney         Workman
-Bohemians and the Bulletin                 Norman Lindsay      A&R
-Combatting Cult Mind Control               Steven Hassan       ParkStreet
-Plenty more fish in the CBD                 David Rhind/Neal        RHNewZeal
-What a croc!                                NT News                 hachette
-150 Great Australian Beers                  James Smith             hardieGrant
-Brideshead Revisited                Evelyn Waugh              Penguin
-Sword of Honour                     Evelyn Waugh              Penguin
-Nancy Mitford Omnibus               Nancy Mitford             Penguin
-Rubicon                             Tom Holland               Abacus
-Goodbye to All That                 Robert Graves             Penguin
-Leviathan: Bio of Sydney         John Birmingham          Vintage
-The Sex Diaries                  Bettina Arndt            MUP
-Leonardo da Vinci                Walter Isaacson          SimonShuster
