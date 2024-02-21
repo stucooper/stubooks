@@ -1,3 +1,5 @@
 #!/bin/bash
+# This script used to count the files in 2019030104.txt boxes but all
+# these books have now been moved into named .txt files eg ora_classic.txt
 cat *.txt | egrep -v '^($|#)' | wc -l
 
