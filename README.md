@@ -13,6 +13,7 @@ MK      Morgan Kaufmann and Elsevier
 
 Book abbreviations:
 2e,3e   2nd edition, 3rd edition
+cftbl   Coffee Table sized book; hardback (usually) and huge (always)
 
 Location abbreviations:
 lcb    Little Creatures Box (empty beer case)
