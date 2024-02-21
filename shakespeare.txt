@@ -34,6 +34,8 @@ Hamlet                                            Shakespeare  Oxford
 # No Fear editions
 No Fear: Richard III                              Shakespeare  SparkNotes
 # RSC editions
+Shakespeare Complete Works ed Bate/Rasmus cftbl   Shakespeare  RSC/Macmillan
+Shakespeare nad others Collab Plays       cftbl   Shakespeare  RSC/Macmillan
 All's Well that Ends Well                         Shakespeare  RSC/Macmillan
 Antony and Cleopatra                              Shakespeare  RSC/Macmillan
 As You Like It                                    Shakespeare  RSC/Macmillan
