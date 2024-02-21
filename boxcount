@@ -1,2 +1,6 @@
 #!/bin/bash
-ls 2* | wc -l
+# This script used to count the number of 2019030104.txt boxes but all
+# the books have now been moved into named .txt files eg ora_classic.txt
+# So now, simply count the number of *.txt files. I doubt I'll be needing
+# this script very much.
+ls *.txt | wc -l
