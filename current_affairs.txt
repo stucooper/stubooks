@@ -1,4 +1,5 @@
 # Books on recent issues of interest, current affairs
+# See also allen_lane.txt; the creamy penguins have a lot of curr affairs
 21 Lessons for the 21st Century                 Yuval Noah Harari JonathanCape
 After America                                   Mark Steyn       regnery
 Against Creativity                              Oli Mould        verso
@@ -11,6 +12,7 @@ Catfight                               lost?    Tanenbaum        Finch
 Chavs: Demonization of the Working Class        Owen Jones       verso
 Crisis of Islam: Holy War and Unholy Terror     Bernard Lewis    W&N
 Combatting Cult Mind Control                    Steven Hassan    ParkStreet
+Collapse                                        Jared Diamond    penguin
 Confidence Game: pyschology of the con trick    Maria Konnikova  canoongate
 Crown (Casino): playing in the shadows          Tom Ravlic       wilkinson
 cynical theories                                Pluckrose/Linds  swift
@@ -21,6 +23,7 @@ Fast Food Nation                                Eric Scholosser  Penguin
 Fighting Cancer                                 Frank            BlackInc
 Full Circle: Classical World came back to us    Ferdinand Mount  SimonSchuster
 Girl with Seven Names (North Korea)             Hyeonseo Lee     WilliamCollins
+Guns, Germs and Steel                           Jared Diamond    Vintage
 Homo Deus: Brief History of Tomorrow            Yuval Noah Harari Vintage
 How to Lose Friends and Influence White People  Anto. Lattouf    Vintage
 The Kingdom of the Cults                        Walter Martin    BethanyHouse
