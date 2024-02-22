@@ -12,10 +12,11 @@ The Invisible Computer                       Norman                   mitp
 The Little Schemer 4e                        Friedman/Felleison       mitp
 A Little Java, A Few Patterns                Felleisen/Friedman       mitp
 The Mathematics of Marriage                  Gottman/Murray           mitp
+Musimathics Vol 1                            Gareth Loy               mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
 Perspectives on Free/Open Source Software    ed Feller                mitp
-Processing                                   Reas/Fry                 mitp
+Processing                           CMC?    Reas/Fry                 mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 Rules of Play: Game Design Fundamentals      Salen/Zimmerman          mitp
 streetlights and shadows                     Klein                    mitp
