@@ -1,4 +1,5 @@
 # Maths books and history and bios
+Advanced Engineering Mathemats 9e  Erwin Kreysig          Johnwiley
 Adventures of a Mathematician      Stanislaw Ulam         Scribners
 Alan Turing: The Enigma            Andrew Hodges          Vintage
 A Beautiful Mind                   Sylvia Nasar           faber
