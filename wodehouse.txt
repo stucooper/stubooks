@@ -13,6 +13,7 @@
 # JO4: Jeeves and Feudal Spirit/Stiff Upper Lip Jeeves/Jeeves in the Offing
 # GO:  Clicking of Cuthbert/Heart of a Goof
 # LAB: Life At Blandings Omnibus: Something Fresh/Summer Lightning/Heavy Weather
+# TBO: The Blandings Omnibus: Heavy Weather/Something Fresh/Summer Lightning
 # JWO: Jeeves&Wooster Omnibus: Mating Season/Code of Woosters/Right Ho Jeeves
 # UFO: Uncle Fred Omminus: UF in the Springtime/Uncle Dynamite/Cocktail Time
 # arp Arrow Paperback
@@ -71,7 +72,7 @@ The Globe by the way Book      1908
 Golf Without Tears             1922 US == The Clicking of Cuthbert
 He rather enjoyed it           1924 US == Ukridge
 Heart of a Goof                1926 own GO pvc
-Heavy Weather                  1933 own LAB
+Heavy Weather                  1933 own LAB TBO
 Ice in the Bedroom             1961
 If I were you                  1931
 Indiscretions of Archie        1921 own hj
@@ -128,11 +129,11 @@ Sam in the Suburbs             1925 US == Sam the Sudden
 Service with a Smile           1961 own arp
 The Small Bachelor             1927 own arp
 Something Fishy                1957 own str
-Something Fresh                1915 own pvc LAB arp
+Something Fresh                1915 own pvc LAB TBO arp
 Something New                  1915 US == Something Fresh
 Spring Fever                   1948 own hj
 Stiff Upper Lip, Jeeves        1963 own arp JO4 ovl
-Summer Lightning               1929 own LAB
+Summer Lightning               1929 own LAB TBO
 Summer Moonshine               1937
 Sunset at Blandings            1977 own cnet
 The Swoop                      1909
