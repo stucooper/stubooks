@@ -3,6 +3,7 @@ Adventures of a Mathematician      Stanislaw Ulam         Scribners
 Alan Turing: The Enigma            Andrew Hodges          Vintage
 A Beautiful Mind                   Sylvia Nasar           faber
 Big Book of Numbers                Adam Spencer           Xoum
+Calculus 5e                        Howard Anton           johnWiley
 Calculus Wars                      Jason Bardi            HighStakes
 The Calculus Lifesaver             Adrian Banner          princeton
 The Cracking Codebook              Simon Singh            HerperCollins
