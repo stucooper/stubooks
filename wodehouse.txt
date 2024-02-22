@@ -13,7 +13,8 @@
 # JO4: Jeeves and Feudal Spirit/Stiff Upper Lip Jeeves/Jeeves in the Offing
 # GO:  Clicking of Cuthbert/Heart of a Goof
 # LAB: Life At Blandings Omnibus: Something Fresh/Summer Lightning/Heavy Weather
-# TBO: The Blandings Omnibus: Heavy Weather/Something Fresh/Summer Lightning
+# TBO: The Blandings Omnibus:     Something Fresh/Summer Lightning/Heavy Weather
+# LAB published by Penguin, LAB hardback published by Hutchinson
 # JWO: Jeeves&Wooster Omnibus: Mating Season/Code of Woosters/Right Ho Jeeves
 # UFO: Uncle Fred Omminus: UF in the Springtime/Uncle Dynamite/Cocktail Time
 # arp Arrow Paperback
