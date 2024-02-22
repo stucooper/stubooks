@@ -4,6 +4,7 @@ Alan Turing: The Enigma            Andrew Hodges          Vintage
 A Beautiful Mind                   Sylvia Nasar           faber
 Big Book of Numbers                Adam Spencer           Xoum
 Calculus Wars                      Jason Bardi            HighStakes
+The Calculus Lifesaver             Adrian Banner          princeton
 The Cracking Codebook              Simon Singh            HerperCollins
 Fluke: Maths Myths of Conicidences Joseph Mazur           OneWorld
 From Erdos to Kiev: Olympic prons  Honsberger             MathsAssocUSA
@@ -25,6 +26,10 @@ My Brain is Open (Erdos)           Bruce Schechter        SimonSchuster
 Quadriviium                        various                Bloomsbury (CMC)
 Revised 4 Unit Maths Course        J. Coroneous           self
 Riddles in Mathematics             Eugene Northrop        Penguin
-The Simpsons their Maths secrets   Simon Singh            bloomsbur
+The Simpsons their Maths secrets   Simon Singh            bloomsbury
+Teaching Primary Mathematics 4e    Booker/Bond            Pearson
+Time Machine                       Adam Spencer           xoum
 Weird Maths                        Darling/Banerjee       OneWorld
 What If?                           Randall Munroe         JohnMurray
+Woo's Wonderful World of Maths     Eddie Woo              Macmillan
+X and the City: Modelling urban    John A. Adam           princeton
