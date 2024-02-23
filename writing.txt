@@ -1,5 +1,6 @@
 # books on writing and language
 Bendable Learnings                              Don Watson          knopf
+The Bestseller Code                             Archer/Jockers      StMartins
 The Curious Case of the Misplaced Modifier      Bonnie Trenga       dontcare
 Death Sentence                                  Don Watson          knopf
 A Dictionary of Modern English Usage            H.W Fowler          Oxford
