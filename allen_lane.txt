@@ -24,6 +24,7 @@ The Body Keeps the Score                     Van Der Kolk      Penguin
 The Bomber Mafia                             Gladwell          Penguin
 Boomerang                                    Lewis             Penguin
 Braiding Sweetgrass                          Kimmerer          Penguin
+Britain Against Napoleon                     Roger Knight      Penguin
 Bullshit jobs                                Graeber           Penguin
 The Butchering Art                           Fitzharris        Penguin
 Calling Bullshit                             Bergstrom/West    Penguin
@@ -148,6 +149,7 @@ The Roads to Sata                            Booth             Penguin
 Roller-Coaster                               Kershaw           Penguin
 The Russia Anxiety                           Smith             Penguin
 Scarcity                                     Mullainathan      Penguin
+The Secret Life of Trees                     Colin Tudge       Penguin
 The Secret World                             Andrew            Penguin
 The Sense of Style                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
@@ -244,6 +246,7 @@ Shutdown                                     Tooze             ALane pp
 Skin in the Game                             Taleb             ALane pp
 Terror and Consent                           Bobbitt           ALane pp
 To Explain the World                         Weinberg          ALane hb
+Underground Asia                             Tim Harper        ALane hb
 Wagner's Parsifal                            Roger Scruton     ALane hb
 Warlord                                      D'Este            ALane hb
 Weirdest People in the World                 Joseph Heinrich   ALane hb
@@ -280,3 +283,7 @@ Unauthorized Version: Truth, Fiction Bible   Robin Lane Fox    Penguin
 The War of the World                         Ferguson          Penguin
 What White People can do next                Emma Dabiri       Penguin
 The Whisperers                               Figes             Penguin
+# Penguin Monarchs series.. ordeded by King/Queen
+George I       The Lucky King                Tim Blanning      Penguin
+William IV     A King at Sea                 Roger Knight      Penguin
+# </Penguin Monarchs>
