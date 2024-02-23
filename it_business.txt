@@ -93,6 +93,7 @@ The Internet is not the answer               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
+Kingpin                                      Kevin Poulsen        crown
 Lab Rats                                     Dan Lyons            atlantic
 Life Inc                                     Douglas Rushkoff     RandomHouse
 The Long Tail                                Chris Anderson       Hyperion
@@ -118,6 +119,7 @@ Planet Google                                Randall Stross       Atlantic
 Pogue's Basics                               David Pogue          Flatiron
 Present Shock                                Douglas Rushkoff     current
 Privacy is Power                             Carissa Veliz        Penguin
+Qanon and On                                 Van Badham           hardiegrant
 Quitter                                      Jon Acuff            Lampo
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
