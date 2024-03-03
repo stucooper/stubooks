@@ -73,7 +73,7 @@ Python Standard Library                       Lundb               ORA
 R for Data Science                            Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
 REST in Practice                              Webber/Parastatidis ORA
-Revolution in the Valley                      Andy Hertzfeld      ORA
+Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
 The Ruby Programming Language                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
