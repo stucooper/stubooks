@@ -173,6 +173,7 @@ Too Big to Fail                              Ross Sorkin       Penguin
 Traces Remain                                Charles Nicholl   Penguin
 Trans-Europe Express                         Hatherley         Penguin
 Turing's Cathedral                           Dyson             Penguin
+The Undivided Past                           David Cannadine   Penguin
 The Undoing Project                          Lewis             Penguin
 Universal                                    Cox/Forshaw       Penguin
 Until the End of Time                        Greene            Penguin
@@ -246,6 +247,7 @@ Shutdown                                     Tooze             ALane pp
 Skin in the Game                             Taleb             ALane pp
 Terror and Consent                           Bobbitt           ALane pp
 To Explain the World                         Weinberg          ALane hb
+Twilight of Democracy                        Anne Applebaum    ALane hb
 Underground Asia                             Tim Harper        ALane hb
 Wagner's Parsifal                            Roger Scruton     ALane hb
 Warlord                                      D'Este            ALane hb
