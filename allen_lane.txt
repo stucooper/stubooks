@@ -14,7 +14,7 @@ The Bed of Procrustes                        Taleb             Penguin
 The Bestseller Code                          Archer/Jockers    Penguin
 The Better Angels of Our Nature               Pinker           Penguin
 The Better Half                              Moalem            Penguin
-Between East and West                        Applebaum         Penguin
+Between East and West                        Anne Applebaum    Penguin
 The Black Swan                               Taleb             Penguin
 Blink                                        Gladwell          Penguin
 Blitzed                                      Ohler             Penguin R2023
@@ -90,7 +90,7 @@ I'm Feeling Lucky                            Edwards           Penguin
 In Defence of Food                           Pollan            Penguin
 In Wartime                                   Judah             Penguin
 The Invention of Science                     Wootton           Penguin
-Iron Curtain                                 Applebaum         Penguin
+Iron Curtain                                 Anne Applebaum    Penguin
 Iron Kingdom                                 Clark             Penguin
 The Japanese                                 Harding           Penguin
 The Knowledge Machine                        Strevens          Penguin
@@ -264,7 +264,7 @@ D-Day Normandy                               Beevor            Penguin
 French Toast                                 Peta Mathias      Penguin
 Gomorrah                                     Saviano           Pan
 The Greek Myths                              Robert Graves     Penguin
-Gulag                                        Applebaum         Penguin
+Gulag                                        Anne Applebaum    Penguin
 The Happiness Hypothesis                     Haidt             arrow
 A History of Histories                       John Burrow       Penguin
 History English Peoples 1900+                Andrew Roberts    Harper
