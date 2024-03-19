@@ -95,6 +95,7 @@ The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
 Kingpin                                      Kevin Poulsen        crown
 Lab Rats                                     Dan Lyons            atlantic
+The Lean Startup                             Eric Ries            portfolio
 Life Inc                                     Douglas Rushkoff     RandomHouse
 The Long Tail                                Chris Anderson       Hyperion
 Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
