@@ -51,6 +51,7 @@ The Art of Intrustion (Wiley)
 The Art of Memory Forensics (wiley)
 The Art of R Programming (nostarch)
 The Art of Readable Code (ora)
+The Art of Webassembly (nostarch)
 Artificial Intelligence for Big Data (packt)
 Artificial Intelligence: The Very Idea (mitp)
 Artificial Intelligence with Python (packt)
@@ -69,6 +70,7 @@ Automate it! (packt)
 Automate the Boring Stuff with Python (nostarch)
 Autotools, 2nd Edition (nostarch)
 AWS System Administration (ora)
+Bare Metal C (nostarch)
 Baseball Hacks (ora)
 bash Cookbook (ora)
 Bash Pocket Reference, 2nd Edition (ora)
@@ -197,6 +199,7 @@ Data Visualization with Javascript
 Data Visualization with Python & JavaScript (ora)
 Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
+Dead Simple Python (nostarch)
 Deep Learning Cookbook
 Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
@@ -305,7 +308,7 @@ Getting Started with the Internet of Things
 Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
 Generative Deep Learning (ora)
 Git Pocket Guide
-The GNU Make Book
+The GNU Make Book (nostarch)
 GNU Octavo by Example
 Good Math (pragm)
 Google BigQuery: The Definitive Guide
@@ -455,6 +458,7 @@ Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
 Learn DevOps (pearson)
 Learn Functional Programming with Elixir (pragm)
+Learn Physics with Functional Programming (nostarch)
 Learn Quantum Computing with Python and IBM Quantum Experience (packt)
 Learn Windows Subsystem for Linux (Springer/Apress)
 Learn You A Haskell for Great Good! (nostarch)
@@ -602,6 +606,7 @@ Mind Hacks
 Mindful Design
 Minecraft Modding with Forge
 Migrating to MariaDB (Springer/Apress)
+Missing README (nostarch)
 Mission Python
 MIT Press Essential Knowledge Series
 Mobile App Development with Ionic
@@ -647,7 +652,7 @@ Patterns for API Design (pearson)
 Penetration Testing
 Perl Cookbook
 Perl Hacks
-Perl One-Liners: 130 Programs That Get Things Done
+Perl One-Liners: 130 Programs That Get Things Done (nostarch)
 PHP Cookbook
 Play Between Worlds: Exploring Online Game Culture (mitp)
 Play Matters (mitp)
@@ -723,7 +728,7 @@ Python Flash Cards: Syntax, Concepts, and Examples
 Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
 Python Image Processing Cookbook (packt)
-Python Playground: Geeky Projects for the Curious Programmer (nostarch)
+Python Playground 2e: Geeky Projects for the Curious Programmer (nostarch)
 Python Tricks: A Buffet of Awesome Python Features
 Python Workshop (packt)
 Pythonic Programming (pragm)
@@ -761,11 +766,15 @@ Robot Sex: Social and ethical implications (mitp)
 Robots (mitp)
 Robust Python (ora)
 Rot and Ruin: Warrior Smart
+Ruby Under a Microscope (nostarch)
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Rust Brain Teasers (pragm)
+Rust For Rustaceans (nostarch)
+Rust Programming Language 2e (nostarch)
 Sampler
 Scala Cookbook 2e (ora)
 The Sciences of the Artifical (mitp)
+Secret Life of Programs (nostarch)
 Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
@@ -810,6 +819,7 @@ Statistics Done Wrong: The Woefully Complete Guide
 Statistics for Data Science
 Statistics Hacks
 Steampunk LEGO (nostarch)
+Strange Code (nostarch)
 Strategic Monoliths and Microservices (pearson)
 Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
@@ -883,7 +893,8 @@ Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
 The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
 What is Data Engineering [report] (ora)
-Wicked Cool Shell Scripts
+Wicked Cool Shell Scripts 2e (nostarch)
+Wicked Cool Ruby Scripts (nostarch)
 Wild Blue Yonder
 Windows PowerShell Cookbook
 Windows Server 2016 Automation with PowerShell Cookbook
