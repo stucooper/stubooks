@@ -153,6 +153,7 @@ Collaborative Cyber Threat Intelligence
 Color Sky
 Comic Book History of Comics
 Command Line Go (ora)
+Communicating with Data (ora)
 Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
 Complex Network Analysis in Python (pragm)
 CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
@@ -163,6 +164,7 @@ Continuous API Management (ora)
 Continuous Architecture in Practice (pearson)
 Continuous Delivery with Docker and Jenkins
 Cosmic Scoundrels #1
+Cost-Effective Data Pipelines (ora)
 Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
 Creating an Information Security Program from scratch (crc)
@@ -187,11 +189,15 @@ D4VE, Vol. 1
 D4VE2
 D4VEocracy #1
 Darkness Visible #1
+Data Algorithms with Spark (ora)
 Data Analytics for Internal Auditors
 Data Engineering with Python (packt)
 Data-Intensive Text Processing with MapReduce (MandC)
 Data Management in Machine Learning Systems (MandC)
+Data Pipelines Pocket Reference (ora)
+Data Quality Engineering in Financial Services (ora)
 Data Science
+Data Science: The Hard Parts (ora)
 Data Science Essentials in Python (pragm)
 Data Science From Scratch (ora)
 Data Structures the Fun Way (nostarch)
@@ -200,6 +206,7 @@ Data Visualization with Python & JavaScript (ora)
 Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
 Dead Simple Python (nostarch)
+Deciphering Data Architectures (ora)
 Deep Learning Cookbook
 Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
@@ -210,6 +217,7 @@ Deploying to OpenShift
 Deployment with Docker
 Designing Distributed Systems
 Designing Elixir Systems with OTP (pragm)
+Designing Machine Learning Systems (ora)
 Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
 DDOS Attacks: Classification, Attacks, Challenges and Countermeasures (crc)
@@ -275,6 +283,7 @@ Fluent C (ora)
 Fluent Python
 Fluid Simulation for Computer Graphics
 Food Hacks: Vol. 53
+Football Analytics with Python and R (ora)
 Forrest Mims' Science Experiments
 Foundations for Architecting Data Solutions
 Foundations of Blockchain
@@ -658,6 +667,7 @@ Play Between Worlds: Exploring Online Game Culture (mitp)
 Play Matters (mitp)
 Postman PRO
 Practical Automated Machine Learning on Azure (ora)
+Practical Data Privacy (ora)
 Practical Data Science
 Practical Data Science with SAP (ora)
 Practical Deep Learning for Cloud, Mobile and Edge (ora)
@@ -773,6 +783,7 @@ Rust For Rustaceans (nostarch)
 Rust Programming Language 2e (nostarch)
 Sampler
 Scala Cookbook 2e (ora)
+Scaling Python with Ray (ora)
 The Sciences of the Artifical (mitp)
 Secret Life of Programs (nostarch)
 Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
