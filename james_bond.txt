@@ -7,7 +7,7 @@ Diamonds are Forever                  Ian Fleming         PenguinSilver R2023
 From Russia with Love                 Ian Fleming         PenguinSilver R2023
 Dr No                                 Ian Fleming         PenguinSilver R2023
 Goldfinger                            Ian Fleming         PenguinSilver R2024
-Thunderball                           Ian Fleming         PenguinSilver
+Thunderball                           Ian Fleming         PenguinSilver R2024
 On Her Majesty's Secret Service       Ian Fleming         PenguinSilver
 You Only Live Twice                   Ian Fleming         PenguinSilver
 # These next titles have colourful covers
