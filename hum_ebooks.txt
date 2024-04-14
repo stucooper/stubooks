@@ -3,6 +3,7 @@
 3D Math Primer for Graphics and Game Development
 97 Things Every Java Programmer Should Know (ora)
 97 Things Every Programmer Should Know (ora)
+100 Go Mistakes and How to Avoid Them (manning)
 A Casual Revolution: Reinventing Video Games and Their Players (mitp)
 A Common-Sense Guide to Data Structures and Algorithms 2e (pragm)
 A Guide to Convolutional Neural Networks for Computer Vision (MandC)
@@ -12,6 +13,7 @@ Absolute OpenBSD (nostarch)
 Accelerating Development Velocity using Docker (Springer/Apress)
 Active Learning (MandC)
 Adopting Elixir (pragm)
+Advanced Algorithms and Data Structures (manning)
 Advanced Analytics with Spark (ora)
 Advanced Platform Development with Kubernetes (Springer/Apress)
 Adversarial Machine Learning (MandC)
@@ -148,6 +150,7 @@ Cloud Native
 Cloud Native Go (ora)
 Cloud Native Infrastructure
 Code Craft
+Code Like a Pro in C# (manning)
 Codename Revolution: The Nintendo Wii Platform (mitp)
 Collaborative Cyber Threat Intelligence
 Color Sky
@@ -194,6 +197,7 @@ Data Analytics for Internal Auditors
 Data Engineering with Python (packt)
 Data-Intensive Text Processing with MapReduce (MandC)
 Data Management in Machine Learning Systems (MandC)
+Data-Oriented Programming: Reduce Software Complexity (manning)
 Data Pipelines Pocket Reference (ora)
 Data Quality Engineering in Financial Services (ora)
 Data Science
@@ -250,6 +254,7 @@ Drone Revolution: Vol. 51
 Dynamic Storytelling (pearson)
 Effective C (nostarch)
 Effective DevOps
+Effective Software Testing: A Developer's Guide (manning)
 Efficient Go (ora)
 egghead.io
 Elastic Leadership (manning)
@@ -277,6 +282,7 @@ Ethernet: The Definitive Guide 2e
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2ed
+Five Lines of Code: How and when to refactor (manning)
 Flask Web Development (ora)
 Flow architectures (ora)
 Fluent C (ora)
@@ -294,6 +300,7 @@ Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
 Frankenstein Alive, Alive! #3
 FreeBSD Device Drivers: A Guide for the Intrepid
+Full Stack Python Security (manning)
 Functional and Concurrent Programming (pearson)
 Functional JavaScript
 Functional Programming: A PragPub Anthology (pragm)
@@ -319,6 +326,7 @@ Generative Deep Learning (ora)
 Git Pocket Guide
 The GNU Make Book (nostarch)
 GNU Octavo by Example
+Good Code, Bad Code (manning)
 Good Math (pragm)
 Google BigQuery: The Definitive Guide
 GPGPU Programming for Games and Science
@@ -329,6 +337,7 @@ Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
 Grep pocket reference (ora)
 Grokking Bitcoin (manning)
+Grokking Continuous Delivery (manning)
 Grokking Deep Learning (manning)
 Hacker Bundle 2016 PDF Sampler
 Hackers and Painters
@@ -463,6 +472,7 @@ The Last Fall
 Lauren Ipsum (nostarch)
 Laws of UX (ora)
 Leading Creative Teams
+Learn AI-Assisted Python Programming (manning)
 Learn Bitcoin and Blockchain
 Learn Blockchain Programming with JavaScript
 Learn DevOps (pearson)
@@ -692,6 +702,7 @@ Practical Statistics for Data Scientists
 Practical Synthetic Data Generation (ora)
 Practical System Programming with C
 Practical Tableau
+Practices of the Python Pro (manning)
 Pragmatic Scala (pragm)
 The Practice of Network Security Monitoring
 The Principles of Object-Oriented JavaScript (nostarch)
@@ -727,6 +738,7 @@ Prometheus: Up and Running
 Puppet 5 Beginner's Guide
 Python Algorithmic Trading Cookbook
 Python Automation Cookbook
+Python Concuccency with asyncio (manning)
 Python Cookbook
 Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
 Python Crash Course: A Hands-On, Project-Based Introduction to Programming
@@ -737,6 +749,7 @@ Python Feature Engineering Cookbook (packt)
 Python Flash Cards: Syntax, Concepts, and Examples
 Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
+Python How-To: 63 techniques improve your Python code (manning)
 Python Image Processing Cookbook (packt)
 Python Playground 2e: Geeky Projects for the Curious Programmer (nostarch)
 Python Tricks: A Buffet of Awesome Python Features
@@ -760,6 +773,7 @@ The Recursive Book of Recursion (nostarch)
 Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
 Refactoring JavaScript
 Regular Expressions Cookbook
+Regular Expression Puzzles and AI Coding Assistants (manning)
 Remaining Relevant in Your Tech Career
 ReMaking History, Vol. 2
 ReMaking History, Vol. 3
@@ -780,7 +794,9 @@ Ruby Under a Microscope (nostarch)
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Rust Brain Teasers (pragm)
 Rust For Rustaceans (nostarch)
+Rust In Action (manning)
 Rust Programming Language 2e (nostarch)
+Rust Servers, Services, and Apps (manning)
 Sampler
 Scala Cookbook 2e (ora)
 Scaling Python with Ray (ora)
@@ -804,6 +820,7 @@ Seven Databases in Seven Weeks 2e (pragm)
 Shell Scripting: Expert Recipes for Linux, Bash, and more
 The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition (Wiley)
 The Site Reliability Workbook
+Skills of a Successful Software Engineer (manning)
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
 Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
 Social Engineering: The Art of Human Hacking
@@ -813,6 +830,7 @@ The Software Architecture Elevator (ora)
 Software Architecture in Practice (pearson)
 Software Architecture Metrics (ora)
 Software Architecture: The Hard Part (ora)
+Software Mistakes and Tradeoffs: Make good programming decisions (manning)
 Software Requirements Essentials (pearson)
 Solidity Programming Essentials
 Spark: The Definitive Guide
@@ -835,6 +853,7 @@ Strategic Monoliths and Microservices (pearson)
 Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
 Streaming Systems
+Street Coder: The rules to break (manning)
 Strengthening Deep Neural Networks (ora)
 Succeeding with AI (manning)
 Super Meat Boy
@@ -878,6 +897,7 @@ Understanding Intelligence (mitp)
 Understanding the Machine (nostarch)
 Understanding the New European Data Protection Rules
 Understanding Software Dynamics (pearson)
+Unity in Action (manning)
 Unix in a Nutshell, 4th Edition (ora)
 Unix Power Tools (ora)
 Using and Administering Linux: Volume 1 (Springer/Apress)
