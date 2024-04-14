@@ -114,7 +114,7 @@ The Boys Vol. 1: The Name of the Game
 Brutal Nature
 BSD Hacks
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
-Build a Career in Data Science
+Build a Career in Data Science (manning)
 Building an Anonymization Pipeline (ora)
 Building Apps with Riot
 Building Event-Driven Microservices (ora)
@@ -252,7 +252,7 @@ Effective C (nostarch)
 Effective DevOps
 Efficient Go (ora)
 egghead.io
-Elastic Leadership
+Elastic Leadership (manning)
 The Electric Sublime #1
 The Electric Sublime #2
 The Electric Sublime #3
@@ -305,8 +305,8 @@ The Future (mitp)
 Game Hacking
 Gaming Hacks
 Genetic Algorithms and Maching Learning for Programmers (pragm)
-Get Programming
-Get Programming with Javascript
+Get Programming (manning)
+Get Programming with Javascript (manning)
 Getting Clojure (pragm)
 Getting Started with 3D Printing
 Getting Started with Kubernetes, Second Edition
@@ -328,8 +328,8 @@ Graphing Data with R
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
 Grep pocket reference (ora)
-Grokking Bitcoin
-Grokking Deep Learning
+Grokking Bitcoin (manning)
+Grokking Deep Learning (manning)
 Hacker Bundle 2016 PDF Sampler
 Hackers and Painters
 Hacking: The Art of Exploitation, 2nd Edition
@@ -365,10 +365,10 @@ Head First Python
 Head First Ruby
 Head First SQL
 Head First Statistics
-Hello! HTML5 and CSS3
-Hello! Python
-Hello! Raspberry Pi
-Hello! Scratch
+Hello! HTML5 and CSS3 (manning)
+Hello! Python (manning)
+Hello! Raspberry Pi (manning)
+Hello! Scratch (manning)
 High Performance Images
 High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
 The Hitchhiker's Guide to Python
@@ -406,7 +406,7 @@ Interactive Data Visualization for the Web
 The Internet of Things (mitp)
 Internet of Things, Threats, Landscape, and Countermeasures (crc)
 Internet of Things Security (crc)
-Introducing Data Science
+Introducing Data Science (manning)
 Introducing Elixir
 Introducing Erlang
 Introducing Ethereum and Solidity
@@ -836,7 +836,7 @@ Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
 Streaming Systems
 Strengthening Deep Neural Networks (ora)
-Succeeding with AI
+Succeeding with AI (manning)
 Super Meat Boy
 Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
 Supply Chain Risk Management
@@ -897,7 +897,7 @@ Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World (mitp)
 We have Root: Even more advice from Schenier on Security (Wiley)
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
-Web Design Playground
+Web Design Playground (manning)
 Web Development with Django Cookbook (packt)
 Web Development with ReasonML (pragm)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
@@ -928,6 +928,6 @@ You Don't Know JS: ES6 & Beyond
 You Don't Know JS: Scope & Closures
 You Don't Know JS: Up & Going
 Your Linux Toolbox
-Zero to AI
+Zero to AI (manning)
 Zombies vs Robots: Warbook Omnibus
 2064: Read Only Memories
