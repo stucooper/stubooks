@@ -197,6 +197,7 @@ Whoops!                                      Lanchester        Penguin
 Willpower                                    BaumeisterTierney Penguin
 With our Backs to the Wall                   Stevenson         Penguin
 Winter King                                  Penn              Penguin
+Winners take All                             Giridharadas      Penguin
 The World Until Yesterday                    Diamond           Penguin
 World War One                                Stone             Penguin
 World War Two                                Stone             Penguin
@@ -256,7 +257,7 @@ Wagner's Parsifal                            Roger Scruton     ALane hb
 Warlord                                      D'Este            ALane hb
 Weirdest People in the World                 Joseph Heinrich   ALane hb
 Whiteshift                                   Kaufmann          ALane hb
-Winners take All                             Giridharadas      ALane pp
+Winners take All                             Giridharadas      ALane pp DUP
 You, Your Child and School                   Robinson          ALane pp
 # Penguin branded (non-fiction in the Allen Lane style or Allen Lane authors)
 The Atlantic and its Enemies (Cold War)      Norman Stone      Penguin
