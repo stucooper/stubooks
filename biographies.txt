@@ -21,7 +21,7 @@ Steve Jobs bio                            Walter Isaacson    Jobs
 Fifty Shades of 50                        Brendan Jones      Jones
 Die Laughing: Biography of Bill Leak      Fred Pawle         Leak
 Long Walk to Freedom         lost?        Nelson Mandela     Mandela
-Mao: The Unknown Story       lost?        Jung Chang/Halday  Vintage
+Mao: The Unknown Story       lost?        Jung Chang/Halday  Mao
 Spike Milligan                            Humphrey Carpenter Milligan
 Ronald Reagan                             Jacon Weisberg     Reagan
 Nixon and Kissinger                       Robert Dallek      Nixon/Kissinger
@@ -29,4 +29,5 @@ Lou Reed: The Life                        Mick Wall          Reed
 Altered States                            Ken Russell        Russell
 Golden Boy: Albert Speer Story            Paula Astridge     Speer
 Shirl: Graeme 'Shirley' Strachan          Jeff Apter         Strachan
-Leonardo da Vinci                         Walter Isaacson    SimonShuster
+Leonardo da Vinci                         Walter Isaacson    daVinci
+Amy Winehouse                      R2024  Chas Newkey-Burden Winehouse
