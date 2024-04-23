@@ -50,7 +50,7 @@ Julius Caesar                                     Shakespeare  RSC/Macmillan
 King Lear                                         Shakespeare  RSC/Macmillan
 King John and Henry VIII                          Shakespeare  RSC/Macmillan
 Love's Labour's Lost                              Shakespeare  RSC/Macmillan
-Neasure for Measure                               Shakespeare  RSC/Macmillan
+Measure for Measure                               Shakespeare  RSC/Macmillan
 Merry Wives of Windsor                            Shakespeare  RSC/Macmillan
 Nerchant of Venice                                Shakespeare  RSC/Macmillan
 Midsummer Night's Dream                           Shakespeare  RSC/Macmillan
