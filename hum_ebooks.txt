@@ -20,6 +20,9 @@ Adversarial Machine Learning (MandC)
 The Agile Enterprise (springer)
 Agile Development 2e (ora)
 The AI Product Managers Handbook (packt)
+The AI Revolution in Medicine (pearson)
+The AI Revolution in Networking, Security and Emerging Tech (pearson)
+The AI Revolution in Project Management (pearson)
 Algorithmic Thinking (nostarch)
 Algorithms for Reinforcement Learning (MandC)
 Algorithms in a Nutshell, 2nd Edition
@@ -55,6 +58,7 @@ The Art of R Programming (nostarch)
 The Art of Readable Code (ora)
 The Art of Webassembly (nostarch)
 Artificial Intelligence for Big Data (packt)
+Artificial Intelligence for Business 2e (pearson)
 Artificial Intelligence: The Very Idea (mitp)
 Artificial Intelligence with Python (packt)
 Artificial Minds (mitp)
@@ -90,6 +94,7 @@ Beginning Ubuntu for Windows and Mac Users (Springer/Apress)
 Behavioural Cybersecurity (crc)
 The Best of Instructables, Volume I (ora)
 The Best of Make: (ora)
+Beyond the Algorithm (pearson)
 Big Data Analytics and Computing for Digital Forensic Investigations (crc)
 Big Data Analytics in Cybersecurity
 Big Data Analytics with Applications in Insider Threat Detection
@@ -216,6 +221,7 @@ Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
 The Deep Learning Revolution (mitp)
 Deep Learning in the Browser
+Deep Learning Illustrated (pearson)
 Defense Against the Black Arts
 Deploying to OpenShift
 Deployment with Docker
@@ -291,8 +297,10 @@ Fluid Simulation for Computer Graphics
 Food Hacks: Vol. 53
 Football Analytics with Python and R (ora)
 Forrest Mims' Science Experiments
+Foundational Python for Data Science (pearson)
 Foundations for Architecting Data Solutions
 Foundations of Blockchain
+Foundations of Deep Reinforcement Learning (pearson)
 Foundations of Libvirt Development (Springer/Apress)
 Foundations of Scalable Systems (ora)
 Founders at Work
@@ -421,6 +429,7 @@ Introducing Erlang
 Introducing Ethereum and Solidity
 Introducing Go
 Introducing Linux Distros
+Introducing Machine Learning (pearson)
 Introduction to Computer Organization (nostarch)
 Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python
@@ -485,6 +494,7 @@ Learn You Some Erlang for Great Good! (nostarch)
 Learning Apache Drill
 Learning Continuous Integration with Jenkins
 Learning CoreDNS
+Learning Deep Learning (pearson)
 Learning Domain-Driven Design (ora)
 Learning Elastic Stack 6.0
 Learning GNU Emacs, 3rd Edition (ora)
@@ -541,6 +551,7 @@ LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 10
 LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
 The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
 Machine Learning and Data Science Blueprints for Finance (ora)
+Machine Learning with Python for Everyone (pearson)
 Machine Translation (mitp)
 Made-Up Minds: Constructivist Approach to AI (mitp)
 Make a Mind-Controlled Arduino Robot
@@ -596,6 +607,7 @@ Managing Security Services in Heterogeneous Networkes (crc)
 The Manga Guide to Calculus (nostarch)
 The Manga Guide to Electricity (nostarch)
 The Manga Guide to Physics (nostarch)
+Machine Learning in Production (pearson)
 Machine Learning Pocket Reference (ora)
 Mastering Ansible
 Mastering Apache Spark 2.x
@@ -703,8 +715,10 @@ Practical Synthetic Data Generation (ora)
 Practical System Programming with C
 Practical Tableau
 Practices of the Python Pro (manning)
+Pragmatic AI (pearson)
 Pragmatic Scala (pragm)
 The Practice of Network Security Monitoring
+Predictive Analytics 2e (pearson)
 The Principles of Object-Oriented JavaScript (nostarch)
 Principles of Web API Design (pearson)
 Pro Docker
@@ -726,6 +740,7 @@ Programming Elixir 1.6 (pragm)
 Programming Elm (pragm)
 Programming Kotlin (pragm)
 Programming Machine Learning (pragm)
+Programming ML.NET (pearson)
 Programming Perl 4e
 Programming PHP 4e (ora)
 Programming Quantum Computers
@@ -756,6 +771,7 @@ Python Tricks: A Buffet of Awesome Python Features
 Python Workshop (packt)
 Pythonic Programming (pragm)
 PyUP
+Quick Start Guide to Large Language Models (pearson)
 R Cookbook
 R in a Nutshell: A Desktop Quick Reference, 2nd Edition
 Racket Programming The Fun Way (nostarch)
@@ -777,6 +793,7 @@ Regular Expression Puzzles and AI Coding Assistants (manning)
 Remaining Relevant in Your Tech Career
 ReMaking History, Vol. 2
 ReMaking History, Vol. 3
+Responsible AI (pearson)
 Responsive Security
 RESTful Java with JAX-RS 2.0
 Retro Gaming Hacks
