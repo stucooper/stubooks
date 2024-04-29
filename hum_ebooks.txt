@@ -3,6 +3,7 @@
 3D Math Primer for Graphics and Game Development
 97 Things Every Java Programmer Should Know (ora)
 97 Things Every Programmer Should Know (ora)
+97 Things Every Scrum Practitioner Should Know (ora)
 100 Go Mistakes and How to Avoid Them (manning)
 A Casual Revolution: Reinventing Video Games and Their Players (mitp)
 A Common-Sense Guide to Data Structures and Algorithms 2e (pragm)
@@ -25,10 +26,10 @@ The AI Revolution in Networking, Security and Emerging Tech (pearson)
 The AI Revolution in Project Management (pearson)
 Algorithmic Thinking (nostarch)
 Algorithms for Reinforcement Learning (MandC)
-Algorithms in a Nutshell, 2nd Edition
+Algorithms in a Nutshell 2e (ora)
 The Allure of Machinic Life (mitp)
 Amazing Forest
-Android Cookbook
+Android Cookbook (ora)
 Android Security Internals
 Angular: Up and Running (ora)
 Animal Noir #1
@@ -37,9 +38,9 @@ Any Empire by Nate Powell
 Apache Hive Essentials
 Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
 Applied Computation Thinking with Python (packt)
-Applied Text Analysis with Python
+Applied Text Analysis with Python (ora)
 Applying Math with Python (packt)
-Apprenticeship Patterns
+Apprenticeship Patterns (ora)
 Archangel #1
 Archangel #2
 Archangel #3
@@ -79,13 +80,14 @@ AWS System Administration (ora)
 Bare Metal C (nostarch)
 Baseball Hacks (ora)
 bash Cookbook (ora)
-Bash Pocket Reference, 2nd Edition (ora)
+Bash Pocket Reference (ora)
+Bash Pocket Reference 2e (ora)
 Bayesian Programming
 Bayesian Statistics the Fun Way (nostarch)
 Beautiful LEGO (nostarch)
 Become ITIL Foundation Certified in 7 Days (springer/apress)
-Becoming a Better Programmer
-Becoming Functional
+Becoming a Better Programmer (ora)
+Becoming Functional (ora)
 Beginning Blockchain
 Beginning Linux Programming (wiley)
 Beginning Modern Unix (Springer/Apress)
@@ -116,11 +118,12 @@ The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
 The Book of PF: A No-Nonsense Guide to the OpenBSD Firewall
 The Book of PoC || GTFO
 The Book of R: A First Course in Programming and Statistics
-Bot Factory: Vol. 55
+Bot Factory: Vol. 55 (ora/makemag)
 The Boys Vol. 1: The Name of the Game
 Brutal Nature
-BSD Hacks
+BSD Hacks (ora)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
+Build a Binary Clock with Elxir and Nerves (pragpub)
 Build a Career in Data Science (manning)
 Building an Anonymization Pipeline (ora)
 Building Apps with Riot
@@ -138,29 +141,29 @@ C++ Crash Course (nostarch)
 C++ Software Design (ora)
 CAPM in Depth
 The Car Hacker's Handbook
-Car PC Hacks
-Cassandra: The Definitive Guide, 2e: Distributed Data at Web Scale
-The Cathedral and the Bazaar
+Car PC Hacks (ora)
+Cassandra: The Definitive Guide, 2e (ora)
+The Cathedral and the Bazaar (ora)
 CEH v9: Certified Ethical Hacker Version 9 Study Guide
 Certified OpenStack Administrator Study Guide
 Chatbots for eCommerce
 The CISO Journey
 Classic Shell Scripting (ora)
-Clojure Cookbook
+Clojure Cookbook (ora)
 Clojure for the Brave and True (nostarch)
-Clojure Programming
+Clojure Programming (ora)
 Cloud Computing (mitp)
-Cloud Foundry: The Definitive Guide
-Cloud Native
+Cloud Foundry: The Definitive Guide (ora)
+Cloud Native (ora)
 Cloud Native Go (ora)
-Cloud Native Infrastructure
+Cloud Native Infrastructure (ora)
 Code Craft
 Code Like a Pro in C# (manning)
 Codename Revolution: The Nintendo Wii Platform (mitp)
 Collaborative Cyber Threat Intelligence
 Color Sky
 Comic Book History of Comics
-Command Line Go (ora)
+Command Line Rust (ora)
 Communicating with Data (ora)
 Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
 Complex Network Analysis in Python (pragm)
