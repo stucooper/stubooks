@@ -1,3 +1,4 @@
+# FIXME: standardize on either pragm or pragpub (not both) for Pragmatic books.
 30 Days of Night (idw)
 3D Engine Design for Virtual Globes
 3D Math Primer for Graphics and Game Development
@@ -303,55 +304,55 @@ Five Lines of Code: How and when to refactor (manning)
 Flask Web Development (ora)
 Flow architectures (ora)
 Fluent C (ora)
-Fluent Python
+Fluent Python (ora)
 Fluid Simulation for Computer Graphics
-Food Hacks: Vol. 53
+Food Hacks: Vol. 53 (ora/makemag)
 Football Analytics with Python and R (ora)
-Forrest Mims' Science Experiments
+Forrest Mims' Science Experiments (ora/makemag)
 Foundational Python for Data Science (pearson)
-Foundations for Architecting Data Solutions
-Foundations of Blockchain
+Foundations for Architecting Data Solutions (ora)
+Foundations of Blockchain (packt)
 Foundations of Deep Reinforcement Learning (pearson)
 Foundations of Libvirt Development (Springer/Apress)
 Foundations of Scalable Systems (ora)
-Founders at Work
+Founders at Work (springer/apress)
 Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
 Frankenstein Alive, Alive! #3
-FreeBSD Device Drivers: A Guide for the Intrepid
+FreeBSD Device Drivers: A Guide for the Intrepid (nostarch)
 Full Stack Python Security (manning)
 Functional and Concurrent Programming (pearson)
-Functional JavaScript
+Functional JavaScript (ora)
 Functional Programming: A PragPub Anthology (pragm)
 Functional Programming Patterns in Scala and Clojure (pragm)
-Functional Thinking
+Functional Thinking (ora)
 Functional Web Development with Elixir, OTP and Phoenix (pragm)
 Fundamentals of Software Architecture (ora)
 The Future (mitp)
 Game Hacking
-Gaming Hacks
+Gaming Hacks (ora)
+Generative Deep Learning (ora)
 Genetic Algorithms and Maching Learning for Programmers (pragm)
 Get Programming (manning)
 Get Programming with Javascript (manning)
 Getting Clojure (pragm)
-Getting Started with 3D Printing
+Getting Started with 3D Printing (ora/makemag)
 Getting Started with Kubernetes, Second Edition
-Getting Started with Kudu
-Getting Started with Netduino
-Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi
-Getting Started with the Internet of Things
-Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module
-Generative Deep Learning (ora)
-Git Pocket Guide
+Getting Started with Kudu (ora)
+Getting Started with Netduino (ora/makemag)
+Getting Started with Sensors: Measure the World with Electronics, Arduino, and Raspberry Pi (ora/makemag)
+Getting Started with the Internet of Things (ora/makemag)
+Getting Started with the Photon: Making Things with the Affordable, Compact, Hackable WiFi Module (ora/makemag)
+Git Pocket Guide (ora)
 The GNU Make Book (nostarch)
 GNU Octavo by Example
 Good Code, Bad Code (manning)
 Good Math (pragm)
-Google BigQuery: The Definitive Guide
+Google BigQuery: The Definitive Guide (ora)
 GPGPU Programming for Games and Science
-Graph Databases, 2e: New Opportunities for Connected Data
+Graph Databases, 2e: New Opportunities for Connected Data (ora)
 Graphics Shaders
-Graphing Data with R
+Graphing Data with R (ora)
 Gray Hat Python: Python Programming for Hackers and Reverse Engineers
 Great Big Agile
 Grep pocket reference (ora)
@@ -359,10 +360,10 @@ Grokking Bitcoin (manning)
 Grokking Continuous Delivery (manning)
 Grokking Deep Learning (manning)
 Hacker Bundle 2016 PDF Sampler
-Hackers and Painters
+Hackers and Painters (ora)
 Hacking: The Art of Exploitation, 2nd Edition
 Hadoop Real-World Solutions Cookbook
-Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale
+Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale (ora)
 Half Past Danger
 Hands-On Bitcoin Programming with Python
 Hands-On Blockchain for Python Developers
@@ -376,51 +377,53 @@ Hands-On IoT Solutions with Blockchain
 Hands-On Machine Learning with scikit-learn Scientific Python Toolkits (packt)
 Hands-On Natural Language Processing with Python (packt)
 Hands-On Simulation Modelling with Python
-Head First Agile
-Head First Android Development
-Head First C#
-Head First C
-Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions
-Head First Design Patterns
-Head First HTML and CSS
-Head First Java
-Head First JavaScript Programming
-Head First Kotlin
-Head First Learn to Code
-Head First Object-Oriented Analysis and Design
-Head First PMP
-Head First Python
-Head First Ruby
-Head First SQL
-Head First Statistics
+Head First Agile (ora)
+Head First Android Development (ora)
+Head First C# (ora)
+Head First C (ora)
+Head First Data Analysis: A learner's guide to big numbers, statistics, and good decisions (ora)
+Head First Design Patterns (ora)
+Head First HTML and CSS (ora)
+Head First Java (ora)
+Head First JavaScript Programming (ora)
+Head First Kotlin (ora)
+Head First Learn to Code (ora)
+Head First Object-Oriented Analysis and Design (ora)
+Head First PMP (ora)
+Head First Python (ora)
+Head First Ruby (ora)
+Head First SQL (ora)
+Head First Statistics (ora)
 Hello! HTML5 and CSS3 (manning)
 Hello! Python (manning)
 Hello! Raspberry Pi (manning)
 Hello! Scratch (manning)
-High Performance Images
-High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark
-The Hitchhiker's Guide to Python
+High Performance Images (ora)
+High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark (ora)
+The Hitchhiker's Guide to Python (ora)
 The Hollows
-Home Theater Hacks
+Home Theater Hacks (ora)
 The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
 How Computers Really Work (nostarch)
 How Games Move Us: Emotion by Design (mitp)
-How Linux Works: What Every Superuser Should Know
-How to Use a Breadboard!
+How Linux Works: What Every Superuser Should Know (nostarch)
+How to Use a Breadboard! (ora/makemag)
 HTML5 Hacks (ora)
 Human Computation (MandC)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform (mitp)
 The IDA Pro Book
 IDW Insider (Preview)
 If Hemingway Wrote JavaScript (nostarch)
-Illustrated Guide to Astronomical Wonders
-Illustrated Guide to Home Biology Experiments
-Illustrated Guide to Home Chemistry Experiments
-Illustrated Guide to Home Forensic Science Experiments
+Illustrated Guide to Astronomical Wonders (ora)
+Illustrated Guide to Home Biology Experiments (ora)
+Illustrated Guide to Home Chemistry Experiments (ora)
+Illustrated Guide to Home Forensic Science Experiments (ora)
 Illustrated Guide to Learning Python 3
 Implementing Cybersecurity
-Impractical Python Projects
+Implementing Reproducable Research
+Implementing Service Level Objectives (ora)
+Impractical Python Projects (nostarch)
 An In-Depth Guide to Mobile Device Forensics (crc)
 Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
 The Infinite Loop
@@ -430,63 +433,64 @@ Information Security Fundamentals
 The Insider Threat (crc)
 Intellectual Property Strategy (mitp)
 Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
-Interactive Data Visualization for the Web
+Interactive Data Visualization for the Web (ora)
 The Internet of Things (mitp)
 Internet of Things, Threats, Landscape, and Countermeasures (crc)
 Internet of Things Security (crc)
 Introducing Data Science (manning)
-Introducing Elixir
-Introducing Erlang
+Introducing Elixir (ora)
+Introducing Erlang (ora)
 Introducing Ethereum and Solidity
-Introducing Go
+Introducing Go (ora)
 Introducing Linux Distros
 Introducing Machine Learning (pearson)
+Introducing Python (ora)
+Introducting ZFS on Linux (Springer/Apress)
 Introduction to Computer Organization (nostarch)
 Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
-Introduction to Machine Learning with Python
+Introduction to Machine Learning with Python (ora)
 Introduction to Semi-Supervised Learning (MandC)
-Introducing Python
-Introducting ZFS on Linux (Springer/Apress)
 Intrusion Detection and Prevention for Mobile Ecosystems
 Intrusion Detection Networks
 Invent Your Own Computer Games with Python
 iOS Application Security
-IRC Hacks
+IRC Hacks (ora)
 Iris Biometric Model for Secured Network Access
-Java 8 Lambdas
-Java Cookbook
+Java 8 Lambdas (ora)
+Java Cookbook (ora)
 Java for Data Science
-Java Generics and Collections
-Java in a Nutshell
-Java in a Nutshell 7e
+Java Generics and Collections (ora)
+Java in a Nutshell (ora)
+Java in a Nutshell 7e (ora)
 Java Message Service (ora)
 Java Network Programming (ora)
 Java Performance: The Definitive Guide (ora)
 Java Pocket Guide (ora)
 Java Threads (ora)
-Java Web Services: Up and Running
-JavaScript: The Good Parts
+Java Web Services: Up and Running (ora)
+JavaScript: The Good Parts (ora)
 JavaScript: The Definitive Guide 6e
 JavaScript Cookbook (ora)
 JavaScript for Kids (nostarch)
-Jenkins 2: Up and Running
-Jenkins: The Definitive Guide
+Jenkins 2: Up and Running (ora)
+Jenkins: The Definitive Guide (ora)
 Joe Hill's The Cape
 Joe Hill's The Cape: 1969
-JSON at Work
+JSON at Work (ora)
 Jumpstart Tableau
-Jumpstarting the Arduino 101
-Jumpstarting the Raspberry Pi Zero W
-Kafka: The Definitive Guide
+Jumpstarting the Arduino 101 (ora/makemag)
+Jumpstarting the Raspberry Pi Zero W (ora/makemag)
+Kafka: The Definitive Guide (ora)
 Kill Shakespeare, Vol. 4: The Mask of Night
 Kill Shakespeare Volume 1
 Kill Shakespeare Volume 2
 Kill Shakespeare Volume 3
-Kinect Hacks
+Kinect Hacks (ora/makemag)
 Kong: Becoming a King of API Gateways
 Kubernetes (Springer/Apress)
-Kubernetes Best Practices (ORA)
-Kubernetes: Up and Running (ORA)
+Kubernetes Best Practices (ora)
+Kubernetes Operators (ora)
+Kubernetes: Up and Running (ora)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time! (nostarch)
 The Last Fall
 Lauren Ipsum (nostarch)
@@ -502,28 +506,32 @@ Learn Quantum Computing with Python and IBM Quantum Experience (packt)
 Learn Windows Subsystem for Linux (Springer/Apress)
 Learn You A Haskell for Great Good! (nostarch)
 Learn You Some Erlang for Great Good! (nostarch)
-Learning Apache Drill
+Learning Apache Drill (ora)
+Learning Apache OpenWhisk (ora)
 Learning Continuous Integration with Jenkins
-Learning CoreDNS
+Learning CoreDNS (ora)
+Learning Dapr (ora)
 Learning Deep Learning (pearson)
 Learning Domain-Driven Design (ora)
 Learning Elastic Stack 6.0
 Learning GNU Emacs, 3rd Edition (ora)
 Learning GraphQL (ora)
 Learning Hadoop 2
-Learning HTTP/2
+Learning Helm (ora)
+Learning HTTP/2 (ora)
 Learning in Embedded Systems (mitp)
-Learning Java
+Learning Java (ora)
 Learning JavaScript (ora)
+Learning Kali Linux (ora)
 Learning Perl 7e
 Learning PHP, MySQL & JavaScript 5e (ora)
 Learning PHP, MySQL & JavaScript 6e (ora)
-Learning React Native
+Learning React Native (ora)
 Learning React1 (ora)
-Learning Scala
-Learning Spark: Lightning-Fast Big Data Analysis
+Learning Scala (ora)
+Learning Spark: Lightning-Fast Big Data Analysis (ora)
 Learning SQL 3e
-Learning TensorFlow, 1Ed
+Learning TensorFlow, 1e (ora)
 Learning Typescript (ora)
 Learning the bash Shell, 3rd Edition (ora)
 Learning the vi and Vim Editors, 7th Edition (ora)
