@@ -194,6 +194,7 @@ CSS Refactoring (ora)
 CSS: The Definitive Guide (ora)
 Cybernetics: Control and Communication in the Animal and the Machine (mitp)
 Cybersecurity Lessons from CoVID-19 (crc)
+Cybersecurity Ops with bash (ora)
 Cybersecurity Threats, Actors and Dynamic Mitigation (crc)
 CyRM: Mastering the Management of Cybersecurity (crc)
 D4VE, Vol. 1
@@ -219,16 +220,18 @@ Dataset Shift in Machine Learning (mitp)
 Database Reliability Engineering
 Dead Simple Python (nostarch)
 Deciphering Data Architectures (ora)
-Deep Learning Cookbook
+Deep Learning Cookbook (ora)
 Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
 The Deep Learning Revolution (mitp)
 Deep Learning in the Browser
 Deep Learning Illustrated (pearson)
 Defense Against the Black Arts
-Deploying to OpenShift
+Deploying to OpenShift (ora)
 Deployment with Docker
-Designing Distributed Systems
+Design and Build Great Web APIs (pragpub)
+Design Patterns for Cloud Native Architectures (ora)
+Designing Distributed Systems (ora)
 Designing Elixir Systems with OTP (pragm)
 Designing Machine Learning Systems (ora)
 Designing Web APIs (ora)
@@ -247,37 +250,42 @@ The Digial Mind: How Science is Redefining Humanity (mitp)
 Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
 Disruptive Analytics
 Distributed Systems with Node.js (ora)
+Distributed Tracing in Practice (ora)
 Dive into Systems (nostarch)
-DIY Drone and Quadcopter Projects
-DIY Instruments for Amateur Space
-DIY Satellite Platforms
+DIY Drone and Quadcopter Projects (ora/makemag)
+DIY Instruments for Amateur Space (ora/makemag)
+DIY Satellite Platforms (ora/makemag)
 Django 3 By Example (packt)
 DNS and BIND, 5th Edition (ora)
 Docker and Kubernetes for Java Developers
-Docker Cookbook
-Doing Data Science: Straight Talk from the Frontline
-Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!
+Docker Cookbook (ora)
+Doing Data Science: Straight Talk from the Frontline (ora)
+Doing Math with Python (nostarch)
 Domain-Driven Design Distilled (pearson)
 Domain Modelling Made Functional (pragm)
-Drone Revolution: Vol. 51
+Drone Revolution: Vol. 51 (ora/makemag)
+Dynamic Reteaming (ora)
 Dynamic Storytelling (pearson)
 Effective C (nostarch)
-Effective DevOps
+Effective DevOps (ora)
+Effective DevOps with AWS (ora)
 Effective Software Testing: A Developer's Guide (manning)
+Effective Typescript (ora)
 Efficient Go (ora)
 egghead.io
 Elastic Leadership (manning)
+Elasticsearch: The Definitive Guide (ora)
 The Electric Sublime #1
 The Electric Sublime #2
 The Electric Sublime #3
 The Electric Sublime #4
-Electricity for Young Makers
-Elegant SciPy
+Electricity for Young Makers (ora/makemag)
+Elegant SciPy (ora)
 Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch)
 Emerging Security Algorithms and Techniques (crc)
-The Encyclopedia of Electronic Components: Power Sources & Conversion, Vol. 1
-The Encyclopedia of Electronic Components: Vol. 2: Signal Processing
-Encyclopedia of Electronic Components, Vol. 3: Sensors
+The Encyclopedia of Electronic Components: Vol. 1 (ora/makemag)
+The Encyclopedia of Electronic Components: Vol. 2 (ora/makemag)
+Encyclopedia of Electronic Components, Vol. 3  (ora/makemag)
 Engineering Software (nostarch)
 Enterprise Big Data Lake (ora)
 Enterprise Level Security 2: Advanced Techniques IT in Uncertain World (crc)
@@ -287,10 +295,10 @@ Essential System Administration, 3rd Edition (ora)
 Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
 Establishing SRE Foundations (pearson)
 Ethereum Cookbook
-Ethernet: The Definitive Guide 2e
+Ethernet: The Definitive Guide 2e (ora)
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
-Excel Hacks 2ed
+Excel Hacks 2e (ora)
 Five Lines of Code: How and when to refactor (manning)
 Flask Web Development (ora)
 Flow architectures (ora)
