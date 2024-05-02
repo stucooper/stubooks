@@ -21,7 +21,7 @@ Defectors                            Joseph Kanon          SimonSchuster
 The Good German                      Joseph Kanon          LittleBrown
 Istanbul Passage                     Joseph Kanon          SimonSchuster
 Leaving Berlin                       Joseph Kanon          SimonSchuster
-Los Alamos                           Joseph Kanon          abacus
+Los Alamos                     R2024 Joseph Kanon          abacus
 The Prodigal Spy                     Joseph Kanon          abacus
 Stardust                             Joseph Kanon          SimonSchuster
 # Michael Lewis see also allen_lane.txt
