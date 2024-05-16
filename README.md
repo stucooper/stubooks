@@ -19,6 +19,7 @@ Location abbreviations:
 lcb    Little Creatures Box (empty beer case)
 cib    Cisco Box
 pcp    Penguin Classics Plastic - large plastic box of Penguin Classics
+whb    Wodehouse box: Vacuum Cleaner box garage middle left
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping

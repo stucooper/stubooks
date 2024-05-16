@@ -8,15 +8,15 @@
 #
 # Omnibus/Publisher codes
 # JO1,JO3,JO4 Jeeves Ombnibus 1,3,4
-# JO1: Thank you, Jeeves/Code of the Woosters/Inimitable Jeeves
-# JO3: Mating Season/Ring for Jeeves/Very Good, Jeeves
-# JO4: Jeeves and Feudal Spirit/Stiff Upper Lip Jeeves/Jeeves in the Offing
-# GO:  Clicking of Cuthbert/Heart of a Goof
-# LAB: Life At Blandings Omnibus: Something Fresh/Summer Lightning/Heavy Weather
-# TBO: The Blandings Omnibus:     Something Fresh/Summer Lightning/Heavy Weather
-# LAB published by Penguin, LAB hardback published by Hutchinson
-# JWO: Jeeves&Wooster Omnibus: Mating Season/Code of Woosters/Right Ho Jeeves
-# UFO: Uncle Fred Omminus: UF in the Springtime/Uncle Dynamite/Cocktail Time
+# JO1: Thank you, Jeeves/Code of the Woosters/Inimitable Jeeves whb
+# JO3: Mating Season/Ring for Jeeves/Very Good, Jeeves whb
+# JO4: J and Feudal Spirit/Stiff Upper Lip J/J in the Offing whb
+# GO:  Clicking of Cuthbert/Heart of a Goof whb
+# LAB: Life At Blandings Obus whb Something Fresh/Summer Lightning/Heavy Weather
+# TBO: The Blandings Omnibus: whb Something Fresh/Summer Lightning/Heavy Weather
+# LAB published by Penguin, TBO hardback published by Hutchinson
+# JWO: Jeeves&Wooster Omni whb Mating Season/Code of Woosters/Right Ho Jeeves
+# UFO Uncle Fred Omminus: UF in the Springtime/Uncle Dynamite/Cocktail Time whb
 # arp Arrow Paperback
 # cnet Coronet paperback
 #  hj Herbert Jenkins or Barrie Jenkins typically small hardbacks
@@ -78,7 +78,7 @@ Ice in the Bedroom             1961
 If I were you                  1931
 Indiscretions of Archie        1921 own hj
 Jill the Reckless              1920
-Joy in the Morning             1946 own cnet arp
+Joy in the Morning             1946 own arp
 The inimitable Jeeves          1932 own JO1 pvc arp
 Jeeves                         1932 US == The inimitable Jeeves
 Jeeves and the Feudal Spirit   1954 own JO4 hj
@@ -151,7 +151,8 @@ The White Feather              1907
 William Tell Told Again        1904
 Young Men in Spats             1936 own arp
 # About Wodehouse
-P G Wodehouse A Biography      own Frances Donaldson AndreDeutsch
-P G Wodehouse Illustrated Bio  own Joseph Connolly EelPie
-P G Wodehouse A Literary Bio   own Benny Green Pavilion
+P G Wodehouse A Biography      own Frances Donaldson AndreDeutsch pb
+P G Wodehouse Authorised Bio   own whb Frances Donaldson WeidenfeldNicholson hb
+P G Wodehouse Illustrated Bio  own whb Joseph Connolly EelPie
+P G Wodehouse A Literary Bio   own whb Benny Green Pavilion
 Jeeves and Wooster             own Nigel Cawthorne
