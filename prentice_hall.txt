@@ -10,7 +10,7 @@ Clean Code                                 Robert C. Martin     PTR
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum       lcb  PTR
 Content Critical                           McGovern/Norton      PTR lost?
-Core Java 2 Volume 1 Fundamentals          Horstmann/Cornell    PTR
+Core Java 2 Volume 1 Fundamentals      Horstmann/Cornell   2003 PTR brc
 Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security          William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR
@@ -28,7 +28,7 @@ Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 Intrusion Detection with Snort             Rehman               PTR
 Java Application Development on Linux      Albing/Schwartz      PTR
-JSP and Java                               Art Taylor           PTR
+JSP and Java                          Art Taylor           2002 PTR brc
 Just Java 2 6e                             Peter van der Linden PTR
 Life with Unix                             Libes/Ressler        PTR lost?
 Linux Assembly Language Programming        Bob Neveln           PTR
@@ -46,7 +46,7 @@ Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
 not Just Java 2e                           Peter van der Linden PTR
-Object-Oriented Software Construction      Bertrand Meyer       PTR
+Object-Oriented Software Construction  Bertrand Meyer      1997 PTR brc
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
