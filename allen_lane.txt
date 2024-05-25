@@ -48,6 +48,7 @@ The Descent of Man                           Perry             Penguin R2023
 Dial M for Murdoch                           Watson/Hickman    Penguin R2020
 Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
+The Dream of Enlightenment                   Anthony Gottlieb  Penguin
 The Drunkard's Walk                          Milodinow         Penguin
 The Egyptians                                Shenker           Penguin
 The Element                                  Robinson          Penguin
@@ -67,6 +68,7 @@ Eva Braun                                    Gortemaker        Penguin
 Every Song Ever                              Ratliff           Penguin
 Exercised                                    Lieberman         Penguin
 The Fall of the Ottomans                     Rogan             Penguin
+Farewell to the Horse                        Ulrich Raulff     Penguin
 Feline Philosophy                            Gray              Penguin
 A Fistful of Shells                          Green             Penguin
 Flash Boys                                   Lewis             Penguin R2022
@@ -142,6 +144,7 @@ The Quest                                    Daniel Yergin     Penguin
 Reality is not what it seems                 Rovelli           Penguin
 The Reckoning                                Soil              Penguin
 Refuge                                       Betts/Collier     Penguin
+Returning to Reims                           Didier Eribon     Penguin
 The Righteous Mind                           Haidt             Penguin
 Rio de Janeiro                               Soares            Penguin
 Risk Savvy                                   Gigerenzer        Penguin
