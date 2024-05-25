@@ -47,9 +47,9 @@ Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                        Quercia             ORA
 IP Routing                                    Malhotra            ORA
 IPv6 Essentials 2e                            Hagen               ORA
-Java in a Nutshell 4e                         David Flanagan      ORA
-Java Enterprise in a Nutshell                 FLanagan/Farley     ORA
-Java Examples in a Nutshell                   Flanagan            ORA
+Java in a Nutshell 4e                         David Flanagan      ORA brc
+Java Enterprise in a Nutshell                 FLanagan/Farley     ORA brc
+Java Examples in a Nutshell                   Flanagan            ORA brc
 Java Network Programming 2e                   Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook               Bradenbaugh         ORA
@@ -137,7 +137,7 @@ Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
 We the Media                                  Dan Gillmor         ORA
 Web 2.0 Architectures                         Governor/Hinchclif  ORA
 Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
-Web Design in a Nutshell                      Jennifer Niederst   ORA
+Web Design in a Nutshell                      Jennifer Niederst   ORA brc
 Web Navigation Designing User Experience      Fleming             ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA

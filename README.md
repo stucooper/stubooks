@@ -20,6 +20,7 @@ lcb    Little Creatures Box (empty beer case)
 cib    Cisco Box
 pcp    Penguin Classics Plastic - large plastic box of Penguin Classics
 whb    Wodehouse box: Vacuum Cleaner box garage middle left
+brc    Back Right Corner: far corner right at the back
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping
