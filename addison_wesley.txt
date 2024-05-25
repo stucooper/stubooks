@@ -1,6 +1,6 @@
 # IT books published by Addison/Wesley
 An Introduction to Operating Systems  Harvey Deitel                   AWL
-Advanced C++                          James O. Coplien                AWL
+Advanced C++                          James O. Coplien           1992 AWL brc
 Advanced Programming UNIX Env 1e hb   Stevens  lost?                  AWL
 Advanced Programming UNIX Env 2e pb   Stevens/Rago                    AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
@@ -8,6 +8,7 @@ Ajax                                  Edmond Woychowsky               AWL
 Algorithms in C                       Robert Sedgewick                AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
+The Annotated C++ Reference Manual    Ellis/Stroustrup           1990 AWL brc
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL
@@ -28,7 +29,7 @@ Computer Science: An Overview 9e      J Glenn Brookshear              AWL
 Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
-Design and Evolution of C++           Bjarne Stroustrup               AWL
+Design and Evolution of C++           Bjarne Stroustrup          1994 AWL brc
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
@@ -38,7 +39,7 @@ Digital Typography                    Knuth                           csli
 Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
-Effective Java 2e                     Bloch                           AWL
+Effective Java 2e                     Bloch                     2008  AWL brc
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Essential GWT                         Kerki                           AWL
