@@ -6,6 +6,7 @@ Ant The Definitive Guide 2e              2005 Holzner             ORA
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 Applying RCS and SCCS                         Bolinger/Bronson    ORA
+Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA brc
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                                 Albing/Vossen       ORA
 Building Internet Firewalls 2e           2000 Chapman/Zwicky      ORA

@@ -4,11 +4,13 @@ Getting MEAN                              Simon Holmes           Manning
 Gnuplot in Action                         Janert                 Manning
 Hello World                               Sande                  Manning
 Hello World 2e                            Sande                  Manning
+Java Development with Ant          2003   Hatcher/Loughran       Manning brc
 JavaScript Application Design             Nicolas Bevacqua       Manning
 jQuery in Action                          Bibeault/Katz          Manning
 MongoDB in Action                         Kyle Banker            Manning
 PostGIS in Action 2e                      Obe/Hsu                Manning
 R in Action                               Robert Kabacoff        Manning
 Ruby in Practice                          McAnally/Arkin         Manning
+Spring in Action                   2005   Walls/Breidenbach      Manning brc
 The Well-Grounded Rubyist                 David A. Black         Manning
 
