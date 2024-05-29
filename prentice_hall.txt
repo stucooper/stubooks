@@ -47,13 +47,14 @@ Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
 not Just Java 2e                           Peter van der Linden PTR
-Object-Oriented Software Construction  Bertrand Meyer      1997 PTR brc
+Object-Oriented Software Construction      Bertrand Meyer  1997 PTR brc
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
 OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
 Operating Systems: The XINU Approach       Douglas Comer        PTR
 Optimizing Network Performance content sw  Syme/Goldie          PTR
 Practical guide SNMP3 network mgmt         David Zeltserman     PTR
+Rapid GUI Programming w Python and Qt      MarkSummerfield 2008 PTR brm
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR

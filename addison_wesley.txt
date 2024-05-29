@@ -79,7 +79,7 @@ Practical Java                        Peter Haggar               2000 AWL brc
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Procmail Companion                    Martin McCarthy                 AWL
-Programming in Objective C            Kochan                          AWL
+Programming in Objective C 6e         Kochan                     2014 AWL brm
 Programming in Python 3               Summerfield                     AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Jon Bentley                     AWL
