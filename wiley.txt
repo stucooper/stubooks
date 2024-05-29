@@ -1,7 +1,7 @@
 # IT books and IT policy books published by JohnWiley
 # they also do the "for dummies" series
 # All Bruce Schneier books go here even if other publisher
-Advanved Penetration Testing                 Wil Allsopp          JohnWiley
+Advanved Penetration Testing           2017  Wil Allsopp          JohnWiley brm
 Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley

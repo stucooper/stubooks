@@ -45,7 +45,7 @@ MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
 A New Kind of Science                (CMC)   Wolfram              Wolfram 
 Non-Designers Design & Type Books            Robin Williams       PeachPit
-Object Oriented Analysis and Design          Grady Booch          BenjCummings
+Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
@@ -63,6 +63,7 @@ Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
+TCP/IP Explained                        brm  Philip Miller 1997   digitalPress
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 Viral Marketing                              Nelson-Field         Oxford

@@ -21,6 +21,7 @@ cib    Cisco Box
 pcp    Penguin Classics Plastic - large plastic box of Penguin Classics
 whb    Wodehouse box: Vacuum Cleaner box garage middle left
 brc    Back Right Corner: far corner right at the back
+brm    Back Right Middle. This box is on top of Back Right Corner (brc)
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping
