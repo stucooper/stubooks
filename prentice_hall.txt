@@ -78,7 +78,7 @@ Unix Network Programming 1e pback          W Richard Stevens    PTR
 Unix Network Programming Volume 1 2e       W Richard Stevens    PTR
 Unix Network Programming Volume 2 2e       W Richard Stevens    PTR
 The UNIX Programming Environment           Kernighan/Pike       PTR
-UNIX System V Programmer's Guide           AT&T                 PTR
+UNIX System V Programmer's Guide    1987   AT&T                 PTR brm
 UNIX Systems Programming                   Kay/Steven Robbins   PTR
 Voice Over IP 2e                           Black                PTR
 
