@@ -45,6 +45,7 @@ Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
 Network Security                           Kaufmann/Perlman     PTR
+Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
 not Just Java 2e                           Peter van der Linden PTR
 Object-Oriented Software Construction  Bertrand Meyer      1997 PTR brc
 OpenSource Network Administration          Kretchmar            PTR
