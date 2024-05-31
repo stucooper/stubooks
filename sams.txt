@@ -3,6 +3,7 @@
 # and are often re-cast as Addison Wesley titles, maybe they did a deal
 Advanced PHP Programming                  George Schlossnagle    SAMSDev
 Create your own Blog                      Tris Hussey            SAMS
+Embracing Insanity: OSS Development       Russell Pavicek 2000   SAMS
 Linux Shell Scripting with Bash           Ken O. Burtch          SAMSDev
 Linux Programming Unleashed               Various                SAMS lost?
 Linux Unleashed                           Various                SAMS lost?
