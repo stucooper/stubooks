@@ -67,6 +67,7 @@ Successful Lisp                              Lamkins              bookfix
 TCP/IP Explained                        brm  Philip Miller 1997   digitalPress
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
+UNIX System Security Tools             2000  Seth T Ross          McGrawHill
 Viral Marketing                              Nelson-Field         Oxford
 Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 The Way to Go: Thorough INtro to Go Proglang Ivo Balbaert         iUniverse
