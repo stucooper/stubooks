@@ -5,7 +5,8 @@ Advanced Programming UNIX Env 1e hb   Stevens  lost?                  AWL
 Advanced Programming UNIX Env 2e pb   Stevens/Rago                    AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
 Ajax                                  Edmond Woychowsky               AWL
-Algorithms in C                       Robert Sedgewick                AWL
+Algorithms 2e                         Robert Sedgewick           1988 AWL
+Algorithms in C                       Robert Sedgewick           1990 AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
 The Annotated C++ Reference Manual    Ellis/Stroustrup           1990 AWL brc
@@ -58,6 +59,7 @@ Interconnections 2e                   Radia Perlman                   AWL
 Internet Email Protocols              Jacobson                        AWL
 Intro to Database Systems Vol 1 5e    C J Date                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
+Kernel Projects for Linux             Gary Nutt (sml Chines ed) 2001  AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
 Latex A Document Prepartion System 2e Lamport                         AWL
 The LaTeX Companion 2e                Mittlebach                      AWL
