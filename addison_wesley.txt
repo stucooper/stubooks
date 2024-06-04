@@ -27,6 +27,7 @@ Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
 Computer Networking 3e                Kurose/Ross                     AWL
 Computer Science: An Overview 9e      J Glenn Brookshear              AWL
+Concepts of Programming Languages 6e  Robert W. Sebesta          2004 AWL cor
 Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
