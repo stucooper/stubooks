@@ -9,6 +9,6 @@ Debugging by Thinking                         Robert Metzger 2004 brm    MK
 Learning Processing                           Daniel Shiffman            MK
 Managing Gigabytes 2e                         Witten/Moffat  1999 brm    MK
 Network Algorithmics                          George Varghese            MK
-Programming Language Semantics                Michael Scott              MK
+Programming Language Semantics                Michael Scott  2000 cor    MK
 Relational Database Design clearly explained  Jan L Harrington           MK
 
