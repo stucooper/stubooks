@@ -64,12 +64,12 @@ Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins              bookfix
-TCP/IP Explained                        brm  Philip Miller 1997   digitalPress
+TCP/IP Explained                       1997  Philip Miller    brm digitalPress
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 UNIX System Security Tools             2000  Seth T Ross          McGrawHill
 Viral Marketing                              Nelson-Field         Oxford
 Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
-The Way to Go: Thorough INtro to Go Proglang Ivo Balbaert         iUniverse
+The Way to Go: Intro to Go Proglang    2012  Ivo Balbaert         iUniverse
 Web Services Business/Architecture           various              expert
-Writing Solid Code                           Steve Maguire        Microsoft
+Writing Solid Code                     1993  Steve Maguire    cor Microsoft
