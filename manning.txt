@@ -1,5 +1,6 @@
 # Books by Manning publisher see also perl.txt
 Algorithms of the Intelligent Web         Murmanis/Babenko       Manning
+Get Programming with Node.js              Jonathan Wexler   2019 Manning cor
 Getting MEAN                              Simon Holmes           Manning
 Gnuplot in Action                         Janert                 Manning
 Hello World                               Sande                  Manning
