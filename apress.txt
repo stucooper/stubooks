@@ -4,6 +4,7 @@ Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs                  apress
 Coders at Work                            Seibel                 apress
 Definitive Guide to Django                Holovaty               apress
+Definitive Guide to Grails                Graeme Rocher     2006 apress cor
 Definitive Guide to Terracotta            Terracotta Inc         apress brc
 Deploying OpenLDAP                        Jackiewicz             apress
 DevOps for Digital Leaders                Ravichandran/Taylor    apress
