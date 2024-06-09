@@ -2,7 +2,7 @@
 Advanced Linux Programming            CodeSourcery           NewRiders
 BerkeleyDB                            sleepycat              NewRiders
 Building Linux VPNS                   Kolesnikov/Hatch       NewRiders
-Embedded Linux                        John Lombardo          NewRiders
+Embedded Linux                        John Lombardo     2001 NewRiders
 GTK+/Gnome Application Development    Havoc Pennington  1999 NewRiders cor
 GIMP Essential Reference              Alex Harford           NewRiders
 GNU Autoconf, Automake and Libtool    Vaughan/Ellison        NewRiders
