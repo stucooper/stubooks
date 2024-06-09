@@ -20,8 +20,8 @@ Definitive Guide to the Xen Hypervisor     Chisnall             PTR
 Design of the UNIX Operating System        Maurice J Bach  lcb  PTR
 Distributed Operating Systems              Tanenbaum            PTR
 Embedded Linux Primer 2e                   Christopher Hallinan PTR
-Essential GIMP for Web Professionals       Michael J. Hammel    PTR
-Essential XML for Web Professionals        Dan Livingston       PTR
+Essential GIMP for Web Professionals       Michael Hammel  2002 PTR cor
+Essential XML for Web Professionals        Dan Livingston  2002 PTR cor
 Expert C Programming                       Van der Linden       PTR
 Fundamentals of Algorithms                 Brassard/Bratley     PTR
 Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
