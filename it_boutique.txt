@@ -50,7 +50,7 @@ Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman        palgrave
-Optimizing Linux Performance                 Philip Ezolt         HP
+Optimizing Linux Performance            2005 Philip Ezolt         HP
 Practical Guide to Designing with Data lost? Brian Suda           FiveSimple
 Principles of SAN Design                     Judd/Kruger          brocade
 Programming in Ansi C             lost?      Kumar/Agrawal        West
