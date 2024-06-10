@@ -10,8 +10,8 @@ A Casual Revolution: Reinventing Video Games and Their Players (mitp)
 A Common-Sense Guide to Data Structures and Algorithms 2e (pragm)
 A Guide to Convolutional Neural Networks for Computer Vision (MandC)
 A Little Gold Book of Ghastly Stuff 
-Absolute FreeBSD: The Complete Guide to FreeBSD (nostarch)
-Absolute OpenBSD (nostarch)
+Absolute FreeBSD 3e: The Complete Guide to FreeBSD (nostarch)
+Absolute OpenBSD 2e (nostarch)
 Accelerating Development Velocity using Docker (Springer/Apress)
 Active Learning (MandC)
 Adopting Elixir (pragm)
@@ -75,7 +75,7 @@ Attacking Network Protocols (nostarch)
 Auctions (mitp)
 Audio Visualization Using ThMAD (Springer/Apress)
 Automate it! (packt)
-Automate the Boring Stuff with Python (nostarch)
+Automate the Boring Stuff with Python 2e (nostarch)
 Autotools, 2nd Edition (nostarch)
 AWS System Administration (ora)
 Bare Metal C (nostarch)
@@ -116,7 +116,8 @@ The Book of F#: Breaking Free with Managed Functional Programming (nostarch)
 The Book of GIMP: A Complete Guide to Nearly Everything
 The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More
 The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
-The Book of PF: A No-Nonsense Guide to the OpenBSD Firewall
+The Book of Kubernetes (nostarch)
+The Book of PF 3e: A No-Nonsense Guide to the OpenBSD Firewall (nostarch)
 The Book of PoC || GTFO
 The Book of R: A First Course in Programming and Statistics
 Bot Factory: Vol. 55 (ora/makemag)
@@ -194,6 +195,7 @@ CSS Pocket Reference (ora)
 CSS Refactoring (ora)
 CSS: The Definitive Guide (ora)
 Cybernetics: Control and Communication in the Animal and the Machine (mitp)
+Cybersecurity for Small Networks (nostarch)
 Cybersecurity Lessons from CoVID-19 (crc)
 Cybersecurity Ops with bash (ora)
 Cybersecurity Threats, Actors and Dynamic Mitigation (crc)
@@ -235,6 +237,7 @@ Design Patterns for Cloud Native Architectures (ora)
 Designing Distributed Systems (ora)
 Designing Elixir Systems with OTP (pragm)
 Designing Machine Learning Systems (ora)
+Designing Secure Software (nostarch)
 Designing Web APIs (ora)
 Detecting Fake News on Social Media (MandC)
 DDOS Attacks: Classification, Attacks, Challenges and Countermeasures (crc)
@@ -244,6 +247,7 @@ Developing a hapi Edge
 Developing a React.js Edge
 Developing an Electron Edge
 DevOps for Networking
+DevOps for the Desperate (nostarch)
 DevOps with Kubernetes
 Digital Character Development: Theory and Practice
 Digital Culture, Play, and Identity: A World of Warcraft Reader (mitp)
@@ -282,7 +286,7 @@ The Electric Sublime #3
 The Electric Sublime #4
 Electricity for Young Makers (ora/makemag)
 Elegant SciPy (ora)
-Eloquent JavaScript, 2e: A Modern Introduction to Programming (nostarch)
+Eloquent JavaScript, 3e: A Modern Introduction to Programming (nostarch)
 Emerging Security Algorithms and Techniques (crc)
 The Encyclopedia of Electronic Components: Vol. 1 (ora/makemag)
 The Encyclopedia of Electronic Components: Vol. 2 (ora/makemag)
@@ -407,7 +411,7 @@ The Horizons of Evolutionary Robotics (mitp)
 Hot Damn
 How Computers Really Work (nostarch)
 How Games Move Us: Emotion by Design (mitp)
-How Linux Works: What Every Superuser Should Know (nostarch)
+How Linux Works 3e: What Every Superuser Should Know (nostarch)
 How to Use a Breadboard! (ora/makemag)
 HTML5 Hacks (ora)
 Human Computation (MandC)
@@ -546,11 +550,11 @@ Lifelong Machine Learning 2e (MandC)
 Linux All-In-One For Dummies
 Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
 Linux Bible
-The Linux Command Line: A Complete Introduction (nostarch)
+The Linux Command Line 2e (nostarch)
 Linux Command Line and Shell Scripting Bible
 Linux Containers and Virtualization (Springer/Apress)
 Linux Essentials
-Linux Firewalls: Attack Detection and Response with iptables, psad, and fwsnort
+Linux Firewalls: Attack Detection and Response (nostarch)
 Linux for Makers
 Linux Pocket Guide, 3rd Edition (ora)
 Linux Server Security: Hack and Defend
@@ -674,12 +678,15 @@ MOOCs (mitp)
 Moving Hadoop to the Cloud
 Multithreaded JavaScript (ora)
 Multithreading for Visual Effects
+MySQL Crash Course (nostarch)
 Natural Language Processing for Social Media 2e (MandC)
 Natural Language Processing with Python
 Natural Language Processing with PyTorch
 Navigating Hybrid Scrum Environments
 Nest.js: A Progressive Node.js Framework
 Network and Data Security for Non-Engineers
+Network Flow Analysis (nostarch)
+Network Programming with Go (nostarch)
 Network Troubleshooting Tools (ora)
 Neural Network Methods for Natural Language Processing (MandC)
 Nginx: From Beginner to Pro
@@ -700,6 +707,7 @@ Paradox (mitp)
 Parallel and Concurrent Programming in Haskell
 Patterns for API Design (pearson)
 Penetration Testing
+Pentesting Azure Applications (nostarch)
 Perl Cookbook
 Perl Hacks
 Perl One-Liners: 130 Programs That Get Things Done (nostarch)
@@ -707,6 +715,7 @@ PHP Cookbook
 Play Between Worlds: Exploring Online Game Culture (mitp)
 Play Matters (mitp)
 Postman PRO
+PowerShell for Sysadmins (nostarch)
 Practical Automated Machine Learning on Azure (ora)
 Practical Data Privacy (ora)
 Practical Data Science
@@ -715,6 +724,7 @@ Practical Deep Learning for Cloud, Mobile and Edge (ora)
 Practical Forensic Imaging
 Practical Google Analytics and Google Tag Manager for Developers
 Practical gRPC
+Practical Linux Forensics (nostarch)
 Practical Linux Topics
 Practical LPIC-1 Linux Certification Study Guide
 Practical LPIC-3 300 (Springer/Apress)
@@ -728,15 +738,16 @@ Practical Object-Oriented Design (pearson)
 Practical Packet Analysis
 Practical Python Programming for IoT (packt)
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
-Practical SQL: A Beginner’s Guide to Storytelling with Data
+Practical SQL 2e: A Beginner’s Guide to Storytelling with Data (nostarch)
 Practical Statistics for Data Scientists
 Practical Synthetic Data Generation (ora)
 Practical System Programming with C
 Practical Tableau
+Practical Vulnerability Management (nostarch)
 Practices of the Python Pro (manning)
 Pragmatic AI (pearson)
 Pragmatic Scala (pragm)
-The Practice of Network Security Monitoring
+The Practice of Network Security Monitoring (nostarch)
 Predictive Analytics 2e (pearson)
 The Principles of Object-Oriented JavaScript (nostarch)
 Principles of Web API Design (pearson)
@@ -957,6 +968,7 @@ Web Design Playground (manning)
 Web Development with Django Cookbook (packt)
 Web Development with ReasonML (pragm)
 Web Security: A WhiteHat Perspective (Hanqing Wu/Lin Zhao)
+Web Security for Developers (nostarch)
 The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
 What is Data Engineering [report] (ora)
