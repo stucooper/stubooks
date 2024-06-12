@@ -20,6 +20,7 @@ Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
 Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
+The Coming Wave                              Suleyman             BodleyHead
 Competing on Analytics                       Davenport/Harris     harvard
 Convergence Culture                 lost?    Jenkins              NewYorkUni
 Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
@@ -32,9 +33,10 @@ Cult of the Amateur                          Andrew Keen          nicBrealey
 Cult of the Dead Cow                         Joseph Menn          publicAffairs
 Cyberia                                      Douglas Rushkoff     Harper
 Cyberphonia                                  Edward Lucas         bloomsbury
-The Dark Net                                 Jamie Bartlett       Windmill
+The Dark Net                          R2019  Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
+Dawn of the Code War                         John P Carlin        Publicaffairs
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 Digital Barbarism        lost?               Mark Helprin         Harper
@@ -148,6 +150,7 @@ Throwing Rocks at the Google Bus             Douglas Rushkoff     portfolio
 To Save Everything Click Here                Evgeny Morozov       publicaffairs
 Tomorrows vs Yesterdays                      ed Andrew Keen       Atlantic
 Tools and Weapons                            Brad Smith           PenguinPress
+An Ugly Truth (Facebook)                     Frenkel/Kang         BridgeStreet
 Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
 The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
