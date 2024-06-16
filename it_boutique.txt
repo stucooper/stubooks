@@ -3,7 +3,7 @@
 # Some publishers I have 2-4 books by eg Microsfort BenjCummings but
 # don't expect I'll ever hit 5 books.
 Advanced C Programming by Example            John W. Perry        PWS
-ANSI Common Lisp                             Paul Graham          PTR
+ANSI Common Lisp                             Paul Graham      mtb PTR
 Ansible for DevOps                           Geerling             leanpub
 Apache Web Server Admin               lost?  Aulds                Sybex
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
@@ -11,7 +11,7 @@ The Blender Gamekit 2e                       Wartmann             Blender
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Coding projects in Python                    various              DK
-Common Lisp: The Language 2e                 Guy Steele           DigialPress
+Common Lisp: The Language 2e                 Guy Steele      mtb  DigialPress
 Cracking the Coding Interview 6e             MvDowell             CareerCup
 Database Management Systems 2e               Ramakrishnan/Gehrke  McGrawHill
 Database Systems 5e                          Conolly/Begg         Pearson
@@ -49,7 +49,7 @@ Non-Designers Design & Type Books            Robin Williams       PeachPit
 Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
-Operating Systems with Linux                 John O'Gorman        palgrave
+Operating Systems with Linux                 John O'Gorman    mtb palgrave
 Optimizing Linux Performance            2005 Philip Ezolt         HP
 Practical Guide to Designing with Data lost? Brian Suda           FiveSimple
 Principles of SAN Design                     Judd/Kruger          brocade
@@ -64,7 +64,7 @@ Shells User's Guide HP                       HP 9000              HP
 Social Media and the Law (Australia)         Various              LexisNexis
 Software Estimation                          Steve McConnell      Microsoft
 Stealing the Network                         various              syngress
-Successful Lisp                              Lamkins              bookfix
+Successful Lisp                              Lamkins          mtb bookfix
 TCP/IP Explained                       1997  Philip Miller    brm digitalPress
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG

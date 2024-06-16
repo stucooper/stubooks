@@ -20,7 +20,7 @@ Processing                  Epping   CMC     Reas/Fry                 mitp
 The Reasoned Schemer                         Friedman/Byrd            mitp
 Rules of Play: Game Design Fundamentals      Salen/Zimmerman          mitp
 streetlights and shadows                     Klein                    mitp
-Structure Interpretation Computer Progs 2e   Abelson/Sussman          mitp
+Structure Interpretation Computer Progs 2e   Abelson/Sussman     mtb  mitp
 The Techno-Human Condition                   Allenby/Sarewitz         mitp
 Types and Programming Languages              Benjamin Pierce  lost?   mitp
 Understanding Me                             Marshall McLuhan lost?   mitp

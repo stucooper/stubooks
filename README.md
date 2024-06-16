@@ -23,6 +23,7 @@ whb    Wodehouse box: Vacuum Cleaner box garage middle left
 brc    Back Right Corner: far corner right at the back
 brm    Back Right Middle. This box is on top of Back Right Corner (brc)
 cor    Coopers Red Box (empty beer case)
+mtb    Monteiths Beer Box (empty beer case)
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping

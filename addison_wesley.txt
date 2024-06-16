@@ -67,7 +67,7 @@ The LaTeX Companion 2e                Mittlebach                      AWL
 The LaTeX Graphics Companion          Goosens/Rahtz/Mittlebach        AWL
 The LaTeX Web Companion               Goosens                         AWL
 Learn Python the Hard Way 3e          Shaw                            AWL
-LISP 3e                               Winston/Horn                    AWL
+LISP 3e                               Winston/Horn                    AWL mtb
 Linux Application Development         Johnson/Troan                   AWL
 Linux Install/Configuration/Using     Michael Kofler         lost?    AWL
 Linux Kernel Development 3e           Robert Love                     AWL
