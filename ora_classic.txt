@@ -75,6 +75,7 @@ Linux Device Drivers                    1998  Rubini              ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
 Linux Network Administrator's Guide 2e  2000  Kirch/Dawson        ORA
+Mac OSX (Tiger) for Unix Geeks 3e       2005  Jepson/ROthman      ORA
 Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
