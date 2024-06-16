@@ -3,6 +3,7 @@ Algorithmic Graph Theory                   McHugh               PTR
 Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
+The C Answer Book 2e                       Tondo/Gimpel    1989 PTR
 The C Programming Language                 Kernighan/Ritchie    PTR
 The C Programming Language 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
