@@ -1,5 +1,6 @@
 # science fiction, ordered by author's surname then title
 # Foundation series in proper order
+Tau Zero                                       Poul Anderson       gollancz
 Foundation                                     Isaac Asimov        Harper
 Foundation and Empire                          Isaac Asimov        Harper
 Second Foundation                              Isaac Asimov        Harper
@@ -10,9 +11,13 @@ Forward the Foundation                         Isaac Asimov        bantam
 # </Foundation series>
 Robot Visions                                  Isaac Asimov        gollancz
 A Fall of Moondust                             Arthur C. Clarke    gollancz
+Childhood's End                                Arthur C. Clarke    TOR
 The Fall of the Towers                         Samuel R. Delany    sphere
 A Scanner Darkly                               Philip K. Dick      gollancz
 Do Androids Dream of Electric Sheep?           Philip K. Dick      gollancz
+Do Androids Dream of Electric Sheep?           Philip K. Dick      W&N
+The Three Stigmata of Palmer Eldritch          Philip K. Dick      gollancz
+Necromancer                                    Gordon R. Dickson   Sphere
 American Gods                                  Neil Gaiman         headline
 Norse Mythology                                Neil Gaiman         bloomsbury
 All Tomorrows Parties                          William Gibson      Viking
