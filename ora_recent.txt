@@ -31,6 +31,8 @@ Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                        Zichermann          ORA
 The Geek Atlas                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
+Hadoop Application Architectures              Grover              ORA
+Hadoop The Definitive Guide 3e                White               ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
@@ -47,8 +49,6 @@ Learning Python 5e                            Lutz                ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
-Hadoop Application Architectures              Grover              ORA
-Hadoop The Definitive Guide                   White               ORA
 Machine Learning for Hackers                  Drew Conway         ORA
 Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
