@@ -43,6 +43,7 @@ The Craftsman                                Sennett           Penguin
 Creative Schools                             Robinson          Penguin
 Crimes Against Humanity                      Robertson         Penguin
 Dark Continent                               Mazower           Penguin
+David and Goliath                            Gladwell          Penguin
 Denying the Holocaust                        Lipstadt          Penguin
 The Descent of Man                           Perry             Penguin R2023
 Dial M for Murdoch                           Watson/Hickman    Penguin R2020
@@ -70,10 +71,12 @@ Exercised                                    Lieberman         Penguin
 The Fall of the Ottomans                     Rogan             Penguin
 Farewell to the Horse                        Ulrich Raulff     Penguin
 Feline Philosophy                            Gray              Penguin
+Feral                                        Monbiot           Penguin
 A Fistful of Shells                          Green             Penguin
 Flash Boys                                   Lewis             Penguin R2022
 Fooled by Randomness                         Taleb             Penguin
 Freakonomics                                 Levitt/Dubner     Penguin
+From Bacteria to Bach and Back               Dennett           Penguin
 The Gates of Europe                          Plokhy            Penguin
 Germany                                      MacGregor         Penguin
 Ghost Wars                                   Coll              Penguin
@@ -132,8 +135,10 @@ Owls of the Eastern Ice                      Slaght            Penguin
 The Partition                                Townshend         Penguin
 The Party                                    McGregor          Penguin
 Permanent Present Tense                      Corkin            Penguin
+Penguin History of Modern China              Fenby             Penguin
 Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
+The Pity of War                              Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
 Poor Economics                               Banerjee/Duflo    Penguin
 The Price of Inequality                      Stiglitz          Penguin
