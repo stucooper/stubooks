@@ -18,6 +18,7 @@ Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
 Designing Connected Products                  Goodman             ORA
+Designing Games                               Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
@@ -33,6 +34,7 @@ The Geek Atlas                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 3e                White               ORA
+Hadoop The Definitive Guide 4e                White               ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA

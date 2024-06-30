@@ -8,6 +8,7 @@ Hal's Legacy                                 ed David G Stork         mitp
 High Noon on the Electronic Frontier         ed Ludlow                mitp
 Homebrew Gaming Vernacular Digitality        Melanie Swalwell         mitp
 Introduction to Algorithms 3e                Cormen/Leiserson         mitp
+Inventing the Internet                       Janet Abbate             mitp
 The Invisible Computer                       Norman                   mitp
 The Little Schemer 4e                        Friedman/Felleison       mitp
 A Little Java, A Few Patterns                Felleisen/Friedman       mitp
