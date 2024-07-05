@@ -127,6 +127,7 @@ BSD Hacks (ora)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
 Build a Binary Clock with Elxir and Nerves (pragpub)
 Build a Career in Data Science (manning)
+Build a Weather Station with Elixir and Nerves (pragm)
 Building an Anonymization Pipeline (ora)
 Building Apps with Riot
 Building Event-Driven Microservices (ora)
@@ -173,6 +174,7 @@ CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LP
 CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
 Computer Security Literacy
 Computing (mitp)
+Concurrent Data Processing in Elixir (pragm)
 Continuous API Management (ora)
 Continuous Architecture in Practice (pearson)
 Continuous Delivery with Docker and Jenkins
@@ -180,6 +182,7 @@ Cosmic Scoundrels #1
 Cost-Effective Data Pipelines (ora)
 Covariances in Computer Vision and Machine Learning (MandC)
 Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
+Craft, GraphQL APIs in Elixir with Absinthe (pragm)
 Creating an Information Security Program from scratch (crc)
 Creating and Using Virtual Prototyping Software (pearson)
 Creating Autonomous Vehicle Systems (MandC)
@@ -304,6 +307,7 @@ Ethernet: The Definitive Guide 2e (ora)
 Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2e (ora)
+Exploring Graphs with Elixir (pragm)
 Five Lines of Code: How and when to refactor (manning)
 Flask Web Development (ora)
 Flow architectures (ora)
@@ -324,6 +328,7 @@ Frankenstein Alive, Alive! #1
 Frankenstein Alive, Alive! #2
 Frankenstein Alive, Alive! #3
 FreeBSD Device Drivers: A Guide for the Intrepid (nostarch)
+From Ruby to Elixir (pragm)
 Full Stack Python Security (manning)
 Functional and Concurrent Programming (pearson)
 Functional JavaScript (ora)
@@ -337,6 +342,7 @@ Game Hacking
 Gaming Hacks (ora)
 Generative Deep Learning (ora)
 Genetic Algorithms and Maching Learning for Programmers (pragm)
+Genetic Algorithms in Elixir (pragm)
 Get Programming (manning)
 Get Programming with Javascript (manning)
 Getting Clojure (pragm)
@@ -653,6 +659,7 @@ The Maxx: Maxximized, Vol. 6
 The Maxx: Maxximized, Vol. 7
 Memes in Digital Culture (mitp)
 Metadata (mitp)
+Metaprogramming Elixir (pragm)
 Metasploit: A Penetration Tester's Guide
 Metric Learning (MandC)
 Microservices: Up and Running (ora)
@@ -766,12 +773,14 @@ Programming Android with Kotlin (ora)
 Programming C# 10 (ora)
 Programming Clojure (pragm)
 Programming DSLs in Kotlin (pragm)
+Programming Echo (pragm)
 Programming Elixir 1.6 (pragm)
 Programming Elm (pragm)
 Programming Kotlin (pragm)
 Programming Machine Learning (pragm)
 Programming ML.NET (pearson)
 Programming Perl 4e
+Programming Phoenix >= 1.4 (pragm)
 Programming PHP 4e (ora)
 Programming Quantum Computers
 Programming Rust
@@ -779,6 +788,7 @@ Programming Scala 2e
 Programming TypeScript (ora)
 Programming Voice Interfaces
 Progressive Web Apps with Preact
+Property-Based testing with Proper Erlang and Elixir (pragm)
 Prometheus: Up and Running
 Puppet 5 Beginner's Guide
 Python Algorithmic Trading Cookbook
@@ -812,6 +822,7 @@ Ray Tracing from the Ground Up
 React Native Cookbook
 Real World Haskell
 Realm of Racket: Learn to Program, One Game at a Time! (nostarch)
+Real-Time Phoenix (pragm)
 Real-Time Shadows
 Real-Time Volume Graphics
 Real-World Software Development
@@ -919,6 +930,7 @@ TensorFlow For Machine Intelligence
 Test Processing with Ruby (pragm)
 Test-Driven Development with Python
 Testing in Scala
+Testing Elixir (pragm)
 Think Bayes: Bayesian Statistics in Python
 Think Java
 Think Julia
