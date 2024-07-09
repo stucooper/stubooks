@@ -1,4 +1,3 @@
-# FIXME: standardize on either pragm or pragpub (not both) for Pragmatic books.
 30 Days of Night (idw)
 3D Engine Design for Virtual Globes
 3D Math Primer for Graphics and Game Development
@@ -125,7 +124,7 @@ The Boys Vol. 1: The Name of the Game
 Brutal Nature
 BSD Hacks (ora)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
-Build a Binary Clock with Elxir and Nerves (pragpub)
+Build a Binary Clock with Elxir and Nerves (pragm)
 Build a Career in Data Science (manning)
 Build a Weather Station with Elixir and Nerves (pragm)
 Building an Anonymization Pipeline (ora)
@@ -235,7 +234,7 @@ Deep Learning Illustrated (pearson)
 Defense Against the Black Arts
 Deploying to OpenShift (ora)
 Deployment with Docker
-Design and Build Great Web APIs (pragpub)
+Design and Build Great Web APIs (pragm)
 Design Patterns for Cloud Native Architectures (ora)
 Designing Distributed Systems (ora)
 Designing Elixir Systems with OTP (pragm)
