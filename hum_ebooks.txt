@@ -34,6 +34,7 @@ Android Security Internals
 Angular: Up and Running (ora)
 Animal Noir #1
 Ansible: From Beginner to Pro
+Ansible Up and Running (ora)
 Any Empire by Nate Powell
 Apache Hive Essentials
 Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
@@ -266,6 +267,7 @@ Django 3 By Example (packt)
 DNS and BIND, 5th Edition (ora)
 Docker and Kubernetes for Java Developers
 Docker Cookbook (ora)
+Docker Up and Running 3e (ora)
 Doing Data Science: Straight Talk from the Frontline (ora)
 Doing Math with Python (nostarch)
 Domain-Driven Design Distilled (pearson)
@@ -279,6 +281,7 @@ Effective DevOps with AWS (ora)
 Effective Software Testing: A Developer's Guide (manning)
 Effective Typescript (ora)
 Efficient Go (ora)
+Efficient Linux at the Command Line (ora)
 egghead.io
 Elastic Leadership (manning)
 Elasticsearch: The Definitive Guide (ora)
@@ -307,6 +310,7 @@ Ethical Hacking and Penetration Testing Guide
 Evolving Digital Leadership
 Excel Hacks 2e (ora)
 Exploring Graphs with Elixir (pragm)
+FastAPI (ora)
 Five Lines of Code: How and when to refactor (manning)
 Flask Web Development (ora)
 Flow architectures (ora)
@@ -500,6 +504,7 @@ Kubernetes (Springer/Apress)
 Kubernetes Best Practices (ora)
 Kubernetes Operators (ora)
 Kubernetes: Up and Running (ora)
+Kubernetes: Up and Running 3e (ora)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time! (nostarch)
 The Last Fall
 Lauren Ipsum (nostarch)
@@ -521,8 +526,11 @@ Learning Continuous Integration with Jenkins
 Learning CoreDNS (ora)
 Learning Dapr (ora)
 Learning Deep Learning (pearson)
+Learning DevSecOps (ora)
 Learning Domain-Driven Design (ora)
 Learning Elastic Stack 6.0
+Learning Git (ora)
+Learning GitHub Actions (ora)
 Learning GNU Emacs, 3rd Edition (ora)
 Learning GraphQL (ora)
 Learning Hadoop 2
@@ -532,6 +540,7 @@ Learning in Embedded Systems (mitp)
 Learning Java (ora)
 Learning JavaScript (ora)
 Learning Kali Linux (ora)
+Learning Modern Linux (ora)
 Learning Perl 7e
 Learning PHP, MySQL & JavaScript 5e (ora)
 Learning PHP, MySQL & JavaScript 6e (ora)
@@ -562,6 +571,7 @@ Linux Essentials
 Linux Firewalls: Attack Detection and Response (nostarch)
 Linux for Makers
 Linux Pocket Guide, 3rd Edition (ora)
+Linux Pocket Guide, 4th Edition (ora)
 Linux Server Security: Hack and Defend
 Linux Sound Programming (Springer/Apress)
 Little Nemo: Return to Slumberland
@@ -693,6 +703,7 @@ Nest.js: A Progressive Node.js Framework
 Network and Data Security for Non-Engineers
 Network Flow Analysis (nostarch)
 Network Programming with Go (nostarch)
+Network Programmability and Automation (ora)
 Network Troubleshooting Tools (ora)
 Neural Network Methods for Natural Language Processing (MandC)
 Nginx: From Beginner to Pro
@@ -731,6 +742,7 @@ Practical Forensic Imaging
 Practical Google Analytics and Google Tag Manager for Developers
 Practical gRPC
 Practical Linux Forensics (nostarch)
+Practical Linux System Administration (ora)
 Practical Linux Topics
 Practical LPIC-1 Linux Certification Study Guide
 Practical LPIC-3 300 (Springer/Apress)
@@ -801,6 +813,7 @@ Python Data Cleaning Cookbook (packt)
 Python Data Science Essentials
 Python Feature Engineering Cookbook (packt)
 Python Flash Cards: Syntax, Concepts, and Examples
+Python for DevOps (ora)
 Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
 Python How-To: 63 techniques improve your Python code (manning)
@@ -926,6 +939,7 @@ The Technological Singularity (mitp)
 Technology Strategy Patterns
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
+Terraform Up and Running 3e (ora)
 Test Processing with Ruby (pragm)
 Test-Driven Development with Python
 Testing in Scala
@@ -974,6 +988,7 @@ Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
 The Warcraft Civilization: Social Science in a Virtual World (mitp)
 We have Root: Even more advice from Schenier on Security (Wiley)
+Web Application Security 2e (ora)
 The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition (Wiley)
 Web Design Playground (manning)
 Web Development with Django Cookbook (packt)
