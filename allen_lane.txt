@@ -165,6 +165,7 @@ The Sense of Style                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
 Shady Characters                             Houston           Penguin
 The Shepherd's Life                          Rebanks           Penguin
+The Shifts and the Shocks                    Martin Wolf       Penguin
 The Signal and the Noise                     Silver            Penguin
 Silence: A Christian History                 MacCulloch        Penguin
 The Sleepwalkers                             Clark             Penguin
@@ -305,4 +306,5 @@ The Whisperers                               Figes             Penguin
 # Penguin Monarchs series.. ordeded by King/Queen
 George I       The Lucky King                Tim Blanning      Penguin
 William IV     A King at Sea                 Roger Knight      Penguin
+George V       The Unexpected King           David Cannadine   Penguin
 # </Penguin Monarchs>
