@@ -1,6 +1,7 @@
 Agile Java                                 Langr                PTR brc
 Algorithmic Graph Theory                   McHugh               PTR
 Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
+Artificial Intelligence Modern Approach 3e Russell/Norvig       PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
 The C Answer Book 2e                       Tondo/Gimpel    1989 PTR
