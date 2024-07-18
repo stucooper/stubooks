@@ -13,5 +13,6 @@ PostGIS in Action 2e                      Obe/Hsu                Manning
 R in Action                               Robert Kabacoff        Manning
 Ruby in Practice                          McAnally/Arkin         Manning
 Spring in Action                   2005   Walls/Breidenbach      Manning brc
+The Tao of Microservices           2018   Richard Rodger         Manning
 The Well-Grounded Rubyist                 David A. Black         Manning
 
