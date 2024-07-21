@@ -1,5 +1,6 @@
 # MIT Press
 10 PRINT CHR(205.5+RND(1)); : GOTO 10        Montefort et al          mitp
+Coding Literacy                              Annette Vee              mitp
 The Computational Beauty of Nature           Gary William Flake       mitp
 Digital Media and Democracy                  Megan Boler ed           mitp
 Digital Methods                              Richard Rogers           mitp

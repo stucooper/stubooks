@@ -1,6 +1,7 @@
 # books associated with the New Yorker magazine, includes James Thurber
 # some of these might be lost?
 About Town: New Yorker and World      Ben Yagoda          DaCapo 
+Alarms and Diversions                 James Thurber       HarperBrothers
 Cast of Characters: Golden Age of the New Yorker Thomas Vinciguerra Norton
 Collecting Himself                    James Thurber       mandarin
 Disquiet Please:humour writing        ed Remnick          ModernLibrary
