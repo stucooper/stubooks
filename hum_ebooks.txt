@@ -42,6 +42,7 @@ Applied Computation Thinking with Python (packt)
 Applied Text Analysis with Python (ora)
 Applying Math with Python (packt)
 Apprenticeship Patterns (ora)
+Arcade Brittania (mitp)
 Archangel #1
 Archangel #2
 Archangel #3
@@ -70,6 +71,7 @@ Asterisk: The Definitive Guide 5e (ora)
 Astronomy Hacks (ora)
 The Async-First Playbook (pearson)
 Atari Age: The Emergence of Video Games in America (mitp)
+Atari to Zelda (mitp)
 Atmospheric Monitoring with Arduino (ora)
 Attacking Network Protocols (nostarch)
 Auctions (mitp)
@@ -292,6 +294,7 @@ The Electric Sublime #4
 Electricity for Young Makers (ora/makemag)
 Elegant SciPy (ora)
 Eloquent JavaScript, 3e: A Modern Introduction to Programming (nostarch)
+The Elusive Shift (mitp)
 Emerging Security Algorithms and Techniques (crc)
 The Encyclopedia of Electronic Components: Vol. 1 (ora/makemag)
 The Encyclopedia of Electronic Components: Vol. 2 (ora/makemag)
@@ -342,6 +345,7 @@ Functional Web Development with Elixir, OTP and Phoenix (pragm)
 Fundamentals of Software Architecture (ora)
 The Future (mitp)
 Game Hacking
+Game Wizards (mitp)
 Gaming Hacks (ora)
 Generative Deep Learning (ora)
 Genetic Algorithms and Maching Learning for Programmers (pragm)
@@ -440,6 +444,7 @@ Impractical Python Projects (nostarch)
 An In-Depth Guide to Mobile Device Forensics (crc)
 Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
 The Infinite Loop
+The Infinite Playground (mitp)
 Information and Society (mitp)
 Information Doesn't Want To Be Free
 Information Security Fundamentals
@@ -730,7 +735,11 @@ Perl Hacks
 Perl One-Liners: 130 Programs That Get Things Done (nostarch)
 PHP Cookbook
 Play Between Worlds: Exploring Online Game Culture (mitp)
+Play Like a Feminist (mitp)
 Play Matters (mitp)
+Player vs Monster (mitp)
+Playing at a Distance (mitp)
+Playing smart (mitp)
 Postman PRO
 PowerShell for Sysadmins (nostarch)
 Practical Automated Machine Learning on Azure (ora)
@@ -826,6 +835,7 @@ PyUP
 Quick Start Guide to Large Language Models (pearson)
 R Cookbook
 R in a Nutshell: A Desktop Quick Reference, 2nd Edition
+Racing the beam (mitp)
 Racket Programming The Fun Way (nostarch)
 Ragnarok, Vol. 1: Last God Standing
 Raspberry Pi Cookbook
@@ -862,6 +872,7 @@ Robust Python (ora)
 Rot and Ruin: Warrior Smart
 Ruby Under a Microscope (nostarch)
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
+Rules of Play (mitp)
 Rust Brain Teasers (pragm)
 Rust For Rustaceans (nostarch)
 Rust In Action (manning)
@@ -925,6 +936,7 @@ Stream Processing with Apache Spark (ora)
 Streaming Systems
 Street Coder: The rules to break (manning)
 Strengthening Deep Neural Networks (ora)
+The Stuff Games are made of (mitp)
 Succeeding with AI (manning)
 Super Meat Boy
 Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
@@ -956,6 +968,7 @@ Three Months of Mapt Pro for $30 Coupon
 Thriving in the Gig Economy
 Time Series Databases: New Ways to Store and Access Data
 Tokenomics
+Treacherous Play (mitp)
 Truffle Quick Start Guide
 The Turing Test: Verbal Behaviour as Hallmark of Intelligence (mitp)
 Ubuntu Linux Toolbox: 1000+ Commands for Power Users
@@ -963,6 +976,7 @@ Ultimate Guide to Desktop Fabrication 2017: Vol. 54
 Ultra-Realistic Imaging
 Unauthorised Access: Physical Penetration Testing For IT Security Teams
 Unauthorized Access
+Unboxed (mitp)
 The Uncanny Valley in Games and Animation
 Uncertainty in Games (mitp)
 Understanding Intelligence (mitp)
@@ -980,12 +994,16 @@ Using SVG with CSS3 and HTML5
 UX Fundamentals for Non-UX Professionals
 Values at Play in Digital Games (mitp)
 Vi and Vim Editors: Pocket Reference
+The Videogame Industry does not exist (mitp)
 Vintage Tomorrows
+Virtual Economies (mitp)
+Virtual Reality (mitp)
 Visualizing Streaming Data
 Vue.js: Understanding its Tools and Ecosystem
 Vue.js: Up and Running (ora)
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
+Wandering Games (mitp)
 The Warcraft Civilization: Social Science in a Virtual World (mitp)
 We have Root: Even more advice from Schenier on Security (Wiley)
 Web Application Security 2e (ora)
@@ -998,6 +1016,7 @@ Web Security for Developers (nostarch)
 The Well-Played Game: A Player's Philosophy (mitp)
 What Computers Still Can't do: Critique of Artificial Reason (mitp)
 What is Data Engineering [report] (ora)
+Who are you? (mitp)
 Wicked Cool Shell Scripts 2e (nostarch)
 Wicked Cool Ruby Scripts (nostarch)
 Wild Blue Yonder
@@ -1024,4 +1043,5 @@ You Don't Know JS: Up & Going
 Your Linux Toolbox
 Zero to AI (manning)
 Zombies vs Robots: Warbook Omnibus
+Zones of Control (mitp)
 2064: Read Only Memories
