@@ -13,6 +13,7 @@ The Cult of Mac                   Kahney              nostarch
 Designing BSD Rootkits            Kong                nostarch
 Learn to Program in Minecraft     Craig Richardson    nostarch
 Lego Builder's Guide 2e           Bedford             nostarch
+Lego Mindstorms EV2               Laurens Valk        nostarch
 How Linux Works 2e                Ward                nostarch
 How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
 The IDA Pro Book                  Eagle               nostarch
