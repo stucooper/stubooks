@@ -29,6 +29,7 @@ Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
 Secrets and Lies                             Bruce Schneier       JohnWiley
 Social Media Rules of Engagement             Nicole Matejic       JohnWiley
 SQL For Dummies                              Taylor               JohnWiley
+Swift in the Cloud                           Williamson/Ponzo     JohnWiley
 Topics in C Programming Revised              Kochan/Wood          JohnWiley
 Wikis for Dummies                            Woods/Thoeny         JohnWiley
 Wireless Networks for Dummies                Lewis/Davis          JohnWiley
