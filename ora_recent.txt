@@ -13,6 +13,7 @@ Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
 Clojure Programming                           Enerick/Carper      ORA
+Concurrency in Go                             Katherine Cox-Buday ORA
 Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
@@ -47,8 +48,10 @@ Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
+Learning Puppet 4                             Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
+Learning Rails 5                              J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
