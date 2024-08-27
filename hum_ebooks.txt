@@ -910,7 +910,7 @@ Social Media Warfare
 The Software Architecture Elevator (ora)
 Software Architecture in Practice (pearson)
 Software Architecture Metrics (ora)
-Software Architecture: The Hard Part (ora)
+Software Architecture: The Hard Parts (ora)
 Software Mistakes and Tradeoffs: Make good programming decisions (manning)
 Software Requirements Essentials (pearson)
 Solidity Programming Essentials
