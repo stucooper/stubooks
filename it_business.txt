@@ -11,7 +11,7 @@ The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 The Big Switch                               Nicholas Carr        dontcare
-Blitz Scaling                                Hoffman/Yeh          curremcy
+Blitzscaling                                 Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
 Blockchain Revolution                        Don Tapscott         portfolio
 Bull                                         Douglas Rushkoff     spectre
@@ -41,7 +41,7 @@ Dawn of the Code War                         John P Carlin        Publicaffairs
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 Digital Barbarism        lost?               Mark Helprin         Harper
-Digital Gold (bitcoin)                       Nathaniel Popper     HarperCollins
+Digital Gold (bitcoin) <also allen_lane.txt> Nathaniel Popper     HarperCollins
 Digital vs Human                             Richard Watson       scribe
 Disrupted start-up bubble                    Dan Lyons            hachette
 Does I.T Matter?                             Nicholas Carr        Harvard
@@ -90,7 +90,7 @@ In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
 Instagram                                    Leaver/Highfield     polity
 The Intelligent Web                          Graham Shroff        Oxford
-Innovator's Dilemma                          Christensen          harvard
+The Innovator's Dilemma                      Christensen          harvard
 The Innovators                               Walter Isaacson      SimonSchuster
 The Internet is not the answer               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
