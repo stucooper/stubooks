@@ -7,6 +7,7 @@ The Apple Revolution  lost?                  Luke Dormehl         Virgin
 Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Art of Immersion                         Frank Rose           norton
+Artificial Intelligence                      Matt Burgess         Wired
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
@@ -29,6 +30,7 @@ Crowdsourcing                                Jeff Howe            rh
 Crypto                                       Levy                 Viking
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 Cryptocurrency                               Paul Vigna           BodleyHead
+Cryptocurrency                               Gian Volpicelli      Wired
 The Cuckoo's Egg                             Stoll                BodleyHead
 Cult of the Amateur                          Andrew Keen          nicBrealey
 Cult of the Dead Cow                         Joseph Menn          publicAffairs
