@@ -94,6 +94,7 @@ Innovator's Dilemma                          Christensen          harvard
 The Innovators                               Walter Isaacson      SimonSchuster
 The Internet is not the answer               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
+It's Alive! == duplicate of Android Dreams)  Toby Walsh           blackInc
 The Joy of Linux                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
 Kingpin                                      Kevin Poulsen        crown
