@@ -654,7 +654,7 @@ Machine Learning in Production (pearson)
 Machine Learning Pocket Reference (ora)
 Mastering Ansible
 Mastering Apache Spark 2.x
-Mastering API Architectures (ora)
+Mastering API Architecture (ora)
 Mastering Blockchain
 Mastering Docker
 Mastering Kubernetes
