@@ -104,6 +104,7 @@ Lab Rats                                     Dan Lyons            atlantic
 The Lean Startup                             Eric Ries            portfolio
 Life Inc                                     Douglas Rushkoff     RandomHouse
 The Long Tail                                Chris Anderson       Hyperion
+Machine Platform Crowd                       Brynjolfsson/McAfee  Norton
 Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
 Makers                                       Anderson             rhbusiness
 Makers                            lost?      Cory Doctorow        TOR
