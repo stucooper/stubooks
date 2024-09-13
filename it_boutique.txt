@@ -48,6 +48,7 @@ MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
 A New Kind of Science                (CMC)   Wolfram              Wolfram 
 Non-Designers Design & Type Books            Robin Williams       PeachPit
+Numerical Methods in C 2e                    Press/Teukolsky      Cambridge
 Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
