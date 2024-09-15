@@ -131,6 +131,7 @@ Unicode Explained                        2006 Jukka Korpela       ORA cor
 Unix Backup & Recovery                   1999 Preston             ORA cor
 Unix in a Nutshell SVR4                  1992 Gilly               ORA
 Unix Power Tools 2e                           Peek/OReilly        ORA
+Unix Power Tools 3e                      2002 Peek/OReilly        ORA
 Using Drupal                                  Byron/Berry         ORA
 Using and Managing uucp                       Ed Ravin            ORA
 Using Samba 2e                           2003 Ts/Eckstein         ORA

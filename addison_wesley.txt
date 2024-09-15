@@ -105,6 +105,7 @@ The TeXbook                           Knuth                           AWL
 Text processing in Python             Mertz                           AWL
 Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 Understanding and Deploying LDAP 2e   Howes/Smith/Good           2003 AWL brm
+Underground Guide to UNIX             John Montgomery                 AWL
 UNIX Internals                        Pate                            AWL
 Unix Network Programming Vol 1 3e     Stevens/Fenner/Rudoff sockets   AWL
 Unix System Security                  David A Curry                   AWL
