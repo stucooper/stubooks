@@ -6,6 +6,7 @@ Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley
 The Art of Intrusion                         Mitnick/Simon        JohnWiley
+Become a YouTuber                      2018  Cristina Calabrese   JohnWiley
 The Bitcoin Standard                         Saifedean Ammous     JohnWiley
 Building the Internet of Things              Maciej Kranz         JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
@@ -27,6 +28,7 @@ ProBlogger 2e                                Rowse/Garrett        JohnWiley
 Raspberry Pi User Guide                      Upton/Halfacree      JohnWiley
 Samsung Galaxy 8 for Dummies                 Bill Hughes          JohnWiley
 Secrets and Lies                             Bruce Schneier       JohnWiley
+Selected Papers in System Network Admin 2002 Usenix/SAGE          JohnWiley
 Social Media Rules of Engagement             Nicole Matejic       JohnWiley
 SQL For Dummies                              Taylor               JohnWiley
 Swift in the Cloud                           Williamson/Ponzo     JohnWiley
