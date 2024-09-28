@@ -9,6 +9,7 @@ The Animals Among Us                         Bradshaw          Penguin
 Antifragile                                  Taleb             Penguin
 Antwerp                                      Pye               Penguin
 The Ascent of Money                          Ferguson          Penguin
+Atoms and Ashes                              Plokhy            Penguin
 Be Like the Fox                              Benner            Penguin
 A Beautiful Question                         Wilczek           Penguin
 The Bed of Procrustes                        Taleb             Penguin
@@ -58,6 +59,7 @@ The End of Average                           Rose              Penguin
 The End of Everything                        Mack              Penguin
 Enemies: History of the FBI                  Weiner            Penguin
 Enemies and Neighbours                       Black             Penguin
+Entitled                                     Kate Manne        Penguin
 Engineers of Victory                         Kennedy           Penguin
 English and their History                    Tombs             Penguin
 Enlightenment Now                            Pinker            Penguin
@@ -112,6 +114,7 @@ Life 3.0                                     Tengmark          Penguin
 The Light Ages                               Falk              Penguin
 Limonov                                      Carrere           Penguin
 The Long '68                                 Vinen             Penguin
+Losing Eden                                  Lucy Jones        Penguin
 Lost Japan                                   Kerr              Penguin
 Making of the British Landscape              Pryor             Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
@@ -130,6 +133,7 @@ The Numbers Game                             Anderson/Sally    Penguin
 On Grand Strategy                            Gaddis            Penguin
 On Politics                                  Ryan              Penguin
 The Order of Time                            Rovelli           Penguin
+Otherlands                                   Halliday          Penguin
 Our Boys                                     Parr              Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
@@ -189,6 +193,7 @@ Trans-Europe Express                         Hatherley         Penguin
 Turing's Cathedral                           Dyson             Penguin
 The Undivided Past                           David Cannadine   Penguin
 The Undoing Project                          Lewis             Penguin
+The Uninhabitable Earth                      Wallace-Wells     Penguin
 Universal                                    Cox/Forshaw       Penguin
 Until the End of Time                        Greene            Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
