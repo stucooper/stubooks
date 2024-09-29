@@ -28,6 +28,7 @@ Dynamic HTML 3e                               Danny Goodman       ORA
 Essential CVS 2e                              Vesperman           ORA
 Essential SNMP 2e                        2005 Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
+Evil Geniuses in a Nutshell              2000 Iliad               ORA
 Exploring Expect                              Libes               ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
 Google Advertising Tools                 2006 Davis               ORA brm
@@ -110,6 +111,8 @@ Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                     2007 Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
+Secure Programming Cookbook C/C++        2003 Viega/Messier       ORA
+Security Warrior                         2004 Peikari/Chuvakin    ORA
 SELINUX                                  2004 McCarty             ORA
 Slide:ology                              2008 Nancy Duarte        ORA
 SpamAssassin                             2004 Schwartz            ORA
