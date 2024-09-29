@@ -4,6 +4,7 @@
 21st Century C                                Klemens             ORA
 97 Things every Programmer Should Know        ed Kelvin Henney    ORA
 Ambient Findability                           Morville            ORA
+Arduino Cookbook 2e                      2011 Margolis            ORA
 The Art of Agile Development                  Shore/Warden        ORA
 The Art of Concurrency                        Breshears           ORA
 The Art of SEO                                Enge/Spencer        ORA
@@ -22,6 +23,7 @@ Designing Connected Products                  Goodman             ORA
 Designing Games                               Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
+Elastisearch: The Definitive Guide       2015 Gormley/Tong        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
@@ -36,6 +38,7 @@ Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 3e                White               ORA
 Hadoop The Definitive Guide 4e                White               ORA
+Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn Keras TensorFlow Geron   ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
@@ -86,8 +89,10 @@ Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
+Supercharged JavaScript Graphics         2011 Cecco               ORA
 Think Python 2e                               Allen B Downey      ORA
 Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
 Web Development with Node and Express         Brown               ORA
+Web Operations                           2010 Allspaw/Robbins     ORA
