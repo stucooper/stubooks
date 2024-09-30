@@ -54,6 +54,8 @@ Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
 Guide to LaTeX 4e                     Kopka/Daly                      AWL
 Guide to the SQL Standard             C J Date                        AWL
+The Go Programming Language           Donovan/Kernighan               AWL
+Haskell Craft of Functional Prog 3e   Simon Thompson                  AWL
 History of Programming Languages      Bergin/Gibson                   AWL
 How to set up/maintain website 2e     Lincoln Stein                   AWL lost?
 Interconnections 2e                   Radia Perlman                   AWL
