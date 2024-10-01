@@ -4,6 +4,7 @@ Accidental Empires                           Robert X Cringely    dontcare
 Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
 The Apple Revolution  lost?                  Luke Dormehl         Virgin
+The Alignment Problem                        Brian Christian      Atlantic
 Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Art of Immersion                         Frank Rose           norton
@@ -15,6 +16,7 @@ The Big Switch                               Nicholas Carr        dontcare
 Blitzscaling                                 Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
 Blockchain Revolution                        Don Tapscott         portfolio
+Blogs, Wikipedia, Second Life and Beyond     Alex Bruns           PeterLang
 Bull                                         Douglas Rushkoff     spectre
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
@@ -36,6 +38,7 @@ Cult of the Amateur                          Andrew Keen          nicBrealey
 Cult of the Dead Cow                         Joseph Menn          publicAffairs
 Cyberia                                      Douglas Rushkoff     Harper
 Cyberphonia                                  Edward Lucas         bloomsbury
+Cybershock                                   Winn Schwartau       ThundersMouth
 The Dark Net                          R2019  Jamie Bartlett       Windmill
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
@@ -113,6 +116,7 @@ The Master Switch                            Tim Wu               Atlantic
 Max Hits: Building Promoting Websites        Slocombe             Rotovision
 The Media Lab (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
+Nerds 2.0.1 Brief History of Internet        Stephen Segaller     TvBooks
 net.wars                                     Wendy M.Grossman     NYU
 The Net Delusion                             Evgeny Morozov       penguin
 The New Analog                               Damon Krukowski      NewPress
