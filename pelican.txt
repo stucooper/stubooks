@@ -1,15 +1,15 @@
 # A Pelican Introduction Series (ordered by spine number!)
-1  Economics: The User's Guide           Ha-Joon Chung        Pelican
-3  Revolutionary Russia 1891-1991        Orlando Figes        Pelican
-4  The Domesticated Brain                Bruce Hood           Pelican
-6  Classical Literature                  Richard Jenkyns      Pelican
-10 Social Class in the 21st Century      Mike Savage          Pelican
-14 Basic Income: How we can make happen  Guy Standing         Pelican
-15 Think like an Anthorpologist          Matthew Engelke      Pelican
-20 The Human Planet                      Lewis/Maslin         Pelican
-21 Think Again: How to Reason/Argue      Sinnott-Armstrong    Pelican
-24 National Populism                     Eatwell/Goodwin      Pelican
-30 Art of Statistics                     David Spiegelhater   Pelican
+1  Economics: The User's Guide           Ha-Joon Chung        Pelican hbc
+3  Revolutionary Russia 1891-1991        Orlando Figes        Pelican hbc
+4  The Domesticated Brain                Bruce Hood           Pelican hbc
+6  Classical Literature                  Richard Jenkyns      Pelican hbc
+10 Social Class in the 21st Century      Mike Savage          Pelican hbc
+14 Basic Income: How we can make happen  Guy Standing         Pelican hbc
+15 Think like an Anthorpologist          Matthew Engelke      Pelican hbc
+20 The Human Planet                      Lewis/Maslin         Pelican hbc
+21 Think Again: How to Reason/Argue      Sinnott-Armstrong    Pelican hbc
+24 National Populism                     Eatwell/Goodwin      Pelican hbc
+30 Art of Statistics                     David Spiegelhater   Pelican hbc
 # New Pelicans but not in the numbered series
 The Beginning of Infinity                David Deutsch        Pelican
 # Old Pelicans 1960s/70s/80s
@@ -18,7 +18,7 @@ The Great Tradition                      F.R.Leavis           Pelican
 Lives of the Great Composers Vol 1       ed Bacharach         Pelican
 Lives of the Great Composers Vol 2       ed Bacharach         Pelican
 Lives of the Great Composers Vol 3       ed Bacharach         Pelican
-Mathematics in Western Culture           Morris Kline         Pelican
+Mathematics in Western Culture           Morris Kline         Pelican hbc
 McLuhan Pros and Cons                    ed Rosenthal         Pelican lost?
 The Nature of the Universe               Fred Hoyle           Pelican
 Origins and Growth of Sociology      hbc J.H. Abraham         Pelican
