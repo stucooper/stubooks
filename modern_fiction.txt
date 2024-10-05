@@ -1,4 +1,5 @@
 The African Queen                  C S Forester              hbc Penguin
+Animal Farm                        George Orwell                 Penguin
 Antigua, Penny, Puce               Robert Graves             hbc Penguin
 Audrey Hepburn's Neck              Brown                         Sceptre
 Brideshead Revisited               Evelyn Waugh                  Penguin
@@ -26,7 +27,7 @@ Midnight in Garden Good and Evil   Berendt                       Sceptre
 Mirror and the Light               Hilary Mantel                 FourthEstate
 Moscow 2042                        Vladimir Voinovich            JonathanCape
 Nancy Mitford Omnibus              Nancy Mitford                 Penguin
-Nineteen Eighty-Four               George Orwell                 Penguin
+Nineteen Eighty-Four           hbc George Orwell                 Penguin
 On the Road: The Original Scroll   Jack Kerouac                  Penguin
 The Other Side of the Story        Marian Keyes                  Penguin
 Pachinko                           Min Jin Lee                   apollo
@@ -45,7 +46,7 @@ Ulysses                            James Joyce                   Penguin
 Ulysses Annotated Student ed       James Joyce                   Penguin
 Unbearable Lightness of Being      Milan Kundera                 faber
 Unwomanly Face of War              Svetlana Alexievich           Penguin
-Watership Down                     Richard Adams                 Penguin
+Watership Down                     Richard Adams             hbc Penguin
 We of the Never-Never              Mrs Aeneas Gunn               hutchinson
 What I talk about talk Running     Haruki Murakami               HarvellSecker
 The White Tiger                    Aravind Adiga                 HarperCollins
