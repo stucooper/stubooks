@@ -1,13 +1,13 @@
 # crime novels, thrillers etc. see also connelly.txt
 # alphanetical by author surname
-The Island of Sheep                           John Buchan            Penguin
-The Thirty-Nine Steps                         John Buchan            Penguin
-The Big Sleep                                 Raymond Chandler       pan
-Farewell My Lovely                            Raymond Chandler       penguin
-Killer in the Rain                            Raymond Chandler       pan
+The Island of Sheep                       hbc John Buchan            Penguin
+The Thirty-Nine Steps                     hbc John Buchan            Penguin
+The Big Sleep                             hbc Raymond Chandler       pan
+Farewell My Lovely                        hbc Raymond Chandler       penguin
+Killer in the Rain                        hbc Raymond Chandler       pan
 Murder in Mesopotamia                         Agatha Christie        Harper
 Day of Jackal/Odessa File/Dogs of War         Frederick Forsyth      hutchinson
-The Maltese Falcon                            Dashiell Hammett       Penguin
+The Maltese Falcon                        hbc Dashiell Hammett       Penguin
 Bulldog Drummond                              Sapper                 Hodder
 # True Crime
 Can of Worms II                lost?          Evan Whitton           fairfax
