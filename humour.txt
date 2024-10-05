@@ -16,7 +16,7 @@ Smoking Monkeys,Drilling Rigs,Bio-Diesel Bikes  Paul Carter       AllenUnwin
 Manhood for Amateurs                    lost?   Michael Chabon    FourthEstate
 Chaser Annual  2007: The Other Secret           The Chaser        text
 Male Order (mans style guide)                   Richard Clune     NewHolland
-Making out in Chinese                           Daniels           Yenbooks
+Making out in Chinese                       hbc Daniels           Yenbooks
 fin                                             James Delingpole  Picador
 Shakespeares Star Wars: Verily, A New Hope      Ian Doescher      lucasbooks
 Fanboy                                          Evanier/Aragones  D C Comics
@@ -24,10 +24,10 @@ Bridge Burning and Other Hobbies                Kitty Flanagan    dontcare R2022
 More Rules for Life                             Kitty Flanagan    dontcare
 Kinky Friedman Crime Club                       Kinky Friedman    faber lost?
 The Fry Chronicles                              Stephen Fry       Penguin
-The Wind in the Willows                         Kenneth Grahame   methuen
+The Wind in the Willows                     hbc Kenneth Grahame   methuen
 Helene Hanff Omnibus                            Helene Hanff      warner
 The Complete Polysyllabic Spree                 Nick Hornby       viking
-The 158-Pound Marriage                          John Irving       dontcare
+The 158-Pound Marriage                      hbc John Irving       dontcare
 The Fourth Hand                                 John Irving       dontcare
 Sweet Sweet Revenge Ltd                         Jonas Jonasson    harpervia
 Fairway to Hell                      lost?      Carl Hiaasen      Bantam
@@ -38,14 +38,14 @@ Always look on the bright side of life          Eric Idle         W&N
 The Greedy Bastard Diary                        Eric Idle         W&N
 Crazy Rich Asians                               Kevin Kwan        AllenUnwin
 How to sound cultured                           Hodkingson        icon
-The Phantom Tollbooth                           Norton Juster     Lions
+The Phantom Tollbooth                      hbc  Norton Juster     Lions
 Stuff White People Like                         Christian Lander  HardieGrant
 Whiter Shades of Pale                           Christian Lander  hardieGrant
-Land of Green Ginger                            Noel Langley      Puffin
+Land of Green Ginger                       hbc  Noel Langley      Puffin
 Selected Works of T.S. Spivet                   Reif Larsen       HarvillSecker
 Short History of Tractors in Ukranian           Monica Lewycka    Penguin
 The Carnal Prayer Mat                           Li Yu             Wordsworth
-Last Chronicles of Ballyfungus                  Mary Manning      corg
+Last Chronicles of Ballyfungus             hbc  Mary Manning      corg
 Born standing up                                Steve Martin      pocket
 The Looney                                      Spike Milligan    penguin
 The Lost Goon Shows                             Spike Milligan    robson
