@@ -10,6 +10,7 @@ Antifragile                                  Taleb             Penguin
 Antwerp                                      Pye               Penguin
 The Ascent of Money                          Ferguson          Penguin
 Atoms and Ashes                              Plokhy            Penguin
+Baghdad                                      Justin Marozzi    Penguin
 Be Like the Fox                              Benner            Penguin
 A Beautiful Question                         Wilczek           Penguin
 The Bed of Procrustes                        Taleb             Penguin
@@ -34,6 +35,7 @@ The Candy Machine                            Feiling           Penguin
 Cat Sense                                    Bradshaw          Penguin
 A Certain Idea of France                     Jackson           Penguin
 Chernobyl                                    Plokhy            Penguin
+The Children of Ash and Elm                  Neil Price        Penguin
 China's War with Japan                       Mitter            Penguin
 Chopin's Piano                               Kildea            Penguin
 Churchill                                    Roberts           Penguin
@@ -50,6 +52,7 @@ The Descent of Man                           Perry             Penguin R2023
 Dial M for Murdoch                           Watson/Hickman    Penguin R2020
 Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
+Don't touch my hair                          Emma Dabiri       Penguin
 The Dream of Enlightenment                   Anthony Gottlieb  Penguin
 The Drunkard's Walk                          Milodinow         Penguin
 The Egyptians                                Shenker           Penguin
