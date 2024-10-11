@@ -132,7 +132,9 @@ Pogue's Basics                               David Pogue          Flatiron
 Present Shock                                Douglas Rushkoff     current
 Privacy is Power                             Carissa Veliz        Penguin
 Qanon and On                                 Van Badham           hardiegrant
+Quantum Computing                            Amit Katwala         wired
 Quitter                                      Jon Acuff            Lampo
+Radical Technologies                         Adam Greenfield      Verso
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
@@ -153,6 +155,7 @@ The Startup Way                              Eric Ries            portfolio
 Stolen Focus                                 Johann Hari          bloomsbury
 Takedown                                     Tsutomu Shimomura    SeckerWarburg
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
+Tech Monopolies: Short rant addicitve design Jon Barnes           self
 TED Talks                                    Chris Anderson       nicBrealey
 TEDX Sydney                                  TedX                 TedX
 This Machine Kills Secrets (Wikileaks)       Andy Greenberg       Plume
