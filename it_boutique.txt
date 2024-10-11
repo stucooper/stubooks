@@ -14,6 +14,7 @@ Codebreaking A Practical Guide               Dunin/Schmeh         Robinson
 Coding projects in Python                    various              DK
 Common Lisp: The Language 2e                 Guy Steele      mtb  DigialPress
 Cracking the Coding Interview 6e             MvDowell             CareerCup
+Create your own website using Wordpress      Allanah Moore        ilex
 Database Management Systems 2e               Ramakrishnan/Gehrke  McGrawHill
 Database Systems 5e                          Conolly/Begg         Pearson
 Database Systems Concepts                    Silberschatz/Korth   McGrawHill
