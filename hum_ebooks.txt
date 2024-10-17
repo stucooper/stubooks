@@ -674,19 +674,23 @@ The Maxx: Maxximized, Vol. 7
 Memes in Digital Culture (mitp)
 Metadata (mitp)
 Metaprogramming Elixir (pragm)
-Metasploit: A Penetration Tester's Guide
+Metasploit: A Penetration Tester's Guide (nostarch)
 Metric Learning (MandC)
 Microservices: Up and Running (ora)
-Mind Hacks
-Mindful Design
-Minecraft Modding with Forge
+Mind Hacks (ora)
+Mindful Design (Springer/Apress)
+Minecraft Modding with Forge (ora)
 Migrating to MariaDB (Springer/Apress)
 Missing README (nostarch)
-Mission Python
+Mission Python (nostarch)
 MIT Press Essential Knowledge Series
-Mobile App Development with Ionic
+Mobile App Development with Ionic (ora)
 Mobile Crowd Sensing
-Modern Big Data Processing with Hadoop
+Modern Asynchronous Javascript (pragm)
+Modern Big Data Processing with Hadoop (packt)
+Modern CSS with Tailwind (pragm)
+Modern Fortran (manning)
+Modern Front-End Development with Rails (pragm)
 Modern Python Cookbook (packt)
 Modern Software Engineering (pearson)
 Modern Systems Programming with Scala Native (pragm)
