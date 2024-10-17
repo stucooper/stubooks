@@ -804,24 +804,26 @@ Programming Elm (pragm)
 Programming Kotlin (pragm)
 Programming Machine Learning (pragm)
 Programming ML.NET (pearson)
-Programming Perl 4e
+Programming Perl 4e (ora)
 Programming Phoenix >= 1.4 (pragm)
 Programming PHP 4e (ora)
-Programming Quantum Computers
-Programming Rust
-Programming Scala 2e
+Programming Quantum Computers (ora)
+Programming Rust (ora)
+Programming Scala 2e (ora)
 Programming TypeScript (ora)
-Programming Voice Interfaces
+Programming Voice Interfaces (ora)
 Progressive Web Apps with Preact
+Programming Web Assembly with Rust (pragm)
 Property-Based testing with Proper Erlang and Elixir (pragm)
-Prometheus: Up and Running
-Puppet 5 Beginner's Guide
-Python Algorithmic Trading Cookbook
-Python Automation Cookbook
+Prometheus: Up and Running (ora)
+Puppet 5 Beginner's Guide (packt)
+Puppet Best Practices (ora)
+Python Algorithmic Trading Cookbook (packt)
+Python Automation Cookbook (packt)
 Python Concuccency with asyncio (manning)
-Python Cookbook
-Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming
-Python Crash Course: A Hands-On, Project-Based Introduction to Programming
+Python Cookbook (ora)
+Python Crash Course 2e (nostarch)
+Python Crash Course (nostarch)
 Python Data Analysis
 Python Data Cleaning Cookbook (packt)
 Python Data Science Essentials
@@ -846,26 +848,28 @@ Ragnarok, Vol. 1: Last God Standing
 Raspberry Pi Cookbook
 Raspberry Pi Hacks
 Ray Tracing from the Ground Up
-React Native Cookbook
-Real World Haskell
-Realm of Racket: Learn to Program, One Game at a Time! (nostarch)
+React Cookbook (ora)
+React Native Cookbook (ora)
+Real World Haskell (ora)
+Realm of Racket (nostarch)
 Real-Time Phoenix (pragm)
 Real-Time Shadows
 Real-Time Volume Graphics
-Real-World Software Development
+Real-World Bug Hunting (nostarch)
+Real-World Software Development (ora)
 The Recursive Book of Recursion (nostarch)
-Red Hat Enterprise Linux 6 Administration: Real World Skills for Red Hat Administrators
-Refactoring JavaScript
-Regular Expressions Cookbook
+Red Hat Enterprise Linux 6 Administration (wiley)
+Refactoring JavaScript (ora)
 Regular Expression Puzzles and AI Coding Assistants (manning)
-Remaining Relevant in Your Tech Career
+Regular Expressions Cookbook (ora)
+Remaining Relevant in Your Tech Career (Springer/Apress)
 ReMaking History, Vol. 2
 ReMaking History, Vol. 3
 Responsible AI (pearson)
 Responsive Security
-RESTful Java with JAX-RS 2.0
-Retro Gaming Hacks
-Revolution in the Valley
+RESTful Java with JAX-RS 2.0 (ora)
+Retro Gaming Hacks (ora)
+Revolution in the Valley (ora)
 Richard Stark's Parker: Slayground
 Richard Stark's Parker: The Hunter
 Richard Stark's Parker: The Outfit
@@ -888,24 +892,25 @@ Scala Cookbook 2e (ora)
 Scaling Python with Ray (ora)
 The Sciences of the Artifical (mitp)
 Secret Life of Programs (nostarch)
-Secrets and Lies: Digital Security in a Networked World, 15th Anniversary Edition (Wiley)
+Secrets and Lies (Wiley)
 Security De-Engineering
 Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
 Security Strategy
 Security without Obscurity: FAQ (crc)
 sed & awk, 2nd Edition (ora)
-Seeking SRE
+Seeking SRE (ora)
 Self-Service Data Roadmap (ora)
 Self-Tracking (mitp)
 Secrets of a Cyber Security Architect (crc)
 Sentient Analysis and Opinion Mining (MandC)
-Serious Python
+Serious Python (nostarch)
 Serverless as a Game Changer (pearson)
 Seven Concurrency Models in Seven Weeks (pragm)
 Seven Databases in Seven Weeks 2e (pragm)
-Shell Scripting: Expert Recipes for Linux, Bash, and more
-The Shellcoder's Handbook: Discovering and Exploiting Security Holes, 2nd Edition (Wiley)
-The Site Reliability Workbook
+Seven More Languages in Seven Weeks (pragm)
+Shell Scripting: Expert Recipes for Linux, Bash, and more (wiley)
+The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2e (wiley)
+The Site Reliability Workbook (ora)
 Skills of a Successful Software Engineer (manning)
 Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
 Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
