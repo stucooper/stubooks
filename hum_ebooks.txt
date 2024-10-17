@@ -763,17 +763,18 @@ Practical Machine Learning: A New Look at Anomaly Detection
 Practical Machine Learning: Innovations in Recommendation
 Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI
 Practical Microservices (pragm)
-Practical Monitoring
-Practical Network Automation
+Practical Monitoring (ora)
+Practical Network Automation (packt)
 Practical Object-Oriented Design (pearson)
-Practical Packet Analysis
+Practical Packet Analysis (nostarch)
 Practical Python Programming for IoT (packt)
+Practical Recommender Services (manning)
 Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
 Practical SQL 2e: A Beginner’s Guide to Storytelling with Data (nostarch)
-Practical Statistics for Data Scientists
+Practical Statistics for Data Scientists (ora)
 Practical Synthetic Data Generation (ora)
-Practical System Programming with C
-Practical Tableau
+Practical System Programming with C (Springer/Apress)
+Practical Tableau (ora)
 Practical Vulnerability Management (nostarch)
 Practices of the Python Pro (manning)
 Pragmatic AI (pearson)
