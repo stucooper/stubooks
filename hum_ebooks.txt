@@ -659,7 +659,7 @@ Mastering Blockchain
 Mastering Docker
 Mastering Kubernetes
 Mastering Modular JavaScript (ora)
-Mastering MongoDB 3.x
+Mastering MongoDB 3.x (packt)
 Mastering Python Networking (packt)
 Mastering Spark with R (ora)
 Math Adventures with Python
@@ -692,8 +692,8 @@ Modern Software Engineering (pearson)
 Modern Systems Programming with Scala Native (pragm)
 Modernizing Enterprise Java (ora)
 Monitoring Microservices and Containerized Applications (Springer/Apress)
-MongoDB: The Definitive Guide 3e
-MongoDB Cookbook
+MongoDB: The Definitive Guide 3e (ora)
+MongoDB Cookbook (packt)
 Monolith to Microservices (ora)
 MOOCs (mitp)
 Moving Hadoop to the Cloud
