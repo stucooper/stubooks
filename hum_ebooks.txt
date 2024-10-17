@@ -652,18 +652,18 @@ The Manga Guide to Electricity (nostarch)
 The Manga Guide to Physics (nostarch)
 Machine Learning in Production (pearson)
 Machine Learning Pocket Reference (ora)
-Mastering Ansible
-Mastering Apache Spark 2.x
+Mastering Ansible (packt)
+Mastering Apache Spark 2.x (packt)
 Mastering API Architecture (ora)
-Mastering Blockchain
-Mastering Docker
-Mastering Kubernetes
+Mastering Blockchain (packt)
+Mastering Docker (packt)
+Mastering Kubernetes (packt)
 Mastering Modular JavaScript (ora)
 Mastering MongoDB 3.x (packt)
 Mastering Python Networking (packt)
 Mastering Spark with R (ora)
 Math Adventures with Python
-Maven: The Definitive Guide
+Maven: The Definitive Guide (ora)
 The Maxx: Maxximized, Vol. 1
 The Maxx: Maxximized, Vol. 2
 The Maxx: Maxximized, Vol. 3
