@@ -962,10 +962,10 @@ Technology Strategy Patterns
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
 Terraform Up and Running 3e (ora)
-Test Processing with Ruby (pragm)
 Test-Driven Development with Python
 Testing in Scala
 Testing Elixir (pragm)
+Text Processing with Ruby (pragm)
 Think Bayes: Bayesian Statistics in Python
 Think Java
 Think Julia
