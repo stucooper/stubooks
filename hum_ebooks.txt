@@ -954,11 +954,11 @@ Supply Chain Risk Management
 Surviving Orbit the DIY Way
 Sustainability (mitp)
 SVG Animations
-The TCP/IP Guide: A Comprehensive, Illustrated Internet Protocols Reference
+The TCP/IP Guide: A Comprehensive, Illustrated IP Reference (nostarch)
 TCP/IP Network Administration, 3rd Edition (ora)
-Teach Your Kids to Code
+Teach Your Kids to Code (nostarch)
 The Technological Singularity (mitp)
-Technology Strategy Patterns
+Technology Strategy Patterns (ora)
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
 Terraform Up and Running 3e (ora)
