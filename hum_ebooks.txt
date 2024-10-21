@@ -878,7 +878,8 @@ Righting Software (pearson)
 Robot Sex: Social and ethical implications (mitp)
 Robots (mitp)
 Robust Python (ora)
-Rot and Ruin: Warrior Smart
+Rootkits and Bootkits (nostarch)
+Rot and Ruin: Warrior Smart (idw)
 Ruby Under a Microscope (nostarch)
 Ruby Wizardry: An Introduction to Programming for Kids (nostarch)
 Rules of Play (mitp)
@@ -888,21 +889,24 @@ Rust In Action (manning)
 Rust Programming Language 2e (nostarch)
 Rust Servers, Services, and Apps (manning)
 Sampler
+Scala Cookbook (ora)
 Scala Cookbook 2e (ora)
 Scaling Python with Ray (ora)
 The Sciences of the Artifical (mitp)
 Secret Life of Programs (nostarch)
 Secrets and Lies (Wiley)
-Security De-Engineering
-Security Engineering: A Guide to Building Dependable Distributed Systems, 2nd Edition
-Security Strategy
+Secrets of a Cybersecurity Architect (crc)
+Security De-Engineering (crc)
+Security Engineering 2e (wiley)
+Security Strategy (crc)
 Security without Obscurity: FAQ (crc)
-sed & awk, 2nd Edition (ora)
+sed & awk 2e (ora)
+sed & awk pocket reference 2e (ora)
 Seeking SRE (ora)
 Self-Service Data Roadmap (ora)
 Self-Tracking (mitp)
-Secrets of a Cyber Security Architect (crc)
 Sentient Analysis and Opinion Mining (MandC)
+Serious Cryptography (nostarch)
 Serious Python (nostarch)
 Serverless as a Game Changer (pearson)
 Seven Concurrency Models in Seven Weeks (pragm)
@@ -912,38 +916,42 @@ Shell Scripting: Expert Recipes for Linux, Bash, and more (wiley)
 The Shellcoder's Handbook: Discovering and Exploiting Security Holes 2e (wiley)
 The Site Reliability Workbook (ora)
 Skills of a Successful Software Engineer (manning)
-Smart Girl's Guide to Privacy: Practical Tips for Staying Safe Online
+Smart Girl's Guide to Privacy (nostarch)
 Snip,Burn,Solder,Shred: Seriously Geeky Stuff to Make with Your Kids (nostarch)
-Social Engineering: The Art of Human Hacking
 Social Engineering: Hacking Systems, Nations and Societies (crc)
-Social Media Warfare
+Social Engineering: The Art of Human Hacking (wiley)
+Social Engineering: The Science of Human Hacking (wiley)
+Social Media Warfare (crc)
 The Software Architecture Elevator (ora)
 Software Architecture in Practice (pearson)
 Software Architecture Metrics (ora)
 Software Architecture: The Hard Parts (ora)
 Software Mistakes and Tradeoffs: Make good programming decisions (manning)
 Software Requirements Essentials (pearson)
-Solidity Programming Essentials
-Spark: The Definitive Guide
-Splunk Essentials
+Software Testing (mercury)
+Solidity Programming Essentials (packt)
+Spark: The Definitive Guide (ora)
+Spectral Feature Selection (taylor)
+Splunk Essentials (packt)
 SQL Antipatterns Volume 1 (pragm)
-SQL Cookbook
-SQL Hacks
+SQL Cookbook (ora)
+SQL Hacks (ora)
 SQL in a Nutshell 4e (ora)
 SQL Pocket Guide (ora)
-The Squidder
-SSH: The Definitive Guide 2e
+The Squidder (idw)
+SRE with Java Microservices (ora)
+SSH: The Definitive Guide 2e (ora)
 Statistical Relationship AI: Logic, Probability and Computation (MandC)
 Statistics and Calculus with Python Workshop (packt)
-Statistics Done Wrong: The Woefully Complete Guide
-Statistics for Data Science
-Statistics Hacks
+Statistics Done Wrong: The Woefully Complete Guide (nostarch)
+Statistics for Data Science (packt)
+Statistics Hacks (ora)
 Steampunk LEGO (nostarch)
 Strange Code (nostarch)
 Strategic Monoliths and Microservices (pearson)
 Stream Processing with Apache Flink (ora)
 Stream Processing with Apache Spark (ora)
-Streaming Systems
+Streaming Systems (ora)
 Street Coder: The rules to break (manning)
 Strengthening Deep Neural Networks (ora)
 The Stuff Games are made of (mitp)
