@@ -437,56 +437,59 @@ How to Use a Breadboard! (ora/makemag)
 HTML5 Hacks (ora)
 Human Computation (MandC)
 I Am Error: The Nintendo Family Computer / Entertainment System Platform (mitp)
-The IDA Pro Book
-IDW Insider (Preview)
+The IDA Pro Book (nostarch)
+IDW Insider Preview (idw)
 If Hemingway Wrote JavaScript (nostarch)
 Illustrated Guide to Astronomical Wonders (ora)
 Illustrated Guide to Home Biology Experiments (ora)
 Illustrated Guide to Home Chemistry Experiments (ora)
 Illustrated Guide to Home Forensic Science Experiments (ora)
-Illustrated Guide to Learning Python 3
-Implementing Cybersecurity
-Implementing Reproducable Research
+Illustrated Guide to Learning Python 3 (hairysun.com)
+Implementing Cybersecurity (crc)
+Implementing Reproducable Research (crc)
 Implementing Service Level Objectives (ora)
 Impractical Python Projects (nostarch)
-An In-Depth Guide to Mobile Device Forensics (crc)
 Incredible LEGO Technic: Cars, Trucks, Robots & More! (nostarch)
-The Infinite Loop
+An In-Depth Guide to Mobile Device Forensics (crc) lost??
+The Infinite Loop (idw)
 The Infinite Playground (mitp)
 Information and Society (mitp)
-Information Doesn't Want To Be Free
-Information Security Fundamentals
+Information Doesn't Want To Be Free (doctorow)
+Information Security Fundamentals (crc)
 Inside Cyber Warfare 3e (ora)
 The Insider Threat (crc)
 Intellectual Property Strategy (mitp)
 Intelligence-Driven Incident Response 2e (ora)
-Interaction Design for 3D User Interfaces: The World of Modern Input Devices for Research, Applications, and Game Development
+Interaction Design for 3D User Interfaces (crc)
 Interactive Data Visualization for the Web (ora)
 The Internet of Things (mitp)
-Internet of Things, Threats, Landscape, and Countermeasures (crc)
-Internet of Things Security (crc)
+Internet of Things, Threats, Landscape, and Countermeasures (crc) lost?
+Internet of Things Security (crc) lost?
+Intro 3D Game Programming DX12 (crc)
 Introducing Data Science (manning)
 Introducing Elixir (ora)
 Introducing Erlang (ora)
-Introducing Ethereum and Solidity
+Introducing Ethereum and Solidity (springer/apress)
 Introducing Go (ora)
-Introducing Linux Distros
+Introducing Linux Distros (springer/apress)
 Introducing Machine Learning (pearson)
 Introducing Python (ora)
 Introducting ZFS on Linux (Springer/Apress)
 Introduction to Computer Organization (nostarch)
+Introduction to High-Dimensional Statistics (crc)
 Introduction to Intelligent Systmes in Traffic and Transportation (MandC)
 Introduction to Machine Learning with Python (ora)
 Introduction to Semi-Supervised Learning (MandC)
-Intrusion Detection and Prevention for Mobile Ecosystems
-Intrusion Detection Networks
-Invent Your Own Computer Games with Python
-iOS Application Security
+Intrusion Detection and Prevention for Mobile Ecosystems (taylor)
+Intrusion Detection Networks (taylor)
+Intuitive Python (pragm)
+Invent Your Own Computer Games with Python (nostarch)
+iOS Application Security (nostarch)
 IRC Hacks (ora)
-Iris Biometric Model for Secured Network Access
+Iris Biometric Model for Secured Network Access (nostarch)
 Java 8 Lambdas (ora)
 Java Cookbook (ora)
-Java for Data Science
+Java for Data Science (packt)
 Java Generics and Collections (ora)
 Java in a Nutshell (ora)
 Java in a Nutshell 7e (ora)
