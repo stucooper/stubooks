@@ -958,10 +958,10 @@ The Stuff Games are made of (mitp)
 Succeeding with AI (manning)
 Super Meat Boy
 Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
-Supply Chain Risk Management
-Surviving Orbit the DIY Way
+Supply Chain Risk Management (taylor)
+Surviving Orbit the DIY Way (ora)
 Sustainability (mitp)
-SVG Animations
+SVG Animations (ora)
 The TCP/IP Guide: A Comprehensive, Illustrated IP Reference (nostarch)
 TCP/IP Network Administration, 3rd Edition (ora)
 Teach Your Kids to Code (nostarch)
