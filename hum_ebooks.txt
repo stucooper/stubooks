@@ -970,26 +970,28 @@ Technology Strategy Patterns (ora)
 Ten Steps to Linux Survival (ora)
 TensorFlow For Machine Intelligence
 Terraform Up and Running 3e (ora)
-Test-Driven Development with Python
-Testing in Scala
+Test-Driven Development with Python (ora)
+Test-Driven React (pragm)
 Testing Elixir (pragm)
+Testing in Scala (ora)
+Testing R Code (taylor)
+Text Mining and Visualisation (taylor)
 Text Processing with Ruby (pragm)
-Think Bayes: Bayesian Statistics in Python
-Think Java
-Think Julia
+Think Bayes: Bayesian Statistics in Python (ora)
+Think Java (ora)
+Think Julia (ora)
 Think Like a Programmer: An Introduction to Creative Problem Solving (nostarch)
-Think Stats, 2e: Exploratory Data Analysis
-Thoughtful Machine Learning with Python
-Threat Level Red
+Think Stats, 2e: Exploratory Data Analysis (ora)
+Thoughtful Machine Learning with Python (ora)
+Threat Level Red (taylor)
 Threat Modeling: Designing for Security (Wiley)
-Three Months of Mapt Pro for $30 Coupon
-Thriving in the Gig Economy
-Time Series Databases: New Ways to Store and Access Data
-Tokenomics
+Thriving in the Gig Economy (Springer/Apress)
+Time Series Databases: New Ways to Store and Access Data (ora)
+Tokenomics (packt)
 Treacherous Play (mitp)
-Truffle Quick Start Guide
+Truffle Quick Start Guide (packt)
 The Turing Test: Verbal Behaviour as Hallmark of Intelligence (mitp)
-Ubuntu Linux Toolbox: 1000+ Commands for Power Users
+Ubuntu Linux Toolbox: 1000+ Commands for Power Users (wiley)
 Ultimate Guide to Desktop Fabrication 2017: Vol. 54 
 Ultra-Realistic Imaging
 Unauthorised Access: Physical Penetration Testing For IT Security Teams
