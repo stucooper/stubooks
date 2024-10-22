@@ -500,38 +500,38 @@ Java Pocket Guide (ora)
 Java Threads (ora)
 Java Web Services: Up and Running (ora)
 JavaScript: The Good Parts (ora)
-JavaScript: The Definitive Guide 6e
+JavaScript: The Definitive Guide 6e (ora)
 JavaScript Cookbook (ora)
 JavaScript for Kids (nostarch)
 Jenkins 2: Up and Running (ora)
 Jenkins: The Definitive Guide (ora)
-Joe Hill's The Cape
-Joe Hill's The Cape: 1969
+Joe Hill's The Cape (idw)
+Joe Hill's The Cape: 1969 (idw)
 JSON at Work (ora)
-Jumpstart Tableau
+Jumpstart Tableau (springer/apress)
 Jumpstarting the Arduino 101 (ora/makemag)
 Jumpstarting the Raspberry Pi Zero W (ora/makemag)
 Kafka: The Definitive Guide (ora)
-Kill Shakespeare, Vol. 4: The Mask of Night
-Kill Shakespeare Volume 1
-Kill Shakespeare Volume 2
-Kill Shakespeare Volume 3
+Kill Shakespeare, Vol. 4: The Mask of Night (idw)
+Kill Shakespeare Volume 1 (idw)
+Kill Shakespeare Volume 2 (idw)
+Kill Shakespeare Volume 3 (idw)
 Kinect Hacks (ora/makemag)
-Kong: Becoming a King of API Gateways
+Kong: Becoming a King of API Gateways (bleeding)
 Kubernetes (Springer/Apress)
 Kubernetes Best Practices (ora)
 Kubernetes Operators (ora)
 Kubernetes: Up and Running (ora)
 Kubernetes: Up and Running 3e (ora)
 Land of Lisp: Learn to Program in Lisp, One Game at a Time! (nostarch)
-The Last Fall
+The Last Fall (idw)
 Lauren Ipsum (nostarch)
 Laws of UX (ora)
-Leading Creative Teams
+Leading Creative Teams (springer/apress)
 Learn AI-Assisted Python Programming (manning)
-Learn Bitcoin and Blockchain
-Learn Blockchain Programming with JavaScript
-Learn DevOps (pearson)
+Learn Bitcoin and Blockchain (packt)
+Learn Blockchain Programming with JavaScript (packt)
+Learn DevOps (pearson) lost?
 Learn Functional Programming with Elixir (pragm)
 Learn Physics with Functional Programming (nostarch)
 Learn Quantum Computing with Python and IBM Quantum Experience (packt)
@@ -546,7 +546,7 @@ Learning Dapr (ora)
 Learning Deep Learning (pearson)
 Learning DevSecOps (ora)
 Learning Domain-Driven Design (ora)
-Learning Elastic Stack 6.0
+Learning Elastic Stack 6.0 (packt)
 Learning Git (ora)
 Learning GitHub Actions (ora)
 Learning GNU Emacs, 3rd Edition (ora)
