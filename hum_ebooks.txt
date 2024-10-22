@@ -386,15 +386,17 @@ Grokking Deep Learning (manning)
 Hacker Bundle 2016 PDF Sampler
 Hacker Culture A to Z (ora)
 Hackers and Painters (ora)
-Hacking: The Art of Exploitation, 2nd Edition
-Hadoop Real-World Solutions Cookbook
-Hadoop: The Definitive Guide, 4e: Storage and Analysis at Internet Scale (ora)
-Half Past Danger
-Hands-On Bitcoin Programming with Python
-Hands-On Blockchain for Python Developers
-Hands-On Blockchain with Hyperledger
+Hacking: The Art of Exploitation 2e (nostarch)
+Hadoop Real-World Solutions Cookbook (packt)
+Hadoop: The Definitive Guide 4e (ora)
+Half Past Danger (idw)
+Hands-On Bitcoin Programming with Python (packt)
+Hands-On Blockchain for Python Developers (packt)
+Hands-On Blockchain with Hyperledger (packt)
 Hands-On Booting (Springer/Apress)
-Hands-On Cybersecurity with Blockchain
+Hands-On Chatbot Development w Alexa Skills (packt)
+Hands-On Chatbots and Conversational UI Development (packt)
+Hands-On Cybersecurity with Blockchain (packt)
 Hands-On Exploratory Data Analysis with Python (packt)
 Hands-On Genetic Algorithms with Python (packt)
 Hands-On Intro to Game Programming
