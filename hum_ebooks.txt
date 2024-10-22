@@ -545,7 +545,7 @@ Learn You A Haskell for Great Good! (nostarch)
 Learn You Some Erlang for Great Good! (nostarch)
 Learning Apache Drill (ora)
 Learning Apache OpenWhisk (ora)
-Learning Continuous Integration with Jenkins
+Learning Continuous Integration with Jenkins (packt)
 Learning CoreDNS (ora)
 Learning Dapr (ora)
 Learning Deep Learning (pearson)
@@ -556,7 +556,7 @@ Learning Git (ora)
 Learning GitHub Actions (ora)
 Learning GNU Emacs, 3rd Edition (ora)
 Learning GraphQL (ora)
-Learning Hadoop 2
+Learning Hadoop 2 (packt)
 Learning Helm (ora)
 Learning HTTP/2 (ora)
 Learning in Embedded Systems (mitp)
@@ -564,112 +564,114 @@ Learning Java (ora)
 Learning JavaScript (ora)
 Learning Kali Linux (ora)
 Learning Modern Linux (ora)
-Learning Perl 7e
+Learning Perl 7e (ora)
 Learning PHP, MySQL & JavaScript 5e (ora)
 Learning PHP, MySQL & JavaScript 6e (ora)
 Learning React Native (ora)
 Learning React1 (ora)
 Learning Scala (ora)
 Learning Spark: Lightning-Fast Big Data Analysis (ora)
-Learning SQL 3e
+Learning SQL 3e (ora)
 Learning TensorFlow, 1e (ora)
-Learning Typescript (ora)
 Learning the bash Shell, 3rd Edition (ora)
 Learning the vi and Vim Editors, 7th Edition (ora)
-Learning Unix for OS X, 2nd Edition (ora)
-The LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More! (nostarch)
+Learning Typescript (ora)
+Learning Unix for OS X 2e (ora)
+LEGO Adventure Book, Vol. 1: Cars, Castles, Dinosaurs & More! (nostarch)
 LEGO Build-It Book, Vol. 1: Amazing Vehicles (nostarch)
-The LEGO Neighborhood Book: Build Your Own Town! (nostarch)
+LEGO Neighborhood Book: Build Your Own Town! (nostarch)
 LEGO Space: Building the Future (nostarch)
 lex and yacc, 2nd Edition (ora)
-Liars and Outliers: Enabling the trust that society needs to thrive (Wiley)
+Liars and Outliers (Wiley)
 Lifelong Machine Learning 2e (MandC)
-Linux All-In-One For Dummies
-Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali
-Linux Bible
+Linux All-In-One For Dummies (wiley)
+Linux Basics for Hackers (nostarch)
+Linux Bible (wiley)
 The Linux Command Line 2e (nostarch)
-Linux Command Line and Shell Scripting Bible
+Linux Command Line and Shell Scripting Bible (wiley)
 Linux Containers and Virtualization (Springer/Apress)
-Linux Essentials
+Linux Essentials (wiley)
 Linux Firewalls: Attack Detection and Response (nostarch)
-Linux for Makers
+Linux for Makers (wiley)
+Linux Philosophy for SysAdmins (springer/apress)
 Linux Pocket Guide, 3rd Edition (ora)
 Linux Pocket Guide, 4th Edition (ora)
-Linux Server Security: Hack and Defend
+Linux Server Security: Hack and Defend (wiley)
 Linux Sound Programming (Springer/Apress)
-Little Nemo: Return to Slumberland
-Living Clojure
-Locke and Key: Grindhouse
-Locke & Key: Small World
-Locke and Key: The Guide to Known Keys
-Locke & Key, Vol 1
-Locke & Key, Vol 2
-Locke & Key, Vol 3
-Locke & Key, Vol 4
-Locke & Key, Vol 5
-Locke & Key, Vol 6
-LPIC-1: Linux Professional Institute Certification Study Guide: Exams 101 and 102
-LPIC-2: Linux Professional Institute Certification Study Guide: Exams 201 and 202
-The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
+Little Nemo: Return to Slumberland (idw)
+Living Clojure (ora)
+Locke and Key: Grindhouse (idw)
+Locke & Key: Small World (idw)
+Locke and Key: The Guide to Known Keys (idw)
+Locke & Key, Vol 1 (idw)
+Locke & Key, Vol 2 (idw)
+Locke & Key, Vol 3 (idw)
+Locke & Key, Vol 4 (idw)
+Locke & Key, Vol 5 (idw)
+Locke & Key, Vol 6 (idw)
+LPIC-1: Linux Prof Inst Cert Study Guide: Exams 101 and 102 (wiley)
+LPIC-2: Linux Prof Inst Cert Study Guide: Exams 201 and 202 (wiley)
 Machine Learning and Data Science Blueprints for Finance (ora)
+Machine Learning in Action (manning)
+Machine Learning in Production (pearson)
+Machine Learning Pocket Reference (ora)
 Machine Learning with Python for Everyone (pearson)
+The Machine Question: Critical Perspectives on AI, Robots and Ethics (mitp)
 Machine Translation (mitp)
 Made-Up Minds: Constructivist Approach to AI (mitp)
-Make a Mind-Controlled Arduino Robot
-Make: 21st Century Robot
-Make: A Raspberry Pi-Controlled Robot
-Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi
-Make: Arduino Bots and Gadgets
-Make: AVR Programming
-Make: Basic Arduino Projects
-Make: Bluetooth
-Make: Design for 3D Printing
-Make: DIY Comms and Control for Amateur Space: Talking and Listening to Your Satellite
-Make: Drones
-Make: Edible Inventions
-Make: Electronics, 2nd Edition
-Make: Family Projects for Smart Objects
-Make: Fire
-Make: FPGAs
-Make: Fun!
-Make: Getting Started with Adafruit FLORA
-Make: Getting Started with Adafruit Trinket
-Make: Getting Started with Arduino, 3rd Edition
-Make: Getting Started with CNC
-Make: Getting Started with Raspberry Pi, 3rd Edition
-Make: Inventing a Better Mousetrap 
-Make: Lego and Arduino Projects
-Make: magazine, Volume 38: Everything you need to know about DIY consumer electronics
-Make: Make It Glow
-Make: More Electronics
-Make: Musical Inventions
-Make: Raspberry Pi and AVR Projects
-Make: ReMaking History, Volume 1
-Make: Rockets: Down-to-Earth Rocket Science
-Make: Sensors
-Make: Technology on Your Time Volume 20
-Make: Technology on Your Time Volume 31
-Make: The Annotated Build-It-Yourself Science Laboratory
-Make: The Makerspace Workbench
-Make: Volume 47, Made on Mars
-Make: Volume 50: Power Up
-Make: Volume 52: Virtual Creation
-Make: Wearable Electronics: Design, Prototype, and Wear Your Own Interactive Garments
-Make: Workshop Mastery with Jimmy DiResta
-Make: Zero to Maker: Learn (Just Enough) to Make (Just About) Anything
-Maker Magazine Discount
-Maker Pro
-Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot
-Making Things Smart
+Make a Mind-Controlled Arduino Robot (ora)
+Make: 21st Century Robot (ora/makemag)
+Make: A Raspberry Pi-Controlled Robot (ora/makemag)
+Make: Action: Movement, Light, and Sound with Arduino and Raspberry Pi (ora/makemag)
+Make: Arduino Bots and Gadgets (ora/makemag)
+Make: AVR Programming (ora/makemag)
+Make: Basic Arduino Projects (ora/makemag)
+Make: Bluetooth (ora/makemag)
+Make: Design for 3D Printing (ora/makemag)
+Make: DIY Comms and Control for Amateur Space: Talking and Listening to Your Satellite (ora/makemag)
+Make: Drones (ora/makemag)
+Make: Edible Inventions (ora/makemag)
+Make: Electronics, 2nd Edition (ora/makemag)
+Make: Family Projects for Smart Objects (ora/makemag)
+Make: Fire (ora/makemag)
+Make: FPGAs (ora/makemag)
+Make: Fun! (ora/makemag)
+Make: Getting Started with Adafruit FLORA (ora/makemag)
+Make: Getting Started with Adafruit Trinket (ora/makemag)
+Make: Getting Started with Arduino, 3rd Edition (ora/makemag)
+Make: Getting Started with CNC (ora/makemag)
+Make: Getting Started with Raspberry Pi, 3rd Edition (ora/makemag)
+Make: Inventing a Better Mousetrap  (ora/makemag)
+Make: Lego and Arduino Projects (ora/makemag)
+Make: magazine, Volume 38: Everything you need to know about DIY consumer electronics (ora/makemag)
+Make: Make It Glow (ora/makemag)
+Make: More Electronics (ora/makemag)
+Make: Musical Inventions (ora/makemag)
+Make: Raspberry Pi and AVR Projects (ora/makemag)
+Make: ReMaking History, Volume 1 (ora/makemag)
+Make: Rockets: Down-to-Earth Rocket Science (ora/makemag)
+Make: Sensors (ora/makemag)
+Make: Technology on Your Time Volume 20 (ora/makemag)
+Make: Technology on Your Time Volume 31 (ora/makemag)
+Make: The Annotated Build-It-Yourself Science Laboratory (ora/makemag)
+Make: The Makerspace Workbench (ora/makemag)
+Make: Volume 47, Made on Mars (ora/makemag)
+Make: Volume 50: Power Up (ora/makemag)
+Make: Volume 52: Virtual Creation (ora/makemag)
+Make: Wearable Electronics: Design, Prototype, and Wear Your Own Interactive Garments (ora/makemag)
+Make: Workshop Mastery with Jimmy DiResta (ora/makemag)
+Make: Zero to Maker: Learn (Just Enough) to Make (Just About) Anything (ora/makemag)
+Maker Pro (ora/makemag)
+Making Things See: 3D vision with Kinect, Processing, Arduino, and MakerBot (ora/makemag)
+Making Things Smart (ora/makemag)
 Malware Analyst's Cookbook and DVD: Tools and Techniques for Fighting Malicious Code (Wiley)
 Malware Analyst's Cookbook DVD
-Managing Humans
+Malware Data Science (nostarch)
+Managing Humans (springer/apress)
 Managing Security Services in Heterogeneous Networkes (crc)
 The Manga Guide to Calculus (nostarch)
 The Manga Guide to Electricity (nostarch)
 The Manga Guide to Physics (nostarch)
-Machine Learning in Production (pearson)
-Machine Learning Pocket Reference (ora)
 Mastering Ansible (packt)
 Mastering Apache Spark 2.x (packt)
 Mastering API Architecture (ora)
@@ -680,30 +682,34 @@ Mastering Modular JavaScript (ora)
 Mastering MongoDB 3.x (packt)
 Mastering Python Networking (packt)
 Mastering Spark with R (ora)
-Math Adventures with Python
+Math Adventures with Python (nostarch)
+Math and Architectures of Deep Learning (manning)
+Math for Programmers (manning)
+Mathematics for Computer Graphics (walter)
 Maven: The Definitive Guide (ora)
-The Maxx: Maxximized, Vol. 1
-The Maxx: Maxximized, Vol. 2
-The Maxx: Maxximized, Vol. 3
-The Maxx: Maxximized, Vol. 4
-The Maxx: Maxximized, Vol. 5
-The Maxx: Maxximized, Vol. 6
-The Maxx: Maxximized, Vol. 7
+The Maxx: Maxximized, Vol. 1 (idw)
+The Maxx: Maxximized, Vol. 2 (idw)
+The Maxx: Maxximized, Vol. 3 (idw)
+The Maxx: Maxximized, Vol. 4 (idw)
+The Maxx: Maxximized, Vol. 5 (idw)
+The Maxx: Maxximized, Vol. 6 (idw)
+The Maxx: Maxximized, Vol. 7 (idw)
 Memes in Digital Culture (mitp)
 Metadata (mitp)
 Metaprogramming Elixir (pragm)
 Metasploit: A Penetration Tester's Guide (nostarch)
 Metric Learning (MandC)
 Microservices: Up and Running (ora)
+Microsoft Access 2019 Programming (walter)
+Migrating to AWS: A Manager's Guide (ora)
+Migrating to MariaDB (Springer/Apress)
 Mind Hacks (ora)
 Mindful Design (Springer/Apress)
 Minecraft Modding with Forge (ora)
-Migrating to MariaDB (Springer/Apress)
 Missing README (nostarch)
 Mission Python (nostarch)
-MIT Press Essential Knowledge Series
 Mobile App Development with Ionic (ora)
-Mobile Crowd Sensing
+Mobile Crowd Sensing (taylor)
 Modern Asynchronous Javascript (pragm)
 Modern Big Data Processing with Hadoop (packt)
 Modern CSS with Tailwind (pragm)
