@@ -724,44 +724,45 @@ MongoDB: The Definitive Guide 3e (ora)
 MongoDB Cookbook (packt)
 Monolith to Microservices (ora)
 MOOCs (mitp)
-Moving Hadoop to the Cloud
+Moving Hadoop to the Cloud (ora)
+MS Excel 2019 Programming (walter)
 Multithreaded JavaScript (ora)
-Multithreading for Visual Effects
+Multithreading for Visual Effects (taylor)
 MySQL Crash Course (nostarch)
 Natural Language Processing for Social Media 2e (MandC)
-Natural Language Processing with Python
-Natural Language Processing with PyTorch
-Navigating Hybrid Scrum Environments
-Nest.js: A Progressive Node.js Framework
-Network and Data Security for Non-Engineers
+Natural Language Processing with Python (ora)
+Natural Language Processing with PyTorch (ora)
+Navigating Hybrid Scrum Environments (springer/apress)
+Nest.js: A Progressive Node.js Framework (bleeding)
+Network and Data Security for Non-Engineers (taylor)
 Network Flow Analysis (nostarch)
 Network Programming with Go (nostarch)
 Network Programmability and Automation (ora)
 Network Troubleshooting Tools (ora)
 Neural Network Methods for Natural Language Processing (MandC)
-Nginx: From Beginner to Pro
-Night of 1,000 Wolves
+Nginx: From Beginner to Pro (springer/apress)
+Night of 1,000 Wolves (idw)
 No Starch Sampler
 Norbert Wiener: A Life in Cybernetics (mitp)
-The October Faction, Vol. 1
-The October Faction, Vol. 2
-The October Faction, Vol. 3
-Onyx
+The October Faction, Vol. 1 (idw)
+The October Faction, Vol. 2 (idw)
+The October Faction, Vol. 3 (idw)
 Online Social Networks Security (crc)
+Onyx (idw)
 Open Access (mitp)
 Open Source Intelligence Methods and Tools (Springer/Apress)
-OpenGL Insights
-OpenStack Administration with Ansible 2
+OpenGL Insights (taylor)
+OpenStack Administration with Ansible 2 (packt)
 Pandas Brain Teasers (pragm)
 Paradox (mitp)
-Parallel and Concurrent Programming in Haskell
+Parallel and Concurrent Programming in Haskell (ora)
 Patterns for API Design (pearson)
-Penetration Testing
+Penetration Testing (nostarch)
 Pentesting Azure Applications (nostarch)
-Perl Cookbook
-Perl Hacks
+Perl Cookbook (ora)
+Perl Hacks (ora)
 Perl One-Liners: 130 Programs That Get Things Done (nostarch)
-PHP Cookbook
+PHP Cookbook (ora)
 Play Between Worlds: Exploring Online Game Culture (mitp)
 Play Like a Feminist (mitp)
 Play Matters (mitp)
@@ -769,25 +770,25 @@ Player vs Monster (mitp)
 Playing at a Distance (mitp)
 Playing smart (mitp)
 Policy as Code (ora)
-Postman PRO
 PowerShell for Sysadmins (nostarch)
 Practical Automated Machine Learning on Azure (ora)
 Practical Cloud Security 2e (ora)
 Practical Data Privacy (ora)
-Practical Data Science
-Practical Data Science with SAP (ora)
+Practical Data Science (springer/apress)
+Practical Data Science with SAP (springer/apress)
 Practical Deep Learning for Cloud, Mobile and Edge (ora)
-Practical Forensic Imaging
-Practical Google Analytics and Google Tag Manager for Developers
-Practical gRPC
+Practical Forensic Imaging (nostarch)
+Practical Google Analytics (springer/apress)
+Practical gRPC (bleeding)
 Practical Linux Forensics (nostarch)
 Practical Linux System Administration (ora)
-Practical Linux Topics
-Practical LPIC-1 Linux Certification Study Guide
+Practical Linux Topics (springer/apress)
+Practical LPIC-1 Linux Certification Study Guide (springer/apress)
 Practical LPIC-3 300 (Springer/Apress)
-Practical Machine Learning: A New Look at Anomaly Detection
-Practical Machine Learning: Innovations in Recommendation
-Practical Machine Learning with H20: Powerful, Scalable Techniques for Deep Learning and AI
+Practical Machine Learning: A New Look at Anomaly Detection (ora)
+Practical Machine Learning: Innovations in Recommendation (ora)
+Practical Machine Learning with H20 (ora)
+Practical Malware Analysis (ora)
 Practical Microservices (pragm)
 Practical Monitoring (ora)
 Practical Network Automation (packt)
@@ -795,7 +796,7 @@ Practical Object-Oriented Design (pearson)
 Practical Packet Analysis (nostarch)
 Practical Python Programming for IoT (packt)
 Practical Recommender Services (manning)
-Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation (Wiley)
+Practical Reverse Engineering (Wiley)
 Practical SQL 2e: A Beginner’s Guide to Storytelling with Data (nostarch)
 Practical Statistics for Data Scientists (ora)
 Practical Synthetic Data Generation (ora)
