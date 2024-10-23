@@ -36,7 +36,6 @@ Gamification by Design                        Zichermann          ORA
 The Geek Atlas                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
-Hadoop The Definitive Guide 3e                White               ORA
 Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn Keras TensorFlow Geron   ORA
