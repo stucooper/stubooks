@@ -253,12 +253,12 @@ Deep Learning Cookbook (ora)
 Deep Learning From Scratch (ora)
 Deep Reinforcement Learning with Python (packt)
 The Deep Learning Revolution (mitp)
-Deep Learning in the Browser
+Deep Learning in the Browser (bleeding)
 Deep Learning Illustrated (pearson)
-Defense Against the Black Arts
+Defense Against the Black Arts (taylor)
 Defensive Security Handbook 2e (ora)
 Deploying to OpenShift (ora)
-Deployment with Docker
+Deployment with Docker (packt)
 Design and Build Great Web APIs (pragm)
 Design Patterns for Cloud Native Architectures (ora)
 Designing Distributed Systems (ora)
@@ -270,18 +270,18 @@ Detecting Fake News on Social Media (MandC)
 DDOS Attacks: Classification, Attacks, Challenges and Countermeasures (crc)
 Developer's Dilemma: The Secret World of Videogame Creators (mitp)
 Developer's Playbook for Large Language Model Security (ora)
-Developing a gulp Edge
-Developing a hapi Edge
-Developing a React.js Edge
-Developing an Electron Edge
-DevOps for Networking
+Developing a gulp Edge (bleeding)
+Developing a hapi Edge (bleeding)
+Developing a React.js Edge (bleeding)
+Developing an Electron Edge (bleeding)
+DevOps for Networking (packt)
 DevOps for the Desperate (nostarch)
-DevOps with Kubernetes
-Digital Character Development: Theory and Practice
+DevOps with Kubernetes (packt)
+Digital Character Development: Theory and Practice (taylor)
 Digital Culture, Play, and Identity: A World of Warcraft Reader (mitp)
 The Digial Mind: How Science is Redefining Humanity (mitp)
-Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality
-Disruptive Analytics
+Digital Representations of the Real World: How to Capture, Model, and Render Visual Reality (taylor)
+Disruptive Analytics (springer/apress)
 Distributed Systems with Node.js (ora)
 Distributed Tracing in Practice (ora)
 Dive into Systems (nostarch)
@@ -290,7 +290,7 @@ DIY Instruments for Amateur Space (ora/makemag)
 DIY Satellite Platforms (ora/makemag)
 Django 3 By Example (packt)
 DNS and BIND, 5th Edition (ora)
-Docker and Kubernetes for Java Developers
+Docker and Kubernetes for Java Developers (packt)
 Docker Cookbook (ora)
 Docker Up and Running 3e (ora)
 Doing Data Science: Straight Talk from the Frontline (ora)
@@ -307,7 +307,6 @@ Effective Software Testing: A Developer's Guide (manning)
 Effective Typescript (ora)
 Efficient Go (ora)
 Efficient Linux at the Command Line (ora)
-egghead.io
 Elastic Leadership (manning)
 Elasticsearch: The Definitive Guide (ora)
 The Electric Sublime #1
