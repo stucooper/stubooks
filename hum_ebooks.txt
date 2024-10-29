@@ -125,23 +125,23 @@ Blockchain By Example (packt)
 Blockchain Quick Reference (packt)
 The Book of Audacity (nostarch)
 The Book of F#: Breaking Free with Managed Functional Programming (nostarch)
-The Book of GIMP: A Complete Guide to Nearly Everything
-The Book of GNS3: Build Virtual Network Labs Using Cisco, Juniper, and More
-The Book of Inkscape: The Definitive Guide to the Free Graphics Editor
+The Book of GIMP: A Complete Guide to Nearly Everything (nostarch)
+The Book of GNS3: Build Virtual Network Labs Cisco, Juniper (nostarch)
+The Book of Inkscape (nostarch)
 The Book of Kubernetes (nostarch)
 The Book of PF 3e: A No-Nonsense Guide to the OpenBSD Firewall (nostarch)
-The Book of PoC || GTFO
-The Book of R: A First Course in Programming and Statistics
+The Book of PoC || GTFO (nostarch) lost?
+The Book of R: A First Course in Programming and Statistics (nostarch)
 Bot Factory: Vol. 55 (ora/makemag)
-The Boys Vol. 1: The Name of the Game
-Brutal Nature
+The Boys Vol. 1: The Name of the Game (idw)
+Brutal Nature (idw)
 BSD Hacks (ora)
 Build Your Own Website:A Comic Guide toHTML, CSS, and WordPress (nostarch)
 Build a Binary Clock with Elxir and Nerves (pragm)
 Build a Career in Data Science (manning)
 Build a Weather Station with Elixir and Nerves (pragm)
 Building an Anonymization Pipeline (ora)
-Building Apps with Riot
+Building Apps with Riot (bleeding)
 Building a Cyber Risk Management Program (ora)
 Building Event-Driven Microservices (ora)
 Building Evolutionary Architectures (ora)
@@ -149,21 +149,21 @@ Building Machine Learning Powered Applications (ora)
 Building Micro-Frontends (ora)
 Building Table Views with Phoenix LiveView (pragm)
 C Pocket Reference (ora)
-C Programming Pocket Primer
+C Programming Pocket Primer (walter)
 C# 8.0 Pocket Reference (ora)
 C# 10 in a Nutshell (ora)
 C++ Pocket Reference (ora)
 C++ Crash Course (nostarch)
 C++ Software Design (ora)
-CAPM in Depth
-The Car Hacker's Handbook
+CAPM in Depth (springer/apress)
+The Car Hacker's Handbook (nostarch)
 Car PC Hacks (ora)
 Cassandra: The Definitive Guide, 2e (ora)
 The Cathedral and the Bazaar (ora)
-CEH v9: Certified Ethical Hacker Version 9 Study Guide
-Certified OpenStack Administrator Study Guide
-Chatbots for eCommerce
-The CISO Journey
+CEH v9: Certified Ethical Hacker Version 9 Study Guide (wiley)
+Certified OpenStack Administrator Study Guide (springer/apress)
+Chatbots for eCommerce (bleeding)
+The CISO Journey (taylor)
 Classic Shell Scripting (ora)
 Clojure Cookbook (ora)
 Clojure for the Brave and True (nostarch)
@@ -174,38 +174,39 @@ Cloud Native (ora)
 Cloud Native Go (ora)
 Cloud Native Infrastructure (ora)
 Cloud Native Security Cookbook (ora)
-Code Craft
+Code Craft (nostarch)
 Code Like a Pro in C# (manning)
 Codename Revolution: The Nintendo Wii Platform (mitp)
-Collaborative Cyber Threat Intelligence
-Color Sky
-Comic Book History of Comics
+Collaborative Cyber Threat Intelligence (taylor)
+Color Sky (prunty)
+Comic Book History of Comics (idw)
 Command Line Rust (ora)
 Communicating with Data (ora)
-Communities of Play: Emergent Cultures in Multiplayer Games and Virtual Worlds
+Communities of Play: Emergent Cultures Multiplayer Games Virtual Worlds (mitp)
 Complex Network Analysis in Python (pragm)
-CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202
-CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104
-Computer Security Literacy
+CompTIA Linux+ and LPIC Practice Tests: Exams LX0-103/LPIC-1 101-400, LX0-104/LPIC-1 102-400, LPIC-2 201, and LPIC-2 202 (wiley)
+CompTIA Linux+ Powered by Linux Professional Institute Study Guide: Exams LX0-103 and LX0-104 (wiley)
+Computer Graphics Programming (walter)
+Computer Security Literacy (taylor)
 Computing (mitp)
 Concurrent Data Processing in Elixir (pragm)
 Continuous API Management (ora)
 Continuous Architecture in Practice (pearson)
-Continuous Delivery with Docker and Jenkins
-Cosmic Scoundrels #1
+Continuous Delivery with Docker and Jenkins (packt)
+Cosmic Scoundrels #1 (idw)
 Cost-Effective Data Pipelines (ora)
 Covariances in Computer Vision and Machine Learning (MandC)
-Cracking Codes with Python: An Introduction to Building and Breaking Ciphers
+Cracking Codes with Python: An Intro to Building and Breaking Ciphers (nostarch)
 Craft, GraphQL APIs in Elixir with Absinthe (pragm)
 Creating an Information Security Program from scratch (crc)
 Creating and Using Virtual Prototyping Software (pearson)
 Creating Autonomous Vehicle Systems (MandC)
-Creating Interfaces with Bulma
+Creating Interfaces with Bulma (bleeding)
 Critical Play: Radical Game Design (mitp)
 Cross-Site Scripting Attacks: Classification, Attack and Countermeasures (crc)
 Crowdsourcing (mitp)
-Cryptography Engineering: Design Principles and Practical Applications
-The CS Detective: An Algorithmic Tale of Crime, Conspiracy, and Computation
+Cryptography Engineering: Design Principles and Practical Applications (wiley)
+The CS Detective: An Algorithmic Tale of Crime, Conspiracy (nostarch)
 CSS: The Definitive Guide (ora)
 CSS Cookbook (ora)
 CSS Pocket Reference (ora)
@@ -218,10 +219,10 @@ Cybersecurity Manager's Guide (ora)
 Cybersecurity Ops with bash (ora)
 Cybersecurity Threats, Actors and Dynamic Mitigation (crc)
 CyRM: Mastering the Management of Cybersecurity (crc)
-D4VE, Vol. 1
-D4VE2
-D4VEocracy #1
-Darkness Visible #1
+D4VE, Vol. 1 (idw)
+D4VE2 (idw)
+D4VEocracy #1 (idw)
+Darkness Visible #1 (idw)
 Data Algorithms with Spark (ora)
 Data Analytics for Internal Auditors
 Data Engineering with Python (packt)
