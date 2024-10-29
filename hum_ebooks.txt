@@ -1066,8 +1066,7 @@ Visualizing Streaming Data (ora)
 Voicebot and Chatbot Design (packt)
 Vue.js: Understanding its Tools and Ecosystem (bleeding)
 Vue.js: Up and Running (ora)
-Walkaway by Cory Doctorow, Narrated by Wil Wheaton
-Walling Out the Insiders
+Walling Out the Insiders (taylor)
 Wandering Games (mitp)
 The Warcraft Civilization: Social Science in a Virtual World (mitp)
 We have Root: Even more advice from Schenier on Security (Wiley)
@@ -1084,30 +1083,29 @@ What is Data Engineering [report] (ora)
 Who are you? (mitp)
 Wicked Cool Shell Scripts 2e (nostarch)
 Wicked Cool Ruby Scripts (nostarch)
-Wild Blue Yonder
-Windows PowerShell Cookbook
-Windows Server 2016 Automation with PowerShell Cookbook
-Winterworld
-The Witness
-Woodworking for Young Makers
-Working with Static Sites
+Wild Blue Yonder (idw)
+Windows PowerShell Cookbook (ora)
+Windows PowerShell Pocket Reference (ora)
+Windows Server 2016 Automation with PowerShell Cookbook (ora)
+Winterworld (idw)
+Woodworking for Young Makers (ora/makemag)
+Working with Static Sites (ora)
 Works of Game: On the Aesthetics of Games and Art (mitp)
-The Wraith: Welcome to Christmasland
+The Wraith: Welcome to Christmasland (idw)
 Write Great Code, Volume 1: Understanding the Machine (nostarch)
 Write Great Code, Volume 2: Thinking Low-Level, Writing High-Level (nostarch)
-Wynonna Earp Legends: Doc Holliday #1
-Wynonna Earp Legends: Doc Holliday #2
-Wynonna Earp, Vol. 1: Homecoming
-Yakuza Demon Killers #1
-Yakuza Demon Killers #2
-Yakuza Demon Killers #3
-Yakuza Demon Killers #4
-You Don't Know JS: ES6 & Beyond
-You Don't Know JS: Scope & Closures
-You Don't Know JS: Up & Going
-Your Linux Toolbox
+Wynonna Earp Legends: Doc Holliday #1 (idw)
+Wynonna Earp Legends: Doc Holliday #2 (idw)
+Wynonna Earp, Vol. 1: Homecoming (idw)
+Yakuza Demon Killers #1 (idw)
+Yakuza Demon Killers #2 (idw)
+Yakuza Demon Killers #3 (idw)
+Yakuza Demon Killers #4 (idw)
+You Don't Know JS: ES6 & Beyond (ora)
+You Don't Know JS: Scope & Closures (ora)
+You Don't Know JS: Up & Going (ora)
+Your Linux Toolbox (nostarch)
 Zero to AI (manning)
 Zero trust Networks 2e (ora)
-Zombies vs Robots: Warbook Omnibus
+Zombies vs Robots: Warbook Omnibus (idw)
 Zones of Control (mitp)
-2064: Read Only Memories
