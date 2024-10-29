@@ -854,7 +854,7 @@ Programming Rust (ora)
 Programming Scala 2e (ora)
 Programming TypeScript (ora)
 Programming Voice Interfaces (ora)
-Progressive Web Apps with Preact
+Progressive Web Apps with Preact (bleeding)
 Programming Web Assembly with Rust (pragm)
 Property-Based testing with Proper Erlang and Elixir (pragm)
 Prometheus: Up and Running (ora)
@@ -866,37 +866,37 @@ Python Concuccency with asyncio (manning)
 Python Cookbook (ora)
 Python Crash Course 2e (nostarch)
 Python Crash Course (nostarch)
-Python Data Analysis
+Python Data Analysis (packt)
 Python Data Cleaning Cookbook (packt)
-Python Data Science Essentials
+Python Data Science Essentials (packt)
 Python Feature Engineering Cookbook (packt)
-Python Flash Cards: Syntax, Concepts, and Examples
+Python Flash Cards: Syntax, Concepts, and Examples (nostarch)
 Python for DevOps (ora)
 Python for Kids (nostarch)
 Python for Finance Cookbook (packt)
 Python How-To: 63 techniques improve your Python code (manning)
 Python Image Processing Cookbook (packt)
 Python Playground 2e: Geeky Projects for the Curious Programmer (nostarch)
-Python Tricks: A Buffet of Awesome Python Features
+Python Tricks: A Buffet of Awesome Python Features (bader)
 Python Workshop (packt)
 Pythonic Programming (pragm)
-PyUP
+Quantum Computing in Action (manning)
 Quick Start Guide to Large Language Models (pearson)
-R Cookbook
-R in a Nutshell: A Desktop Quick Reference, 2nd Edition
+R Cookbook (ora)
+R in a Nutshell: A Desktop Quick Reference, 2nd Edition (ora)
 Racing the beam (mitp)
 Racket Programming The Fun Way (nostarch)
-Ragnarok, Vol. 1: Last God Standing
-Raspberry Pi Cookbook
-Raspberry Pi Hacks
-Ray Tracing from the Ground Up
+Ragnarok, Vol. 1: Last God Standing (idw)
+Raspberry Pi Cookbook (ora)
+Raspberry Pi Hacks (ora)
+Ray Tracing from the Ground Up (taylor)
 React Cookbook (ora)
 React Native Cookbook (ora)
 Real World Haskell (ora)
 Realm of Racket (nostarch)
 Real-Time Phoenix (pragm)
-Real-Time Shadows
-Real-Time Volume Graphics
+Real-Time Shadows (taylor)
+Real-Time Volume Graphics (taylor)
 Real-World Bug Hunting (nostarch)
 Real-World Software Development (ora)
 The Recursive Book of Recursion (nostarch)
@@ -905,17 +905,17 @@ Refactoring JavaScript (ora)
 Regular Expression Puzzles and AI Coding Assistants (manning)
 Regular Expressions Cookbook (ora)
 Remaining Relevant in Your Tech Career (Springer/Apress)
-ReMaking History, Vol. 2
-ReMaking History, Vol. 3
+ReMaking History, Vol. 2 (ora/makemag)
+ReMaking History, Vol. 3 (ora/makemag)
 Responsible AI (pearson)
-Responsive Security
+Responsive Security (taylor)
 RESTful Java with JAX-RS 2.0 (ora)
 Retro Gaming Hacks (ora)
 Revolution in the Valley (ora)
-Richard Stark's Parker: Slayground
-Richard Stark's Parker: The Hunter
-Richard Stark's Parker: The Outfit
-Richard Stark's Parker: The Score
+Richard Stark's Parker: Slayground (idw)
+Richard Stark's Parker: The Hunter (idw)
+Richard Stark's Parker: The Outfit (idw)
+Richard Stark's Parker: The Score (idw)
 Righting Software (pearson)
 Robot Sex: Social and ethical implications (mitp)
 Robots (mitp)
