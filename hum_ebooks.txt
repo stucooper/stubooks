@@ -309,10 +309,10 @@ Efficient Go (ora)
 Efficient Linux at the Command Line (ora)
 Elastic Leadership (manning)
 Elasticsearch: The Definitive Guide (ora)
-The Electric Sublime #1
-The Electric Sublime #2
-The Electric Sublime #3
-The Electric Sublime #4
+The Electric Sublime #1 (idw)
+The Electric Sublime #2 (idw)
+The Electric Sublime #3 (idw)
+The Electric Sublime #4 (idw)
 Electricity for Young Makers (ora/makemag)
 Elegant SciPy (ora)
 Eloquent JavaScript, 3e: A Modern Introduction to Programming (nostarch)
