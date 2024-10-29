@@ -324,15 +324,15 @@ Encyclopedia of Electronic Components, Vol. 3  (ora/makemag)
 Engineering Software (nostarch)
 Enterprise Big Data Lake (ora)
 Enterprise Level Security 2: Advanced Techniques IT in Uncertain World (crc)
-Environmental Monitoring with Arduino
-Essential Skills in Character Rigging
+Environmental Monitoring with Arduino (ora)
+Essential Skills in Character Rigging (taylor)
 Essential System Administration, 3rd Edition (ora)
 Essentials of Game Theory: A Concise Multidisciplinary Introduction (MandC)
 Establishing SRE Foundations (pearson)
-Ethereum Cookbook
+Ethereum Cookbook (packt)
 Ethernet: The Definitive Guide 2e (ora)
-Ethical Hacking and Penetration Testing Guide
-Evolving Digital Leadership
+Ethical Hacking and Penetration Testing Guide (taylor)
+Evolving Digital Leadership (springer/apress)
 Excel Hacks 2e (ora)
 Exploring Graphs with Elixir (pragm)
 FastAPI (ora)
@@ -352,9 +352,9 @@ Foundations of Deep Reinforcement Learning (pearson)
 Foundations of Libvirt Development (Springer/Apress)
 Foundations of Scalable Systems (ora)
 Founders at Work (springer/apress)
-Frankenstein Alive, Alive! #1
-Frankenstein Alive, Alive! #2
-Frankenstein Alive, Alive! #3
+Frankenstein Alive, Alive! #1 (idw)
+Frankenstein Alive, Alive! #2 (idw)
+Frankenstein Alive, Alive! #3 (idw)
 FreeBSD Device Drivers: A Guide for the Intrepid (nostarch)
 From Ruby to Elixir (pragm)
 Full Stack Python Security (manning)
@@ -366,7 +366,7 @@ Functional Thinking (ora)
 Functional Web Development with Elixir, OTP and Phoenix (pragm)
 Fundamentals of Software Architecture (ora)
 The Future (mitp)
-Game Hacking
+Game Hacking (nostarch)
 Game Wizards (mitp)
 Gaming Hacks (ora)
 Generative Deep Learning (ora)
