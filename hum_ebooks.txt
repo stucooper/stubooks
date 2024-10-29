@@ -930,7 +930,7 @@ Rust For Rustaceans (nostarch)
 Rust In Action (manning)
 Rust Programming Language 2e (nostarch)
 Rust Servers, Services, and Apps (manning)
-Sampler
+Sampler (nostarch)
 Scala Cookbook (ora)
 Scala Cookbook 2e (ora)
 Scaling Python with Ray (ora)
@@ -1001,7 +1001,6 @@ Street Coder: The rules to break (manning)
 Strengthening Deep Neural Networks (ora)
 The Stuff Games are made of (mitp)
 Succeeding with AI (manning)
-Super Meat Boy
 Super Power, Spoony Bards, and Silverware: The Super Nintendo Entertainment System (mitp)
 Supply Chain Risk Management (taylor)
 Surviving Orbit the DIY Way (ora)
@@ -1013,7 +1012,7 @@ Teach Your Kids to Code (nostarch)
 The Technological Singularity (mitp)
 Technology Strategy Patterns (ora)
 Ten Steps to Linux Survival (ora)
-TensorFlow For Machine Intelligence
+TensorFlow For Machine Intelligence (bleeding)
 Terraform Up and Running 3e (ora)
 Test-Driven Development with Python (ora)
 Test-Driven React (pragm)
@@ -1037,16 +1036,16 @@ Treacherous Play (mitp)
 Truffle Quick Start Guide (packt)
 The Turing Test: Verbal Behaviour as Hallmark of Intelligence (mitp)
 Ubuntu Linux Toolbox: 1000+ Commands for Power Users (wiley)
-Ultimate Guide to Desktop Fabrication 2017: Vol. 54 
-Ultra-Realistic Imaging
-Unauthorised Access: Physical Penetration Testing For IT Security Teams
-Unauthorized Access
+Ultimate Guide to Desktop Fabrication 2017: Vol. 54 (ora/makemag)
+Ultra-Realistic Imaging (taylor)
+Unauthorised Access: Physical Penetration Testing For IT Security Teams (ora)
+Unauthorized Access (taylor)
 Unboxed (mitp)
-The Uncanny Valley in Games and Animation
+The Uncanny Valley in Games and Animation (taylor)
 Uncertainty in Games (mitp)
 Understanding Intelligence (mitp)
 Understanding the Machine (nostarch)
-Understanding the New European Data Protection Rules
+Understanding the New European Data Protection Rules (taylor)
 Understanding Software Dynamics (pearson)
 Unity in Action (manning)
 Unix in a Nutshell, 4th Edition (ora)
@@ -1054,17 +1053,18 @@ Unix Power Tools (ora)
 Using and Administering Linux: Volume 1 (Springer/Apress)
 Using and Administering Linux: Volume 2 (Springer/Apress)
 Using and Administering Linux: Volume 3 (Springer/Apress)
-Using Asyncio in Python
-Using SVG with CSS3 and HTML5
-UX Fundamentals for Non-UX Professionals
+Using Asyncio in Python (ora)
+Using SVG with CSS3 and HTML5 (ora)
+UX Fundamentals for Non-UX Professionals (springer/apress)
 Values at Play in Digital Games (mitp)
-Vi and Vim Editors: Pocket Reference
+Vi and Vim Editors: Pocket Reference (ora)
 The Videogame Industry does not exist (mitp)
-Vintage Tomorrows
+Vintage Tomorrows (ora)
 Virtual Economies (mitp)
 Virtual Reality (mitp)
-Visualizing Streaming Data
-Vue.js: Understanding its Tools and Ecosystem
+Visualizing Streaming Data (ora)
+Voicebot and Chatbot Design (packt)
+Vue.js: Understanding its Tools and Ecosystem (bleeding)
 Vue.js: Up and Running (ora)
 Walkaway by Cory Doctorow, Narrated by Wil Wheaton
 Walling Out the Insiders
