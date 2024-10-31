@@ -11,6 +11,7 @@ DevOps for Digital Leaders                Ravichandran/Taylor    apress
 Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress
 Founders at Work                          Livingston             apress
+Mastering MongoDB 7.0                     MongoDB Press          packt
 OpenVPN                                   Markus Fielner         packt
 Practical Common Lisp                     Seibel                 apress
 Practical Ruby for System Adminstration   Hamou                  apress
