@@ -8,7 +8,7 @@ The Alignment Problem                        Brian Christian      Atlantic
 Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Art of Immersion                         Frank Rose           norton
-Artificial Intelligence                      Matt Burgess         Wired
+Artificial Intelligence                      Matt Burgess   R2024 Wired
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
