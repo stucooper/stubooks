@@ -148,7 +148,7 @@ Permanent Present Tense                      Corkin            Penguin
 Penguin History of Modern China              Fenby             Penguin
 Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
-The Pity of War                              Ferguson          Penguin
+The Pity of War (white spine)                Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
 Poor Economics                               Banerjee/Duflo    Penguin
 The Price of Inequality                      Stiglitz          Penguin
@@ -272,7 +272,6 @@ Ocean of Life                                Roberts           ALane hb
 The Optician of Lampedusa                    Kirby             ALane hb
 Origin Story                                 Christian         ALane pp
 People, Power and Profits                    Stiglitz          ALane hb
-The Pity of War                              Ferguson          ALane hb no dustj
 Poverty, by America                          Matthew Desmond   ALane hb
 The Premonition                              Lewis             ALane hb
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
