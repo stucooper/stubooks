@@ -2,9 +2,9 @@
 Ardunino Workshop                 Boxall              nostarch
 The Art of R Programming          Matloff             nostarch
 Automate the Boring Stuff wPython Sweigart            nostarch
-The Blender Book                  Wartmann            nostarch
+The Blender Book             2001 Wartmann            nostarch
 The Book of CSS3                  Gasston             nostarch
-The Book of Gimp                  Lecarme/Delvare     nostarch
+The Book of Gimp             2013 Lecarme/Delvare     nostarch
 The Book of IMAP                  Heinlein/Hartleben  nostarch
 The Book of IRC                   Charalabidis        nostarch
 The Book of Postfix               Hildebrandt/Koetter nostarch
@@ -17,7 +17,7 @@ Lego Builder's Guide 2e           Bedford             nostarch
 Lego Mindstorms EV2               Laurens Valk        nostarch
 How Linux Works 2e                Ward                nostarch
 How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
-The IDA Pro Book                  Eagle               nostarch
+The IDA Pro Book             2008 Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
 The Linux Programming Interface   Kerrisk             nostarch
