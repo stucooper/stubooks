@@ -26,7 +26,7 @@ Everyday Cryptography                        Keith Martin         Oxford
 Free Software Free Society                   Richard M Stallman   GNUPress
 Fundamentals of Operating Systems            A M Lister     lcb   Macmillan
 Futuretainment                               Mike Walsh           Phaidon
-Games of Stategy 3e                          Dixit/Skeath         Viva
+Games of Strategy 3e                    2009 Dixit/Skeath         Viva
 Gamer's Guide to Coding                      Gordon/McComb        Sterling
 GIMP 2.6 for Photographers                   Goelker              rockynook
 GNU Make                                     RMS/McGrath          GNUPress
