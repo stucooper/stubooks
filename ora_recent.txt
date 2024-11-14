@@ -23,7 +23,7 @@ Designing Connected Products                  Goodman             ORA
 Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
-Elastisearch: The Definitive Guide       2015 Gormley/Tong        ORA
+Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
