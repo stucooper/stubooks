@@ -20,7 +20,7 @@ Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
 Designing Connected Products                  Goodman             ORA
-Designing Games                               Tynan Sylvester     ORA
+Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
 Elastisearch: The Definitive Guide       2015 Gormley/Tong        ORA
@@ -38,7 +38,7 @@ Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
-Hands-on Machine Learning w Scikit-Learn Keras TensorFlow Geron   ORA
+Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
@@ -53,7 +53,7 @@ Lean UX                                       Gothelf/Seiden      ORA
 Learning Puppet 4                             Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
-Learning Rails 5                              J. Mark Locklear    ORA
+Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
