@@ -10,7 +10,7 @@ The Book of IRC                   Charalabidis        nostarch
 The Book of Postfix               Hildebrandt/Koetter nostarch
 The Book of Ruby                  Collingbourne       nostarch
 The Cult of Mac                   Kahney              nostarch
-Clojure for the Brave and True    Higginbottom        nostarch
+Clojure for Brave and True   2015 Higginbottom        nostarch
 Designing BSD Rootkits            Kong                nostarch
 Learn to Program in Minecraft     Craig Richardson    nostarch
 Lego Builder's Guide 2e           Bedford             nostarch
@@ -35,5 +35,5 @@ Realm of Racket                   Felleisen           nostarch
 Scratch Programming Playground    Sweigart            nostarch
 TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch
-Wicked Cool Perl Scripts          Oualline            nostarch
-Wicked Cool Shell Scripts         Taylor              nostarch
+Wicked Cool Perl Scripts     2006 Oualline            nostarch
+Wicked Cool Shell Scripts    2004 Taylor              nostarch
