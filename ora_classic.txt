@@ -85,7 +85,7 @@ MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL            2002 Viega/Messier       ORA
 Network Troubleshooting Tools            2001 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
-Mastering Algorithms with C                   Loudon              ORA
+Mastering Algorithms with C              1999 Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                              Shelley Powers      ORA
 Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
