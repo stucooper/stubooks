@@ -23,8 +23,8 @@ Linux Enterprise Cluster          Kopper              nostarch
 The Linux Programming Interface   Kerrisk             nostarch
 Network Flow Analysis             Lucas               nostarch
 Network Know-How                  Ross                nostarch
-Nagios 2e                         Barth               nostarch
-The Official GNOME2 Devel Guide   Warkus              nostarch
+Nagios 2e                    2008 Barth               nostarch
+Official GNOME2 Devel Guide  2004 Warkus              nostarch
 Practical Packet Analysis         Sanders             nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
 Think like a Programmer           Spraul              nostarch
