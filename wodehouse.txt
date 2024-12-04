@@ -64,9 +64,9 @@ How right you are, Jeeves      1960 US == Jeeves in the Offing
 Fish Preferred                 1929 US == Summer Lightning
 Frozen Assets                  1964
 Full Moon                      1947 own arp
-The Intrustion of Jimmy        1910 US == A Gentleman of Leisure
+The Intrusion of Jimmy         1910 US == A Gentleman of Leisure
 Galahad at Blandings           1965 own hj
-A Gentleman of Leisure         1910 own str
+A Gentleman of Leisure         1910 own str R2024
 The Girl in Blue               1970 own pvc
 The Girl on the boat           1922 own hj
 The Globe by the way Book      1908
