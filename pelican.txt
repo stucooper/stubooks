@@ -10,6 +10,7 @@
 21 Think Again: How to Reason/Argue      Sinnott-Armstrong    Pelican hbc
 24 National Populism                     Eatwell/Goodwin      Pelican hbc
 30 Art of Statistics                     David Spiegelhater   Pelican hbc
+37 The Road to Concious Machines (AI)    Michael Wooldridge   Pelican
 # New Pelicans but not in the numbered series
 The Beginning of Infinity                David Deutsch        Pelican
 # Old Pelicans 1960s/70s/80s
