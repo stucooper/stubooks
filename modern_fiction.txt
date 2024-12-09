@@ -25,7 +25,6 @@ Little Prince                      Antoine de Saint Exupery      heinemann hb
 Lord of the Flies                  William Golding               faber
 Love in the time of Cholera        Gabriel Garcia Marquez        Penguin
 Midnight in Garden Good and Evil   Berendt                       Sceptre
-Mirror and the Light               Hilary Mantel                 FourthEstate
 Moscow 2042                        Vladimir Voinovich            JonathanCape
 Nancy Mitford Omnibus              Nancy Mitford                 Penguin
 Nineteen Eighty-Four           hbc George Orwell                 Penguin
@@ -51,7 +50,6 @@ Watership Down                     Richard Adams             hbc Penguin
 We of the Never-Never              Mrs Aeneas Gunn               hutchinson
 What I talk about talk Running     Haruki Murakami               HarvellSecker
 The White Tiger                    Aravind Adiga                 HarperCollins
-Wolf Hall                          Hilary Mantel                 fourth
 The Woman who walked into doors    Roddy Doyle                   Vintage
 The Year of Living Dangerously     Christopher Koch              Vintage
 The Yiddish Policemen's Union      Michael Chabon                Fourth
