@@ -32,6 +32,7 @@ Python Crash Course               Eric Matthes  2016  nostarch
 Python Crash Course 2e            Eric Matthes  2019  nostarch
 Python for Kids              2013 Briggs              nostarch
 Realm of Racket              2013 Felleisen           nostarch
+Ruby by Example              2007 Kevin C Reid        nostarch
 Scratch Prog Playground      2016 Sweigart            nostarch
 TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch

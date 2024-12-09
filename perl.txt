@@ -42,7 +42,7 @@ Perl Testing Developer's Notebook Langworth/chromatic ORA
 Perl 6 Essentials                 Randal/Sugalski     ORA
 Perls of Wisdom                   Schwartz            Apress
 Practical mod_perl                Bekman              ORA
-Programming Perl 1e (purple)      Wall/Schwartz       ORA lost?
+Programming Perl 1e (purple)      Wall/Schwartz       ORA
 Programming Perl 2e               Wall/Christ/Schwar  ORA nicku
 Programming Perl 3e               Wall/Christiansen   ORA
 Programming the Perl DBI          Descartes/Bunce     ORA

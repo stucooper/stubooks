@@ -44,6 +44,7 @@ The Macintosh Way                            Guy Kawasaki         ScottForesman
 Mastering VMware vSphere 5.5                 Lowe/Marshall  2014  Sybex brm
 Modern Data Analysis: Applied Statistics     Hamilton  lost?      BrooksCole
 Multiprotocol Routing for SANs               Judd                 brocade
+MySQL 5.0 Certification Study Guide          DuBois/Hinz          MySQL
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL

@@ -86,6 +86,7 @@ MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL            2002 Viega/Messier       ORA
 Network Troubleshooting Tools            2001 Sloan               ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
+Managing uucp and Usenet 10e             1992 O'Reilly/Todino     ORA
 Mastering Algorithms with C              1999 Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                              Shelley Powers      ORA
@@ -116,6 +117,7 @@ Secure Programming Cookbook C/C++        2003 Viega/Messier       ORA
 Security Warrior                         2004 Peikari/Chuvakin    ORA
 SELINUX                                  2004 McCarty             ORA
 Slide:ology                              2008 Nancy Duarte        ORA
+Software Portability with imake          1993 Paul DuBois         ORA
 SpamAssassin                             2004 Schwartz            ORA
 SQL Cookbook                                  Anthony Molinaro    ORA
 SQL in a Nutshell 2e                          Kevin Kline         ORA
@@ -154,3 +156,5 @@ Website Optimization                     2008 Andrew B. King      ORA
 The Whole Internet 2e                         Ed Krol             ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
+X Window System in a Nutshell 2e         1992 ed Cutler/Gilly     ORA
+X Window System Administrator's Guide    1992 Mui/Pearce          ORA
