@@ -10,7 +10,6 @@ The Complete Saki                  Saki                          Penguin
 Diary                              Chuck Palahniuk               Vintage
 Dictator                           Robert Harris                 Penguin
 Helen Garner Stories               Garner                        Text
-Go Set a Watchman                  Harper Lee                    Heinemann
 The God of Small Things            Arundhati Roy                 flamingo
 Goodbye to All That                Robert Graves                 Penguin
 Gore Vidal Selected Essays         Gore Vidal                    abacus
@@ -50,7 +49,6 @@ Unwomanly Face of War              Svetlana Alexievich           Penguin
 Watership Down                     Richard Adams             hbc Penguin
 We of the Never-Never              Mrs Aeneas Gunn               hutchinson
 What I talk about talk Running     Haruki Murakami               HarvellSecker
-The White Tiger                    Aravind Adiga                 HarperCollins
 The Woman who walked into doors    Roddy Doyle                   Vintage
 The Year of Living Dangerously     Christopher Koch              Vintage
 The Yiddish Policemen's Union      Michael Chabon                Fourth
