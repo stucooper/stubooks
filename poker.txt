@@ -6,7 +6,7 @@ Alligator Blood                   Leighton            SimonSchuster
 Amarillo Slim in a World Full Fat People Preston      HarperPerennial last?
 Analytical No-Limit Holdem        Bakker              TwoPlusTwo
 Annie Duke                        Annie Duke          HudsonStreet
-Applications of No-Limnt Holdem   Janda               TwoPlusTwo
+Applications of No-Limit Holdem   Janda               TwoPlusTwo
 Aussie Poker Guide                Sean Callendar      Wilkinson
 Bad Beats and Lucky Draws         Phil Hellmuth       HarperCollins
 Best Hand I Ever Played           Steve Rosenbloom    ESPN
@@ -16,11 +16,11 @@ Big Book of Poker                 Dario de Toffoli    dbp
 Big Deal                          Anthony Holden      SimonSchuster
 Bigger Deal                       Anthony Holden      Abacus
 Biggest Bluff                     Maria Konnikova     FourthEstate
-Biggest game in Town              Alvarez             chronicle
+Biggest game in Town              Alvarez             chronicle      R2023
 Book of Bluffs                    Matt Lessinger      GrandCentral
 Caro's Book of Poker Tells        Mike Caro           Cardoza
 Caro's Most Profit Holdem Advice  Mike Caro           Cardoza
-Championship 7-Stud         2010  Johnson/McEvoy      Cardoza R2024
+Championship 7-Stud         2010  Johnson/McEvoy      Cardoza        R2024
 Championship NL & PL Holdem 1997  Cloutier/McEvoy     Cardsmith
 Championship NL & PL Holdem 2004  Cloutier/McEvoy     Cardoza
 Check-Raising the Devil           Mike Matusow        Cardoza
