@@ -1,5 +1,12 @@
 #!/bin/bash
 # This script used to count the files in 2019030104.txt boxes but all
 # these books have now been moved into named .txt files eg ora_classic.txt
-cat *.txt orange_penguins classics_penguin | egrep -v '^($|#)' | wc -l
+# FIXME: do not count the ebooks
+rm -f allbooks
+txtfiles=`ls *.txt | grep -v ebook`
+for i in $txtfiles
+do
+    cat $i >> allbooks
+done
+egrep -v '^($|#)' allbooks | wc -l
 
