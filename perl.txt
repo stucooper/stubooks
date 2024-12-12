@@ -25,8 +25,8 @@ MySQL and Perl for the Web        DuBois              NewRiders
 Network Programming with Perl     Stein               AWL
 Object Oriented Perl              Conway              Manning
 Official Guide to CGI.pm          Lincoln Stein       JohnWiley lost?
-Perl and XML                      Ray/McIntosh        ORA
-Perl & LWP                        Burke               ORA
+Perl and & XML                    Ray/McIntosh        ORA
+Perl and & LWP                    Burke               ORA
 Perl Best Practices               Conway              ORA
 Perl by Example 4e                Quigley             PTR
 Perl Cookbook                     Christiansen/Tork   ORA
