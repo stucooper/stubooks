@@ -12,6 +12,7 @@ Changing Jobs                        Jim Chalmers/Quigley    redback
 Cities of the Hot Zone       lost?   Greg Sheridan           AllenUnwin
 The End of Certainty                 Paul Kelly              AllenUnwin
 Dark Emu                             Bruce Pascoe            magabala
+Dignity and Prosperity               ed David Stevens        ConnorCourt
 The Dismissal                        Kelly/Bramston          Penguin
 The First Stone                      Helen Garner            Picador
 The Fixer: Graham Richardson lost?   Marian Wilkinson        WilliamHeinemann
@@ -37,8 +38,9 @@ The Marmalade Files                  Lewis/Uhlmann           FourthEstate
 The Measure of the Years             Robert Menzies          Cassell
 Menzies' Child                       Gerard Henderson        AllenUnwin
 The Menzies Watershed                ed Zachary Gorman       MelbUni
-Menxies The Art of Politics          Troy Bramston           Scribe
+Menzies The Art of Politics          Troy Bramston           Scribe
 The Menzies Era                      John Howard             HarperCollins
+More to life than Politics           Richard Alston          ConnorCourt
 No offence Intended 18c              Forrester               ConnorCourt
 November 1975                        Paul Kelly              AllenUnwin
 A Sense of Balance                   John Howard             HarperCollins
@@ -52,6 +54,7 @@ When we were young and foolish lost? Greg Sheridan           AllenUnwin
 The Whitlam Mob                      MungoMacCallum          BlackInc
 Women's Business                     Chris Kenny             DuffySnellgrove
 Worth Fighting For                   Andrew Bolt             Wilkinson
+The Young Menzies                    ed Zachary Gorman       ConnorCourt
 # and I don't have many of these.. US politics
 Radicals, Resistance and Revenge     Judge Pirro             CentreStreet
 Think Big                            Donald Trump            Harper

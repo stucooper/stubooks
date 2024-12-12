@@ -13,6 +13,7 @@ Les Miserables                  Hugo             Vintage
 Ape and Essence                 Huxley           Vintage
 Brave New World                 Huxley           Vintage
 Voltaire in Love                Nancy Mitford    Vintage
+################################################################
 Zen and Motorcycle Maintenance  Pirsig           Vintage
 Proust Vol1: Swann's Way        Proust           Vintage R2024
 Proust Vol2: Budding Grove      Proust           Vintage
@@ -25,9 +26,11 @@ The Way by Swann's                     Proust    Penguin hb
 In the Shadow of Young Girls in Flower Proust    Penguin hb
 The Guermantes Way                     Proust    Penguin hb
 Swann's Way                     Proust/Grieve    Canberra
+Chasing Lost Time: Scott Moncrieff Jean Findlay  ChattoWindus
 Life of Proust                  White            WandN    R2023
 Proust a Life                   Jean-Yves Tadie  Viking
 Proust and the Squid            Maryanne Wolf    Icon
+################################################################
 All Quiet on the Western Front  Remarque         Vintage
 The Moon and Sixpence           Somerset-Maugham Vintage R2024
 War and Peace                   Tolstoy          Vintage
