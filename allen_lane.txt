@@ -321,8 +321,3 @@ Unauthorized Version: Truth, Fiction Bible   Robin Lane Fox    Penguin
 The War of the World                         Ferguson          Penguin
 What White People can do next                Emma Dabiri       Penguin
 The Whisperers                               Figes             Penguin
-# Penguin Monarchs series.. ordeded by King/Queen
-George I       The Lucky King                Tim Blanning      Penguin
-William IV     A King at Sea                 Roger Knight      Penguin
-George V       The Unexpected King           David Cannadine   Penguin
-# </Penguin Monarchs>
