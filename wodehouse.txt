@@ -156,3 +156,4 @@ P G Wodehouse Authorised Bio   own whb Frances Donaldson WeidenfeldNicholson hb
 P G Wodehouse Illustrated Bio  own whb Joseph Connolly EelPie
 P G Wodehouse A Literary Bio   own whb Benny Green Pavilion
 Jeeves and Wooster             own Nigel Cawthorne
+Jeeves and the Wedding Bells   own by Sebastian Faulks
