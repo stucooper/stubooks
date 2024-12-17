@@ -8,5 +8,5 @@ for i in $txtfiles
 do
     cat $i >> allbooks
 done
-egrep -v '^($|#)' allbooks | wc -l
+egrep -v '^($|#)' allbooks | grep -v 'lost?' |  wc -l
 
