@@ -1,6 +1,7 @@
 # Stageplays, theatre and poems, apart from Shakespeare
 Cambridge Companion to Oscar Wilde        ed Peter Raby          cambridge
 The Canterbury Tales Chaucer              Peter Ackroyd          Viking
+Chekov: The Essential Plays               Anton Chekov           ModernLibrary
 The Complete Beyond the Fringe            Benn/Cook/Mill/Moore   Methuen
 Dante: Divine Comedy                      Clive James            Picador
 Donne Selected Poems                      ed John Hayward        penguin
@@ -11,3 +12,4 @@ Orton: Complete Plays                 hbc Joe Orton              methuen
 Profiles                                  Kenneth Tynan          NickHern
 Songs of Innocence and Experience         William Blake          Huntington
 Under Milk Wood                       hbc Dylan Thomas           Everyman
+Woyzeck and other plays                   Georg Buchner          Oxford
