@@ -14,12 +14,17 @@ To be or not to be: Chooseable Hamlet            Ryan North    breadpig
 Contested Will                                   James Shapiro Faber
 1606: Shakespeare and Year of Lear               James Shapiro Faber
 1599: A Year in Shakespeare Life                 James Shapiro HarperPerennial
-# Penguins
+# Penguins/Pelicans
 Four Comedies (Taming/Dream/AsYou/Twelfth)        Shakespeare  Penguin
 Four Histories (Rich2/Henry4Pt1/Henry4Pt2/Henry5) Shakespeare  Penguin
 Four Tragedies (Haml/Othello/Lear/Macbeth)        Shakespeare  Penguin
 Three Roman PLays (JuliusC/AnthonyCleo/Coriol)    Shakespeare  Penguin
 Sonnetts and a Lover's Complaint                  Shakespeare  Penguin
+Antony and Cleopatra                              Shakespeare  Pelican
+Comedy of Errors                                  Shakespeare  Pelican
+Richard II                                        Shakespeare  Pelican
+Twelfth Night                                     Shakespeare  Pelican
+Winter's Tale                                     Shakespeare  Pelican
 # Cambridge editions and criticism
 Cambridge Into to Shakespeare Histories           Shakespeare  Cambridge
 Cambridge History of Shakespeare on Screen 2e     Rothwell     Cambridge
@@ -65,4 +70,10 @@ Troilus and Cressida                              Shakespeare  RSC/Macmillan
 Twelfth Night                                     Shakespeare  RSC/Macmillan
 Two Gentlemen of Verona                           Shakespeare  RSC/Macmillan
 Winter's Tale                                     Shakespeare  RSC/Macmillan
-
+# Arden Shakespeare
+Coriolanus                                        Shakespeare  Arden/Bloomsbury
+Edward III                                        Shakespeare  Arden/Bloomsbury
+Julius Caesar                                     Shakespeare  Arden/Bloomsbury
+Titus Andronicus                                  Shakespeare  Arden/Bloomsbury
+# other poets of the age
+First and Second Parts of King Edward IV          Heywood      Revels Plays
