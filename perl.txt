@@ -2,6 +2,7 @@
 Advanced Perl Programming 1e      Srinivasan          ORA
 Advanced Perl Programming 2e      Cozens              ORA
 Automating sysadmin with Perl     Blank-Edelman       ORA
+Beginning Perl 2e                 James Lee           Apress
 CGI Programming with Perl 2e      Guelice,Gundavaram  ORA
 Data Munging with Perl            Cross               Manning
 Effective Perl Programming 1e     Hall/Schwartz       AWL

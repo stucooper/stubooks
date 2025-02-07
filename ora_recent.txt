@@ -4,11 +4,13 @@
 21st Century C                                Klemens             ORA
 97 Things every Programmer Should Know        ed Kelvin Henney    ORA
 Ambient Findability                           Morville            ORA
+Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
 The Art of Agile Development                  Shore/Warden        ORA
 The Art of Concurrency                        Breshears           ORA
 The Art of SEO                                Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
+Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
@@ -19,10 +21,12 @@ Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
+Deep Learning for Coders fastai PyTorch  2020 Howard/Gugger       ORA
 Designing Connected Products                  Goodman             ORA
 Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
+Doing Data Science                       2013 O'Neil/Schutt       ORA
 Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
@@ -55,6 +59,7 @@ Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
+Learning SQL                             2005 Alan Beaulieu       ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
 Machine Learning for Hackers                  Drew Conway         ORA
@@ -62,6 +67,7 @@ Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mastering Bitcoin                             Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
+Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web                         Russell             ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA

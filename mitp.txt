@@ -11,6 +11,7 @@ Game Design Reader                           Salen/Zimmerman          mitp
 Hal's Legacy                                 ed David G Stork         mitp
 High Noon on the Electronic Frontier         ed Ludlow                mitp
 Homebrew Gaming Vernacular Digitality        Melanie Swalwell         mitp
+Innovation + Equality                        Joshua Gans/Andrew Leigh mitp
 Introduction to Algorithms 3e                Cormen/Leiserson         mitp
 Inventing the Internet                       Janet Abbate             mitp
 The Invisible Computer                       Norman                   mitp

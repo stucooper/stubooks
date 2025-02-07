@@ -1,4 +1,4 @@
-# apress books, mostly howto IT, some policy books
+# apress books, mostly howto IT, some policy books + packt books
 Beginning OpenOffice Calc                 Artymiak               apress
 Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs                  apress
@@ -11,6 +11,7 @@ DevOps for Digital Leaders                Ravichandran/Taylor    apress
 Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress
 Founders at Work                          Livingston             apress
+Machine Learning w PyTorch Scikit-Learn   Raschka/Liu/Mirjalili  packt
 Mastering MongoDB 7.0                     MongoDB Press          packt
 OpenVPN                                   Markus Fielner         packt
 Practical Common Lisp                     Seibel                 apress
@@ -23,3 +24,4 @@ Pro OpenSSH                               Stahnke                apress
 Pro Puppet 2e                             Krum/vanHevelingen     apress
 Pulling strings with Puppet               James Turnbull         apress
 Python Machine Learning                   Rashka                 packt
+Regular Expression Recipes                Nathan A Good          apress

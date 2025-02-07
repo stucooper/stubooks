@@ -89,6 +89,7 @@ Programming in Python 3               Summerfield                     AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Jon Bentley                     AWL
 Programming with POSIX Threads        David R Butenhof                AWL
+Python Standard Library by Example,The Doug Hellmann                  AWL
 Python Web Development with Django    Forcier/Bissex                  AWL
 A Quarter Century of UNIX             Salus                           AWL
 Real-Time Systems and Prog Langs 4e   Burns/Wellings                  AWL

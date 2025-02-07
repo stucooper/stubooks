@@ -63,6 +63,7 @@ jQuery Cookbook                               Community Experts   ORA
 Kerberos: The Definitive Guide           2003 Garman              ORA
 Learning Debian GNU/Linux                     Bill McCarty        ORA
 Learning GNU Emacs                            Cameron/Rosenblatt  ORA
+Learning GNU Emacs 2e                    1996 C/Rosenblat/Raymond ORA
 Learning JavaScript 2e                        Powers              ORA
 Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
