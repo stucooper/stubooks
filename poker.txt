@@ -1,9 +1,10 @@
 # poker books and gambling books with poker content
+77 Ways to get edge Casino Poker  Fred Renzey         BonusBooks
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                  Barry Greenstein    LastKnight
 All In                            Grotenstein/Reback  ThomasDunne
 Alligator Blood                   Leighton            SimonSchuster
-Amarillo Slim in a World Full Fat People Preston      HarperPerennial last?
+Amarillo Slim in a World Full Fat People Preston      HarperPerennial
 Analytical No-Limit Holdem        Bakker              TwoPlusTwo
 Annie Duke                        Annie Duke          HudsonStreet
 Applications of No-Limit Holdem   Janda               TwoPlusTwo
@@ -12,6 +13,7 @@ Bad Beats and Lucky Draws         Phil Hellmuth       HarperCollins
 Best Hand I Ever Played           Steve Rosenbloom    ESPN
 Beat the Dealer (21)              Edward O Thorp      Vintage
 Beyond Bluffs                     James McKenna       LyleStuart
+Beyond Traps                      James McKenna       LyleStuart
 Big Book of Poker                 Dario de Toffoli    dbp
 Big Deal                          Anthony Holden      SimonSchuster
 Bigger Deal                       Anthony Holden      Abacus
@@ -28,14 +30,18 @@ Complete Book of Holdem Poker     Gary Carson         LyleStuart
 Complete Idiot's Guide to Poker   Andrew Glazier      Alpha
 Cowboys Full                      James McManus       FSG
 Devilfish                         David Ulliott       Penguin
+Diary of a Mad Poker Player       Richard Sparks      ChessCafe
 Dirty Poker                       Richard Marcus      undercover
 Dont listen to Phil Hellmuth      Dusty Schmidt       Cardoza
+Earn $30,000 per month online     Ryan Wiseman        ECWPress
 Easy way to stop gambling         Carr                arcturus
 Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
+Education of a Poker Pigeon       anonymous           LyleStuart
 Elements of Poker                 Tommy Angelo        selfpublished
 Every Hand Revealed               Gus Hansen          LyleStuart
 Everything Online Poker Book      Helene Silverstein  AdamsMedia
 Fighting Fuzzy Thinking           David Sklansky      TwoPlusTwo
+For Richer for Poorer             Victoria Coren      Canongate
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
 Gambler's Guide to the World      Jesse May           broadway
 Gambling                          Mike Atherton       HodderStoughton
@@ -57,28 +63,40 @@ Holdem Wisdom for All Players     Daniel Negreanu     Cardoza     2007
 How good is your PL Holdem?       Stewart Reuben      D&B
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
 How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
+How to Cheat your friends poker   Jillette/Lynn       StMartins
 How to Dominate $1 and $2 NLH     Sam O Connor        Authorhouse
 How to Play & Win at Poker        Woods/Broughton     Carlton
+How to think like a Poker Pro     Cooke/Bond          Conjelco
 How to win the WSOP (or not)      Pat Walsh           robson
+Hunting Fish                      Jay Greenspan       StMartins
 Inside the Poker Mind             John Feeney         TwoPlusTwo
+Intelligent Poker Player          Philip Newall       TwoPlusTwo
 Johnny Magic and Cardshark Kids   David Kushner       RandomHouse
 Kaizen of Poker                   Shree Bykofsky      ECW
 Ken Warren Teaches Texas Holdem   Ken Warren          Cardoza
 Ken Warren Teaches Texas Holdem 2 Ken Warren          Cardoza
 Kill Everyone                     Nelson/Streib       Monarch
 Kill Phil                         Rodman/Nelson       Monarch
+Killer Poker                      John Vorhaus        LyleStuart
 Killer Poker No Limit!            John Vorhaus        LyleStuart
 Killer Poker Online               John Vorhaus        LyleStuart
 Killer Poker Online/2             John Vorhaus        LyleStuart
+Killer Poker Holdem Workbook      John Vorhaus        LyleStuart
 Let's Play Poker                  Lee Nelson          Monarch
+Life's a Gamble                   Mike Sexton         D&B
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
+Making of a Poker Player          Matt Matros         LyleStuart
 Making the Final Table            Erick Lindgren      HarperCollins
 The Man with the $100,000 Breasts Michael Konik       Broadway lost?
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
 Mastering Pot-Limit Omaha         Okolowitz           D&B
 Mathematics of Poker              Bill Chen           Conjelco
+Mental Game of Poker              Jared Tendler       JaredTendler
+Middle Limit Holdem Poker         Ciaffone/Brier      TwoPlusTwo
 Mollys Game                       Bloom               WilliamCollins lost?
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza
+MsPoker: I'm not Bluffing Book 1  Susie Isaacs        MimiMc
+MsPoker: I'm not Bluffing Book 2  Susie Isaacs        MimiMc
 NLH A Complete Course             Angel Largay        ECW
 No Limit Holdem for Winners       Andrea/Dan Shavick  howtobooks
 The Noble Hustle                  Colson Whitehead    Doubleday lost?
@@ -89,10 +107,16 @@ Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight lost?
 Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
 Phil Gordon's Little Gold Book    Phil Gordon         SimonSpotlight
 Phil Gord's Black Book (realdeal) Phil Gordon         SimonSpotlight
+Play Poker Like a Pigeon          anonymous           LyleStuart
+Play POker Like Johnny Chan Bk1   Chan/Mark Karowe    TopPlayer Media
 Play Poker Like the Pros          Phil Hellmuth       HarperCollins
 PLO Understanding Winning Play    William Jockusch    TwoPlusTwo
+Poker: A Winner's Guide           Andy Nelson         Perigee
+Poker Essays                      Mason Malmuth       TwoPlusTwo
+Poker Essays Volume II            Mason Malmuth       TwoPlusTwo
 Poker Essays Volume III           Mason Malmuth       TwoPlusTwo
 Poker Aficianado                  Peter Fornatale     Broadway
+Poker Blueprint, The              Davis/Tri Nguyen    DailyVariance
 Poker Face                        Judi James          vermillion
 Poker for Dummies                 Richard D Harroch   IDG
 Poker for Seniors                 Stuart Yarnold      InEasySteps
@@ -101,6 +125,7 @@ Poker Night                       John Vorhaus        StMartins
 Poker Player's Bible              Lou Krieger         NewBurlington
 Poker Tournament Formula          Arnold Snyder       Cardoza
 Poker Tournament Formula 2        Arnold Snyder       Cardoza
+Poker Winners are Different       Alan Schoonmaker    LyleStuart
 Poker Wizards                     Warwick Dunnett     Cardoza
 Power Holdem Strategy             Daniel Negreanu     Cardoza
 Practical Poker Math              Patt Dittmar        ecw
@@ -110,6 +135,8 @@ Profess'l Poker Dealer's Handbook Paymar/Harris/Malm  TwoPlusTwo
 Raiser's Edge                     Gospellier/Nelson   MonarchBooks
 Read em and Reap                  Joe Navarro         HarperCollins
 Reading Poker Tells               Zachary Elwood      ViaRegia
+Real Grinders                     Ashton Cartwright   selfpublished
+Real Poker II: The Play of Hands  Cooke/Bond          Conjelco
 Real Poker Night                  Henry Stephenson    LyleStuart
 Real Poker Psychology             Mason Malmuth       TwoPlusTwo
 Risky Business                    Al Alvarez          bloomsbury
@@ -129,16 +156,24 @@ Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                    Ben Mezrich         Heinemann
 Swimming with the DevilFish       Des Wilson          Macmillan
 Take me to the River              Peter Alson         atria
+Texas Holdem Odds Probabilities   Matthew Hilger      Dimat
+Texas Holdem NL The Next Level    Bruce Winter        selfpublished
 Theory of Poker                   David Sklansky      TwoPlusTwo
 Think Like a Poker Pro            Byron Jacobs        D&B
 Thinking in Bets                  Annie Duke          PortfolioPenguin
 Treat Your Poker Like a Business  Dusty Schmidt       Cardoza
 Total Poker (hb)                  David Spanier       SeckerWarburg
+Tournament Poker: 101 win moves   Mitchell Cogert     selfpublished
 Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Unleash your Hidden Poker Memory  Onika               EcwPress
+Weighing the odds in Holdem Poker King Yao            PiYee Press
+Why You Lose at Poker             Russell Fox/Harker  Conjelco
+Win your way into big money tourn McEvoy/Daugherty    Cardoza
 Winner's Guide to Omaha Poker     Ken Warren          Cardoza
 Winning Low Limit Holdem          Lee Jones           Conjelco
+Winning Strategies for NLH        Christenson/Fox     Conjelco
+Winning Texas Holdem              Matt Maroon         Sterling
 Winning Touraments One Hand at a time Vol 1 various   Dimat
 Winning Touraments One Hand at a time Vol 2 various   Dimat
 Your Best Poker Friend            Al Schoonmaker      LyleStuart
@@ -147,3 +182,4 @@ Zen and the art of Poker          Larry Phillips      Plume/Penguin
 Card Games for Smart Kids         Golick              Sterling
 Foster on Mah Jong                Foster              doddMead
 Killer Cribbage                   Barlow              Puzzlewright
+Winning Casino Blackjack noncounter Cardoza           Cardoza
