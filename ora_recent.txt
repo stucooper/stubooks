@@ -95,6 +95,7 @@ Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Still Just a Geek                             Wheaton             Harper
 Supercharged JavaScript Graphics         2011 Cecco               ORA
+Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                               Allen B Downey      ORA
 Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA

@@ -6,6 +6,7 @@ Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
 The Art of Deception                         Kevin Mitnick        JohnWiley
 The Art of Intrusion                         Mitnick/Simon        JohnWiley
+The Art of Invisibility                      Mitnick/Vamosi       BackBay
 Become a YouTuber                      2018  Cristina Calabrese   JohnWiley
 The Bitcoin Standard                         Saifedean Ammous     JohnWiley
 Building the Internet of Things              Maciej Kranz         JohnWiley
