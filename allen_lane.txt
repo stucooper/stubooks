@@ -5,70 +5,70 @@
 Africa's Long Road Since Independence        Somerville        Penguin
 Age of Anger                                 Mishra            Penguin
 All Things Made New                          MacCulloch        Penguin
-The Animals Among Us                         Bradshaw          Penguin
+Animals Among Us,The                         Bradshaw          Penguin
 Antifragile                                  Taleb             Penguin
 Antwerp                                      Pye               Penguin
-The Ascent of Money                          Ferguson          Penguin
+Ascent of Money,The                          Ferguson          Penguin
 Atoms and Ashes                              Plokhy            Penguin
 Baghdad                                      Justin Marozzi    Penguin
 Be Like the Fox                              Benner            Penguin
-A Beautiful Question                         Wilczek           Penguin
-The Bed of Procrustes                        Taleb             Penguin
-The Bestseller Code                          Archer/Jockers    Penguin
-The Better Angels of Our Nature              Steven Pinker     Penguin
-The Better Half                              Moalem            Penguin
+Beautiful Question,A                         Wilczek           Penguin
+Bed of Procrustes,The                        Taleb             Penguin
+Bestseller Code,The                          Archer/Jockers    Penguin
+Better Angels of Our Nature,The              Steven Pinker     Penguin
+Better Half,The                              Moalem            Penguin
 Between East and West                        Anne Applebaum    Penguin
-The Black Swan                               Taleb             Penguin
+Black Swan,The                               Taleb             Penguin
 Blink                                        Gladwell          Penguin
 Blitzed                                      Ohler             Penguin R2023
 Blood and Guts                               Porter            Penguin
 Blueprint                                    Plomin            Penguin
-The Body Keeps the Score                     Van Der Kolk      Penguin
-The Bomber Mafia                             Gladwell          Penguin
+Body Keeps the Score,The                     Van Der Kolk      Penguin
+Bomber Mafia,The                             Gladwell          Penguin
 Boomerang                                    Lewis             Penguin
 Braiding Sweetgrass                          Kimmerer          Penguin
 Britain Against Napoleon                     Roger Knight      Penguin
 Bullshit jobs                                Graeber           Penguin
-The Butchering Art                           Fitzharris        Penguin
+Butchering Art,The                           Fitzharris        Penguin
 Calling Bullshit                             Bergstrom/West    Penguin
-The Candy Machine                            Feiling           Penguin
+Candy Machine,The                            Feiling           Penguin
 Cat Sense                                    Bradshaw          Penguin
-A Certain Idea of France                     Jackson           Penguin
+Certain Idea of France,A                     Jackson           Penguin
 Chernobyl                                    Plokhy            Penguin
-The Children of Ash and Elm                  Neil Price        Penguin
+Children of Ash and Elm,The                  Neil Price        Penguin
 China's War with Japan                       Mitter            Penguin
 Chopin's Piano                               Kildea            Penguin
 Churchill                                    Roberts           Penguin
 Climate Change Nation State                  Anatol Lieven     Penguin
 Civilization                                 Ferguson          Penguin
 Classical Mechanics                          Susskind          Penguin
-The Craftsman                                Sennett           Penguin
-The Creative Economy                         John Howkins      Penguin
+Craftsman,The                                Sennett           Penguin
+Creative Economy,The                         John Howkins      Penguin
 Creative Schools                             Robinson          Penguin
 Crimes Against Humanity                      Robertson         Penguin
 Dark Continent                               Mazower           Penguin
 David and Goliath                            Gladwell          Penguin
 Denying the Holocaust                        Lipstadt          Penguin
-The Descent of Man                           Perry             Penguin R2023
+Descent of Man,The                           Perry             Penguin R2023
 Dial M for Murdoch                           Watson/Hickman    Penguin R2020
 Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
 Don't touch my hair                          Emma Dabiri       Penguin
-The Dream of Enlightenment                   Anthony Gottlieb  Penguin
-The Drunkard's Walk                          Milodinow         Penguin
-The Egyptians                                Shenker           Penguin
-The Element                                  Robinson          Penguin
-The End                                      Kershaw           Penguin
-The End of Average                           Rose              Penguin
-The End of Everything                        Mack              Penguin
+Dream of Enlightenment,The                   Anthony Gottlieb  Penguin
+Drunkard's Walk,The                          Milodinow         Penguin
+Egyptians,The                                Shenker           Penguin
+Element,The                                  Robinson          Penguin
+End,The                                      Kershaw           Penguin
+End of Average,The                           Rose              Penguin
+End of Everything,The                        Mack              Penguin
 Enemies: History of the FBI                  Weiner            Penguin
 Enemies and Neighbours                       Black             Penguin
 Entitled                                     Kate Manne        Penguin
 Engineers of Victory                         Kennedy           Penguin
 English and their History                    Tombs             Penguin
 Enlightenment Now                            Pinker            Penguin
-The Entreprenerial State                     Mazzucato         Penguin
-The Establishment                            Jones             Penguin
+Entreprenerial State,The                     Mazzucato         Penguin
+Establishment,The                            Jones             Penguin
 Europe                                       Simms             Penguin
 Europe                                       Flannery          Penguin
 Eva Braun                                    Gortemaker        Penguin
@@ -79,23 +79,23 @@ The Fall of the Ottomans                     Rogan             Penguin
 Farewell to the Horse                        Ulrich Raulff     Penguin
 Feline Philosophy                            Gray              Penguin
 Feral                                        Monbiot           Penguin
-A Fistful of Shells                          Green             Penguin
+Fistful of Shells,A                          Green             Penguin
 Flash Boys                                   Lewis             Penguin R2022
 Fooled by Randomness                         Taleb             Penguin
 Freakonomics                                 Levitt/Dubner     Penguin
 From Bacteria to Bach and Back               Dennett           Penguin
-The Future of Capitalism                     Collier           Penguin
-The Gates of Europe                          Plokhy            Penguin
+Future of Capitalism,The                     Collier           Penguin
+Gates of Europe,The                          Plokhy            Penguin
 Germany                                      MacGregor         Penguin
 Ghost Wars                                   Coll              Penguin
 Goodbye, Things                              Sasaki            Penguin
 Governing the World                          Mazower           Penguin
 Gravity's Engines                            Scharf            Penguin
-The Fifth Risk                               Lewis             Penguin
+Fifth Risk,The                               Lewis             Penguin
 Happiness by Design                          Paul Doolan       Penguin
 Happy City                                   Montgomery        Penguin
 Happy Ever After                             Paul Doolan       ALane pb
-A History of Masculinity                     Ivan Jablonka     Penguin
+History of Masculinity,A                     Ivan Jablonka     Penguin
 History of the World in Twleve Maps          Brotton           Penguin
 How not to be Wrong                          Ellenberg         Penguin
 How the French Think                         Hazareesingh      Penguin
@@ -105,26 +105,26 @@ Humble Pi                                    Parker            Penguin
 I'm Feeling Lucky                            Edwards           Penguin
 In Defence of Food                           Pollan            Penguin
 In Wartime                                   Judah             Penguin
-The Invention of Science                     Wootton           Penguin
+Invention of Science,The                     Wootton           Penguin
 Iron Curtain                                 Anne Applebaum    Penguin
 Iron Kingdom                                 Clark             Penguin
 The Japanese                                 Harding           Penguin
 Justice                                      Michael J Sandel  Penguin
-The Knowledge Machine                        Strevens          Penguin
+Knowledge Machine,The                        Strevens          Penguin
 Landscapes of Commmunism                     Hatherley         Penguin
-The Language Instinct                        Pinker            Penguin
-The Last Man in Russia                       Bullough          Penguin
+Language Instinct,The                        Pinker            Penguin
+Last Man in Russia,The                       Bullough          Penguin
 Leadership and Self-Deception                Arbinger Institut Penguin
 Leonardo Da Vinci                            Nicholl           Penguin
 Life 3.0                                     Tengmark          Penguin
-The Light Ages                               Falk              Penguin
+Light Ages,The                               Falk              Penguin
 Limonov                                      Carrere           Penguin
-The Long '68                                 Vinen             Penguin
+Long '68,The                                 Vinen             Penguin
 Losing Eden                                  Lucy Jones        Penguin
 Lost Japan                                   Kerr              Penguin
 Making of the British Landscape              Pryor             Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
-The Map and the Territory 2.0                Greenspan         Penguin
+Map and the Territory 2.0,The                Greenspan         Penguin
 Mindware                                     Nisbett           Penguin
 Mindwise                                     Epley             Penguin
 Misbehaving                                  Thaler            Penguin
@@ -135,56 +135,56 @@ My Italians                                  Saviano           Penguin
 Napoleon the Great                           Roberts           Penguin
 Never Again (Britain 1945-51)                Hennessy          Penguin
 Nudge                                        Thaler/Sunstein   Penguin
-The Numbers Game                             Anderson/Sally    Penguin
+Numbers Game,The                             Anderson/Sally    Penguin
 On Fire                                      Klein             Penguin
 On Grand Strategy                            Gaddis            Penguin
 On Politics                                  Ryan              Penguin
-The Order of Time                            Rovelli           Penguin
+Order of Time,The                            Rovelli           Penguin
 Otherlands                                   Halliday          Penguin
 Our Boys                                     Parr              Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
 Owls of the Eastern Ice                      Slaght            Penguin
-The Partition                                Townshend         Penguin
-The Party                                    McGregor          Penguin
+Partition,The                                Townshend         Penguin
+Party,The                                    McGregor          Penguin
 Permanent Present Tense                      Corkin            Penguin
 Penguin History of Modern China              Fenby             Penguin
 Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
-The Pity of War (white spine)                Ferguson          Penguin
+Pity of War,The (white spine)                Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
 Poor Economics                               Banerjee/Duflo    Penguin
-The Price of Inequality                      Stiglitz          Penguin
+Price of Inequality,The                      Stiglitz          Penguin
 Priestdaddy                                  Lockwood          Penguin
 Promised You a Miracle                       Beckett           Penguin
-The Quantum Universe                         Cox/Forshaw       Penguin
-The Quest                                    Daniel Yergin     Penguin
+Quantum Universe,The                         Cox/Forshaw       Penguin
+Quest,The                                    Daniel Yergin     Penguin
 Reality is not what it seems                 Rovelli           Penguin
-The Reckoning                                Soil              Penguin
+Reckoning,The                                Soil              Penguin
 Refuge                                       Betts/Collier     Penguin
 Returning to Reims                           Didier Eribon     Penguin
 The Righteous Mind                           Haidt             Penguin
 Rio de Janeiro                               Soares            Penguin
 Risk Savvy                                   Gigerenzer        Penguin
-The Road to Character                        Brooks            Penguin
-The Road to Somewhere                        Goodhart          Penguin
-The Roads to Sata                            Booth             Penguin
+Road to Character,The                        Brooks            Penguin
+Road to Somewhere,The                        Goodhart          Penguin
+Roads to Sata,The                            Booth             Penguin
 Roller-Coaster                               Kershaw           Penguin
-The Russia Anxiety                           Smith             Penguin
+Russia Anxiety,The                           Smith             Penguin
 Scarcity                                     Mullainathan      Penguin
-The Secret Life of Trees                     Colin Tudge       Penguin
-The Secret World                             Andrew            Penguin
-The Sense of Style                           Pinker            Penguin
+Secret Life of Trees,The                     Colin Tudge       Penguin
+Secret World,The                             Andrew            Penguin
+Sense of Style,The                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
 Shady Characters                             Houston           Penguin
-The Shepherd's Life                          Rebanks           Penguin
-The Shifts and the Shocks                    Martin Wolf       Penguin
-The Signal and the Noise                     Silver            Penguin
+Shepherd's Life,The                          Rebanks           Penguin
+Shifts and the Shocks,The                    Martin Wolf       Penguin
+Signal and the Noise,The                     Silver            Penguin
 Silence: A Christian History                 MacCulloch        Penguin
-The Sleepwalkers                             Clark             Penguin
+Sleepwalkers,The                             Clark             Penguin
 Sontag                                       Moser             Penguin
-The Spirit Level                             Wilkinson/Pickett Penguin
-The Square and the Tower                     Ferguson          Penguin
+Spirit Level,The                             Wilkinson/Pickett Penguin
+Square and the Tower,The                     Ferguson          Penguin
 Stalin: Waiting for Hitler                   Kotkin            Penguin
 Talking to Strangers                         Gladwell          Penguin
 Thank you for Being Late                     Friedman          Penguin
@@ -198,16 +198,16 @@ Too Big to Fail                              Ross Sorkin       Penguin
 Traces Remain                                Charles Nicholl   Penguin
 Trans-Europe Express                         Hatherley         Penguin
 Turing's Cathedral                           Dyson             Penguin
-The Undivided Past                           David Cannadine   Penguin
-The Undoing Project                          Lewis             Penguin
-The Uninhabitable Earth                      Wallace-Wells     Penguin
+Undivided Past,The                           David Cannadine   Penguin
+Undoing Project,The                          Lewis             Penguin
+Uninhabitable Earth,The                      Wallace-Wells     Penguin
 Universal                                    Cox/Forshaw       Penguin
 Until the End of Time                        Greene            Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
 Upheaval                                     Diamond           Penguin
-The Value of Everything                      Mazzucato         Penguin
+Value of Everything,The                      Mazzucato         Penguin
 Vanished Kingdoms                            Norman Davies     Penguin
-The Vanquished                               Gerwarth          Penguin
+Vanquished,The                               Gerwarth          Penguin
 Victorious Century                           Cannadine         Penguin
 We are our brains                            Swaab             Penguin
 Weapons of Math Destruction                  O'Neil            Penguin
@@ -223,7 +223,7 @@ Willpower                                    BaumeisterTierney Penguin
 With our Backs to the Wall                   Stevenson         Penguin
 Winter King                                  Penn              Penguin
 Winners take All                             Giridharadas      Penguin
-The World Until Yesterday                    Diamond           Penguin
+World Until Yesterday,The                    Diamond           Penguin
 World War One                                Stone             Penguin
 World War Two                                Stone             Penguin
 Zero Zero Zero                               Saviano           Penguin
@@ -237,14 +237,14 @@ The Big Screen                               Thomson           ALane hb
 Capitalism in America                        Greenspan/Wooldri ALane hb
 Caste                                        Wilkerson         ALane pp
 Coddling of the American Mind                Lukianoff/Haidt   ALane hb
-The Cold War: A World History                Odd Arne Westad   ALane hb
+Cold War: A World History,The                Odd Arne Westad   ALane hb
 The Conscience of a Liberal                  Paul Krugman      ALane hb
 Creative Schools                             Robinson          ALane pp DUP
 Crime in Progress                            Simpson/Fritsch   ALane hb
 David and Goliath                            Malcolm Gladwell  ALane hb
 Doom                                         Ferguson          ALane pp
 Doomsday Men                                 P. D. Smith       ALane hb
-The Demon in the Machine                     Davies            ALane pp
+Demon in the Machine,The                     Davies            ALane pp
 Einstein's Unfinished Revolution             Smolin            ALane hb
 Empire Illustrated Edition                   Niall Ferguson    ALane hb cftbl
 English Pastoral                             Rebanks           ALane pp
@@ -263,25 +263,25 @@ Hitler                                       Simms             ALane hb
 Hitler (single volume)                       Kershaw           ALane pp
 How to avoid a Climate Disaster              Bill Gates        ALane hb
 How to Run a Government                      Michael Barber    ALane pp
-The Inner Level                              Wilkinson         ALane hb
+Inner Level, The                             Wilkinson         ALane hb
 Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
 Leadership in War                            Andrew Roberts    ALane hb
 Lewis Carroll in Numberland                  Wilson            ALane hb
 Limitarianism: Case against extreme wealth   Ingrid Robeyns    ALane hb
-The Master Algorithm                         Domingos          ALane hb
+Master Algorithm, The                        Domingos          ALane hb
 Masters and Commanders                       Andrew Roberts    ALane hb
 Maragaret Thatcher Not for Turning (Vol 1)   Charles Moore     ALane hb
 Maragaret Thatcher At her Zenith   (Vol 2)   Charles Moore     Knopf
 Maragaret Thatcher Herself Alone   (Vol 3)   Charles Moore     ALane hb
 Meetings with Remarkable Manuscripts         De Hamel          ALane hb
-The New Map                                  Yergin            ALane hb
+New Map, The                                 Yergin            ALane hb
 Nothing but a Circus                         Levin             ALane pp
 Ocean of Life                                Roberts           ALane hb
-The Optician of Lampedusa                    Kirby             ALane hb
+Optician of Lampedusa, The                   Kirby             ALane hb
 Origin Story                                 Christian         ALane pp
 People, Power and Profits                    Stiglitz          ALane hb
 Poverty, by America                          Matthew Desmond   ALane hb
-The Premonition                              Lewis             ALane hb
+Premonition, The                             Lewis             ALane hb
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
 Shape: Hidden Geometry Absolutely Everything Jordan Ellenberg  ALane pp
 Shutdown                                     Tooze             ALane pp
