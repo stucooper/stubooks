@@ -11,7 +11,6 @@ Applications of No-Limit Holdem   Janda               TwoPlusTwo
 Aussie Poker Guide                Sean Callendar      Wilkinson
 Bad Beats and Lucky Draws         Phil Hellmuth       HarperCollins
 Best Hand I Ever Played           Steve Rosenbloom    ESPN
-Beat the Dealer (21)              Edward O Thorp      Vintage
 Beyond Bluffs                     James McKenna       LyleStuart
 Beyond Traps                      James McKenna       LyleStuart
 Big Book of Poker                 Dario de Toffoli    dbp
@@ -179,6 +178,7 @@ Winning Touraments One Hand at a time Vol 2 various   Dimat
 Your Best Poker Friend            Al Schoonmaker      LyleStuart
 Zen and the art of Poker          Larry Phillips      Plume/Penguin
 # non-poker games below
+Beat the Dealer (21)              Edward O Thorp      Vintage
 Card Games for Smart Kids         Golick              Sterling
 Foster on Mah Jong                Foster              doddMead
 Killer Cribbage                   Barlow              Puzzlewright
