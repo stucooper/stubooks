@@ -75,7 +75,7 @@ Eva Braun                                    Gortemaker        Penguin
 Every Song Ever                              Ratliff           Penguin
 Exercised                                    Lieberman         Penguin
 Fancy Bear Goes Phishing                     Scott j, Shapiro  Penguin
-The Fall of the Ottomans                     Rogan             Penguin
+Fall of the Ottomans,The                     Rogan             Penguin
 Farewell to the Horse                        Ulrich Raulff     Penguin
 Feline Philosophy                            Gray              Penguin
 Feral                                        Monbiot           Penguin
@@ -263,25 +263,25 @@ Hitler                                       Simms             ALane hb
 Hitler (single volume)                       Kershaw           ALane pp
 How to avoid a Climate Disaster              Bill Gates        ALane hb
 How to Run a Government                      Michael Barber    ALane pp
-Inner Level, The                             Wilkinson         ALane hb
+Inner Level,The                              Wilkinson         ALane hb
 Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
 Leadership in War                            Andrew Roberts    ALane hb
 Lewis Carroll in Numberland                  Wilson            ALane hb
 Limitarianism: Case against extreme wealth   Ingrid Robeyns    ALane hb
-Master Algorithm, The                        Domingos          ALane hb
+Master Algorithm,The                         Domingos          ALane hb
 Masters and Commanders                       Andrew Roberts    ALane hb
 Maragaret Thatcher Not for Turning (Vol 1)   Charles Moore     ALane hb
 Maragaret Thatcher At her Zenith   (Vol 2)   Charles Moore     Knopf
 Maragaret Thatcher Herself Alone   (Vol 3)   Charles Moore     ALane hb
 Meetings with Remarkable Manuscripts         De Hamel          ALane hb
-New Map, The                                 Yergin            ALane hb
+New Map,The                                  Yergin            ALane hb
 Nothing but a Circus                         Levin             ALane pp
 Ocean of Life                                Roberts           ALane hb
-Optician of Lampedusa, The                   Kirby             ALane hb
+Optician of Lampedusa,The                    Kirby             ALane hb
 Origin Story                                 Christian         ALane pp
 People, Power and Profits                    Stiglitz          ALane hb
 Poverty, by America                          Matthew Desmond   ALane hb
-Premonition, The                             Lewis             ALane hb
+Premonition,The                              Lewis             ALane hb
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
 Shape: Hidden Geometry Absolutely Everything Jordan Ellenberg  ALane pp
 Shutdown                                     Tooze             ALane pp
