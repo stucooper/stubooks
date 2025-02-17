@@ -8,6 +8,7 @@ Ansible for DevOps                           Geerling             leanpub
 Apache Web Server Admin               lost?  Aulds                Sybex
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
 The Blender Gamekit 2e                       Wartmann             Blender
+Blogs, Wikipedia, SecondLife and Beyond      Axel Bruns           PeterLang
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell            Microsoft
 Codebreaking A Practical Guide               Dunin/Schmeh         Robinson
@@ -15,6 +16,7 @@ Coding projects in Python                    various              DK
 Common Lisp: The Language 2e                 Guy Steele      mtb  DigialPress
 Cracking the Coding Interview 6e             MvDowell             CareerCup
 Create your own website using Wordpress      Allanah Moore        ilex
+Cybercrime and Digital Forensics 2e          Holt/Bossler         Routledge
 Database Management Systems 2e               Ramakrishnan/Gehrke  McGrawHill
 Database Systems 5e                          Conolly/Begg         Pearson
 Database Systems Concepts                    Silberschatz/Korth   McGrawHill

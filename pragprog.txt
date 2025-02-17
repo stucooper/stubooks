@@ -1,4 +1,5 @@
 # Pragmatic Programmers Publishers
+Agile Samurai                            Jonathan Rasmusson       PragProg
 Code in the Cloud                        Chu-Carroll              PragProg
 Debug It!                                Paul Butcher             PragProg
 Definitive Antlr4 Reference              Terence Parr             PragProg

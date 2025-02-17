@@ -13,6 +13,7 @@ Expert MySQL                              Charles A Bell         apress
 Founders at Work                          Livingston             apress
 Machine Learning w PyTorch Scikit-Learn   Raschka/Liu/Mirjalili  packt
 Mastering MongoDB 7.0                     MongoDB Press          packt
+Mastering Ansible                    2015 Jesse Keating          packt
 OpenVPN                                   Markus Fielner         packt
 Practical Common Lisp                     Seibel                 apress
 Practical Ruby for System Adminstration   Hamou                  apress
