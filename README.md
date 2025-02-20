@@ -23,6 +23,7 @@ brm    Back Right Middle. This box is on top of Back Right Corner (brc)
 cor    Coopers Red Box (empty beer case)
 mtb    Monteiths Beer Box (empty beer case)
 hbc    Hillbilly Cider box (empty cider case)
+pcg    Perl Cooper's Green (two of these)
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping

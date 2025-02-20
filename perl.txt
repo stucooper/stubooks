@@ -1,14 +1,14 @@
 # Perl books; mostly underneath the piano
 Advanced Perl Programming 1e      Srinivasan          ORA
 Advanced Perl Programming 2e      Cozens              ORA
-Automating sysadmin with Perl     Blank-Edelman       ORA
-Beginning Perl 2e                 James Lee           Apress
-CGI Programming with Perl 2e      Guelice,Gundavaram  ORA
-Data Munging with Perl            Cross               Manning
+Automating sysadmin with Perl 2e  Blank-Edelman       ORA             pcg
+Beginning Perl 2e                 James Lee           Apress          pcg
+CGI Programming with Perl 2e      Guelice,Gundavaram  ORA             pcg
+Data Munging with Perl            Cross               Manning         pcg
 Effective Perl Programming 1e     Hall/Schwartz       AWL
 Effective Perl Programming 2e     Hall/McAdams/dFoy   AWL
-Elements of Programming with Perl Johnson             Manning
-Embedding Perl in HTML with Mason Rolsky/Williams     ORA
+Elements of Programming with Perl Johnson             Manning         pcg
+Embedding Perl in HTML with Mason Rolsky/Williams     ORA             pcg
 Extending and Embedding Perl      Cozens/Jenness      Manning
 Graphics Programming with Perl    Verbruggen          Manning
 Higher Order Perl                 Dominus             Elsevier
@@ -29,8 +29,8 @@ Official Guide to CGI.pm          Lincoln Stein       JohnWiley lost?
 Perl and & XML                    Ray/McIntosh        ORA
 Perl and & LWP                    Burke               ORA
 Perl Best Practices               Conway              ORA
-Perl by Example 4e                Quigley             PTR
-Perl Cookbook                     Christiansen/Tork   ORA
+Perl by Example 4e                Quigley             PTR               pcg
+Perl Cookbook                     Christiansen/Tork   ORA               pcg
 Perl Core language ltl black 2e   Holzner             coriolis
 Perl Debugged                     Scott/Wright        AWL
 Perl for System Administration    Blank-Edelman       ORA
@@ -40,7 +40,7 @@ Perl Graphics Programming         Shawn Wallace       ORA
 Perl Medic                        Scott               AWL
 Perl One-Liners                   Krumins             nostarch
 Perl Testing Developer's Notebook Langworth/chromatic ORA
-Perl 6 Essentials                 Randal/Sugalski     ORA
+Perl 6 Essentials                 Randal/Sugalski     ORA               pcg
 Perls of Wisdom                   Schwartz            Apress
 Practical mod_perl                Bekman              ORA
 Programming Perl 1e (purple)      Wall/Schwartz       ORA
@@ -52,6 +52,6 @@ Programming Web Services w/Perl   Ray/Kulchenko       ORA
 Programming Web Services XML-RPC  StLaurent/Johnston  ORA
 Programming with Perl Modules     Patwardhan          ORA
 Web Client Programming with Perl  Clinton Wong        ORA
-Writing Apache Modles with Perl/C Stein/MacEachern    ORA
+Writing Apache Modles with Perl/C Stein/MacEachern    ORA                 pcg
 Writing Perl Modules for CPAN     Tregar              a!press
 XML and Perl                      Riehl/Stein         NewRiders
