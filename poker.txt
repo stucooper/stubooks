@@ -33,7 +33,6 @@ Diary of a Mad Poker Player       Richard Sparks      ChessCafe
 Dirty Poker                       Richard Marcus      undercover
 Dont listen to Phil Hellmuth      Dusty Schmidt       Cardoza
 Earn $30,000 per month online     Ryan Wiseman        ECWPress
-Easy way to stop gambling         Carr                arcturus
 Education of a Poker Player (hb)  Herbert O Yardley   JonathanCape
 Education of a Poker Pigeon       anonymous           LyleStuart
 Elements of Poker                 Tommy Angelo        selfpublished
@@ -44,7 +43,6 @@ For Richer for Poorer             Victoria Coren      Canongate
 FullTilt Strategy Guide Tourneys  ed Michael Craig    Warner
 Gambler's Guide to the World      Jesse May           broadway
 Gambling                          Mike Atherton       HodderStoughton
-Games                             King                Kingfisher
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Getting the Best of it            David Sklansky      TwoPlusTwo
 Ghosts at the table               Des Wilson          Mainstream
@@ -180,6 +178,8 @@ Zen and the art of Poker          Larry Phillips      Plume/Penguin
 # non-poker games below
 Beat the Dealer (21)              Edward O Thorp      Vintage
 Card Games for Smart Kids         Golick              Sterling
+Easy way to stop gambling         Carr                arcturus
 Foster on Mah Jong                Foster              doddMead
+Games                             King                Kingfisher
 Killer Cribbage                   Barlow              Puzzlewright
 Winning Cas Blackjack noncounter  Cardoza             Cardoza
