@@ -111,11 +111,11 @@ Play POker Like Johnny Chan Bk1   Chan/Mark Karowe    TopPlayer Media
 Play Poker Like the Pros          Phil Hellmuth       HarperCollins
 PLO Understanding Winning Play    William Jockusch    TwoPlusTwo
 Poker: A Winner's Guide           Andy Nelson         Perigee
+Poker Aficianado                  Peter Fornatale     Broadway
+Poker Blueprint, The              Davis/Tri Nguyen    DailyVariance
 Poker Essays                      Mason Malmuth       TwoPlusTwo
 Poker Essays Volume II            Mason Malmuth       TwoPlusTwo
 Poker Essays Volume III           Mason Malmuth       TwoPlusTwo
-Poker Aficianado                  Peter Fornatale     Broadway
-Poker Blueprint, The              Davis/Tri Nguyen    DailyVariance
 Poker Face                        Judi James          vermillion
 Poker for Dummies                 Richard D Harroch   IDG
 Poker for Seniors                 Stuart Yarnold      InEasySteps
@@ -124,6 +124,7 @@ Poker Night                       John Vorhaus        StMartins
 Poker Player's Bible              Lou Krieger         NewBurlington
 Poker Tournament Formula          Arnold Snyder       Cardoza
 Poker Tournament Formula 2        Arnold Snyder       Cardoza
+Poker: Ultimate Book,The          Francois Montmirel  Assouline
 Poker Winners are Different       Alan Schoonmaker    LyleStuart
 Poker Wizards                     Warwick Dunnett     Cardoza
 Power Holdem Strategy             Daniel Negreanu     Cardoza
@@ -151,7 +152,6 @@ Sklansky on Poker                 David Sklansky      TwoPlusTwo
 Small Stakes No-Limit Holdem      Miller/Mehta/Flynn  Dimat
 Super System                      Doyle Brunson       Cardoza
 Super System 2                    Doyle Brunson       Cardoza
-Shuffle Up and Deal               Mike Sexton         HarperCollins
 Straight Flush                    Ben Mezrich         Heinemann
 Swimming with the DevilFish       Des Wilson          Macmillan
 Take me to the River              Peter Alson         atria
