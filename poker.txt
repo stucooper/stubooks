@@ -98,6 +98,7 @@ NLH A Complete Course             Angel Largay        ECW
 No Limit Holdem for Winners       Andrea/Dan Shavick  howtobooks
 The Noble Hustle                  Colson Whitehead    Doubleday lost?
 NLH Theory and Practice           Sklansky/Miller     TwoPlusTwo
+Official Poker Rules              WPT                 WPT
 Pass the Sugar                    Joe Hachem          Melbourne
 Peak Performance Poker            Steffen             Dimat
 Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight lost?
@@ -139,7 +140,7 @@ Real Poker Night                  Henry Stephenson    LyleStuart
 Real Poker Psychology             Mason Malmuth       TwoPlusTwo
 Risky Business                    Al Alvarez          bloomsbury
 The Rough Guide to Poker          Iain Fletcher       RoughGuides lost?
-Rules of Poker                    IFP                 IFP
+Rules of Poker (small blue hb)    IFP                 IFP
 Science of Poker                  Mahmood Mahmood     HighStakes  2006
 Secrets of non-standard SitnGos   Phil Shaw           D&B
 Secrets of SitnGos                Phil Shaw           D&B
