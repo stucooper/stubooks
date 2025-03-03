@@ -9,7 +9,7 @@ The C Programming Language                 Kernighan/Ritchie    PTR
 The C Programming Language 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
 Clean Code                                 Robert C. Martin     PTR lc2
-Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
+Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR lc2
 Computer Networks 3e                       Tanenbaum       lcb  PTR
 Content Critical                           McGovern/Norton      PTR lost?
 Core Java 2 Volume 1 Fundamentals      Horstmann/Cornell   2003 PTR brc
@@ -21,7 +21,7 @@ Data Structures Program Design in C        Kruse/Tondo     1997 PTR cor
 Definitive Guide to the Xen Hypervisor     Chisnall             PTR
 Design of the UNIX Operating System        Maurice J Bach  lcb  PTR
 Distributed Operating Systems              Tanenbaum            PTR
-Embedded Linux Primer 2e                   Christopher Hallinan PTR
+Embedded Linux Primer 2e                   Christopher Hallinan PTR lc2
 Essential GIMP for Web Professionals       Michael Hammel  2002 PTR cor
 Essential XML for Web Professionals        Dan Livingston  2002 PTR cor
 Expert C Programming                       Van der Linden       PTR
@@ -47,7 +47,7 @@ The Magic Garden Explained Solutions Manl  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR
-Network Security                           Kaufmann/Perlman     PTR
+Network Security                           Kaufmann/Perlman     PTR lc2
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
 not Just Java 2e                           Peter van der Linden PTR
 Object-Oriented Software Construction      Bertrand Meyer  1997 PTR brc
@@ -60,7 +60,7 @@ Practical guide SNMP3 network mgmt         David Zeltserman     PTR
 Rapid GUI Programming w Python and Qt      MarkSummerfield 2008 PTR brm
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
-Security in Computing 4e                   Pfleeger/Pfleeger    PTR
+Security in Computing 4e                   Pfleeger/Pfleeger    PTR lc2
 Self-Service Linux                         Wilding/Behman       PTR
 Software Craftsman                         Mancuso              PTR lc2
 A Software Tools Sampler                   Webb Miller          PTR
