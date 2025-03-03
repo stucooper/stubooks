@@ -8,7 +8,7 @@ The C Answer Book 2e                       Tondo/Gimpel    1989 PTR
 The C Programming Language                 Kernighan/Ritchie    PTR
 The C Programming Language 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
-Clean Code                                 Robert C. Martin     PTR
+Clean Code                                 Robert C. Martin     PTR lc2
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR
 Computer Networks 3e                       Tanenbaum       lcb  PTR
 Content Critical                           McGovern/Norton      PTR lost?
@@ -62,7 +62,7 @@ Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR
 Self-Service Linux                         Wilding/Behman       PTR
-Software Craftsman                         Mancuso              PTR
+Software Craftsman                         Mancuso              PTR lc2
 A Software Tools Sampler                   Webb Miller          PTR
 Solaris Application Programming            Gove                 PTR
 Solaris Internals 2e                       McDougall/Mauro      PTR
@@ -73,7 +73,7 @@ Structured Computer Organisation 5e        Andrew Tanenbaum lcb PTR
 Systems Performance                        Brendan Gregg        PTR
 Technical Java                             Grant Palmer         PTR brc
 Thinking in Java 4e                        Bruce Eckel          PTR
-Threads Primer                             Lewis/Berg           PTR
+Threads Primer                             Lewis/Berg           PTR lc2
 Understanding AJAX                         Joshua Eichorn       PTR
 Understanding Unix/Linux Programming       Bruce Molay          PTR
 UNIX Internals New Frontiers               Uresh Valhalia   lcb PTR

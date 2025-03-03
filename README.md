@@ -15,6 +15,7 @@ cftbl   Coffee Table sized book; hardback (usually) and huge (always)
 
 Location abbreviations:
 lcb    Little Creatures Box (empty beer case)
+lc2    Little Creatures Box Newer Design Newer Box
 cib    Cisco Box
 pcp    Penguin Classics Plastic - large plastic box of Penguin Classics
 whb    Wodehouse box: Vacuum Cleaner box garage middle left
