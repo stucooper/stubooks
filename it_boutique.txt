@@ -10,7 +10,7 @@ Artist's Guide to the Gimp                   Michael J. Hammel    SSC
 The Blender Gamekit 2e                       Wartmann             Blender
 Blogs, Wikipedia, SecondLife and Beyond      Axel Bruns           PeterLang
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
-Code Complete 2e                             McConnell            Microsoft
+Code Complete 2e                             McConnell       lc2  Microsoft
 Codebreaking A Practical Guide               Dunin/Schmeh         Robinson
 Coding projects in Python                    various              DK
 Common Lisp: The Language 2e                 Guy Steele      mtb  DigialPress
