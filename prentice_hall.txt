@@ -1,5 +1,5 @@
 Agile Java                                 Langr                PTR brc
-Algorithmic Graph Theory                   McHugh               PTR
+Algorithmic Graph Theory                   McHugh               PTR mt2
 Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
 Artificial Intelligence Modern Approach 3e Russell/Norvig       PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
@@ -16,7 +16,7 @@ Core Java 2 Volume 1 Fundamentals      Horstmann/Cornell   2003 PTR brc
 Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security     1999 William Stallings    PTR
 Data and Computer Communications 8e        Stallings            PTR lc2
-Data Structures Using C                    Esakov/Weiss         PTR
+Data Structures Using C                    Esakov/Weiss         PTR mt2
 Data Structures Program Design in C        Kruse/Tondo     1997 PTR cor
 Definitive Guide to the Xen Hypervisor     Chisnall             PTR
 Design of the UNIX Operating System        Maurice J Bach  lcb  PTR
@@ -46,7 +46,7 @@ The Magic Garden Explained                 Goodheart/Cox  lcb   PTR
 The Magic Garden Explained Solutions Manl  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen            PTR
-Network and Internetwork Security          William Stallings    PTR
+Network and Internetwork Security          William Stallings    PTR mt2
 Network Security                           Kaufmann/Perlman     PTR lc2
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
 not Just Java 2e                           Peter van der Linden PTR
@@ -63,7 +63,7 @@ Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR lc2
 Self-Service Linux                         Wilding/Behman       PTR
 Software Craftsman                         Mancuso              PTR lc2
-A Software Tools Sampler                   Webb Miller          PTR
+A Software Tools Sampler                   Webb Miller          PTR mt2
 Solaris Application Programming            Gove                 PTR
 Solaris Internals 2e                       McDougall/Mauro      PTR
 Solaris Systems Programming                Rich Teer            PTR

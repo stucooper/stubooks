@@ -72,7 +72,7 @@ RHCSA/RHCE Study Guide 7e (EX200 EX300) 2016 Jang/Orsaria         McGrawHill
 Selected Papers on Computer Science          Knuth                CSLI
 Shells User's Guide HP                       HP 9000              HP
 Social Media and the Law (Australia)         Various              LexisNexis
-Software Estimation                          Steve McConnell      Microsoft
+Software Estimation                          Steve McConnell  mt2 Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins          mtb bookfix
 TCP/IP Explained                       1997  Philip Miller    brm digitalPress
