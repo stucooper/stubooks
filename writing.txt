@@ -1,7 +1,6 @@
 # books on writing and language
 The Curious Case of the Misplaced Modifier      Bonnie Trenga       dontcare
 A Dictionary of Modern English Usage            H.W Fowler          Oxford
-Don't Come the Raw Prawn: Aussie Phrase Book    John Blackman       sun
 The Elements of Style 4e                        Strunk/E B White    longman
 The English Language                            Robert Burchfield   Oxford
 A Grammar of the English Language               William Corbett     Oxford
