@@ -1,5 +1,4 @@
 # books on writing and language
-The Bestseller Code                             Archer/Jockers      StMartins
 The Curious Case of the Misplaced Modifier      Bonnie Trenga       dontcare
 A Dictionary of Modern English Usage            H.W Fowler          Oxford
 Don't Come the Raw Prawn: Aussie Phrase Book    John Blackman       sun
