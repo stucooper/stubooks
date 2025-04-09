@@ -2,6 +2,7 @@
 # If the book count hits 5 or more, spin out to a new file
 # Some publishers I have 2-4 books by eg Microsfort BenjCummings but
 # don't expect I'll ever hit 5 books.
+Ad Serving Technology                        Gregory Cristal      self
 Advanced C Programming by Example            John W. Perry        PWS
 ANSI Common Lisp                             Paul Graham      mtb PTR
 Ansible for DevOps                           Geerling             leanpub
