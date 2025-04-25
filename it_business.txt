@@ -8,7 +8,7 @@ The Alignment Problem                        Brian Christian      Atlantic
 Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 The Art of Immersion                         Frank Rose           norton
-Artificial Intelligence                      Matt Burgess   R2024 Wired
+Artificial Intelligence                R2024 Matt Burgess         Wired
 The Attention Merchants                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
@@ -39,7 +39,7 @@ Cult of the Dead Cow                         Joseph Menn          publicAffairs
 Cyberia                                      Douglas Rushkoff     Harper
 Cyberphonia                                  Edward Lucas         bloomsbury
 Cybershock                                   Winn Schwartau       ThundersMouth
-The Dark Net                          R2019  Jamie Bartlett       Windmill
+Dark Net,The                           R2019 Jamie Bartlett       Windmill
 The Darkening Web                            Alexander Klimburg   Penguin
 The Darkest Web                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
@@ -56,7 +56,7 @@ dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Dot.bomb Australia                           Kate Askew           AllenUnwin
 Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
-The Emoji Code                    2017/R2024 Vyvyan Evans         OMara
+The Emoji Code                         R2024 Vyvyan Evans         OMara
 Epic Win for Anonymous                       Cole Stryker         overlook
 Everybody Lies (Google internet searches)    Stephens-Davidowitz  bloomsbury
 Faking It                                    Toby Walsh           LaTrobeUni
