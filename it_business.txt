@@ -3,16 +3,16 @@
 Accidental Empires                           Robert X Cringely    dontcare
 Against intellectual monopoly                boldrin/levine       cambridge
 Age of Surveillance Capitalism               Shoshana Zuboff      profile
-The Apple Revolution  lost?                  Luke Dormehl         Virgin
-The Alignment Problem                        Brian Christian      Atlantic
+Apple Revolution,The  lost?                  Luke Dormehl         Virgin
+Alignment Problem,The                        Brian Christian      Atlantic
 Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
-The Art of Immersion                         Frank Rose           norton
+Art of Immersion,The                         Frank Rose           norton
 Artificial Intelligence                R2024 Matt Burgess         Wired
-The Attention Merchants                      Tim Wu               Atlantic
+Attention Merchants,The                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
-The Big Switch                               Nicholas Carr        dontcare
+Big Switch,The                               Nicholas Carr        dontcare
 Blitzscaling                                 Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
 Blockchain Revolution                        Don Tapscott         portfolio
@@ -24,7 +24,7 @@ Code and other laws of Cyberspace            Lawrence Lessig      BasicBooks
 Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
-The Coming Wave                              Suleyman             BodleyHead
+Coming Wave,The                              Suleyman             BodleyHead
 Competing on Analytics                       Davenport/Harris     harvard
 Convergence Culture                 lost?    Jenkins              NewYorkUni
 Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
@@ -33,15 +33,15 @@ Crypto                                       Levy                 Viking
 Cryptoassets                                 Burniske/Tatar       NcGrawHill
 Cryptocurrency                               Paul Vigna           BodleyHead
 Cryptocurrency                               Gian Volpicelli      Wired
-The Cuckoo's Egg                             Stoll                BodleyHead
+Cuckoo's Egg,The                             Stoll                BodleyHead
 Cult of the Amateur                          Andrew Keen          nicBrealey
 Cult of the Dead Cow                         Joseph Menn          publicAffairs
 Cyberia                                      Douglas Rushkoff     Harper
 Cyberphonia                                  Edward Lucas         bloomsbury
 Cybershock                                   Winn Schwartau       ThundersMouth
 Dark Net,The                           R2019 Jamie Bartlett       Windmill
-The Darkening Web                            Alexander Klimburg   Penguin
-The Darkest Web                              Eileen Ormsby        AllenUnwin
+Darkening Web,The                            Alexander Klimburg   Penguin
+Darkest Web,The                              Eileen Ormsby        AllenUnwin
 Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 Dawn of the Code War                         John P Carlin        Publicaffairs
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
@@ -56,30 +56,30 @@ dot.bomb strange death of dot.com Britain    Rory Cellan-Jones    aurum
 Dot.bomb Australia                           Kate Askew           AllenUnwin
 Dreaming in Code                             Scott Rosenberg      crown
 Drugs 2.0 Web Changing How World Gets High   Mike Power           portobello
-The Emoji Code                         R2024 Vyvyan Evans         OMara
+Emoji Code,The                         R2024 Vyvyan Evans         OMara
 Epic Win for Anonymous                       Cole Stryker         overlook
 Everybody Lies (Google internet searches)    Stephens-Davidowitz  bloomsbury
 Faking It                                    Toby Walsh           LaTrobeUni
 Fatal System Error                           Joseph Menn          publicAffairs
 Filter Bubblet: Internet hiding from you     Eli Pariser          Viking
 Founders: Inside Story of PayPal             Jimmy Soni           Atlantic
-The Four: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
+Four,The: Hidden DNA of Amaz/App/Fac/Googl   Scott Galloway       Penguin
 Free                                         Chris Anderson       rhbusiness
 freeloading: free starves creativity         Chris Ruen           scribe
 From Gutenberg to Zuckerberg: Internet       John Naughton        quercus
 Future Crimes                                Mark Goodman         corgi
-The Future of Ideas                          Lessig               vintage
-The Future of the Internet                   Jonathan Zittrain    Penguin
+Future of Ideas,The                          Lessig               vintage
+Future of the Internet,The                   Jonathan Zittrain    Penguin
 Future Perfect                               Steven Johnson       riverhead
 Geek Manifesto : Why Science Matters         Mark Henderson       corgi
 Geek Natin Indian Science taking over world  Angela Saini         hodder
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
 Geeks                                        Jon Katz             Hodder
-The Glass Cage                               Carr                 BodleyHead
+Glass Cage,The                               Carr                 BodleyHead
 Googled: end of the world as we know it      Ken Auletta          Virgin
 grown up digital                             Don Tapscott         McGraw Hill
 Hackers                                      Levy                 Penguin
-The Hacker Ethic                             Pekka Himanen        RandomHouse
+Hacker Ethic,The                             Pekka Himanen        RandomHouse
 Hacker/Hoaxer/Whistleblower/Spy: anonymous   Gabriella Coleman    verso
 Haunted Empire: Apple After Steve Jobs       Yukari Iwatani Kane  harper
 Head in the Cloud: Knowing things (CMC)      William Poundstone   LittleBrown
@@ -90,45 +90,45 @@ How to Deliver a TED talk                    Jeremy Donovan       McGrawHill
 How to Fix the Future                        Andrew Keen          Atlantic
 How Google Works                             Schmidt/Rosenberg    JohnMurray
 How Music Got Free                           Stephen Witt         Viking
-The Idea Factory: Bell Labs                  Jon Gertner          Penguin
-The Inevitable                               Kevin Kelly          Penguin
+Idea Factory,The: Bell Labs                  Jon Gertner          Penguin
+Inevitable,The                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
 Industries of the Future                     Alec Ross            SimonSchuster
 Instagram                                    Leaver/Highfield     polity
-The Intelligent Web                          Graham Shroff        Oxford
-The Innovator's Dilemma                      Christensen          harvard
-The Innovators                               Walter Isaacson      SimonSchuster
-The Internet is not the answer               Andrew Keen          Atlantic
+Intelligent Web,The                          Graham Shroff        Oxford
+Innovator's Dilemma,The                      Christensen          harvard
+Innovators,The                               Walter Isaacson      SimonSchuster
+Internet is not the answer,The               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
 It's Alive! == duplicate of Android Dreams)  Toby Walsh           blackInc
-The Joy of Linux                             Hall/Proffitt        dontcare
+Joy of Linux,The                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
 Kingpin                                      Kevin Poulsen        crown
 Lab Rats                                     Dan Lyons            atlantic
-The Lean Startup                             Eric Ries            portfolio
+Lean Startup,The                             Eric Ries            portfolio
 Life Inc                                     Douglas Rushkoff     RandomHouse
-The Long Tail                                Chris Anderson       Hyperion
+Long Tail,The                                Chris Anderson       Hyperion
 Machine Platform Crowd                       Brynjolfsson/McAfee  Norton
 Machines Behaving Badly: Morality of AI      Toby Walsh           LaTrobeUni
 Makers                                       Anderson             rhbusiness
 Makers                            lost?      Cory Doctorow        TOR
 Makers and Takers                            Rana Foroohar        crown
-The Master Switch                            Tim Wu               Atlantic
+Master Switch,The                            Tim Wu               Atlantic
 Max Hits: Building Promoting Websites        Slocombe             Rotovision
-The Media Lab (MIT)                          Steward Brand        Penguin
+Media Lab,The (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
 Nerds 2.0.1 Brief History of Internet        Stephen Segaller     TvBooks
 net.wars                                     Wendy M.Grossman     NYU
-The Net Delusion                             Evgeny Morozov       penguin
-The New Analog                               Damon Krukowski      NewPress
-The New Digital Age                          Schmidt/Cohen        Knopf
-The Next Digital Decade                      ed Szoka/Marcus      TechFreedom
+Net Delusion,The                             Evgeny Morozov       penguin
+New Analog,The                               Damon Krukowski      NewPress
+New Digital Age,The                          Schmidt/Cohen        Knopf
+Next Digital Decade,The                      ed Szoka/Marcus      TechFreedom
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
 Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
-The People vs Tech                           Jamie Bartlett       ebury
-The Phoenix Project                          Kim/Behr/Spafford    Itrev
+People vs Tech,The                           Jamie Bartlett       ebury
+Phoenix Project,The                          Kim/Behr/Spafford    Itrev
 Planet Google                                Randall Stross       Atlantic
 Pogue's Basics                               David Pogue          Flatiron
 Present Shock                                Douglas Rushkoff     current
@@ -141,11 +141,11 @@ Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
-The Rise of the Robots Mass Unemployment     Ford                 oneworld
-The Second Machine Age                       Brynjolfsson/McAfee  Norton
+Rise of the Robots Mass Unemployment,The     Ford                 oneworld
+Second Machine Age,The                       Brynjolfsson/McAfee  Norton
 Scrum                                        Jeff Sutherland      rhBusiness
-The Shallows: Internet changes how we think  Nicholas Carr        atlantic
-The Slow Fix                                 Carl Honore          WillCollins
+Shallows,The: Internet changes how we think  Nicholas Carr        atlantic
+Slow Fix,The                                 Carl Honore          WillCollins
 Silicon Snake Oil                            Clifford Stoll       Macmillan
 Silk Road                                    Eileen Ormsby        Macmillan
 Smarter than you think                       Clive Thompson       WillCollins
@@ -153,7 +153,7 @@ Sonic Boom Napster                           John Alderman        FourthEstate
 Sprint: Solve big problems test new ideas    Jake Knapp           bantam
 Start-Up Nation (Israel)                     Senor/Singer         twwlve
 Startup Focus                                pollenizer           pollenizer
-The Startup Way                              Eric Ries            portfolio
+Startup Way,The                              Eric Ries            portfolio
 Stolen Focus                                 Johann Hari          bloomsbury
 Takedown                                     Tsutomu Shimomura    SeckerWarburg
 Targeted: Cambridge Analytica                Brittany Kaiser      HarperCollins
@@ -168,7 +168,7 @@ Tools and Weapons                            Brad Smith           PenguinPress
 An Ugly Truth (Facebook)                     Frenkel/Kang         BridgeStreet
 Under the Radar                              Bob Young            coriolis
 Untangling the Web: What Inet doing to you   Aleks Krotoski       guardian
-The Upstarts: Uber, Airbnb                   Brad Stone           LittleBrown
+Upstarts,The: Uber, Airbnb                   Brad Stone           LittleBrown
 User Friendly: Hidden Rules of Design        Cliff Kuang          WHAllen
 Viral Loop: Power of Pass-it-on              Adam Penenberg       sceptre
 War of the Worlds                            Mark Slouka          Abacus
@@ -181,6 +181,6 @@ Wikinomics                                   Tapscott/Williams    Atlantic
 Wikipedia Revolution                         Andrew Lih           aurum
 Winners and Losers on the Internet           Kieran Levis         Atlantic
 Without their Permission                     Alexis Ohanian       BusinessPlus
-The World and Wikipedia                      Dalby                Siduri
+World and Wikipedia,The                      Dalby                Siduri
 You are not a gadget                         Jaron Lanier         vintage
 Zucked                                       Roger McNamee        HarperCollins
