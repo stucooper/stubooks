@@ -15,7 +15,8 @@ Higher Order Perl                 Dominus             Elsevier
 Intermediate Perl                 Schwartz/dfoy       ORA
 Intermediate Perl 2e              Schwartz/dfoy       ORA
 Learning Perl 1e (purple)         Wall/Schwartz       ORA lost?
-Learning Perl 7e                  Schwartz/foy/Phnix  ORA
+Learning Perl 5e                  Schwartz/foy/Phnix  ORA
+Learning Perl 7e                  Schwartz/foy/Phnix  ORA lost? neverhad?
 Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA
 Mastering Perl 2e                 brian d foy         ORA
 Learning Perl/Tk                  Nancy Walsh         ORA
