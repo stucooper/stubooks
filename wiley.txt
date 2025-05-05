@@ -21,7 +21,6 @@ Hands on Hacking                             Hickey/Arcuri        JohnWiley
 HTML and CSS                                 Jon Duckett          JohnWiley
 Javascript and JQuery                        Jon Duckett          JohnWiley
 Liars and Outliers                           Bruce Schneier       JohnWiley
-Making the Cisco Connection                  David Bunnell        JohnWiley
 Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts            lcb    Silberschatz/Galvin  JohnWiley
 Pentium Chronicles                           Robert P. Colwell    JohnWiley
