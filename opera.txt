@@ -1,0 +1,11 @@
+# Opera scores (piano reduction unless specified)
+Carmen                                   Bizet               Cramer
+Carmen                                   Bizet               Well-Tempered
+Gilbert&Sullivan Volume 1 Mik/Gon/Yeo    Gilbert/Sullivan    Chappell
+Gilbert&Sullivan Volume 2 Pin/Pze/Sor    Gilbert/Sullivan    Chappell
+Gilbert&Sullivan Vol 3 Rud/Pat/Duke/Jury Gilbert/Sullivan    Chappell
+Gilbert&Sullivan Volume 4 Iol/Uto/Ida    Gilbert/Sullivan    Chappell
+Marriage of Figaro,The                   Mozart              Schirmer
+Tosca                                    Puccini             Ricordi
+Tristan and Isolde (Full Orchestral)     Wagner              Dover
+
