@@ -23,6 +23,7 @@ Pro Django                                Alchin                 apress
 Pro Java ME Apps                          Ovidiu Iliescu    2011 apress brc
 Pro OpenSSH                               Stahnke                apress
 Pro Puppet 2e                             Krum/vanHevelingen     apress
+Pro Puppet                                Turnbull/McClune       apress
 Pulling strings with Puppet               James Turnbull         apress
 Python Machine Learning                   Rashka                 packt
 Regular Expression Recipes                Nathan A Good          apress pcg
