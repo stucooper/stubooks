@@ -1,8 +1,8 @@
 # apress books, mostly howto IT, some policy books + packt books
-Beginning OpenOffice Calc                 Artymiak               apress
+Beginning OpenOffice Calc                 Artymiak          2011 apress
 Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs                  apress
-Coders at Work                            Seibel                 apress
+Coders at Work                            Seibel            2009 apress
 Definitive Guide to Django                Holovaty               apress
 Definitive Guide to Grails                Graeme Rocher     2006 apress cor
 Definitive Guide to Terracotta            Terracotta Inc         apress brc
@@ -10,10 +10,10 @@ Deploying OpenLDAP                        Jackiewicz             apress
 DevOps for Digital Leaders                Ravichandran/Taylor    apress
 Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress
-Founders at Work                          Livingston             apress
+Founders at Work                          Livingston        2007 apress
 Machine Learning w PyTorch Scikit-Learn   Raschka/Liu/Mirjalili  packt
 Mastering MongoDB 7.0                     MongoDB Press          packt
-Mastering Ansible                    2015 Jesse Keating          packt
+Mastering Ansible                         Jesse Keating     2015 packt
 OpenVPN                                   Markus Fielner         packt
 Practical Common Lisp                     Seibel                 apress
 Practical Ruby for System Adminstration   Hamou                  apress
@@ -24,6 +24,6 @@ Pro Java ME Apps                          Ovidiu Iliescu    2011 apress brc
 Pro OpenSSH                               Stahnke                apress
 Pro Puppet 2e                             Krum/vHevelingen  2013 apress
 Pro Puppet                                Turnbull/McClune  2011 apress
-Pulling strings with Puppet               James Turnbull         apress
+Pulling strings with Puppet               James Turnbull    2007 apress
 Python Machine Learning                   Rashka                 packt
 Regular Expression Recipes                Nathan A Good          apress pcg
