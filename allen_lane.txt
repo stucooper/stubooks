@@ -234,7 +234,6 @@ Zero Zero Zero                               Saviano           Penguin
 # I use 'pp' for paperback instead of 'pb' because easier for my eyes
 # to distinguish between hb/pp compared to hb/pb
 All Things Made New (also creamy)            MacCulloch        ALane hb
-An Uncertain Glory                           Dreze and Sen     ALane hb
 Beyond Order                                 Jordan Peterson   ALane pp
 Big Screen,The                               Thomson           ALane hb
 Capitalism in America                        Greenspan/Wooldri ALane hb
