@@ -124,7 +124,6 @@ New Analog,The                               Damon Krukowski      NewPress
 New Digital Age,The                          Schmidt/Cohen        Knopf
 Next Digital Decade,The                      ed Szoka/Marcus      TechFreedom
 Now for then how to face digital w/out fear  Ben Hammersley       hodder
-Open Leadership: Social Technology Transform Charlene Li          JosseyBass
 Open Source: Technology and Policy           Deek/McHugh          cambridge
 People vs Tech,The                           Jamie Bartlett       ebury
 Phoenix Project,The                          Kim/Behr/Spafford    Itrev
