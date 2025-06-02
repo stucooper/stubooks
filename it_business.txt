@@ -12,7 +12,6 @@ Attention Merchants,The                      Tim Wu               Atlantic
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Big Switch,The                               Nicholas Carr        dontcare
-Blitzscaling                                 Hoffman/Yeh          curremcy
 Blockchain 2035                              Tate/Knapp           self
 Blockchain Revolution                        Don Tapscott         portfolio
 Blogs, Wikipedia, Second Life and Beyond     Alex Bruns           PeterLang
@@ -68,7 +67,6 @@ From Gutenberg to Zuckerberg: Internet       John Naughton        quercus
 Future Crimes                                Mark Goodman         corgi
 Future of Ideas,The                          Lessig               vintage
 Future of the Internet,The                   Jonathan Zittrain    Penguin
-Future Perfect                               Steven Johnson       riverhead
 Geek Manifesto : Why Science Matters         Mark Henderson       corgi
 Geek Natin Indian Science taking over world  Angela Saini         hodder
 geek Silicon Valley (travel guide)           ashlee vance         GlobePequor
@@ -92,10 +90,8 @@ Idea Factory,The: Bell Labs                  Jon Gertner          Penguin
 Inevitable,The                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
-Industries of the Future                     Alec Ross            SimonSchuster
 Instagram                                    Leaver/Highfield     polity
 Intelligent Web,The                          Graham Shroff        Oxford
-Innovator's Dilemma,The                      Christensen          harvard
 Innovators,The                               Walter Isaacson      SimonSchuster
 Internet is not the answer,The               Andrew Keen          Atlantic
 Internet Wars: struggle for power 21stC      Fergus Hanson        longueville
@@ -139,7 +135,6 @@ rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
 Republic, Lost                               Lawrence Lessig      Twelve
 Rise of the Robots Mass Unemployment,The     Ford                 oneworld
-Second Machine Age,The                       Brynjolfsson/McAfee  Norton
 Scrum                                        Jeff Sutherland      rhBusiness
 Shallows,The: Internet changes how we think  Nicholas Carr        atlantic
 Slow Fix,The                                 Carl Honore          WillCollins
