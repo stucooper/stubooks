@@ -55,7 +55,6 @@ Dial M for Murdoch                           Watson/Hickman    Penguin R2020
 Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
 Don't touch my hair                          Emma Dabiri       Penguin
-Dream of Enlightenment,The                   Anthony Gottlieb  Penguin
 Drunkard's Walk,The                          Milodinow         Penguin
 Egyptians,The                                Shenker           Penguin
 Element,The                                  Robinson          Penguin
@@ -256,7 +255,6 @@ Enlightenment,The                            Robertson         ALane hb
 Europeans,The                                Figes             ALane hb
 Fateful Choices                              Kershaw           ALane hb no dustj
 Fifth Risk,The                               Lewis             ALane hb DUP
-First Confession                             Patten            ALane hb
 France on Trial                              Julian Jackson    ALane hb
 Future Perfect                               Johnson           ALane hb
 Great Degeneration,The                       Niall Ferguson    ALane hb
