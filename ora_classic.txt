@@ -157,5 +157,4 @@ Website Optimization                     2008 Andrew B. King      ORA
 The Whole Internet 2e                         Ed Krol             ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
-X Window System in a Nutshell 2e         1992 ed Cutler/Gilly     ORA
 X Window System Administrator's Guide    1992 Mui/Pearce          ORA
