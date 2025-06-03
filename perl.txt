@@ -1,35 +1,35 @@
 # Perl books; mostly underneath the piano
-Advanced Perl Programming 1e      Srinivasan          ORA
-Advanced Perl Programming 2e      Cozens              ORA
+Advanced Perl Programming 1e      Srinivasan          ORA       1997
+Advanced Perl Programming 2e      Cozens              ORA       2005
 Automating sysadmin with Perl 2e  Blank-Edelman       ORA             pcg
 Beginning Perl 2e                 James Lee           Apress          pcg
 CGI Programming with Perl 2e      Guelice,Gundavaram  ORA             pcg
 Data Munging with Perl            Cross               Manning         pcg
-Effective Perl Programming 1e     Hall/Schwartz       AWL
-Effective Perl Programming 2e     Hall/McAdams/dFoy   AWL
+Effective Perl Programming 1e     Hall/Schwartz       AWL       1998
+Effective Perl Programming 2e     Hall/McAdams/dFoy   AWL       2010
 Elements of Programming with Perl Johnson             Manning         pcg
 Embedding Perl in HTML with Mason Rolsky/Williams     ORA             pcg
 Extending and Embedding Perl      Cozens/Jenness      Manning         pcg
 Graphics Programming with Perl    Verbruggen          Manning         pcg
 Higher Order Perl                 Dominus             Elsevier
-Intermediate Perl                 Schwartz/dfoy       ORA
-Intermediate Perl 2e              Schwartz/dfoy       ORA
+Intermediate Perl                 Schwartz/dfoy       ORA       2006
+Intermediate Perl 2e              Schwartz/dfoy       ORA       2012
 Learning Perl 1e (purple)         Wall/Schwartz       ORA lost?
-Learning Perl 5e                  Schwartz/foy/Phnix  ORA
-Learning Perl 7e                  Schwartz/foy/Phnix  ORA lost? neverhad?
-Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA
-Mastering Perl 2e                 brian d foy         ORA
+Learning Perl 5e                  Schwartz/foy/Phnix  ORA       2008
+Learning Perl 7e                  Schwartz/foy/Phnix  ORA       2016
+Mastering Algorithms with Perl    Orwant/Hietaniemi   ORA       1999
+Mastering Perl 2e                 brian d foy         ORA       2014
 Learning Perl/Tk                  Nancy Walsh         ORA
 Mastering Perl/Tk                 Lidie/Walsh         ORA
-Mastering Regular Expressions 3e  Friedl              ORA
-Minimal Perl                      Maher               Manning
+Mastering Regular Expressions 3e  Friedl              ORA       2006
+Minimal Perl                      Maher               Manning   2007
 MySQL and Perl for the Web        DuBois              NewRiders         pcg
 Network Programming with Perl     Stein               AWL
 Object Oriented Perl              Conway              Manning
 Official Guide to CGI.pm          Lincoln Stein       JohnWiley lost?
 Perl and & XML                    Ray/McIntosh        ORA               pcg
 Perl and & LWP                    Burke               ORA               pcg
-Perl Best Practices               Conway              ORA
+Perl Best Practices               Conway              ORA       2005
 Perl by Example 4e                Quigley             PTR               pcg
 Perl Cookbook                     Christiansen/Tork   ORA               pcg
 Perl Core language ltl black 2e   Holzner             coriolis          pcg
@@ -38,16 +38,16 @@ Perl for System Administration    Blank-Edelman       ORA
 Perl for the Web                  Chris Radcliff      NewRiders         pcg
 Perl for Web Site Management      Callender           ORA               pcg
 Perl Graphics Programming         Shawn Wallace       ORA
-Perl Medic                        Scott               AWL
-Perl One-Liners                   Krumins             nostarch
-Perl Testing Developer's Notebook Langworth/chromatic ORA
+Perl Medic                        Scott               AWL       2004
+Perl One-Liners                   Krumins             nostarch  2014
+Perl Testing Developer's Notebook Langworth/chromatic ORA       2005
 Perl 6 Essentials                 Randal/Sugalski     ORA               pcg
-Perls of Wisdom                   Schwartz            Apress
+Perls of Wisdom                   Schwartz            Apress    2005
 Practical mod_perl                Bekman              ORA               pcg
-Programming Perl 1e (purple)      Wall/Schwartz       ORA
-Programming Perl 2e               Wall/Christ/Schwar  ORA nicku
-Programming Perl 3e               Wall/Christiansen   ORA
-Programming the Perl DBI          Descartes/Bunce     ORA
+Programming Perl 1e (purple)      Wall/Schwartz       ORA       1991
+Programming Perl 2e               Wall/Christ/Schwar  ORA       1996
+Programming Perl 3e               Wall/Christiansen   ORA       2000
+Programming the Perl DBI          Descartes/Bunce     ORA       2000
 Programming the Network w/Perl    Barry               Wiley             pcg
 Programming Web Services w/Perl   Ray/Kulchenko       ORA               pcg
 Programming Web Services XML-RPC  StLaurent/Johnston  ORA               pcg
