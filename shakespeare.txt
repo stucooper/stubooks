@@ -74,5 +74,3 @@ Coriolanus                                        Shakespeare  Arden/Bloomsbury
 Edward III                                        Shakespeare  Arden/Bloomsbury
 Julius Caesar                                     Shakespeare  Arden/Bloomsbury
 Titus Andronicus                                  Shakespeare  Arden/Bloomsbury
-# other poets of the age
-First and Second Parts of King Edward IV          Heywood      Revels Plays
