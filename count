@@ -3,7 +3,7 @@
 # these books have now been moved into named .txt files eg ora_classic.txt
 # do not count the ebooks
 rm -f allbooks
-txtfiles=`ls *.txt | grep -v ebook`
+txtfiles=`ls *.txt | grep -v ebook | grep -v games_humble`
 for i in $txtfiles
 do
     cat $i >> allbooks
