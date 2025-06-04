@@ -26,7 +26,6 @@ Blueprint                                    Plomin            Penguin
 Body Keeps the Score,The                     Van Der Kolk      Penguin
 Bomber Mafia,The                             Gladwell          Penguin
 Boomerang                                    Lewis             Penguin
-Braiding Sweetgrass                          Kimmerer          Penguin
 Britain Against Napoleon                     Roger Knight      Penguin
 Bullshit jobs                                Graeber           Penguin
 Butchering Art,The                           Fitzharris        Penguin
@@ -154,7 +153,6 @@ Poor Economics                               Banerjee/Duflo    Penguin
 Price of Inequality,The                      Stiglitz          Penguin
 Priestdaddy                                  Lockwood          Penguin
 Promised You a Miracle                       Beckett           Penguin
-Quantum Universe,The                         Cox/Forshaw       Penguin
 Quest,The                                    Daniel Yergin     Penguin
 Reckoning,The                                Soil              Penguin
 Refuge                                       Betts/Collier     Penguin
