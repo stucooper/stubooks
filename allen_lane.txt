@@ -35,7 +35,6 @@ Candy Machine,The                            Feiling           Penguin
 Cat Sense                                    Bradshaw          Penguin
 Certain Idea of France,A                     Jackson           Penguin
 Chernobyl                                    Plokhy            Penguin
-Children of Ash and Elm,The                  Neil Price        Penguin
 China's War with Japan                       Mitter            Penguin
 Chopin's Piano                               Kildea            Penguin
 Churchill                                    Roberts           Penguin
@@ -105,7 +104,6 @@ Human Compatible                             Russell           Penguin
 Humble Pi                                    Parker            Penguin
 I'm Feeling Lucky                            Edwards           Penguin
 In Defence of Food                           Pollan            Penguin
-In Wartime                                   Judah             Penguin
 Invention of Science,The                     Wootton           Penguin
 Iron Curtain                                 Anne Applebaum    Penguin
 Iron Kingdom                                 Clark             Penguin
