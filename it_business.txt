@@ -45,7 +45,6 @@ Dawn of the Code War                         John P Carlin        Publicaffairs
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
 Digital Barbarism        lost?               Mark Helprin         Harper
-Digital Gold (bitcoin) <also allen_lane.txt> Nathaniel Popper     HarperCollins
 Disrupted start-up bubble                    Dan Lyons            hachette
 Does I.T Matter?                             Nicholas Carr        Harvard
 Dogfight: Apple and Google War               Fred Vogeistein      SarahCrich
