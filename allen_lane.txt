@@ -69,7 +69,6 @@ Entreprenerial State,The                     Mazzucato         Penguin
 Establishment,The                            Jones             Penguin
 Europe                                       Simms             Penguin
 Europe                                       Flannery          Penguin
-Eva Braun                                    Gortemaker        Penguin
 Every Song Ever                              Ratliff           Penguin
 Exercised                                    Lieberman         Penguin
 Fancy Bear Goes Phishing                     Scott j, Shapiro  Penguin
@@ -121,7 +120,6 @@ Long '68,The                                 Vinen             Penguin
 Losing Eden                                  Lucy Jones        Penguin
 Lost Japan                                   Kerr              Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
-Map and the Territory 2.0,The                Greenspan         Penguin
 Mindware                                     Nisbett           Penguin
 Mindwise                                     Epley             Penguin
 Misbehaving                                  Thaler            Penguin
