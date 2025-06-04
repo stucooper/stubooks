@@ -132,7 +132,6 @@ Misbehaving                                  Thaler            Penguin
 Modern Romance                               Ansari            Penguin
 Moonwalking with Einstein                    Foer              Penguin
 Music in the Castle of Heaven                Eliot Gardner     Penguin
-My Italians                                  Saviano           Penguin
 Napoleon the Great                           Roberts           Penguin
 Never Again (Britain 1945-51)                Hennessy          Penguin
 Nudge                                        Thaler/Sunstein   Penguin
@@ -302,7 +301,6 @@ Books v Cigarettes                           George Orwell     Peng GreatIdeas
 Consider the Fork                            Bee Wilson        Penguin
 D-Day Normandy                               Beevor            Penguin
 French Toast                                 Peta Mathias      Penguin
-Gomorrah                                     Saviano           Pan
 Greek Myths,The                              Robert Graves     Penguin
 Gulag                                        Anne Applebaum    Penguin
 Happiness Hypothesis,The                     Haidt             arrow
