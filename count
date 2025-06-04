@@ -1,9 +1,9 @@
 #!/bin/bash
 # This script used to count the files in 2019030104.txt boxes but all
 # these books have now been moved into named .txt files eg ora_classic.txt
-# do not count the ebooks
+# do not count the ebooks, nor videos_humble, games_humble
 rm -f allbooks
-txtfiles=`ls *.txt | grep -v ebook | grep -v games_humble`
+txtfiles=`ls *.txt | grep -v ebook | grep -v _humble`
 for i in $txtfiles
 do
     cat $i >> allbooks
