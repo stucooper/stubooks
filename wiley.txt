@@ -13,7 +13,6 @@ Building the Internet of Things              Maciej Kranz         JohnWiley
 ChatGPT Revolution, The                      Donna McGeorge       JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
-The Game Changer                             Dr Jason Fox         JohnWiley
 Garbage Collection                           Jones/Lins           JohnWiley
 Ghost in the Wires                           Kevin Mitnick        LittleBrown
 Google Speaks                                Janet Lowe           JohnWiley
