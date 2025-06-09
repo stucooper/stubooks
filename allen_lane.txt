@@ -219,7 +219,6 @@ Worldly Philosophers,The                     Heilbroner        Penguin
 # to distinguish between hb/pp compared to hb/pb
 All Things Made New (also creamy)            MacCulloch        ALane hb
 Beyond Order                                 Jordan Peterson   ALane pp
-Big Screen,The                               Thomson           ALane hb
 Capitalism in America                        Greenspan/Wooldri ALane hb
 Cancelling of the American Mind,The          Lukianoff/Schlott ALane hb
 Coddling of the American Mind                Lukianoff/Haidt   ALane hb
