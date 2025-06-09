@@ -66,14 +66,12 @@ Engineers of Victory                         Kennedy           Penguin
 English and their History                    Tombs             Penguin
 Enlightenment Now                            Pinker            Penguin
 Entreprenerial State,The                     Mazzucato         Penguin
-Establishment,The                            Jones             Penguin
 Europe                                       Simms             Penguin
 Europe                                       Flannery          Penguin
 Every Song Ever                              Ratliff           Penguin
 Exercised                                    Lieberman         Penguin
 Fancy Bear Goes Phishing                     Scott j, Shapiro  Penguin
 Fall of the Ottomans,The                     Rogan             Penguin
-Farewell to the Horse                        Ulrich Raulff     Penguin
 Feline Philosophy                            Gray              Penguin
 Feral                                        Monbiot           Penguin
 Fistful of Shells,A                          Green             Penguin
@@ -108,7 +106,6 @@ Iron Kingdom                                 Clark             Penguin
 Japanese,The                                 Harding           Penguin
 Justice                                      Michael J Sandel  Penguin
 Knowledge Machine,The                        Strevens          Penguin
-Landscapes of Commmunism                     Hatherley         Penguin
 Language Instinct,The                        Pinker            Penguin
 Last Man in Russia,The                       Bullough          Penguin
 Leadership and Self-Deception                Arbinger Institut Penguin
@@ -141,7 +138,6 @@ Outliers                                     Gladwell          Penguin
 Owls of the Eastern Ice                      Slaght            Penguin
 Partition,The                                Townshend         Penguin
 Party,The                                    McGregor          Penguin
-Permanent Present Tense                      Corkin            Penguin
 Penguin History of Modern China              Fenby             Penguin
 Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
@@ -156,7 +152,6 @@ Reckoning,The                                Soil              Penguin
 Refuge                                       Betts/Collier     Penguin
 Returning to Reims                           Didier Eribon     Penguin
 Righteous Mind,The                           Haidt             Penguin
-Rio de Janeiro                               Soares            Penguin
 Risk Savvy                                   Gigerenzer        Penguin
 Road to Character,The                        Brooks            Penguin
 Road to Somewhere,The                        Goodhart          Penguin
