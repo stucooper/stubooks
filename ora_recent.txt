@@ -66,7 +66,7 @@ Machine Learning for Hackers                  Drew Conway         ORA
 Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mapping Experiences                           Jim Kalbach         ORA
-Mastering Bitcoin                             Antonopoulos        ORA
+Mastering Bitcoin 2e                          Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web                         Russell             ORA
