@@ -39,6 +39,7 @@ HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
 How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Introduction to Theory of Computation 3e     Michael Sipser       Cengage
 iPhone app design manual                     brown                ilex
+Just Enough Software Architecture            Fairbanks            MB
 Linux File Systems                           Moshe Bar            McGrawHill
 Linux Network Servers                        Craig Hunt           Sybex
 Looking Good in Print 2e                     Roger C Parker       Ventuna
