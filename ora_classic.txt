@@ -85,6 +85,7 @@ Mac OSX (Tiger) for Unix Geeks 3e       2005  Jepson/ROthman      ORA
 Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
+MySQL in a Nutshell                      2005 Russell Dyer        ORA
 MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL            2002 Viega/Messier       ORA
 Network Troubleshooting Tools            2001 Sloan               ORA
