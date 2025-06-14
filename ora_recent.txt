@@ -83,10 +83,12 @@ producing open source software                Fogel               ORA
 The Productive Programmer                     Ford                ORA
 Prometheus: Up & Running                      Brazil              ORA
 Python Cookbook 2e                            Martelli/Ascher     ORA
+Python Data Science Handbook             2017 VanderPlas          ORA
 Python for Data Analysis                      Wes McKinney        ORA
 Python Standard Library                       Lundb               ORA
 R for Data Science                            Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
+Regular Expressions Cookbook             2009 Goyvaerts           ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
