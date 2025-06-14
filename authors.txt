@@ -16,14 +16,14 @@ Focault's Pendulum           lost?   Umberto Eco           Picador
 How to travel with a Salmon  lost?   Umberto Eco           HarvillSecker
 Misreadings                          Umberto Eco           Picador
 The Name of the Rose         lost?   Umberto Eco           Picador
-The Comedians                    hbc Graham Greene         penguin
-The End of the Affair     balcony    Graham Greene         penguin
+Comedians,The                    hbc Graham Greene         penguin
+End of the Affair,The     balcony    Graham Greene         penguin
 Doctor Fischer of Geneva  balcony    Graham Greene         penguin
 England Made Me                  hbc Graham Greene         penguin
 It's a Battlefield               hbc Graham Greene         penguin
-The Power and the Glory          hbc Graham Greene         penguin
+Power and the Glory,The          hbc Graham Greene         penguin
 Our Man in Havana                hbc Graham Greene         penguin
-The Quiet American                   Graham Greene         Vintage
+Quiet American,The                   Graham Greene         Vintage
 Alibi                                Joseph Kanon          sphere
 Defectors                            Joseph Kanon          SimonSchuster
 The Good German                      Joseph Kanon          LittleBrown
