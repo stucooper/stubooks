@@ -31,6 +31,7 @@ Perl and & LWP                    Burke               ORA               pcg
 Perl Best Practices               Conway              ORA       2005
 Perl by Example 4e                Quigley             PTR               pcg
 Perl Cookbook                     Christiansen/Tork   ORA               pcg
+Perl Cookbook 2e                  Christiansen/Tork   ORA       2003
 Perl Core language ltl black 2e   Holzner             coriolis          pcg
 Perl Debugged                     Scott/Wright        AWL               pcg
 Perl for System Administration    Blank-Edelman       ORA

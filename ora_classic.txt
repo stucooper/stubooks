@@ -37,6 +37,7 @@ Hackers and Painters  (2nd copy CMC Epping)   Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
+Head First Design Patterns                    Freeman/Freeman     ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
 Head First Java                               Sierra/Bates        ORA
 Head First JavaScript Programming             Freeman/Robson      ORA
@@ -47,6 +48,7 @@ HTML/XHTML Definitive Guide 4e                Musciano/Kennedy    ORA
 HTML5 Up and Running                          Pilgrim             ORA
 Information Architecture for the WWW 3e       Morville/Rosenfeld  ORA
 Internet in a Nutshell                   1997 Quercia             ORA brc
+Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
 IP Routing                                    Malhotra            ORA
 IPv6 Essentials 2e                            Hagen               ORA
 Java in a Nutshell 4e                         David Flanagan      ORA brc
