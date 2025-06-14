@@ -24,7 +24,6 @@ Genius: Feynman and Modern Physics  James Gleick           Abacus
 Godel Escher Bach                   Douglas Hofstadter     Penguin
 How to Win a Nobel Prize            Barry Marshall         piccoloNero
 The Information                     James Gleick           FourthEstate
-Inside Centre: Life of Oppenheimer  Ray Monk               JonathanCape lost?
 Isaac Newton                        James Gleick           Harper
 John von Neumann                    Norman Macrae          pantheon
 The Magic of Reality                Richard Dawkins        blackswan
@@ -37,6 +36,7 @@ Oppenheimer: Shatterer of Worlds    Peter Goodchild        BBC lost?
 Pandora's Keepers                   Brian Van De Mark      BackBay
 Quantum Man: Richard Feynman's life Lawrence M Krauss      norton
 Richard Feynman                     John and Mary Gribbin  Viking
+Ruin of J.Robert Oppenheimer,The    McMillan               Viking
 Second Creation Makers 21c Physics  Crease/Mann            rutgers lost?
 Seeing futher: Science Royal Soc    ed Bryson              HarperPress
 Scientific Feuds                    Joel Levy              NewHolland
