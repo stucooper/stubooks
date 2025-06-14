@@ -8,6 +8,7 @@ The Book of Gimp             2013 Lecarme/Delvare     nostarch
 The Book of IMAP             2008 Heinlein/Hartleben  nostarch
 The Book of IRC                   Charalabidis        nostarch
 The Book of Postfix          2005 Hildebrandt/Koetter nostarch
+The Book of R                2016 Tilman Davies       nostarch
 The Book of Ruby             2011 Collingbourne       nostarch
 The Cult of Mac                   Kahney              nostarch
 Clojure for Brave and True   2015 Higginbottom        nostarch
@@ -28,6 +29,7 @@ Official GNOME2 Devel Guide  2004 Warkus              nostarch
 Practical Packet Analysis 3e 2017 Sanders             nostarch
 The Practice of Network Sec Monit Bejtlich            nostarch
 Think like a Programmer      2012 Spraul              nostarch
+Penetration Testing          2014 Georgia Weidman     nostarch
 Python Crash Course               Eric Matthes  2016  nostarch
 Python Crash Course 2e            Eric Matthes  2019  nostarch
 Python for Kids              2013 Briggs              nostarch
