@@ -100,6 +100,7 @@ Human Compatible                             Russell           Penguin
 Humble Pi                                    Parker            Penguin
 I'm Feeling Lucky                            Edwards           Penguin
 In Defence of Food                           Pollan            Penguin
+Intuition Pumps                              Daniel C. Dennett Penguin
 Invention of Science,The                     Wootton           Penguin
 Iron Curtain                                 Anne Applebaum    Penguin
 Iron Kingdom                                 Clark             Penguin
@@ -131,13 +132,16 @@ On Fire                                      Klein             Penguin
 On Grand Strategy                            Gaddis            Penguin
 On Politics                                  Ryan              Penguin
 Order of Time,The                            Rovelli           Penguin
+Origin Story                                 Christian         Penguin
 Otherlands                                   Halliday          Penguin
 Our Boys                                     Parr              Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
 Owls of the Eastern Ice                      Slaght            Penguin
+Paper Trail,The                              Monro             Penguin
 Partition,The                                Townshend         Penguin
 Party,The                                    McGregor          Penguin
+Pattern Seekers,The                          Simon Baron-Cohen Penguin
 Penguin History of Modern China              Fenby             Penguin
 Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
@@ -200,6 +204,7 @@ We are our brains                            Swaab             Penguin
 Weapons of Math Destruction                  O'Neil            Penguin
 What is Populism?                            Muller            Penguin
 What Money Can't Buy                         Sandel            Penguin
+What the Dog Saw                             Gladwell          Penguin
 What you did not tell                        Mazower           Penguin
 When China Rules the World                   Jacques           Penguin
 When to Rob a Bank                           Levitt/Dubner     Penguin
@@ -225,6 +230,7 @@ Coddling of the American Mind                Lukianoff/Haidt   ALane hb
 Cold War: A World History,The                Odd Arne Westad   ALane hb
 Creative Schools                             Robinson          ALane pp DUP
 David and Goliath                            Malcolm Gladwell  ALane hb
+Days of Rage                                 Bryan Burrough    PenguinPress hb
 Doom                                         Ferguson          ALane pp
 Doomsday Men                                 P. D. Smith       ALane hb
 Demon in the Machine,The                     Davies            ALane pp
