@@ -9,19 +9,19 @@ Algorithms 2e                         Robert Sedgewick           1988 AWL
 Algorithms in C                       Robert Sedgewick           1990 AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
-The Annotated C++ Reference Manual    Ellis/Stroustrup           1990 AWL brc
+Annotated C++ Reference Manual,The    Ellis/Stroustrup           1990 AWL brc
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL
 Art of Computer Prog Vol 4 Fascicle 1 Knuth                           AWL
 Art of Computer Prog Vol 4 Fascicle 2 Knuth                           AWL
-The Art of UNIX Programming           Eric S. Raymond                 AWL
+Art of UNIX Programming,The           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
-The C Puzzle Book                     Feuer                           AWL
-The C++ Programming Language          Stroustrup              lost?   AWL
+C Puzzle Book,The                     Feuer                           AWL
+C++ Programming Language,The          Stroustrup              lost?   AWL
 C++ Programming Style                 Cargill                         AWL
-The C++ Standard Library              Josuttis                lost?   AWL
+C++ Standard Library,The              Josuttis                lost?   AWL
 Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
@@ -54,7 +54,7 @@ Forensic Discovery                    Farmer/Venema                   AWL
 Gigabit Networking                    Craig Partridge                 AWL
 Guide to LaTeX 4e                     Kopka/Daly                      AWL
 Guide to the SQL Standard             C J Date                        AWL
-The Go Programming Language           Donovan/Kernighan               AWL
+Go Programming Language,The           Donovan/Kernighan               AWL
 Haskell Craft of Functional Prog 3e   Simon Thompson                  AWL mt2
 History of Programming Languages      Bergin/Gibson                   AWL
 How to set up/maintain website 2e     Lincoln Stein                   AWL lost?
@@ -65,9 +65,9 @@ Intro to Database Systems 8e          C J Date                        AWL
 Kernel Projects for Linux             Gary Nutt (sml Chines ed) 2001  AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
 Latex A Document Prepartion System 2e Lamport                         AWL
-The LaTeX Companion 2e                Mittlebach                      AWL
-The LaTeX Graphics Companion          Goosens/Rahtz/Mittlebach        AWL
-The LaTeX Web Companion               Goosens                         AWL
+LaTeX Companion,The 2e                Mittlebach                      AWL
+LaTeX Graphics Companion,The          Goosens/Rahtz/Mittlebach        AWL
+LaTeX Web Companion,The               Goosens                         AWL
 Learn Python the Hard Way 3e          Shaw                            AWL
 LISP 3e                               Winston/Horn                    AWL mtb
 Linux Application Development         Johnson/Troan                   AWL
@@ -104,7 +104,7 @@ TCP/IP Illustrated Volume 1           Stevens                         AWL
 TCP/IP Illustrated Volume 1 2e 2012   Kevin R Fall/Stevens            AWL
 TCP/IP Illustrated Volume 2           Stevens                         AWL
 TCP/IP Illustrated Volume 3           Stevens                         AWL
-The TeXbook                           Knuth                           AWL
+TeXbook,The                           Knuth                           AWL
 Text processing in Python             Mertz                           AWL
 Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 Understanding and Deploying LDAP 2e   Howes/Smith/Good           2003 AWL brm
