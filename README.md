@@ -29,3 +29,15 @@ mt2    Monteiths Black Beer second box
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping
+
+Handy scripts and greps
+============================
+
+./count: Produce a (more or less accurate) count of my physical books;
+         grepping out "lost?" books, comment lines etc. This script
+	 creates a (non-git saved) file called allbooks
+
+egrep -v '(19|20)' ora_classic.txt: List files without 1998 2012
+                                    publication dates
+
+grep R20 wodehouse.txt: List books reviewed in my "booksiveread" project.
