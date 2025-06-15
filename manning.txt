@@ -22,6 +22,7 @@ R in Action                               Robert Kabacoff        Manning
 Relevant Search                    2016   Turnbull/Berryman      Manning
 Ruby in Practice                          McAnally/Arkin         Manning
 Serverless Applications w Node.js  2019   Stojanovic/Simovic     Manning
+Soft Skills                        2015   John Sonmez            Manning
 Spring in Action                   2005   Walls/Breidenbach      Manning brc
 Tao of Microservices,The           2018   Richard Rodger         Manning
 Well-Grounded Rubyist,The                 David A. Black         Manning
