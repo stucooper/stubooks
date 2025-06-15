@@ -1,16 +1,16 @@
 # IT books published by nostarch; often with bright yellow cartoon covers
 Ardunino Workshop                 Boxall              nostarch
-The Art of R Programming     2011 Matloff             nostarch
+Art of R Programming,The     2011 Matloff             nostarch
 Automate Boring Stuff wPython2015 Sweigart            nostarch
-The Blender Book             2001 Wartmann            nostarch
-The Book of CSS3                  Gasston             nostarch
-The Book of Gimp             2013 Lecarme/Delvare     nostarch
-The Book of IMAP             2008 Heinlein/Hartleben  nostarch
-The Book of IRC                   Charalabidis        nostarch
-The Book of Postfix          2005 Hildebrandt/Koetter nostarch
-The Book of R                2016 Tilman Davies       nostarch
-The Book of Ruby             2011 Collingbourne       nostarch
-The Cult of Mac                   Kahney              nostarch
+Blender Book,The             2001 Wartmann            nostarch
+Book of CSS3,The                  Gasston             nostarch
+Book of Gimp,The             2013 Lecarme/Delvare     nostarch
+Book of IMAP,The             2008 Heinlein/Hartleben  nostarch
+Book of IRC,The                   Charalabidis        nostarch
+Book of Postfix,The          2005 Hildebrandt/Koetter nostarch
+Book of R,The                2016 Tilman Davies       nostarch
+Book of Ruby,The             2011 Collingbourne       nostarch
+Cult of Mac,The                   Kahney              nostarch
 Clojure for Brave and True   2015 Higginbottom        nostarch
 Designing BSD Rootkits       2007 Kong                nostarch
 Learn Program in Minecraft   2016 Craig Richardson    nostarch
@@ -18,16 +18,16 @@ Lego Builder's Guide 2e      2013 Bedford             nostarch
 Lego Mindstorms EV2               Laurens Valk        nostarch
 How Linux Works 2e           2015 Ward                nostarch
 How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
-The IDA Pro Book             2008 Eagle               nostarch
+IDA Pro Book,The             2008 Eagle               nostarch
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
-The Linux Programming Interface   Kerrisk             nostarch
+Linux Programming Interface,The   Kerrisk             nostarch
 Network Flow Analysis             Lucas               nostarch
 Network Know-How                  Ross                nostarch
 Nagios 2e                    2008 Barth               nostarch
 Official GNOME2 Devel Guide  2004 Warkus              nostarch
 Practical Packet Analysis 3e 2017 Sanders             nostarch
-The Practice of Network Sec Monit Bejtlich            nostarch
+Practice of Network Sec Monit,The Bejtlich            nostarch
 Think like a Programmer      2012 Spraul              nostarch
 Penetration Testing          2014 Georgia Weidman     nostarch
 Python Crash Course               Eric Matthes  2016  nostarch
