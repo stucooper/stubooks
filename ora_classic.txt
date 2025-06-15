@@ -14,7 +14,7 @@ Building Linux Clusters                       Dpector             ORA
 Building Scalable Web Sites                   Henderson           ORA
 Building Secure Servers with Linux       2002 Bauer               ORA
 Building Wireless Community Networks     2002 Flickeneger         ORA
-The Cathedral and the Bazaar                  Eric S. Raymond     ORA
+Cathedral and the Bazaar,The                  Eric S. Raymond     ORA
 Cascading Style Sheets: Definitive Guide      Eric A Meyer        ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
@@ -157,7 +157,7 @@ Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                             Addison             ORA
 Web Security Testing Cookbook            2008 Hope/Walther        ORA
 Website Optimization                     2008 Andrew B. King      ORA
-The Whole Internet 2e                         Ed Krol             ORA
+Whole Internet,The 2e                         Ed Krol             ORA
 Windows Powershell Cookbook 2e                Holmes              ORA
 Writing GNU Emacs Extensions                  Bob Glickstein      ORA
 X Window System Administrator's Guide    1992 Mui/Pearce          ORA
