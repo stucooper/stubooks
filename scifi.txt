@@ -10,13 +10,13 @@ Prelude to Foundation                          Isaac Asimov        Harper
 Forward the Foundation                         Isaac Asimov        bantam
 # </Foundation series>
 Robot Visions                                  Isaac Asimov        gollancz
-A Fall of Moondust                             Arthur C. Clarke    gollancz
+Fall of Moondust,A                             Arthur C. Clarke    gollancz
 Childhood's End                                Arthur C. Clarke    TOR
-The Fall of the Towers                         Samuel R. Delany    sphere
-A Scanner Darkly                               Philip K. Dick      gollancz
+Fall of the Towers,The                         Samuel R. Delany    sphere
+Scanner Darkly,A                               Philip K. Dick      gollancz
 Do Androids Dream of Electric Sheep?           Philip K. Dick      gollancz
 Do Androids Dream of Electric Sheep?           Philip K. Dick      W&N
-The Three Stigmata of Palmer Eldritch          Philip K. Dick      gollancz
+Three Stigmata of Palmer Eldritch,The          Philip K. Dick      gollancz
 Necromancer                                    Gordon R. Dickson   Sphere
 American Gods                                  Neil Gaiman         headline
 All Tomorrows Parties                          William Gibson      Viking
@@ -25,33 +25,33 @@ Count Zero                                     William Gibson      HarpColl
 Distrust that Particular Flavour               William Gibson      penguin
 Mona Lisa Overdrive                            William Gibson      HarpColl
 Neuromancer                                    William Gibson      HarpColl
-The Peripheral                                 William Gibson      Viking
+Peripheral,The                                 William Gibson      Viking
 Harry Harrison! Harry Harrison! a memoir       Harry Harrison      TOR
 Dune                                           Frank Herbert       dontcare
-The Black Cloud                                Fred Hoyle          Penguin
+Black Cloud,The                                Fred Hoyle          Penguin
 Brave New World                                Huxley              Granada
 Brave New World Revisited                      Huxley              Granada
-The Children of Men                            P.D.James           faber
+Children of Men,The                            P.D.James           faber
 Flowers for Algernon                           Daniel Keys         gollancz
-The Lies of Locke Lamora                       Scott Lynch         gollancz
+Lies of Locke Lamora,The                       Scott Lynch         gollancz
 I Am Legend                                    Richard Matheson    gollancz
 Embassytown                            lost?   China Mieville      Pan
 King Rat                               lost?   China Mieville      Pan
 Eric                                           Terry Prachett      gollancz
-The Name of the Wind                           Patrick Rothfuss    gollancz
+Name of the Wind,The                           Patrick Rothfuss    gollancz
 Illuminatus Trilogy                            Shea/Wilson         dontcare
 Hyperion                                       Dan Simmons         gollancz
 2312                                           Kim StanleyRobinson Orbit
 Antarctica                                     Kim StanleyRobinson HarperCollins
-The Ministry for the Future                    Kim StanleyRobinson Orbit
+Ministry for the Future,The                    Kim StanleyRobinson Orbit
 Journey to the Centre of the Earth      lost?  Verne               WardLock
-The Book of the New Sun                        Gene Wolfe          gollancz
+Book of the New Sun,The                        Gene Wolfe          gollancz
 Chocky                                         John Wyndham        Penguin
-The Chrysalids                                 John Wyndham        Penguin
-The Day of the Triffids                        John Wyndham        Penguin R2023
-The Kraken Wakes                               John Wyndham        Penguin
-The Midwich Cuckoos                            John Wyndham        Penguin
+Chrysalids,The                                 John Wyndham        Penguin
+Day of the Triffids,The                        John Wyndham        Penguin R2023
+Kraken Wakes,The                               John Wyndham        Penguin
+Midwich Cuckoos,The                            John Wyndham        Penguin
 Trouble with Lichen                            John Wyndham        Penguin
 Breakfast of Champions                         Kurt Vonnegut       vintage
-The Brothers Vonnegut by Ginger Strand         Kurt Vonnegut       FSG
+Brothers Vonnegut,The by Ginger Strand         Kurt Vonnegut       FSG
 Welcome to the Monkey House                    Kurt Vonnegut       dialpress
