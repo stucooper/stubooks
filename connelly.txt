@@ -1,43 +1,43 @@
 # Michael Connelly thrillers
 Angels Flight                          Connelly          AllenUnwin
-The Black Box                          Connelly          AllenUnwin
-The Black Echo                         Connelly          Orion
-The Black Ice                          Connelly         Orion
+Black Box,The                          Connelly          AllenUnwin
+Black Echo,The                         Connelly          Orion
+Black Ice,The                          Connelly          Orion
 Blood Work                             Connelly          Orion
-The Brass Verdict                      Connelly          AllenUnwin
-The Burning Room                       Connelly          AllenUnwin
+Brass Verdict,The                      Connelly          AllenUnwin
+Burning Room,The                       Connelly          AllenUnwin
 Chasing the Dime                       Connelly          Orion
 City of Bones                          Connelly          AllenUnwin
-The Closers                            Connelly          Orion
-The Concrete Blonde                    Connelly          AllenUnwin
+Closers,The                            Connelly          Orion
+Concrete Blonde,The                    Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
-The Crossing                           Connelly          AllenUnwin
-The Dark Hours                         Connelly          AllenUnwin
+Crossing,The                           Connelly          AllenUnwin
+Dark Hours,The                         Connelly          AllenUnwin
 Dark Sacred Night                      Connelly          AllenUnwin
-A Darkness more than Night             Connelly          Orion
+Darkness more than Night,A             Connelly          Orion
 Desert Star                            Connelly          AllenUnwin
-The Drop                               Connelly          Orion R2021
+Drop,The                               Connelly          Orion R2021
 Echo Park                              Connelly          AllenUnwin
 Fair Warning                           Connelly          AllenUnwin
-The Fifth Witness                      Connelly          AllenUnwin
-The Gods of Guilt                      Connelly          AllenUnwin
-The Gods of Guilt                      Connelly          Orion
-The Last Coyote                        Connelly          Orion
-The Late Show                          Connelly          AllenUnwin
-The Law of Innocence                   Connelly          AllenUnwin
-The Lincoln Lawyer                     Connelly          AllenUnwin
+Fifth Witness,The                      Connelly          AllenUnwin
+Gods of Guilt,The                      Connelly          AllenUnwin
+Gods of Guilt,The                      Connelly          Orion
+Last Coyote,The                        Connelly          Orion
+Late Show,The                          Connelly          AllenUnwin
+Law of Innocence,The                   Connelly          AllenUnwin
+Lincoln Lawyer,The                     Connelly          AllenUnwin
 Lost Light                             Connelly          Orion
-The Narrows                            Connelly          Orion
-The Night Fire                         Connelly          AllenUnwin
-The Night Fire                         Connelly          Orion
+Narrows,The                            Connelly          Orion
+Night Fire,The                         Connelly          AllenUnwin
+Night Fire,The                         Connelly          Orion
 Nine Dragons                           Connelly          Orion
-The Poet                               Connelly          Orion
-The Overlook                           Connelly          AllenUnwin
-The Reversal                           Connelly          Orion
-The Scarecrow                          Connelly          Orion
+Poet,The                               Connelly          Orion
+Overlook,The                           Connelly          AllenUnwin
+Reversal,The                           Connelly          Orion
+Scarecrow,The                          Connelly          Orion
 Trunk Music                            Connelly          Orion
 Two Kinds of Truth                     Connelly          AllenUnwin
-The Wrong Side of Goodbye              Connelly          AllenUnwin
+Wrong Side of Goodbye,The              Connelly          AllenUnwin
 Void Moon                              Connelly          Orion
 
 Harry Bosch novels BlkEch/BlkIce/Concrete        Connelly    AllenUnwin
