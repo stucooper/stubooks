@@ -7,18 +7,18 @@ DSLs in Action                     2011   Debasish Ghosh         Manning
 Get Programming with Node.js       2019   Jonathan Wexler        Manning cor
 Geoprocessing with Python          2016   Chris Garrard          Manning
 Getting MEAN                              Simon Holmes           Manning
-Gnuplot in Action                         Janert                 Manning
+Gnuplot in Action                  2010   Janert                 Manning
 Go in Practice                     2016   Matts Butcher/Farina   Manning
 Hello World                        2009   Sande                  Manning
 Hello World 2e                     2014   Sande                  Manning
 Java Development with Ant          2003   Hatcher/Loughran       Manning brc
-JavaScript Application Design             Nicolas Bevacqua       Manning
+JavaScript Application Design      2015   Nicolas Bevacqua       Manning
 Joy of Clojure,The 2e              2014   Fogus/Houser           Manning
-jQuery in Action                          Bibeault/Katz          Manning
+jQuery in Action                   2008   Bibeault/Katz          Manning
 MongoDB in Action                         Kyle Banker            Manning
-PostGIS in Action 2e                      Obe/Hsu                Manning
+PostGIS in Action 2e               2015   Obe/Hsu                Manning
 Quick Python Book,The 2e           2010   Naomi Ceder            Manning
-R in Action                               Robert Kabacoff        Manning
+R in Action                        2011   Robert Kabacoff        Manning
 Relevant Search                    2016   Turnbull/Berryman      Manning
 Ruby in Practice                          McAnally/Arkin         Manning
 Serverless Applications w Node.js  2019   Stojanovic/Simovic     Manning
