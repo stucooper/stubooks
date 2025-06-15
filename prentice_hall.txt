@@ -4,9 +4,9 @@ Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
 Artificial Intelligence Modern Approach 3e Russell/Norvig       PTR
 Breaking through the BIOS Barrier          Adrian Wong          PTR
 Broadband Network Architectures            Hellberg/Greene      PTR
-The C Answer Book 2e                       Tondo/Gimpel    1989 PTR
-The C Programming Language                 Kernighan/Ritchie    PTR
-The C Programming Language 2e              Kernighan/Ritchie    PTR
+C Answer Book,The 2e                       Tondo/Gimpel    1989 PTR
+C Programming Language,The                 Kernighan/Ritchie    PTR
+C Programming Language,The 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
 Clean Code                                 Robert C. Martin     PTR lc2
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR lc2
@@ -36,14 +36,14 @@ Just Java 2 6e                             Peter van der Linden PTR
 Life with Unix                             Libes/Ressler        PTR lost?
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
-The Linux Development Platform             Rehman/Paul          PTR
-The Linux Kernel Primer                    Rodriguez/Fischer    PTR
-The Linux Programmers Toolbox              John Fusco           PTR
+Linux Development Platform,The             Rehman/Paul          PTR
+Linux Kernel Primer,The                    Rodriguez/Fischer    PTR
+Linux Programmers Toolbox,The              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
 Linux Routers                              Mancill              PTR
 Linux System Security                      Mann/Mitchell        PTR
-The Magic Garden Explained                 Goodheart/Cox  lcb   PTR
-The Magic Garden Explained Solutions Manl  Goodheart/Cox  lcb   PTR
+Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
+Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR mt2
@@ -67,7 +67,7 @@ A Software Tools Sampler                   Webb Miller          PTR mt2
 Solaris Application Programming            Gove                 PTR
 Solaris Internals 2e                       McDougall/Mauro      PTR
 Solaris Systems Programming                Rich Teer            PTR
-The Standard C Library                     Plauger              PTR
+Standard C Library,The                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum lcb PTR
 Systems Performance                        Brendan Gregg        PTR
@@ -82,7 +82,7 @@ Unix and Linux Sys Adminis Handbook 4e     Nemeth/Snyder        PTR 2011
 Unix Network Programming 1e pback          W Richard Stevens    PTR
 Unix Network Programming Volume 1 2e       W Richard Stevens    PTR
 Unix Network Programming Volume 2 2e       W Richard Stevens    PTR
-The UNIX Programming Environment           Kernighan/Pike       PTR
+UNIX Programming Environment,The           Kernighan/Pike       PTR
 UNIX System V Programmer's Guide    1987   AT&T                 PTR brm
 UNIX Systems Programming                   Kay/Steven Robbins   PTR
 Voice Over IP 2e                           Black                PTR
