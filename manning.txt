@@ -3,6 +3,7 @@ Algorithms of the Intelligent Web         Murmanis/Babenko       Manning
 Clojure in Action 2e               2016   Rathore/Avila          Manning
 Deep Learning with Python          2018   Chollet                Manning
 Deep Learning with PyTorch         2020   Stevens/Antiga         Manning
+DSLs in Action                     2011   Debasish Ghosh         Manning
 Get Programming with Node.js       2019   Jonathan Wexler        Manning cor
 Geoprocessing with Python          2016   Chris Garrard          Manning
 Getting MEAN                              Simon Holmes           Manning
