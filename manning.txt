@@ -12,16 +12,16 @@ Hello World                               Sande                  Manning
 Hello World 2e                            Sande                  Manning
 Java Development with Ant          2003   Hatcher/Loughran       Manning brc
 JavaScript Application Design             Nicolas Bevacqua       Manning
-The Joy of Clojure 2e              2014   Fogus/Houser           Manning
+Joy of Clojure,The 2e              2014   Fogus/Houser           Manning
 jQuery in Action                          Bibeault/Katz          Manning
 MongoDB in Action                         Kyle Banker            Manning
 PostGIS in Action 2e                      Obe/Hsu                Manning
-The Quick Python Book 2e           2010   Naomi Ceder            Manning
+Quick Python Book,The 2e           2010   Naomi Ceder            Manning
 R in Action                               Robert Kabacoff        Manning
 Relevant Search                    2016   Turnbull/Berryman      Manning
 Ruby in Practice                          McAnally/Arkin         Manning
 Serverless Applications w Node.js  2019   Stojanovic/Simovic     Manning
 Spring in Action                   2005   Walls/Breidenbach      Manning brc
-The Tao of Microservices           2018   Richard Rodger         Manning
-The Well-Grounded Rubyist                 David A. Black         Manning
+Tao of Microservices,The           2018   Richard Rodger         Manning
+Well-Grounded Rubyist,The                 David A. Black         Manning
 
