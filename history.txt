@@ -1,6 +1,6 @@
 # War and History books
 Arnhem                             Antony Beevor       Penguin
-The Art of War                     Sun Tzu             Oxford
+Art of War,The                     Sun Tzu             Oxford
 Austerity Britain 1945-51          David Kynaston      bloomsbury
 Berlin: The Downfall               Antony Beevor       Penguin
 Between Silk and Cyanide           Leo Marks           harpercollins
@@ -8,15 +8,15 @@ Blood, Tears and Folloy: WW2       Len Deighton        Pimlico
 A Bright Shining Lie               Neil Sheehan        JonathanCape
 Cold War                           Isaacs/Downing      abacus
 colossus: Bletchley Park           Paul Gannon         Atlantic
-The Coming of the Third Reich      Richard J. Evans    penguin
-The Cultural Revolution            Frank Dikotter      bloomsbury
+Coming of the Third Reich,The      Richard J. Evans    penguin
+Cultural Revolution,The            Frank Dikotter      bloomsbury
 Decline and Fall Roman Empire I    Edward Gibbon       BrittanicaGt lost?
 Decline and Fall Roman Empire II   Edward Gibbon       BrittanicaGt lost?
 Empire                             Jeremy Paxman       BBC
-The English: portrait of a people  Jeremy Paxman       penguin
+English,The: portrait of a people  Jeremy Paxman       penguin
 Five Days in London                John Lukacs         scribe
 Gallipoli                          Les Carlyon         Macmillan
-The German Genius                  Peter Watson        SimonSchuster
+German Genius,The                  Peter Watson        SimonSchuster
 History of England Vol 1 Foundat   Peter Ackroyd       Macmillan
 History of England Vol 2 Tudors    Peter Ackroyd       Macmillan
 History of England IV: Revolution  Peter Ackroyd       Macmillan
@@ -24,7 +24,7 @@ History of the Second World War    Basil Liddell Hart  Pan
 Ideas                              Peter Watson        phoenix
 In our time                        Bragg               Sceptre
 Israel: A History                  Martin Gilbert      BlackSwan
-The Korean War                     Max Hastings        Pan
+Korean War,The                     Max Hastings        Pan
 Lands/Peoples I:   British Isles and Western Europe    GrolierSociety
 Lands/Peoples II:  Baltic States and Central Europe    GrolierSociety
 Lands/Peoples III: Near and Middle East                GrolierSociety
@@ -43,18 +43,18 @@ Radical Newcastle                  ed Bennett/Cushing  UNSW
 Radical Sydney                     Terry Irving/Cahill UNSW
 Rubicon                            Tom Holland         Abacus
 Russian Revolution brief insight   Smith               Sterling
-The Second World War               Antony Beevor       Phoenix
-The Secret War                     Max Hastings        WilliamCollins
+Second World War,The               Antony Beevor       Phoenix
+Secret War,The                     Max Hastings        WilliamCollins
 Six Minutes in May                 Nicholas Shakespeare HarvillSecker
 Small Wars, Faraway Places         Burleigh            viking
-The Soong Dynasty                  Sterling Seagrave   perennial
+Soong Dynasty,The                  Sterling Seagrave   perennial
 Spies and Commissars               Robert Service      macmillan
 Splendid and Vile (London Blitz)   Erik Larson         WilliamCollins
 Stalingrad                         Antony Beevor       Penguin
 Stasiland                          Anna Funder         text
 Utterly Exasperated Hist Britain   John O'Farrell      doubleday
-The Third Reich at War             Richard J Evans     penguin
-The Third Reich in Power           Richard J Evans     penguin
+Third Reich at War,The             Richard J Evans     penguin
+Third Reich in Power,The           Richard J Evans     penguin
 Tragedy of Liberation              Frank Dikotter      bloomsbury
 Vietnam: A History                 Stanley Karnow      Pimlico
 Vietnam an Epic Tragedy 1945-75    Max Hastings        WilliamCollins
