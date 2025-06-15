@@ -1,42 +1,42 @@
 # IT books published by nostarch; often with bright yellow cartoon covers
 Ardunino Workshop                 Boxall              nostarch
-Art of R Programming,The     2011 Matloff             nostarch
-Automate Boring Stuff wPython2015 Sweigart            nostarch
-Blender Book,The             2001 Wartmann            nostarch
+Art of R Programming,The          Matloff             nostarch 2011
+Automate Boring Stuff wPython     Sweigart            nostarch 2015
+Blender Book,The                  Wartmann            nostarch 2001
 Book of CSS3,The                  Gasston             nostarch
-Book of Gimp,The             2013 Lecarme/Delvare     nostarch
-Book of IMAP,The             2008 Heinlein/Hartleben  nostarch
+Book of Gimp,The                  Lecarme/Delvare     nostarch 2013
+Book of IMAP,The                  Heinlein/Hartleben  nostarch 2008
 Book of IRC,The                   Charalabidis        nostarch
-Book of Postfix,The          2005 Hildebrandt/Koetter nostarch
-Book of R,The                2016 Tilman Davies       nostarch
-Book of Ruby,The             2011 Collingbourne       nostarch
+Book of Postfix,The               Hildebrandt/Koetter nostarch 2005
+Book of R,The                     Tilman Davies       nostarch 2016
+Book of Ruby,The                  Collingbourne       nostarch 2011
 Cult of Mac,The                   Kahney              nostarch
-Clojure for Brave and True   2015 Higginbottom        nostarch
-Designing BSD Rootkits       2007 Kong                nostarch
-Learn Program in Minecraft   2016 Craig Richardson    nostarch
-Lego Builder's Guide 2e      2013 Bedford             nostarch
+Clojure for Brave and True        Higginbottom        nostarch 2015
+Designing BSD Rootkits            Kong                nostarch 2007
+Learn Program in Minecraft        Craig Richardson    nostarch 2016
+Lego Builder's Guide 2e           Bedford             nostarch 2013
 Lego Mindstorms EV2               Laurens Valk        nostarch
-How Linux Works 2e           2015 Ward                nostarch
+How Linux Works 2e                Ward                nostarch 2015
 How Wikipedia Works               Ayers/Mathews       nostarch (cmc epping)
-IDA Pro Book,The             2008 Eagle               nostarch
+IDA Pro Book,The                  Eagle               nostarch 2008
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
 Linux Programming Interface,The   Kerrisk             nostarch
 Network Flow Analysis             Lucas               nostarch
 Network Know-How                  Ross                nostarch
-Nagios 2e                    2008 Barth               nostarch
-Official GNOME2 Devel Guide  2004 Warkus              nostarch
-Practical Packet Analysis 3e 2017 Sanders             nostarch
+Nagios 2e                         Barth               nostarch 2008
+Official GNOME2 Devel Guide       Warkus              nostarch 2004
+Practical Packet Analysis 3e      Sanders             nostarch 2017
 Practice of Network Sec Monit,The Bejtlich            nostarch
-Think like a Programmer      2012 Spraul              nostarch
-Penetration Testing          2014 Georgia Weidman     nostarch
-Python Crash Course          2016 Eric Matthes        nostarch
-Python Crash Course 2e       2019 Eric Matthes        nostarch
-Python for Kids              2013 Briggs              nostarch
-Realm of Racket              2013 Felleisen           nostarch
-Ruby by Example              2007 Kevin C Reid        nostarch
-Scratch Prog Playground      2016 Sweigart            nostarch
+Think like a Programmer           Spraul              nostarch 2012
+Penetration Testing               Georgia Weidman     nostarch 2014
+Python Crash Course               Eric Matthes        nostarch 2016
+Python Crash Course 2e            Eric Matthes        nostarch 2019
+Python for Kids                   Briggs              nostarch 2013
+Realm of Racket                   Felleisen           nostarch 2013
+Ruby by Example                   Kevin C Reid        nostarch 2007
+Scratch Prog Playground           Sweigart            nostarch 2016
 TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch
-Wicked Cool Perl Scripts     2006 Oualline            nostarch
-Wicked Cool Shell Scripts    2004 Taylor              nostarch
+Wicked Cool Perl Scripts          Oualline            nostarch 2006
+Wicked Cool Shell Scripts         Taylor              nostarch 2004
