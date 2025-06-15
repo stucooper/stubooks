@@ -4,11 +4,11 @@
 Advanved Penetration Testing           2017  Wil Allsopp          JohnWiley brm
 Ajax Bible                                   Steven Holzner       JohnWiley
 Applied Cryptography                         Bruce Schneier       JohnWiley
-The Art of Deception                         Kevin Mitnick        JohnWiley
-The Art of Intrusion                         Mitnick/Simon        JohnWiley
-The Art of Invisibility                      Mitnick/Vamosi       BackBay
+Art of Deception,The                         Kevin Mitnick        JohnWiley
+Art of Intrusion,The                         Mitnick/Simon        JohnWiley
+Art of Invisibility,The                      Mitnick/Vamosi       BackBay
 Become a YouTuber                      2018  Cristina Calabrese   JohnWiley
-The Bitcoin Standard                         Saifedean Ammous     JohnWiley
+Bitcoin Standard,The                         Saifedean Ammous     JohnWiley
 Building the Internet of Things              Maciej Kranz         JohnWiley
 ChatGPT Revolution, The                      Donna McGeorge       JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
