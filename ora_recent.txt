@@ -6,9 +6,9 @@
 Ambient Findability                           Morville            ORA
 Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
-The Art of Agile Development                  Shore/Warden        ORA
-The Art of Concurrency                        Breshears           ORA
-The Art of SEO                                Enge/Spencer        ORA
+Art of Agile Development,The                  Shore/Warden        ORA
+Art of Concurrency,The                        Breshears           ORA
+Art of SEO,The                                Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
@@ -37,7 +37,7 @@ Facebook: The Missing Manual                  Veer                ORA
 Flask Web Development 2e                      Grinberg            ORA
 Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                        Zichermann          ORA
-The Geek Atlas                                Graham-Cunning      ORA
+Geek Atlas,The                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 4e                White               ORA
@@ -80,7 +80,7 @@ Programming Collective Intelligence           Segaran             ORA
 Programming Python 3e                         Lutz                ORA
 Planning for IPv6                             Hagen               ORA
 producing open source software                Fogel               ORA
-The Productive Programmer                     Ford                ORA
+Productive Programmer,The                     Ford                ORA
 Prometheus: Up & Running                      Brazil              ORA
 Python Cookbook 2e                            Martelli/Ascher     ORA
 Python Data Science Handbook             2017 VanderPlas          ORA
@@ -92,7 +92,7 @@ Regular Expressions Cookbook             2009 Goyvaerts           ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
-The Ruby Programming Language                 Flanagan/Matsumoto  ORA
+Ruby Programming Language,The                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
