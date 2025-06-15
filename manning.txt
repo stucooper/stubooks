@@ -9,8 +9,8 @@ Geoprocessing with Python          2016   Chris Garrard          Manning
 Getting MEAN                              Simon Holmes           Manning
 Gnuplot in Action                         Janert                 Manning
 Go in Practice                     2016   Matts Butcher/Farina   Manning
-Hello World                               Sande                  Manning
-Hello World 2e                            Sande                  Manning
+Hello World                        2009   Sande                  Manning
+Hello World 2e                     2014   Sande                  Manning
 Java Development with Ant          2003   Hatcher/Loughran       Manning brc
 JavaScript Application Design             Nicolas Bevacqua       Manning
 Joy of Clojure,The 2e              2014   Fogus/Houser           Manning
