@@ -13,7 +13,7 @@ Book of Ruby,The                  Collingbourne       nostarch 2011
 Cult of Mac,The                   Kahney              nostarch
 Clojure for Brave and True        Higginbottom        nostarch 2015
 Designing BSD Rootkits            Kong                nostarch 2007
-Learn Program in Minecraft        Craig Richardson    nostarch 2016
+Learn to Program with Minecraft   Craig Richardson    nostarch 2016
 Lego Builder's Guide 2e           Bedford             nostarch 2013
 Lego Mindstorms EV2               Laurens Valk        nostarch
 How Linux Works 2e                Ward                nostarch 2015
@@ -22,8 +22,8 @@ IDA Pro Book,The                  Eagle               nostarch 2008
 Linux Cookbook                    Stutz               nostarch
 Linux Enterprise Cluster          Kopper              nostarch
 Linux Programming Interface,The   Kerrisk             nostarch
-Network Flow Analysis             Lucas               nostarch
-Network Know-How                  Ross                nostarch
+Network Flow Analysis             Lucas               nostarch 2010
+Network Know-How                  Ross                nostarch 2009
 Nagios 2e                         Barth               nostarch 2008
 Official GNOME2 Devel Guide       Warkus              nostarch 2004
 Practical Packet Analysis 3e      Sanders             nostarch 2017
