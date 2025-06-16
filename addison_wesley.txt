@@ -76,9 +76,9 @@ Linux Kernel Development 3e           Robert Love                     AWL
 LINUX Kernel Internals                various Germans        lost?    AWL
 Mathematica 2e                        Stephen Wolfram                 AWL cftbl
 More Programming Pearls               Jon Bentley                     AWL
-Moving to Free Software               Gagne                           AWL
+Moving to Free Software               Gagne                      2007 AWL
 New Hacker's Dictionary               ed Eric S. Raymond              AWL
-NFS Illustrated                       Callaghan                       AWL
+NFS Illustrated                       Callaghan                  2000 AWL
 Object Technology A Manager's Guide   David A Taylor                  AWL
 Practical Java                        Peter Haggar               2000 AWL brc
 Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
