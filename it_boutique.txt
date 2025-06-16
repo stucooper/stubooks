@@ -5,7 +5,7 @@
 Ad Serving Technology                        Gregory Cristal      self
 Advanced C Programming by Example            John W. Perry        PWS
 ANSI Common Lisp                             Paul Graham      mtb PTR
-Ansible for DevOps                           Geerling             leanpub
+Ansible for DevOps 2e                   2020 Geerling             leanpub
 Apache Web Server Admin               lost?  Aulds                Sybex
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
 The Blender Gamekit 2e                       Wartmann             Blender
@@ -41,7 +41,7 @@ Introduction to Theory of Computation 3e     Michael Sipser       Cengage
 iPhone app design manual                     brown                ilex
 Just Enough Software Architecture            Fairbanks            MB
 Linux File Systems                           Moshe Bar            McGrawHill
-Linux Network Servers                        Craig Hunt           Sybex
+Linux Network Servers                   1999 Craig Hunt           Sybex
 Looking Good in Print 2e                     Roger C Parker       Ventuna
 The Macintosh Way                            Guy Kawasaki         ScottForesman
 Mastering VMware vSphere 5.5                 Lowe/Marshall  2014  Sybex brm
