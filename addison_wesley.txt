@@ -32,9 +32,9 @@ Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
 Design and Evolution of C++           Bjarne Stroustrup          1994 AWL brc
-Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/Quamann AWL
-Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/Quamann  AWL
-Design and Implementation FreeBSD     McKusick/Neville-Neil           AWL
+Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/   1989 AWL
+Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/    1996 AWL
+Design and Implementation FreeBSD     McKusick/Neville-Neil      2005 AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
 Designing Storage Area Networks 2e    Tom Clark                       AWL
 Digital Typography                    Knuth                           csli
@@ -109,7 +109,7 @@ Text processing in Python             Mertz                           AWL
 Troubleshooting Linux Firewalls       Michael Shinn                   AWL
 Understanding and Deploying LDAP 2e   Howes/Smith/Good           2003 AWL brm
 UNIX Internals                        Pate                            AWL
-Unix Network Programming Vol 1 3e     Stevens/Fenner sockets          AWL
+Unix Network Programming Vol 1 3e     Stevens/Fenner sockets     2004 AWL
 Unix System Security                  David A Curry              1992 AWL
 Unix System V Network Programming     Rago                            AWL
 UNIX Systems for Modern Architectures Schimmel                   lcb  AWL
