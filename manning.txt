@@ -15,7 +15,7 @@ Java Development with Ant          2003   Hatcher/Loughran       Manning brc
 JavaScript Application Design      2015   Nicolas Bevacqua       Manning
 Joy of Clojure,The 2e              2014   Fogus/Houser           Manning
 jQuery in Action                   2008   Bibeault/Katz          Manning
-MongoDB in Action                         Kyle Banker            Manning
+MongoDB in Action                  2012   Kyle Banker            Manning
 PostGIS in Action 2e               2015   Obe/Hsu                Manning
 Quick Python Book,The 2e           2010   Naomi Ceder            Manning
 R in Action                        2011   Robert Kabacoff        Manning
