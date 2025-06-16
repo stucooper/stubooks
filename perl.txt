@@ -11,7 +11,7 @@ Elements of Programming with Perl Johnson             Manning         pcg
 Embedding Perl in HTML with Mason Rolsky/Williams     ORA             pcg
 Extending and Embedding Perl      Cozens/Jenness      Manning         pcg
 Graphics Programming with Perl    Verbruggen          Manning         pcg
-Higher Order Perl                 Dominus             Elsevier
+Higher Order Perl                 Dominus             MK        2005
 Intermediate Perl                 Schwartz/dfoy       ORA       2006
 Intermediate Perl 2e              Schwartz/dfoy       ORA       2012
 Learning Perl 1e (purple)         Wall/Schwartz       ORA lost?
@@ -24,8 +24,8 @@ Mastering Perl/Tk                 Lidie/Walsh         ORA
 Mastering Regular Expressions 3e  Friedl              ORA       2006
 Minimal Perl                      Maher               Manning   2007
 MySQL and Perl for the Web        DuBois              NewRiders         pcg
-Network Programming with Perl     Stein               AWL
-Object Oriented Perl              Conway              Manning
+Network Programming with Perl     Stein               AWL       2001
+Object Oriented Perl              Conway              Manning   2000
 Perl and & XML                    Ray/McIntosh        ORA               pcg
 Perl and & LWP                    Burke               ORA               pcg
 Perl Best Practices               Conway              ORA       2005
@@ -34,7 +34,7 @@ Perl Cookbook                     Christiansen/Tork   ORA               pcg
 Perl Cookbook 2e                  Christiansen/Tork   ORA       2003
 Perl Core language ltl black 2e   Holzner             coriolis          pcg
 Perl Debugged                     Scott/Wright        AWL               pcg
-Perl for System Administration    Blank-Edelman       ORA
+Perl for System Administration    Blank-Edelman       ORA       2000
 Perl for the Web                  Chris Radcliff      NewRiders         pcg
 Perl for Web Site Management      Callender           ORA               pcg
 Perl Graphics Programming         Shawn Wallace       ORA
