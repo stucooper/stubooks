@@ -53,6 +53,7 @@ Programming Web Services w/Perl   Ray/Kulchenko       ORA               pcg
 Programming Web Services XML-RPC  StLaurent/Johnston  ORA               pcg
 Programming with Perl Modules     Patwardhan          ORA
 Web Client Programming with Perl  Clinton Wong        ORA               pcg
+Wicked Cool Perl Scripts          Oualline            nostarch  2006
 Writing Apache Modles with Perl/C Stein/MacEachern    ORA               pcg
 Writing Perl Modules for CPAN     Tregar              a!press           pcg
 XML and Perl                      Riehl/Stein         NewRiders         pcg

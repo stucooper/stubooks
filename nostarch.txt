@@ -38,5 +38,4 @@ Ruby by Example                   Kevin C Reid        nostarch 2007
 Scratch Prog Playground           Sweigart            nostarch 2016
 TCP/IP Guide                      Kozierok            nostarch
 Ubuntu Made Easy                  Grant               nostarch
-Wicked Cool Perl Scripts          Oualline            nostarch 2006
 Wicked Cool Shell Scripts         Taylor              nostarch 2004
