@@ -54,7 +54,7 @@ Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
-Learning Puppet 4                             Jo Rhett            ORA
+Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
