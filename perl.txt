@@ -1,7 +1,7 @@
 # Perl books; mostly underneath the piano
 Advanced Perl Programming 1e      Srinivasan          ORA       1997
 Advanced Perl Programming 2e      Cozens              ORA       2005
-Automating sysadmin with Perl 2e  Blank-Edelman       ORA             pcg
+Automating sysadmin with Perl 2e  Blank-Edelman       ORA       2009
 Beginning Perl 2e                 James Lee           Apress          pcg
 CGI Programming with Perl 2e      Guelice,Gundavaram  ORA             pcg
 Data Munging with Perl            Cross               Manning         pcg
@@ -34,7 +34,6 @@ Perl Cookbook                     Christiansen/Tork   ORA               pcg
 Perl Cookbook 2e                  Christiansen/Tork   ORA       2003
 Perl Core language ltl black 2e   Holzner             coriolis          pcg
 Perl Debugged                     Scott/Wright        AWL               pcg
-Perl for System Administration    Blank-Edelman       ORA       2000
 Perl for the Web                  Chris Radcliff      NewRiders         pcg
 Perl for Web Site Management      Callender           ORA               pcg
 Perl Graphics Programming         Shawn Wallace       ORA
