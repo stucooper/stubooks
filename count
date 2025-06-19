@@ -2,11 +2,13 @@
 # This script used to count the files in 2019030104.txt boxes but all
 # these books have now been moved into named .txt files eg ora_classic.txt
 # do not count the ebooks, nor videos_humble, games_humble
+
+# FIXME: books I do not own in the file wodehouse.txt are counted
 rm -f allbooks
 txtfiles=`ls *.txt | grep -v ebook | grep -v _humble`
 for i in $txtfiles
 do
     cat $i >> allbooks
 done
-egrep -v '^($|#)' allbooks | grep -v 'lost?' |  wc -l
+egrep -v '^($|#)' allbooks | grep -v 'lost?' |  grep -v '==' | wc -l
 
