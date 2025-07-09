@@ -67,6 +67,7 @@ Programming in Lua                           Roberto lerusalimschy Lua.org
 Programming, Problem Solving Abstraction C   Alistair Moffat      Pearson
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                       Dan Bader            DanBader
+Rapid Development                            Steve McConnell      Microsoft
 RedHat Networking and System Administration  Collings/Wall        RedHat
 Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
 RHCSA/RHCE Study Guide 7e (EX200 EX300) 2016 Jang/Orsaria         McGrawHill
