@@ -1,4 +1,5 @@
 # poker books and gambling books with poker content
+52 Tips for Texas Holdem Poker    Barry Shulman       CardPlayer
 77 Ways to get edge Casino Poker  Fred Renzey         BonusBooks
 1000 Best Poker strategies        Susie Isaacs        sourcebooks
 Ace on the River                  Barry Greenstein    LastKnight
@@ -126,6 +127,7 @@ Poker Tournament Formula          Arnold Snyder       Cardoza
 Poker Tournament Formula 2        Arnold Snyder       Cardoza
 Poker: Ultimate Book,The          Francois Montmirel  Assouline
 Poker Winners are Different       Alan Schoonmaker    LyleStuart
+Poker Wisdom of a Champion        Doyle Brunson       Cardoza
 Poker Wizards                     Warwick Dunnett     Cardoza
 Power Holdem Strategy             Daniel Negreanu     Cardoza
 Practical Poker Math              Patt Dittmar        ecw
