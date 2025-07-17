@@ -91,6 +91,7 @@ Mastering No-Limit Holdem         Fox/Harker          Conjelco
 Mastering Pot-Limit Omaha         Okolowitz           D&B
 Mathematics of Poker              Bill Chen           Conjelco
 Mental Game of Poker              Jared Tendler       JaredTendler
+Mental Game of Poker 2            Jared Tendler       JaredTendler
 Middle Limit Holdem Poker         Ciaffone/Brier      TwoPlusTwo
 Mollys Game                       Bloom               WilliamCollins lost?
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza

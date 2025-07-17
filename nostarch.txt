@@ -14,6 +14,7 @@ Cult of Mac,The                   Kahney              nostarch
 Clojure for Brave and True        Higginbottom        nostarch 2015
 Designing BSD Rootkits            Kong                nostarch 2007
 Learn to Program with Minecraft   Craig Richardson    nostarch 2016
+Learn You A Haskell Great Good!   Miran Lipovaca      nostarch 2011
 Lego Builder's Guide 2e           Bedford             nostarch 2013
 Lego Mindstorms EV2               Laurens Valk        nostarch
 How Linux Works 2e                Ward                nostarch 2015
