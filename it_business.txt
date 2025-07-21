@@ -14,7 +14,6 @@ Big Data: Revolution                         Mayer-Schonbrg       johnMurray
 Big Switch,The                               Nicholas Carr        dontcare
 Blockchain 2035                              Tate/Knapp           self
 Blockchain Revolution                        Don Tapscott         portfolio
-Blogs, Wikipedia, Second Life and Beyond     Alex Bruns           PeterLang
 Bull                                         Douglas Rushkoff     spectre
 Chaos Monkeys: Inside Silicon Valley         Antonio G Martinez   ebury
 Cluetrain Manifesto                          Doc Searls et al     Pearson
