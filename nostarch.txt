@@ -6,7 +6,6 @@ Blender Book,The                  Wartmann            nostarch 2001
 Book of CSS3,The                  Gasston             nostarch
 Book of Gimp,The                  Lecarme/Delvare     nostarch 2013
 Book of IMAP,The                  Heinlein/Hartleben  nostarch 2008
-Book of IRC,The                   Charalabidis        nostarch
 Book of Postfix,The               Hildebrandt/Koetter nostarch 2005
 Book of R,The                     Tilman Davies       nostarch 2016
 Book of Ruby,The                  Collingbourne       nostarch 2011

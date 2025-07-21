@@ -23,7 +23,6 @@ CSS Cookbook                                  Schmitt             ORA
 Designing with Javascript                     Heinle/Pena         ORA
 Designing Web Interfaces                 2009 Scott/Neil          ORA
 DNS & BIND Cookbook                      2002 Liu                 ORA
-DocBook 5 The Definitive Guide                Walsh               ORA
 Dynamic HTML 3e                               Danny Goodman       ORA
 Essential CVS 2e                              Vesperman           ORA
 Essential SNMP 2e                        2005 Mauro/Schmidt       ORA
