@@ -82,7 +82,6 @@ TCP/IP Explained                       1997  Philip Miller    brm digitalPress
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 UNIX System Security Tools             2000  Seth T Ross          McGrawHill
-Viral Marketing                              Nelson-Field         Oxford
 Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 The Way to Go: Intro to Go Proglang    2012  Ivo Balbaert         iUniverse
 Web Services Business/Architecture           various              expert
