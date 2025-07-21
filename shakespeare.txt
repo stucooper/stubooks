@@ -27,7 +27,6 @@ Twelfth Night                                     Shakespeare  Pelican
 Winter's Tale                                     Shakespeare  Pelican
 # Cambridge editions and criticism
 Cambridge Into to Shakespeare Histories           Shakespeare  Cambridge
-Cambridge History of Shakespeare on Screen 2e     Rothwell     Cambridge
 Hamlmet                                           Shakespeare  Cambridge
 Henry IV Part 1                                   Shakespeare  Cambridge
 King Lear                                         Shakespeare  Cambridge
