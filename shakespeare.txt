@@ -69,8 +69,3 @@ Troilus and Cressida                              Shakespeare  RSC/Macmillan
 Twelfth Night                                     Shakespeare  RSC/Macmillan
 Two Gentlemen of Verona                           Shakespeare  RSC/Macmillan
 Winter's Tale                                     Shakespeare  RSC/Macmillan
-# Arden Shakespeare
-Coriolanus                                        Shakespeare  Arden/Bloomsbury
-Edward III                                        Shakespeare  Arden/Bloomsbury
-Julius Caesar                                     Shakespeare  Arden/Bloomsbury
-Titus Andronicus                                  Shakespeare  Arden/Bloomsbury
