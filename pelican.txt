@@ -15,6 +15,7 @@
 37 The Road to Concious Machines (AI)    Michael Wooldridge   Pelican
 # New Pelicans but not in the numbered series
 The Beginning of Infinity                David Deutsch        Pelican
+Golden Age of Arabic Science             Jim Al-Khalili       Pelican
 # Old Pelicans 1960s/70s/80s
 Facts from Figures                       Moroney              Pelican
 The Great Tradition                      F.R.Leavis           Pelican
