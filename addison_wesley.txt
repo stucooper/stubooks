@@ -64,7 +64,7 @@ Intro to Database Systems Vol 1 5e    C J Date                        AWL
 Intro to Database Systems 8e          C J Date                        AWL
 Kernel Projects for Linux             Gary Nutt (sml Chines ed)  2001 AWL
 Korn Shell Programming Tutorial       Rosenberg                       AWL
-Latex A Document Prepartion System 2e Lamport                         AWL
+Latex A Document Prepartion System 2e Lamport                    1994 AWL
 LaTeX Companion,The 2e                Mittlebach                      AWL
 LaTeX Graphics Companion,The          Goosens/Rahtz/Mittlebach        AWL
 LaTeX Web Companion,The               Goosens                         AWL
