@@ -1,6 +1,7 @@
 # Humorous books, alphabetical by author surname
 How to Fail at everything and still win big     Scott Adams       portfolio
 Slapped Together: Dilbert Business Anthology    Scott Adams       Harpercollins
+Dave Barry does Japan                           Dave Barry        RandomHouse
 Dave Barry in Cyberspace                        Dave Barry        Fawcett
 Dave Barry is from Mars and Venus               Dave Barry        Crown
 Dave Barry is not taking this sitting down      Dave Barry        Ballantine
