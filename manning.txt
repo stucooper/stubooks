@@ -6,7 +6,7 @@ Deep Learning with PyTorch         2020   Stevens/Antiga         Manning
 DSLs in Action                     2011   Debasish Ghosh         Manning
 Get Programming with Node.js       2019   Jonathan Wexler        Manning cor
 Geoprocessing with Python          2016   Chris Garrard          Manning
-Getting MEAN                              Simon Holmes           Manning
+Getting MEAN                       2016   Simon Holmes           Manning
 Gnuplot in Action                  2010   Janert                 Manning
 Go in Practice                     2016   Matts Butcher/Farina   Manning
 Hello World                        2009   Sande                  Manning
