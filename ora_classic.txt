@@ -70,7 +70,7 @@ Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
 Learning PHP 5                           2004 David Sklar         ORA
-Learning the vi and vim editors 7e            Robbins/Hannah      ORA
+Learning the vi and vim editors 7e       2008 Robbins/Hannah      ORA
 Learning Web Design                           Niederst            ORA
 Learning XML                             2001 Erik T Ray          ORA cor
 lex and yacc 2e                               Levin/Mason/Brown   ORA
