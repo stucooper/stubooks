@@ -13,7 +13,7 @@ Pragmatic Ajax                           Gehtland/Galbraith       PragProg
 Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
 Pragmatic Guide to Subversion            Mike Manson              PragProg
 Pragmatic Thinking and Learning          Andy Hunt                PragProg
-Pragmatic Version Control Subversino 2e  Mike Mason               PragProg
+Pragmatic Version Control Subversion 2e  Mike Mason               PragProg
 The Pragmatic Programmer                 Hunt/Thomas              AWL
 Programming Phoenix                      McCord/Tate/Valim        PragProg
 Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
@@ -23,4 +23,4 @@ SQL Antipatterns                         Bill Karwin              PragProg
 Technical Blogging                       Antonio Congiano         PragProg
 ThoughtWorks Anthology                   ThoughtWorks             PragProg
 tmux                                     Brian P Hogan            PragProg
-
+Web Development with Clojure 3e     2021 Sotnikov/Brown           PragProg
