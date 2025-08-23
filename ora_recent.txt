@@ -15,6 +15,7 @@ Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
+C in a Nutshell Definitive Reference 2e  2015 Prinz/Crawford      ORA
 Clojure Programming                           Enerick/Carper      ORA
 Concurrency in Go                             Katherine Cox-Buday ORA
 Dart: Up and Running                          Walrath             ORA
@@ -54,12 +55,14 @@ Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
+Learning HTTP/2                          2017 Ludin/Garza         ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Learning SQL                             2005 Alan Beaulieu       ORA
+Learning Test Driven Development         2022 Siddiqui            ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
 Machine Learning for Hackers                  Drew Conway         ORA
@@ -70,6 +73,7 @@ Mastering Bitcoin 2e                          Antonopoulos        ORA
 Mastering Ethereum                            Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web                         Russell             ORA
+Networking and Kubernetes                2021 Strong/Lancey       ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
 OpenShift for Developers                      Shipley/Dumpleton   ORA
@@ -96,8 +100,10 @@ Ruby Programming Language,The                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
+Software Engineering at Google           2020 Winters/Manshreck   ORA
 Still Just a Geek                             Wheaton             Harper
 Supercharged JavaScript Graphics         2011 Cecco               ORA
+Terraform Up and Running 3e              2022 Brikman             ORA
 Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                               Allen B Downey      ORA
 Twisted: Network Programming Essentials       Abe Fettig          ORA
