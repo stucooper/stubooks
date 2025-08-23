@@ -7,6 +7,7 @@ Hands-on Rust                            Herbert Wolverson        PragProg
 Hello, Android 3e for Android 2          Ed Burnette              PragProg
 Interface-Oriented Design                Ken Pugh                 PragProg
 Manage It!                               Johanna Rothman          PragProg
+Practical Vim 2e                    2015 Drew Neil                PragProg
 Practices of an Agile Developer          Venkat Subramaniam/Hunt  PragProg
 Pragmatic Ajax                           Gehtland/Galbraith       PragProg
 Pragmatic Guide to JavaScript            Christophe Porteneuve    PragProg
