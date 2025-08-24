@@ -26,4 +26,4 @@ Technical Blogging                       Antonio Congiano         PragProg
 ThoughtWorks Anthology                   ThoughtWorks             PragProg
 tmux                                     Brian P Hogan            PragProg
 Web Development with Clojure 3e     2021 Sotnikov/Brown           PragProg
-Web Development Recipes             2015 Hogan/Warren             PragProg
+Web Development Recipes 2e          2015 Hogan/Warren             PragProg
