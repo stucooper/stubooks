@@ -16,7 +16,9 @@ Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
 C in a Nutshell Definitive Reference 2e  2015 Prinz/Crawford      ORA
+Cloud Native Go                          2021 Titmus              ORA
 Clojure Programming                           Enerick/Carper      ORA
+Code Simplicity                          2012 Kanat-Alexander     ORA
 Concurrency in Go                             Katherine Cox-Buday ORA
 Dart: Up and Running                          Walrath             ORA
 Data Science at the Command Line              Janssens            ORA
@@ -32,6 +34,7 @@ Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
+Essential Math for Data Science          2022 Nield               ORA
 Essential SQL Alchemy                         Copeland            ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Facebook: The Missing Manual                  Veer                ORA
@@ -46,6 +49,7 @@ Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
+Introducing Python 2e                    2019 Bill Lubanovic      ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
@@ -55,6 +59,7 @@ Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
+Learning Domain-Driven Design            2021 Vlad Khononov       ORA
 Learning HTTP/2                          2017 Ludin/Garza         ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
@@ -80,6 +85,7 @@ OpenShift for Developers                      Shipley/Dumpleton   ORA
 OpenStack Swift                               Arnold              ORA
 PayPal APIs Up and Running                    Balderas            ORA
 Practical Monitoring                          Julian              ORA
+Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence           Segaran             ORA
 Programming Python 3e                         Lutz                ORA
 Planning for IPv6                             Hagen               ORA
