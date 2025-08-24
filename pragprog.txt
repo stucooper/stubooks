@@ -6,6 +6,7 @@ Definitive Antlr4 Reference              Terence Parr             PragProg
 Hands-on Rust                            Herbert Wolverson        PragProg
 Hello, Android 3e for Android 2          Ed Burnette              PragProg
 Interface-Oriented Design                Ken Pugh                 PragProg
+Language Implementation Patterns    2010 Terrence Parr            PragProg
 Manage It!                               Johanna Rothman          PragProg
 Practical Vim 2e                    2015 Drew Neil                PragProg
 Practices of an Agile Developer          Venkat Subramaniam/Hunt  PragProg
@@ -18,9 +19,11 @@ The Pragmatic Programmer                 Hunt/Thomas              AWL
 Programming Phoenix                      McCord/Tate/Valim        PragProg
 Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
 Seven Languages in Seven Weeks           Bruce A Tate             PragProg
+Seven Databases in Seven Weeks 2e  2018  Perkins/Redmond          PragProg
 Ship It!                                 Richardson/Gwaltney      PragProg
 SQL Antipatterns                         Bill Karwin              PragProg
 Technical Blogging                       Antonio Congiano         PragProg
 ThoughtWorks Anthology                   ThoughtWorks             PragProg
 tmux                                     Brian P Hogan            PragProg
 Web Development with Clojure 3e     2021 Sotnikov/Brown           PragProg
+Web Development Recipes             2015 Hogan/Warren             PragProg
