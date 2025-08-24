@@ -8,6 +8,8 @@ Hello, Android 3e for Android 2          Ed Burnette              PragProg
 Interface-Oriented Design                Ken Pugh                 PragProg
 Language Implementation Patterns    2010 Terrence Parr            PragProg
 Manage It!                               Johanna Rothman          PragProg
+Modern Vim                          2018 Drew Neil                PragProg
+Powerful Command-Line Apps in Go    2021 Ricardo Gerardi          PragProg
 Practical Vim 2e                    2015 Drew Neil                PragProg
 Practices of an Agile Developer          Venkat Subramaniam/Hunt  PragProg
 Pragmatic Ajax                           Gehtland/Galbraith       PragProg
