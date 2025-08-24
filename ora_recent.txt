@@ -3,6 +3,7 @@
 # For convenience, python books are considered recent
 21st Century C                                Klemens             ORA
 97 Things every Programmer Should Know        ed Kelvin Henney    ORA
+Advanced Analytics with PySpark          2022 Tandon/Ryza         ORA
 Ambient Findability                           Morville            ORA
 Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
@@ -21,6 +22,7 @@ Clojure Programming                           Enerick/Carper      ORA
 Code Simplicity                          2012 Kanat-Alexander     ORA
 Concurrency in Go                             Katherine Cox-Buday ORA
 Dart: Up and Running                          Walrath             ORA
+Data Algorithms with Spark               2022 Parsian             ORA
 Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
@@ -30,6 +32,7 @@ Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
 Doing Data Science                       2013 O'Neil/Schutt       ORA
+Effective Modern C++                     2014 Scott Meyers        ORA
 Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
@@ -47,6 +50,7 @@ Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA
+Infrastructure as Code 2e                2020 Morris              ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introducing Python 2e                    2019 Bill Lubanovic      ORA
@@ -68,6 +72,7 @@ Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
 Learning SQL                             2005 Alan Beaulieu       ORA
 Learning Test Driven Development         2022 Siddiqui            ORA
+Linux Systems Programming 2e             2013 Robert Love         ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
 Machine Learning for Hackers                  Drew Conway         ORA
@@ -104,6 +109,7 @@ Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
 Ruby Programming Language,The                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
+Security and Usability                   2005 Cranor/Garfinkel    ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Software Engineering at Google           2020 Winters/Manshreck   ORA
@@ -112,8 +118,10 @@ Supercharged JavaScript Graphics         2011 Cecco               ORA
 Terraform Up and Running 3e              2022 Brikman             ORA
 Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                               Allen B Downey      ORA
+Think Python 3e                          2024 Allen B Downey      ORA
 Twisted: Network Programming Essentials       Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
+Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
 Web Development with Node and Express         Brown               ORA
 Web Operations                           2010 Allspaw/Robbins     ORA
