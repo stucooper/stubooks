@@ -56,8 +56,7 @@ Java Examples in a Nutshell                   Flanagan            ORA brc
 Java Network Programming 2e                   Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook               Bradenbaugh         ORA
-JavaScript: Definitive Guide 5e               David Flanagan      ORA
-JavaScript: Definitive Guide 7e               David Flanagan      ORA
+JavaScript: Definitive Guide 5e (7e ora_recent) David Flanagan    ORA
 JavaScript Enlightenment                      Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 jQuery Cookbook                               Community Experts   ORA

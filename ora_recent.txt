@@ -55,6 +55,7 @@ Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introducing Python 2e                    2019 Bill Lubanovic      ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
+JavaScript: Definitive Guide 7e          2020 David Flanagan      ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
 Kubernetes: Up and Running                    Hightower           ORA
