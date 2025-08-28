@@ -3,7 +3,6 @@
 # the surname of the subject
 Apropos of Nothing                        Woody Allen        Allen
 Jane Austen a Life                        Claire Tomalin     Austen
-Time of My Life                           John Bell          Bell
 Wired: John Belushi                       Bob Woodward       Belushi
 The Richard Burton Diaries                ed Chris Williams  Burton
 Churchill                                 John Keegan        Churchill
