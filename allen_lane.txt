@@ -248,7 +248,6 @@ Here Comes Trouble                           Michael Moore     ALane pp
 History of World  100 objects                Neil MacGregor    ALane hb
 Hitler                                       Simms             ALane hb
 Hitler (single volume)                       Kershaw           ALane pp
-How to avoid a Climate Disaster              Bill Gates        ALane hb
 Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
 Leadership in War                            Andrew Roberts    ALane hb
 Lewis Carroll in Numberland                  Wilson            ALane hb
@@ -268,7 +267,6 @@ Skin in the Game                             Taleb             ALane pp
 Some Time with Feynman                       Mlodinow          ALane hb
 This Sovereign Isle                          Robert Tombs      ALane hb
 To Explain the World                         Weinberg          ALane hb
-Twilight of Democracy                        Anne Applebaum    ALane hb R2024
 Underground Asia                             Tim Harper        ALane hb
 Wagner's Parsifal                            Roger Scruton     ALane hb
 Warlord                                      D'Este            ALane hb
@@ -277,7 +275,6 @@ Whiteshift                                   Kaufmann          ALane hb
 Winners take All                             Giridharadas      ALane pp DUP
 # Penguin branded (non-fiction in the Allen Lane style or Allen Lane authors)
 Atlantic and its Enemies,The (Cold War)      Norman Stone      Penguin
-Bohemians                                    Norman Ohler      Houghton hb
 Books v Cigarettes                           George Orwell     Peng GreatIdeas
 Consider the Fork                            Bee Wilson        Penguin
 D-Day Normandy                               Beevor            Penguin
