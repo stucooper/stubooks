@@ -1,8 +1,12 @@
 Active MQ in Action (no pbook, spiral bound printout)
+Clojure in Action (no pbook)
+Clojure in Action 2e
+Deep learning with Python
 DSLs in Action
 Gnuplot in Action
 Go in Practice
 JavaScript Application Design
+Joy of Clojure (no pbook)
 Joy of Clojure 2e
 Making Sense of NoSQL (no pbook)
 MongoDB in Action
@@ -10,3 +14,4 @@ PostGis in Action 2e
 R in Action
 Relevant Search
 Taming Text
+Tao of Microservices
