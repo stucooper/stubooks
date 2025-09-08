@@ -1,6 +1,12 @@
-Active MQ in Action
+Active MQ in Action (no pbook, spiral bound printout)
+DSLs in Action
+Gnuplot in Action
 Go in Practice
-Making Sense of NoSQL
+JavaScript Application Design
+Joy of Clojure 2e
+Making Sense of NoSQL (no pbook)
+MongoDB in Action
 PostGis in Action 2e
 R in Action
+Relevant Search
 Taming Text
