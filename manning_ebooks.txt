@@ -2,6 +2,7 @@ Active MQ in Action (no pbook, spiral bound printout)
 Clojure in Action (no pbook)
 Clojure in Action 2e
 Deep learning with Python
+Deep learning with PyTorch
 DSLs in Action
 Gnuplot in Action
 Go in Practice
@@ -13,5 +14,6 @@ MongoDB in Action
 PostGis in Action 2e
 R in Action
 Relevant Search
+Serverless Applications with Node.js
 Taming Text
 Tao of Microservices
