@@ -64,6 +64,7 @@ Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
+Learning Digital Identity                2023 Phillip J. Windley  ORA
 Learning Domain-Driven Design            2021 Vlad Khononov       ORA
 Learning HTTP/2                          2017 Ludin/Garza         ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
@@ -126,3 +127,8 @@ UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
 Web Development with Node and Express         Brown               ORA
 Web Operations                           2010 Allspaw/Robbins     ORA
+You Don't Know JS: Async & Performance   2015 Kyle Simpson        ORA
+You Don't Know JS: ES6 & Beyond          2016 Kyle Simpson        ORA
+You Don't Know JS: Scope & Closures      2014 Kyle Simpson        ORA
+You Don't Know JS: Types and Grammar     2015 Kyle Simpson        ORA
+You Don't Know JS: Up and Going          2015 Kyle Simpson        ORA
