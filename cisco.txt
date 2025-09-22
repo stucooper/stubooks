@@ -4,7 +4,7 @@ Cisco Routers 24seven                         cib   Hamilton      Sybex
 Data Center Fundamentals                      cib   Arregoces     Cisco
 IP Routing Fundamentals                       cib   Sportack      Cisco
 Making the Cisco Connection                         Bunnell       JohnWiley
-Metro Ethernet                                      Halabi        Cisco
+Metro Ethernet                                2003  Halabi        Cisco
 Network Administratos Survival Guide          2006  Deveriya      Cisco
 Performance and Fault Management              cib   Maggiora      Cisco
 Routing Protocols and Concepts                cib   Graziani      Cisco
