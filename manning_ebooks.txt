@@ -6,6 +6,8 @@ Deep learning with PyTorch
 DSLs in Action
 Gnuplot in Action
 Go in Practice
+Hello World!
+Hello World! 2e
 JavaScript Application Design
 Joy of Clojure (no pbook)
 Joy of Clojure 2e
