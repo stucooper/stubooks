@@ -3,7 +3,7 @@ Agile Samurai                            Jonathan Rasmusson       PragProg
 Code in the Cloud                        Chu-Carroll              PragProg
 Debug It!                                Paul Butcher             PragProg
 Definitive Antlr4 Reference              Terence Parr             PragProg
-Hands-on Rust                            Herbert Wolverson        PragProg
+Hands-on Rust                       2021 Herbert Wolverson        PragProg
 Hello, Android 3e for Android 2          Ed Burnette              PragProg
 Interface-Oriented Design                Ken Pugh                 PragProg
 Language Implementation Patterns    2010 Terrence Parr            PragProg
