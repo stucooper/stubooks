@@ -24,6 +24,7 @@ Database Systems Concepts                    Silberschatz/Korth   McGrawHill
 Debugging with GDB                           Stallman/Cygnus      GNUPress
 Developers Guide to Debugging                Grotker/Holtmann     Springer
 Digital Typography                           Knuth                CSLI
+Docker Deep Dive                        2018 Nigel Poulton        NigelPoulton
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Everyday Cryptography                        Keith Martin         Oxford
 Free Software Free Society                   Richard M Stallman   GNUPress
@@ -41,6 +42,7 @@ How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Introduction to Theory of Computation 3e     Michael Sipser       Cengage
 iPhone app design manual                     brown                ilex
 Just Enough Software Architecture            Fairbanks            MB
+Kubernetes Book,The                     2020 Nigel Poulton        NigelPoulton
 Linux File Systems                           Moshe Bar            McGrawHill
 Linux Network Servers                   1999 Craig Hunt           Sybex
 Looking Good in Print 2e                     Roger C Parker       Ventuna
