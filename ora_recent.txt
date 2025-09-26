@@ -28,6 +28,7 @@ Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
 Deep Learning for Coders fastai PyTorch  2020 Howard/Gugger       ORA
 Designing Connected Products                  Goodman             ORA
+Designing Data-Intensive Applications    2017 Martin Kleppmann    ORA
 Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                         Picozzi/Hepburn     ORA
@@ -51,6 +52,7 @@ Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA
 Infrastructure as Code 2e                2020 Morris              ORA
+Inside Cyber Warfare 2e                  2011 Jeffrey Carr        ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
 Interactive Data Visualisation for the Web    Murray              ORA
 Introducing Python 2e                    2019 Bill Lubanovic      ORA
@@ -82,9 +84,11 @@ Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mapping Experiences                           Jim Kalbach         ORA
 Mastering Bitcoin 2e                          Antonopoulos        ORA
+Mastering ClouddForms Automation         2016 Peter McGowan       ORA
 Mastering Ethereum                            Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web                         Russell             ORA
+MongoDB The Definitive Guide             2010 Kristina Chodorow   ORA
 Networking and Kubernetes                2021 Strong/Lancey       ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
