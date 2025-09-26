@@ -48,6 +48,7 @@ Gambling                          Mike Atherton       HodderStoughton
 Getting Started in Holdem         Ed Miller           TwoPlusTwo
 Getting the Best of it            David Sklansky      TwoPlusTwo
 Ghosts at the table               Des Wilson          Mainstream
+Godfather of Poker,The            Doyle Brunson       Cardoza
 Harrington on Holdem Vol 1        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 2        Harrington/Robertie TwoPlusTwo
 Harrington on Holdem Vol 3        Harrington/Robertie TwoPlusTwo
@@ -104,7 +105,7 @@ NLH Theory and Practice           Sklansky/Miller     TwoPlusTwo
 Official Poker Rules              WPT                 WPT
 Pass the Sugar                    Joe Hachem          Melbourne
 Peak Performance Poker            Steffen             Dimat
-Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight lost?
+Phil Gordon's Little Blue Book    Phil Gordon         SimonSpotlight
 Phil Gordon's Little Green Book   Phil Gordon         SimonSpotlight
 Phil Gordon's Little Gold Book    Phil Gordon         SimonSpotlight
 Phil Gord's Black Book (realdeal) Phil Gordon         SimonSpotlight
@@ -170,9 +171,11 @@ Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
 Unleash your Hidden Poker Memory  Onika               EcwPress
 Weighing the odds in Holdem Poker King Yao            PiYee Press
+Why Alex beats Bobbie at Poker    Duncan Palamourdas  D+B
 Why You Lose at Poker             Russell Fox/Harker  Conjelco
 Win your way into big money tourn McEvoy/Daugherty    Cardoza
 Winner's Guide to Omaha Poker     Ken Warren          Cardoza
+Winning 7-Card Stud               Ashley Adams        LyleStuart
 Winning Low Limit Holdem          Lee Jones           Conjelco
 Winning Strategies for NLH        Christenson/Fox     Conjelco
 Winning Texas Holdem              Matt Maroon         Sterling
