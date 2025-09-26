@@ -37,6 +37,7 @@ Perl Debugged                     Scott/Wright        AWL               pcg
 Perl for the Web                  Chris Radcliff      NewRiders 2002
 Perl for Web Site Management      Callender           ORA               pcg
 Perl Graphics Programming         Shawn Wallace       ORA
+Perl in a Nutshell                Ellen Siever et al  ORA       1999
 Perl Medic                        Scott               AWL       2004
 Perl One-Liners                   Krumins             nostarch  2014
 Perl Testing Developer's Notebook Langworth/chromatic ORA       2005
