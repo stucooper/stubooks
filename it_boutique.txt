@@ -27,6 +27,7 @@ Digital Typography                           Knuth                CSLI
 Docker Deep Dive                        2018 Nigel Poulton        NigelPoulton
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Everyday Cryptography                        Keith Martin         Oxford
+Full Stack JS Development with MEAN     2014 Brethz/Ihrig         Sitepoint
 Free Software Free Society                   Richard M Stallman   GNUPress
 Fundamentals of Operating Systems            A M Lister     lcb   Macmillan
 Futuretainment                               Mike Walsh           Phaidon
