@@ -62,6 +62,7 @@ Holdem Poker for Advanced Players Sklansky/Malmuth    TwoPlusTwo
 Holdem Wisdom for All Players     Daniel Negreanu     Cardoza     2007
 How good is your PL Holdem?       Stewart Reuben      D&B
 How to Beat Low Limit Poker       Shane Smith/Mc Evoy Cardoza
+How to Beat Low Limit 7-Card Stud Paul Kammen         Cardoza
 How to Crush No Limit Holdem      Dusty Schmidt       Cardoza
 How to Cheat your friends poker   Jillette/Lynn       StMartins
 How to Dominate $1 and $2 NLH     Sam O Connor        Authorhouse
@@ -83,6 +84,7 @@ Killer Poker Online               John Vorhaus        LyleStuart
 Killer Poker Online/2             John Vorhaus        LyleStuart
 Killer Poker Holdem Workbook      John Vorhaus        LyleStuart
 Let's Play Poker                  Lee Nelson          Monarch
+Life's a Gamble                   Roy Brindley        Bantam
 Life's a Gamble                   Mike Sexton         D&B
 Machiavellian Poker Strategy      David Apostolico    LyleStuart
 Making of a Poker Player          Matt Matros         LyleStuart
@@ -166,6 +168,7 @@ Think Like a Poker Pro            Byron Jacobs        D&B
 Thinking in Bets                  Annie Duke          PortfolioPenguin
 Treat Your Poker Like a Business  Dusty Schmidt       Cardoza
 Total Poker (hb)                  David Spanier       SeckerWarburg
+Tournament Poker: Champ. Series   Tom McEvoy          Cardoza
 Tournament Poker: 101 win moves   Mitchell Cogert     selfpublished
 Tournament Poker for Adv Players  David Sklansky      TwoPlusTwo
 Tournament Tips from the Pros     Shane Smith         Cardoza
