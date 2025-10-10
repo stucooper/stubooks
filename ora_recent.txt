@@ -14,6 +14,7 @@ Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
 Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
+Building Secure and Reilable Systems     2020 Adkins/Beyer        ORA
 Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
 C in a Nutshell Definitive Reference 2e  2015 Prinz/Crawford      ORA
@@ -35,6 +36,7 @@ DevOps with OpenShift                         Picozzi/Hepburn     ORA
 Doing Data Science                       2013 O'Neil/Schutt       ORA
 Effective Modern C++                     2014 Scott Meyers        ORA
 Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
+Elements of Voice First Style,The        2022 Ahmed Bouzid        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
@@ -68,6 +70,7 @@ Lean Enterprise                               Humble/Molesky      ORA
 Lean UX                                       Gothelf/Seiden      ORA
 Learning Digital Identity                2023 Phillip J. Windley  ORA
 Learning Domain-Driven Design            2021 Vlad Khononov       ORA
+Learning Helm                            2021 Butcher/Farina      ORA
 Learning HTTP/2                          2017 Ludin/Garza         ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
