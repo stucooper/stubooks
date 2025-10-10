@@ -41,6 +41,7 @@ Head First HTML & CSS 2e                      Robson/Freeman      ORA
 Head First Java                               Sierra/Bates        ORA
 Head First JavaScript Programming             Freeman/Robson      ORA
 Head First Physics                            Lang                ORA
+Head First Ruby                          2015 Jay McGavern        ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e                Musciano/Kennedy    ORA
