@@ -27,6 +27,7 @@ Data Algorithms with Spark               2022 Parsian             ORA
 Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
 Database in Depth                             C J Date            ORA
+Deep Learning: A Practitioner's Approach 2017 Patterson/Gibson    ORA
 Deep Learning for Coders fastai PyTorch  2020 Howard/Gugger       ORA
 Designing Connected Products                  Goodman             ORA
 Designing Data-Intensive Applications    2017 Martin Kleppmann    ORA
