@@ -38,6 +38,7 @@ Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First Design Patterns                    Freeman/Freeman     ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
+head First Go                            2019 Jac McGavren        ORA
 Head First Java                               Sierra/Bates        ORA
 Head First JavaScript Programming             Freeman/Robson      ORA
 Head First Physics                            Lang                ORA
