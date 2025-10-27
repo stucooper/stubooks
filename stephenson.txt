@@ -2,16 +2,17 @@
 Anathem                                  Neal Stephenson    Atlantic
 Cobweb                                   Neal Stephenson    Arrow
 The Confusion                            Neal Stephenson    WilliamHeinemann
-The Confusion                            Neal Stephenson    WilliamMorrow
+The Confusion                            Neal Stephenson    WilliamMorrow hb
 Cryptonomicon                            Neal Stephenson    Arrow
 The Diamond Age                          Neal Stephenson    Penguin
 Interface                                Neal Stephenson    Arrow
 Quicksilver                              Neal Stephenson    WilliamHeinemann
+Quicksilver                              Neal Stephenson    WilliamMorrow hb
 REAMDE                                   Neal Stephenson    Atlantic
 The Rise and Fall of D.O.D.O             Neal Stephenson/Gallard borough
 some remarks                             Neal Stephenson    Atlantic
 Snow Crash                               Neal Stephenson    Penguin R2024
 The System of the World                  Neal Stephenson    WilliamHeinemann
-The System of the World                  Neal Stephenson    WilliamMorrow
+The System of the World                  Neal Stephenson    WilliamMorrow hb
 Termination Shock                        Neal Stephenson    HarperCollins
 Zodiac                                   Neal Stephenson    Arrow
