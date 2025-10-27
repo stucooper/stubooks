@@ -13,5 +13,6 @@ Pirates of Penzance,The                  Gilbert/Sullivan    Chappell
 Show Boat                                Kern                Chappell
 Tosca                                    Puccini             Ricordi
 Tristan and Isolde (Full Orchestral)     Wagner              Dover
+Wagner Opera Librettos                   Wagner              Crown
 West Side Story                          Bernstein           Chappell
 
