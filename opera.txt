@@ -1,11 +1,17 @@
 # Opera scores (piano reduction unless specified)
 Carmen                                   Bizet               Cramer
 Carmen                                   Bizet               Well-Tempered
+Don Giovanni                             Mozart              Novello
 Gilbert&Sullivan Volume 1 Mik/Gon/Yeo    Gilbert/Sullivan    Chappell
 Gilbert&Sullivan Volume 2 Pin/Pze/Sor    Gilbert/Sullivan    Chappell
 Gilbert&Sullivan Vol 3 Rud/Pat/Duke/Jury Gilbert/Sullivan    Chappell
 Gilbert&Sullivan Volume 4 Iol/Uto/Ida    Gilbert/Sullivan    Chappell
+HMS Pinafore                             Gilbert/Sullivan    Cramer
+Iolanthe                                 Gilbert/Sullivan    Chappell
 Marriage of Figaro,The                   Mozart              Schirmer
+Pirates of Penzance,The                  Gilbert/Sullivan    Chappell
+Show Boat                                Kern                Chappell
 Tosca                                    Puccini             Ricordi
 Tristan and Isolde (Full Orchestral)     Wagner              Dover
+West Side Story                          Bernstein           Chappell
 
