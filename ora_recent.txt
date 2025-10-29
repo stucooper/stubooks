@@ -4,7 +4,7 @@
 21st Century C                                Klemens             ORA
 97 Things every Programmer Should Know        ed Kelvin Henney    ORA
 Advanced Analytics with PySpark          2022 Tandon/Ryza         ORA
-Ambient Findability                           Morville            ORA
+Ambient Findability                      2005 Morville            ORA
 Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
 Art of Agile Development,The                  Shore/Warden        ORA
@@ -47,7 +47,7 @@ Exploring Everyday things with R and Ruby     Chang               ORA
 Facebook: The Missing Manual                  Veer                ORA
 Flask Web Development 2e                      Grinberg            ORA
 Fluent Python                                 Luciano Romalho     ORA
-Gamification by Design                        Zichermann          ORA
+Gamification by Design                   2011 Zichermann          ORA
 Geek Atlas,The                                Graham-Cunning      ORA
 Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
@@ -64,7 +64,7 @@ JavaScript: Definitive Guide 7e          2020 David Flanagan      ORA
 Javascript: The Good Parts                    Crockford           ORA
 Just a Geek                                   Will Wheaton        ORA
 Kubernetes: Up and Running                    Hightower           ORA
-Lavarel: Up and Running                       Matt Stauffer       ORA
+Lavarel: Up and Running                  2016 Matt Stauffer       ORA
 Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
 Lean Enterprise                               Humble/Molesky      ORA
@@ -98,7 +98,7 @@ OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
 OpenShift for Developers                      Shipley/Dumpleton   ORA
 OpenStack Swift                               Arnold              ORA
-PayPal APIs Up and Running                    Balderas            ORA
+PayPal APIs Up and Running               2011 Balderas            ORA
 Practical Monitoring                          Julian              ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence           Segaran             ORA
