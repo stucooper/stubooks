@@ -47,7 +47,7 @@ Head First Ruby                          2015 Jay McGavern        ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e           2000 Musciano/Kennedy    ORA
-HTML5 Up and Running                          Pilgrim             ORA
+HTML5 Up and Running                     2010 Pilgrim             ORA
 Information Architecture for the WWW 3e  2006 Morville/Rosenfeld  ORA
 Internet in a Nutshell                   1997 Quercia             ORA brc
 Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
@@ -58,16 +58,16 @@ Java Enterprise in a Nutshell                 FLanagan/Farley     ORA brc
 Java Examples in a Nutshell                   Flanagan            ORA brc
 Java Network Programming 2e                   Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
-JavaScript Application Cookbook               Bradenbaugh         ORA
+JavaScript Application Cookbook          1999 Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e (7e ora_recent) David Flanagan    ORA
-JavaScript Enlightenment                      Lindley             ORA
+JavaScript Enlightenment                 2013 Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 jQuery Cookbook                          2009 jQuery Experts      ORA
 Kerberos: The Definitive Guide           2003 Garman              ORA
 Learning Debian GNU/Linux                     Bill McCarty        ORA
 Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning GNU Emacs 2e                    1996 C/Rosenblat/Raymond ORA
-Learning JavaScript 2e                        Powers              ORA
+Learning JavaScript 2e                   2008 Powers              ORA
 Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
@@ -132,7 +132,7 @@ SVG Essentials                           2002 Eisenberg           ORA
 System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e         2002 Hunt                ORA
 termcap & terminfo                    3e 1998 Strang/Mui          ORA
-Testable JavaScript                           Trostler            ORA
+Testable JavaScript                      2013 Trostler            ORA
 Time Management for Sys Administrators   2005 Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
