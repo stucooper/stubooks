@@ -4,7 +4,6 @@
 21st Century C                                Klemens             ORA
 97 Things every Programmer Should Know        ed Kelvin Henney    ORA
 Advanced Analytics with PySpark          2022 Tandon/Ryza         ORA
-Ambient Findability                      2005 Morville            ORA
 Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
 Art of Agile Development,The                  Shore/Warden        ORA
@@ -78,7 +77,6 @@ Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                                 Michael Fitzgerald  ORA
-Learning SQL                             2005 Alan Beaulieu       ORA
 Learning Test Driven Development         2022 Siddiqui            ORA
 Linux Systems Programming 2e             2013 Robert Love         ORA
 Make 08: Toys and Games                       MakeZine            ORA
@@ -113,13 +111,11 @@ Python for Data Analysis                      Wes McKinney        ORA
 Python Standard Library                       Lundb               ORA
 R for Data Science                            Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
-Regular Expressions Cookbook             2009 Goyvaerts           ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                                 Carlson/Richardson  ORA
 Ruby Programming Language,The                 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
-Security and Usability                   2005 Cranor/Garfinkel    ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Software Engineering at Google           2020 Winters/Manshreck   ORA

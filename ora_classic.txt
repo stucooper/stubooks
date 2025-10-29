@@ -2,6 +2,7 @@
 # anything Ruby, Rails and Python goes to ora_recent.txt regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Definitive Guide 2e  Gast                ORA
+Ambient Findability                      2005 Morville            ORA
 Ant The Definitive Guide 2e              2005 Holzner             ORA brm
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
@@ -68,6 +69,7 @@ Learning Debian GNU/Linux                     Bill McCarty        ORA
 Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning GNU Emacs 2e                    1996 C/Rosenblat/Raymond ORA
 Learning JavaScript 2e                   2008 Powers              ORA
+Learning SQL                             2005 Alan Beaulieu       ORA
 Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
@@ -114,11 +116,13 @@ Programming Internet Email               1999 Wood                ORA
 Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA
 Programming with Qt 2e                   2003 Matthias Dalheimer  ORA brm
 RADIUS                                   2002 Hassell             ORA
+Regular Expressions Cookbook             2009 Goyvaerts           ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                     2007 Richardson          ORA
 Running Linux 3e                              Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 Secure Programming Cookbook C/C++        2003 Viega/Messier       ORA
+Security and Usability                   2005 Cranor/Garfinkel    ORA
 Security Warrior                         2004 Peikari/Chuvakin    ORA
 SELINUX                                  2004 McCarty             ORA
 Slide:ology                              2008 Nancy Duarte        ORA
