@@ -45,7 +45,7 @@ Linux System Security                      Mann/Mitchell        PTR
 Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
 Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
-Nagios                                     Josephsen            PTR
+Nagios                                2013 Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR mt2
 Network Security                           Kaufmann/Perlman     PTR lc2
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
