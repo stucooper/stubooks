@@ -25,6 +25,7 @@ Debugging with GDB                           Stallman/Cygnus      GNUPress
 Developers Guide to Debugging                Grotker/Holtmann     Springer
 Digital Typography                           Knuth                CSLI
 Docker Deep Dive                        2018 Nigel Poulton        NigelPoulton
+DNS Server Administration,inux          2000 Craig Hunt           Sybex
 Enterprise Content Management                Ton Jenkins          OpenTextCorp
 Everyday Cryptography                        Keith Martin         Oxford
 Full Stack JS Development with MEAN     2014 Brethz/Ihrig         Sitepoint
