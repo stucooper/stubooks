@@ -36,6 +36,6 @@ Python for Kids                   Briggs              nostarch 2013
 Realm of Racket                   Felleisen           nostarch 2013
 Ruby by Example                   Kevin C Reid        nostarch 2007
 Scratch Prog Playground           Sweigart            nostarch 2016
-TCP/IP Guide                      Kozierok            nostarch
+TCP/IP Guide                      Kozierok            nostarch 2005
 Ubuntu Made Easy                  Grant               nostarch
 Wicked Cool Shell Scripts         Taylor              nostarch 2004
