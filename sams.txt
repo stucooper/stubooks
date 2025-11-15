@@ -4,7 +4,7 @@
 Advanced PHP Programming                  George Schlossnagle    SAMSDev
 Create your own Blog                      Tris Hussey            SAMS
 Embracing Insanity: OSS Development       Russell Pavicek 2000   SAMS
-Linux Shell Scripting with Bash           Ken O. Burtch          SAMSDev
+Linux Shell Scripting with Bash      2004 Ken O. Burtch          SAMSDev
 Linux Programming Unleashed               Various                SAMS lost?
 Linux Unleashed                           Various                SAMS lost?
 MySQL 2e                                  Paul DuBois            SAMSDev
@@ -14,4 +14,4 @@ Maximum RPM                               Edward C Bailey        SAMS
 SQLite                                    Newman                 SAMSDev
 Teach yourself UNIX 24 Hours     lost?    Taylor/Armstrong       SAMS
 Teach yourself Network Troubleshooting 24h 2e  Feldman           SAMS 2003
-Unix Shell Programming 3e                 Kochan/Wood            SAMS 2003
+Unix Shell Programming 3e            2003 Kochan/Wood            SAMS 2003
