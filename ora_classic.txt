@@ -70,7 +70,7 @@ Learning GNU Emacs                            Cameron/Rosenblatt  ORA
 Learning GNU Emacs 2e                    1996 C/Rosenblat/Raymond ORA
 Learning JavaScript 2e                   2008 Powers              ORA
 Learning SQL                             2005 Alan Beaulieu       ORA
-Learning the bash Shell 3e                    Newham/Rosenblatt   ORA
+Learning the bash Shell 3e               2005 Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
 Learning PHP 5                           2004 David Sklar         ORA
