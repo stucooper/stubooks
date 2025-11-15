@@ -78,6 +78,7 @@ Mathematica 2e                        Stephen Wolfram                 AWL cftbl
 More Programming Pearls               Jon Bentley                     AWL
 Moving to Free Software               Gagne                      2007 AWL
 New Hacker's Dictionary               ed Eric S. Raymond              AWL
+Network Management Principles/Practice Subramanian (SNMP)        2000 AWL
 NFS Illustrated                       Callaghan                  2000 AWL
 Object Technology A Manager's Guide   David A Taylor                  AWL
 Practical Java                        Peter Haggar               2000 AWL brc
