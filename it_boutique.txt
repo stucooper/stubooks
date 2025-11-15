@@ -9,6 +9,7 @@ Ansible for DevOps 2e                   2020 Geerling             leanpub
 Apache Web Server Admin               lost?  Aulds                Sybex
 Artist's Guide to the Gimp                   Michael J. Hammel    SSC
 The Blender Gamekit 2e                       Wartmann             Blender
+Bell System Technical Journal Jul-Aug   1978 early UNIX legends   Bell Systems
 Bulletproof SSL and TLS                      Ivan Ristic          FeistyDuck
 Code: Hidden Language of Comp Hardware/Softw Charles Petzold      Microsoft
 Code Complete 2e                             McConnell       lc2  Microsoft
