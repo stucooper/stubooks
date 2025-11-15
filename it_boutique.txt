@@ -85,6 +85,7 @@ Software Estimation                          Steve McConnell  mt2 Microsoft
 Stealing the Network                         various              syngress
 Successful Lisp                              Lamkins          mtb bookfix
 TCP/IP Explained                       1997  Philip Miller    brm digitalPress
+TCP/IP Protocol Suite                  2000  Forouzan             McGrawHill
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                        Garfinkel/Weise      IDG
 UNIX System Security Tools             2000  Seth T Ross          McGrawHill
