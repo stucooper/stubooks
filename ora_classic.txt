@@ -9,7 +9,7 @@ Apache The Definitive Guide 3e                Laurie/Laurie       ORA
 Applying RCS and SCCS                         Bolinger/Bronson    ORA
 Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA brc
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
-bash cookbook                                 Albing/Vossen       ORA
+bash cookbook                            2007 Albing/Vossen       ORA
 Building Internet Firewalls 2e           2000 Chapman/Zwicky      ORA
 Building Linux Clusters                       Dpector             ORA
 Building Scalable Web Sites              2006 Henderson           ORA
@@ -20,7 +20,7 @@ CSS Cascading Style Sheets: Definitive   2000 Eric A Meyer        ORA
 CSS Cookbook                             2004 Schmitt             ORA
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
-Classic Shell Scripting                       Robbins/Beebe       ORA
+Classic Shell Scripting                  2005 Robbins/Beebe       ORA
 Designing with Javascript                     Heinle/Pena         ORA
 Designing Web Interfaces                 2009 Scott/Neil          ORA
 DNS & BIND 5e Covers BIND 9.3            2006 Liu/Albitz          ORA
