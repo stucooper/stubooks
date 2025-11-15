@@ -15,7 +15,7 @@ Building Linux Clusters                       Dpector             ORA
 Building Scalable Web Sites              2006 Henderson           ORA
 Building Secure Servers with Linux       2002 Bauer               ORA
 Building Wireless Community Networks     2002 Flickeneger         ORA
-Cathedral and the Bazaar,The                  Eric S. Raymond     ORA
+Cathedral and the Bazaar,The (hb)        1999 Eric S. Raymond     ORA
 CSS Cascading Style Sheets: Definitive   2000 Eric A Meyer        ORA
 CSS Cookbook                             2004 Schmitt             ORA
 Cisco Cookbook                                Dooley/Brown        ORA
@@ -31,10 +31,10 @@ Essential SNMP 2e                        2005 Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Evil Geniuses in a Nutshell              2000 Iliad               ORA
 Exploring Expect                              Libes               ORA
-Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
+Free as in Freedom: Richard Stallman(hb) 2002 Sam Williams        ORA
 Google Advertising Tools                 2006 Davis               ORA brm
 Googke The Missing Manual                     Milstein/Dornfest   ORA
-Hackers and Painters  (2nd copy CMC)     2004 Paul Graham         ORA
+Hackers and Painters  (2nd copy CMC)(hb) 2004 Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
@@ -152,7 +152,7 @@ Using Samba 2e                           2003 Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
-We the Media                             2004 Dan Gillmor         ORA
+We the Media (hb)                        2004 Dan Gillmor         ORA
 Web 2.0 Architectures                    2009 Governor/Hinchclif  ORA
 Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
 Web Design in a Nutshell                      Jennifer Niederst   ORA brc
