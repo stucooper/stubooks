@@ -34,7 +34,7 @@ Exploring Expect                              Libes               ORA
 Free as in Freedom: Richard Stallman (hb)     Sam Williams        ORA
 Google Advertising Tools                 2006 Davis               ORA brm
 Googke The Missing Manual                     Milstein/Dornfest   ORA
-Hackers and Painters  (2nd copy CMC Epping)   Paul Graham         ORA
+Hackers and Painters  (2nd copy CMC)     2004 Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
@@ -97,7 +97,7 @@ Managing uucp and Usenet 10e             1992 O'Reilly/Todino     ORA
 Mastering Algorithms with C              1999 Loudon              ORA
 Open Sources: Voices from the Revolution      various             ORA
 Painting the Web                         2008 Shelley Powers      ORA
-Peer-to-Peer: Disruptive technologies         ed Andy Oram        ORA
+Peer-to-Peer: Disruptive technologies    2001 ed Andy Oram        ORA
 PGP: Pretty Good Privacy                 1995 Garfinkel           ORA
 PHP Cookbook 2e                          2006 Sklar/Trachtenberg  ORA
 Photoshop for the Web                         Mikkel Aaland       ORA
@@ -152,7 +152,7 @@ Using Samba 2e                           2003 Ts/Eckstein         ORA
 Version Control with Git                      Loeliger            ORA
 Version Control with Subversion               Collins-Sussman     ORA
 Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
-We the Media                                  Dan Gillmor         ORA
+We the Media                             2004 Dan Gillmor         ORA
 Web 2.0 Architectures                    2009 Governor/Hinchclif  ORA
 Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
 Web Design in a Nutshell                      Jennifer Niederst   ORA brc
