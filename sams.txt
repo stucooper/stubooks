@@ -13,5 +13,5 @@ PostgreSQL 2e                             Korry Douglas          SAMSDev
 Maximum RPM                               Edward C Bailey        SAMS
 SQLite                                    Newman                 SAMSDev
 Teach yourself UNIX 24 Hours     lost?    Taylor/Armstrong       SAMS
-Teach Network Troubleshooting 24h 2e 2003 Feldman                SAMS
+Teach yourself Network Troubleshooting 24h 2e  Feldman           SAMS 2003
 Unix Shell Programming 3e                 Kochan/Wood            SAMS 2003
