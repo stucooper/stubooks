@@ -72,7 +72,7 @@ Learn Python the Hard Way 3e          Shaw                       2014 AWL
 LISP 3e                               Winston/Horn                    AWL mtb
 Linux Application Development         Johnson/Troan                   AWL
 Linux Install/Configuration/Using     Michael Kofler         lost?    AWL
-Linux Kernel Development 3e           Robert Love                     AWL
+Linux Kernel Development 3e           Robert Love                2010 AWL
 LINUX Kernel Internals                various Germans        lost?    AWL
 Mathematica 2e                        Stephen Wolfram                 AWL cftbl
 More Programming Pearls               Jon Bentley                     AWL
