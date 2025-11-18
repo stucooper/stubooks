@@ -30,13 +30,13 @@ Internetworking with TCP/IP Volume 1 5e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 2 3e    Comer/Stevens        PTR
 Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 Intrusion Detection with Snort             Rehman               PTR
-Java Application Development on Linux      Albing/Schwartz      PTR
+Java Application Development on Linux      Albing/Schwartz 2005 PTR
 JSP and Java                          Art Taylor           2002 PTR brc
 Just Java 2 6e                             Peter van der Linden PTR
 Life with Unix                             Libes/Ressler        PTR lost?
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
-Linux Development Platform,The             Rehman/Paul          PTR
+Linux Development Platform,The             Rehman/Paul     2003 PTR
 Linux Kernel Primer,The                    Rodriguez/Fischer    PTR
 Linux Programmers Toolbox,The              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
