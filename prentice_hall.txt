@@ -41,7 +41,7 @@ Linux Development Platform,The             Rehman/Paul     2003 PTR
 Linux Kernel Primer,The                    Rodriguez/Fischer    PTR
 Linux Programmers Toolbox,The              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
-Linux Routers                              Mancill              PTR
+Linux Routers                              Mancill         2001 PTR
 Linux System Security                      Mann/Mitchell        PTR
 Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
 Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
@@ -54,7 +54,7 @@ not Just Java 2e                           Peter van der Linden PTR
 Object-Oriented Software Construction      Bertrand Meyer  1997 PTR brc
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR
-OS Design and Implementation (MINIX) 3e    Andrew Tanenbaum     PTR
+OS Design and Implementation (MINIX) 3e    Tanenbaum       2006 PTR
 Operating Systems: The XINU Approach       Douglas Comer   1984 PTR
 Optimizing Network Performance content sw  Syme/Goldie          PTR
 Practical guide SNMP3 network mgmt         David Zeltserman     PTR
