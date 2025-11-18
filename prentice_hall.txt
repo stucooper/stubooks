@@ -63,7 +63,7 @@ Rapid GUI Programming w Python and Qt      MarkSummerfield 2008 PTR brm
 Real World Linux Security                  Toxen                PTR
 Running Xen                                Matthews             PTR
 Security in Computing 4e                   Pfleeger/Pfleeger    PTR lc2
-Self-Service Linux                         Wilding/Behman       PTR
+Self-Service Linux                         Wilding/Behman  2006 PTR
 Software Craftsman                         Mancuso              PTR lc2
 A Software Tools Sampler                   Webb Miller          PTR mt2
 Solaris Application Programming            Gove                 PTR
