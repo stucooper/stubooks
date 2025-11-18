@@ -6,7 +6,7 @@ Coders at Work                            Seibel            2009 apress
 Definitive Guide to Django                Holovaty               apress
 Definitive Guide to Grails                Graeme Rocher     2006 apress cor
 Definitive Guide to Terracotta            Terracotta Inc         apress brc
-Deploying OpenLDAP                        Jackiewicz             apress
+Deploying OpenLDAP                        Jackiewicz        2005 apress
 DevOps for Digital Leaders                Ravichandran/Taylor    apress
 Dive into Python                          Pilgrim                apress
 Expert MySQL                              Charles A Bell         apress

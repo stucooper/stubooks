@@ -11,7 +11,7 @@ Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA brc
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                            2007 Albing/Vossen       ORA
 Building Internet Firewalls 2e           2000 Chapman/Zwicky      ORA
-Building Linux Clusters                       Dpector             ORA
+Building Linux Clusters                  2000 Spector             ORA
 Building Scalable Web Sites              2006 Henderson           ORA
 Building Secure Servers with Linux       2002 Bauer               ORA
 Building Wireless Community Networks     2002 Flickeneger         ORA

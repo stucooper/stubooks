@@ -53,7 +53,7 @@ The Macintosh Way                            Guy Kawasaki         ScottForesman
 Mastering VMware vSphere 5.5                 Lowe/Marshall  2014  Sybex brm
 Modern Data Analysis: Applied Statistics     Hamilton  lost?      BrooksCole
 Multiprotocol Routing for SANs               Judd                 brocade
-MySQL 5.0 Certification Study Guide          DuBois/Hinz          MySQL
+MySQL 5.0 Certification Study Guide     2006 DuBois/Hinz          MySQL
 MySQL Clustering                             Alex Davies/Fisk     MySQL
 MySQL Database Design and Tuning             Robert Schneider     MySQL
 MySQL Tutorial                               Welling/Thompson     MySQL
@@ -62,7 +62,7 @@ Non-Designers Design & Type Books            Robin Williams       PeachPit
 Numerical Methods in C 2e                    Press/Teukolsky      Cambridge
 Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
-OpenProj                                     Lisa A. Bucki        CourseTech
+OpenProj                                2009 Lisa A. Bucki        CourseTech
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
 Operating Systems with Linux                 John O'Gorman    mtb palgrave
 Optimizing Linux Performance            2005 Philip Ezolt         HP
