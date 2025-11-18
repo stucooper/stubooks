@@ -41,7 +41,7 @@ Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
 Essential Math for Data Science          2022 Nield               ORA
-Essential SQL Alchemy                         Copeland            ORA
+Essential SQL Alchemy                    2008 Copeland            ORA
 Exploring Everyday things with R and Ruby     Chang               ORA
 Facebook: The Missing Manual                  Veer                ORA
 Flask Web Development 2e                      Grinberg            ORA
@@ -108,7 +108,7 @@ Prometheus: Up & Running                      Brazil              ORA
 Python Cookbook 2e                            Martelli/Ascher     ORA
 Python Data Science Handbook             2017 VanderPlas          ORA
 Python for Data Analysis                      Wes McKinney        ORA
-Python Standard Library                       Lundb               ORA
+Python Standard Library                  2001 Lundb               ORA
 R for Data Science                            Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
 REST in Practice                              Webber/Parastatidis ORA
@@ -125,7 +125,7 @@ Terraform Up and Running 3e              2022 Brikman             ORA
 Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                               Allen B Downey      ORA
 Think Python 3e                          2024 Allen B Downey      ORA
-Twisted: Network Programming Essentials       Abe Fettig          ORA
+Twisted: Network Programming Essentials  2005 Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
