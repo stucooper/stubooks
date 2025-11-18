@@ -1,4 +1,5 @@
 Agile Java                                 Langr                PTR brc
+Ajax                                       Ed Woychowsky   2007 PTR
 Algorithmic Graph Theory                   McHugh               PTR mt2
 Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
 Artificial Intelligence Modern Approach 3e Russell/Norvig       PTR

@@ -4,7 +4,6 @@ Advanced C++                          James O. Coplien           1992 AWL brc
 Advanced Programming UNIX Env 1e hb   Stevens  lost?                  AWL
 Advanced Programming UNIX Env 2e pb   Stevens/Rago                    AWL
 Advanced Unix Programming 2e          Marc Rochkind                   AWL
-Ajax                                  Edmond Woychowsky               AWL
 Algorithms 2e                         Robert Sedgewick           1988 AWL
 Algorithms in C                       Robert Sedgewick           1990 AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
