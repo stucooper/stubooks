@@ -6,7 +6,7 @@ Ambient Findability                      2005 Morville            ORA
 Ant The Definitive Guide 2e              2005 Holzner             ORA brm
 Apache Cookbook 2e                            Coar/Bowen          ORA
 Apache The Definitive Guide 3e                Laurie/Laurie       ORA
-Applying RCS and SCCS                         Bolinger/Bronson    ORA
+Applying RCS and SCCS                    1995 Bolinger/Bronson    ORA
 Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA brc
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                            2007 Albing/Vossen       ORA
@@ -101,7 +101,7 @@ Peer-to-Peer: Disruptive technologies    2001 ed Andy Oram        ORA
 PGP: Pretty Good Privacy                 1995 Garfinkel           ORA
 PHP Cookbook 2e                          2006 Sklar/Trachtenberg  ORA
 Photoshop for the Web                         Mikkel Aaland       ORA
-Porting UNIX Software                         Lehey               ORA
+Porting UNIX Software                    1995 Lehey               ORA
 POSIX.4 Programming for the Real World        Gallmeister         ORA
 Power Programming with RPC                    John Bloomer        ORA
 Practical C Programming 3e                    Oualline            ORA
