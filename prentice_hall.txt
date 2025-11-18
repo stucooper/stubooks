@@ -33,7 +33,7 @@ Internetworking with TCP/IP Volume 3 2e    Comer/Stevens        PTR
 Intrusion Detection with Snort             Rehman               PTR
 Java Application Development on Linux      Albing/Schwartz 2005 PTR
 JSP and Java                          Art Taylor           2002 PTR brc
-Just Java 2 6e                             Peter van der Linden PTR
+Just Java 2 6e                             van der Linden  2004 PTR
 Life with Unix                             Libes/Ressler        PTR lost?
 Linux Assembly Language Programming        Bob Neveln           PTR
 Linux Debugging and Performance Tuning     Steve Best           PTR
@@ -50,7 +50,7 @@ Nagios                                2013 Josephsen            PTR
 Network and Internetwork Security          William Stallings    PTR mt2
 Network Security                           Kaufmann/Perlman     PTR lc2
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
-not Just Java 2e                           Peter van der Linden PTR
+not Just Java 2e                           van der Linden  1999 PTR
 Object-Oriented Software Construction      Bertrand Meyer  1997 PTR brc
 OpenSource Network Administration          Kretchmar            PTR
 Operating Systems: Design Implementation   Tanenbaum            PTR

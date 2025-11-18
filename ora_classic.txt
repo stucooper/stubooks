@@ -57,7 +57,7 @@ IPv6 Essentials 2e                            Hagen               ORA
 Java in a Nutshell 4e                         David Flanagan      ORA brc
 Java Enterprise in a Nutshell                 FLanagan/Farley     ORA brc
 Java Examples in a Nutshell                   Flanagan            ORA brc
-Java Network Programming 2e                   Harold              ORA
+Java Network Programming 2e              2000 Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook          1999 Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e (7e ora_recent) David Flanagan    ORA
