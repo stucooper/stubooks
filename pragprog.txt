@@ -1,5 +1,5 @@
 # Pragmatic Programmers Publishers
-Agile Samurai                            Jonathan Rasmusson       PragProg
+Agile Samurai                       2010 Jonathan Rasmusson       PragProg
 Code in the Cloud                   2011 Chu-Carroll              PragProg
 Debug It!                           2009 Paul Butcher             PragProg
 Definitive Antlr4 Reference         2012 Terence Parr             PragProg
@@ -24,9 +24,9 @@ Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
 Seven Languages in Seven Weeks      2010 Bruce A Tate             PragProg
 Seven Databases in Seven Weeks 2e   2018 Perkins/Redmond          PragProg
 Ship It!                            2007 Richardson/Gwaltney      PragProg
-SQL Antipatterns                         Bill Karwin              PragProg
-Technical Blogging                       Antonio Congiano         PragProg
+SQL Antipatterns                    2010 Bill Karwin              PragProg
+Technical Blogging                  2012 Antonio Congiano         PragProg
 ThoughtWorks Anthology              2008 ThoughtWorks             PragProg
-tmux                                     Brian P Hogan            PragProg
+tmux                                2012 Brian P Hogan            PragProg
 Web Development with Clojure 3e     2021 Sotnikov/Brown           PragProg
 Web Development Recipes 2e          2015 Hogan/Warren             PragProg
