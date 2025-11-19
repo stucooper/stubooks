@@ -80,13 +80,13 @@ Learning Web Design                           Niederst            ORA
 Learning XML                             2001 Erik T Ray          ORA cor
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
-Linux in a Nutshell 2e                  1999  Ellen Siever        ORA
-Linux in a Nutshell 4e                  2003  Siever/Figgins      ORA
-Linux Device Drivers                    1998  Rubini              ORA
+Linux in a Nutshell 2e                   1999 Ellen Siever        ORA
+Linux in a Nutshell 4e                   2003 Siever/Figgins      ORA
+Linux Device Drivers                     1998 Rubini              ORA
 Linux Device Drivers 3e                       Rubini              ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
-Linux Network Administrator's Guide 2e  2000  Kirch/Dawson        ORA
-Mac OSX (Tiger) for Unix Geeks 3e       2005  Jepson/ROthman      ORA
+Linux Network Administrator's Guide 2e   2000 Kirch/Dawson        ORA
+Mac OSX (Tiger) for Unix Geeks 3e        2005 Jepson/ROthman      ORA
 Making Things Talk                            Tom Ioge            ORA
 Managing IP Networks with Cisco Routers       Scott Ballew        ORA
 MySQL Cookbook 2e                             Paul DuBois         ORA
