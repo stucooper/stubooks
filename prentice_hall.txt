@@ -72,7 +72,7 @@ Solaris Systems Programming                Rich Teer            PTR
 Standard C Library,The                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum lcb PTR
-Systems Performance                        Brendan Gregg        PTR
+Systems Performance                        Brendan Gregg   2014 PTR
 Technical Java                             Grant Palmer         PTR brc
 Thinking in Java 4e                        Bruce Eckel          PTR
 Threads Primer                             Lewis/Berg           PTR lc2
