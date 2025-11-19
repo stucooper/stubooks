@@ -62,6 +62,7 @@ Java Network Programming 2e              2000 Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook          1999 Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e (7e ora_recent) David Flanagan    ORA
+Javascript: The Good Parts               2008 Crockford           ORA
 JavaScript Enlightenment                 2013 Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 jQuery Cookbook                          2009 jQuery Experts      ORA
