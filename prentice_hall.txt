@@ -15,7 +15,7 @@ Computer Networks 3e                       Tanenbaum       lcb  PTR
 Content Critical                           McGovern/Norton      PTR lost?
 Core Java 2 Volume 1 Fundamentals      Horstmann/Cornell   2003 PTR brc
 Core PHP Programming 3e                    Leon Atkinson        PTR
-Cryptography and Network Security     1999 William Stallings    PTR
+Cryptography and Network Security          Stallings       1999 PTR
 Data and Computer Communications 8e        Stallings            PTR lc2
 Data Structures Using C                    Esakov/Weiss         PTR mt2
 Data Structures Program Design in C        Kruse/Tondo     1997 PTR cor
@@ -42,11 +42,11 @@ Linux Kernel Primer,The                    Rodriguez/Fischer    PTR
 Linux Programmers Toolbox,The              John Fusco           PTR
 Linux Programming by Example               Arnold Robbins       PTR
 Linux Routers                              Mancill         2001 PTR
-Linux System Security                      Mann/Mitchell        PTR
+Linux System Security                      Mann/Mitchell   2000 PTR
 Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
 Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
-Nagios                                2013 Josephsen            PTR
+Nagios                                     Josephsen       2013 PTR
 Network and Internetwork Security          William Stallings    PTR mt2
 Network Security                           Kaufmann/Perlman     PTR lc2
 Network Management, MIBs and MPLS          Stephen Morris  2003 PTR brm
@@ -77,15 +77,15 @@ Technical Java                             Grant Palmer         PTR brc
 Thinking in Java 4e                        Bruce Eckel          PTR
 Threads Primer                             Lewis/Berg           PTR lc2
 Understanding AJAX                         Joshua Eichorn       PTR
-Understanding Unix/Linux Programming 2003  Bruce Molay          PTR
+Understanding Unix/Linux Programming       Bruce Molay     2003 PTR
 UNIX Internals New Frontiers               Uresh Valhalia   lcb PTR
 Unix System Administrators Handbook 3e     Nemeth/Snyder        PTR lost?
-Unix and Linux Sys Adminis Handbook 4e     Nemeth/Snyder        PTR 2011
+Unix and Linux Sys Adminis Handbook 4e     Nemeth/Snyder   2011 PTR
 Unix Network Programming 1e pback          W Richard Stevens    PTR
 Unix Network Programming Volume 1 2e       W Richard Stevens    PTR
 Unix Network Programming Volume 2 2e       W Richard Stevens    PTR
-UNIX Programming Environment,The    1984   Kernighan/Pike       PTR
-UNIX System V Programmer's Guide    1987   AT&T                 PTR brm
+UNIX Programming Environment,The           Kernighan/Pike  1984 PTR
+UNIX System V Programmer's Guide           AT&T            1987 PTR brm
 UNIX Systems Programming                   Kay/Steven Robbins   PTR
 Voice Over IP 2e                           Black                PTR
 
