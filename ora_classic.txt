@@ -1,5 +1,6 @@
 # CLassic O'Reilly books: published before 2010
 # anything Ruby, Rails and Python goes to ora_recent.txt regardless
+# anything "Head First" goes here regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Defin Guide 2e  2005 Gast                ORA
 Ambient Findability                      2005 Morville            ORA
