@@ -76,7 +76,7 @@ Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
-Learning Ruby                                 Michael Fitzgerald  ORA
+Learning Ruby                            2007 Michael Fitzgerald  ORA
 Learning Test Driven Development         2022 Siddiqui            ORA
 Linux Systems Programming 2e             2013 Robert Love         ORA
 Make 08: Toys and Games                       MakeZine            ORA
@@ -113,8 +113,8 @@ R for Data Science                            Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
-Ruby Cookbook                                 Carlson/Richardson  ORA
-Ruby Programming Language,The                 Flanagan/Matsumoto  ORA
+Ruby Cookbook                            2006 Carlson/Richardson  ORA
+Ruby Programming Language,The            2008 Flanagan/Matsumoto  ORA
 Ruby on Rails Up and Running                  Tate/Hibbs          ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
