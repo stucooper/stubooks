@@ -7,7 +7,7 @@ Computer Architecture: Quant Approach 4e      Hennessy/Patterson  lcb    MK
 Computer Organization and Design 5e           Hennessy/Patterson  lcb    MK
 Data Mining 2e                                Witten/Framk   2005 brm    MK
 Debugging by Thinking                         Robert Metzger 2004 brm    MK
-Learning Processing                           Daniel Shiffman            MK
+Learning Processing                           Daniel Shiffman2008        MK
 Managing Gigabytes 2e                         Witten/Moffat  1999 brm    MK
 Network Algorithmics                          George Varghese            MK
 Programming Language Semantics                Michael Scott  2000 cor    MK
