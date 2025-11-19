@@ -22,6 +22,8 @@ Javascript and JQuery                  2014  Jon Duckett          JohnWiley
 Liars and Outliers                           Bruce Schneier       JohnWiley
 Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts            lcb    Silberschatz/Galvin  JohnWiley
+Pattern-Oriented Sware Arch Vol 1      1996  Buschmann/Meunier    JohnWiley
+Pattern-Oriented Sware Arch Vol 4      2007  Buschmann/Henney     JohnWiley
 Pentium Chronicles                           Robert P. Colwell    JohnWiley
 Practical Cryptography                       Ferguson/Schneier    JohnWiley
 ProBlogger 2e                                Rowse/Garrett        JohnWiley
