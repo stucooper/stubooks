@@ -52,7 +52,7 @@ Getting Started with Bluetooth low energy     Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
-Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA
+Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA 3e
 Infrastructure as Code 2e                2020 Morris              ORA
 Inside Cyber Warfare 2e                  2011 Jeffrey Carr        ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
