@@ -35,7 +35,7 @@ Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/   1989 AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/    1996 AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil      2005 AWL
 Design Patterns                       Gamma/Helm/Johnson/Vlissades    AWL
-Designing Storage Area Networks 2e    Tom Clark                       AWL
+Designing Storage Area Networks 2e    Tom Clark                  2003 AWL
 Digital Typography                    Knuth                           csli
 Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
@@ -85,7 +85,7 @@ Practice of System&Network Admin 2e   Limoncelli/Hogan                AWL
 Practice of Programming               Kernighan/Pike                  AWL
 Procmail Companion                    Martin McCarthy                 AWL
 Programming in Objective C 6e         Kochan                     2014 AWL brm
-Programming in Python 3               Summerfield                     AWL
+Programming in Python 3               Summerfield                2009 AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Jon Bentley                     AWL
 Programming with POSIX Threads        David R Butenhof                AWL
