@@ -73,7 +73,7 @@ Programming Challenges                  2003 Skiena/Revilla       Springer
 Programming in Lua                           Roberto lerusalimschy Lua.org
 Programming, Problem Solving Abstraction C   Alistair Moffat      Pearson
 Python The Complete Reference                Martin C. Brown      McGrawHill
-Python Tricks The Book                       Dan Bader            DanBader
+Python Tricks The Book                  2017 Dan Bader            DanBader
 Rapid Development                            Steve McConnell      Microsoft
 RedHat Networking and System Administration  Collings/Wall        RedHat
 Reverse Engineering Code with IDA Pro        Kaminsky             Syngress
