@@ -5,8 +5,8 @@
 802.11 Wireless Networks Defin Guide 2e  2005 Gast                ORA
 Ambient Findability                      2005 Morville            ORA
 Ant The Definitive Guide 2e              2005 Holzner             ORA brm
-Apache Cookbook 2e                            Coar/Bowen          ORA
-Apache The Definitive Guide 3e                Laurie/Laurie       ORA
+Apache Cookbook 2e                       2007 Coar/Bowen          ORA
+Apache The Definitive Guide 3e           2002 Laurie/Laurie       ORA
 Applying RCS and SCCS                    1995 Bolinger/Bronson    ORA
 Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA brc
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
