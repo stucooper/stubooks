@@ -83,7 +83,7 @@ LDAP System Administration                    Carter              ORA
 Linux in a Nutshell 2e                   1999 Ellen Siever        ORA
 Linux in a Nutshell 4e                   2003 Siever/Figgins      ORA
 Linux Device Drivers                     1998 Rubini              ORA
-Linux Device Drivers 3e                       Rubini              ORA
+Linux Device Drivers 3e                  2005 Corbet/Rubini       ORA
 Linux Multimedia Guide                        Jeff Tranter        ORA
 Linux Network Administrator's Guide 2e   2000 Kirch/Dawson        ORA
 Mac OSX (Tiger) for Unix Geeks 3e        2005 Jepson/ROthman      ORA
@@ -121,7 +121,7 @@ RADIUS                                   2002 Hassell             ORA
 Regular Expressions Cookbook             2009 Goyvaerts           ORA
 Repairing and Upgrading Your PC               Thompson/Thompson   ORA
 RESTful Web Services                     2007 Richardson          ORA
-Running Linux 3e                              Matt Welsh          ORA
+Running Linux 3e                         1999 Matt Welsh          ORA
 sed & awk 2e                                  Dougherty/Robbins   ORA
 Secure Programming Cookbook C/C++        2003 Viega/Messier       ORA
 Security and Usability                   2005 Cranor/Garfinkel    ORA
