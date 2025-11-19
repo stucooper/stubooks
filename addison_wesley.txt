@@ -24,7 +24,7 @@ C++ Standard Library,The              Josuttis                lost?   AWL
 Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
-Computer Networking 3e                Kurose/Ross                     AWL
+Computer Networking 3e                Kurose/Ross                2005 AWL
 Computer Science: An Overview 9e      J Glenn Brookshear         2007 AWL
 Concepts of Programming Languages 6e  Robert W. Sebesta          2004 AWL cor
 Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
