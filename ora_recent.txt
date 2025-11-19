@@ -129,7 +129,7 @@ Twisted: Network Programming Essentials  2005 Abe Fettig          ORA
 User Story Mapping                            Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
-Web Development with Node and Express         Brown               ORA
+Web Development with Node and Express 2e 2019 Brown               ORA
 Web Operations                           2010 Allspaw/Robbins     ORA
 You Don't Know JS: Async & Performance   2015 Kyle Simpson        ORA
 You Don't Know JS: ES6 & Beyond          2016 Kyle Simpson        ORA

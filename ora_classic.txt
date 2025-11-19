@@ -34,7 +34,7 @@ Evil Geniuses in a Nutshell              2000 Iliad               ORA
 Exploring Expect                              Libes               ORA
 Free as in Freedom: Richard Stallman(hb) 2002 Sam Williams        ORA
 Google Advertising Tools                 2006 Davis               ORA brm
-Googke The Missing Manual                     Milstein/Dornfest   ORA
+Googke The Missing Manual                2004 Milstein/Dornfest   ORA
 Hackers and Painters  (2nd copy CMC)(hb) 2004 Paul Graham         ORA
 Hardware Hacking Projects for Geeks           Scott Fullam        ORA
 Head First 2D Geometry                        Lindsey Fallow      ORA
