@@ -40,7 +40,7 @@ Digital Typography                    Knuth                           csli
 Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
-Effective Java 2e                     Bloch                     2008  AWL brc
+Effective Java 2e                     Bloch                      2008 AWL brc
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Essential GWT                         Kerki                           AWL
@@ -89,7 +89,7 @@ Programming in Python 3               Summerfield                2009 AWL
 Programming Languages: Concepts       Ravi Sehti                      AWL
 Programming Pearls 2e                 Jon Bentley                     AWL
 Programming with POSIX Threads        David R Butenhof                AWL
-Python Standard Library by Example,The Doug Hellmann                  AWL
+Python Standard Library by Example,The Doug Hellmann             2011 AWL
 Python Web Development with Django    Forcier/Bissex                  AWL
 A Quarter Century of UNIX             Salus                           AWL
 Real-Time Systems and Prog Langs 4e   Burns/Wellings                  AWL
