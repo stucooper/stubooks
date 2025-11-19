@@ -70,7 +70,7 @@ Practical Guide to Designing with Data lost? Brian Suda           FiveSimple
 Principles of SAN Design                     Judd/Kruger          brocade
 Programming in Ansi C             lost?      Kumar/Agrawal        West
 Programming Challenges                  2003 Skiena/Revilla       Springer
-Programming in Lua                           Roberto lerusalimschy Lua.org
+Programming in Lua 4e                   2016 Roberto lerusalimschy Lua.org
 Programming, Problem Solving Abstraction C   Alistair Moffat      Pearson
 Python The Complete Reference                Martin C. Brown      McGrawHill
 Python Tricks The Book                  2017 Dan Bader            DanBader
