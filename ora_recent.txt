@@ -42,9 +42,9 @@ Essential Business Process Modeeling          Havey               ORA
 Essential Cybersecurity Science               Dykstra             ORA
 Essential Math for Data Science          2022 Nield               ORA
 Essential SQL Alchemy                    2008 Copeland            ORA
-Exploring Everyday things with R and Ruby     Chang               ORA
+Exploring Everyday things w/ R and Ruby  2012 Chang               ORA
 Facebook: The Missing Manual                  Veer                ORA
-Flask Web Development 2e                      Grinberg            ORA
+Flask Web Development 2e                 2018 Grinberg            ORA
 Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                   2011 Zichermann          ORA
 Geek Atlas,The                                Graham-Cunning      ORA
