@@ -22,7 +22,6 @@ Code Book                                    Simon Singh          Fourth
 Coders                                       Clive Thompson       Picador
 Cognitive Surplus                            Clay Shirky          AllenLane
 Coming Wave,The                              Suleyman             BodleyHead
-Competing on Analytics                       Davenport/Harris     harvard
 Convergence Culture                 lost?    Jenkins              NewYorkUni
 Countdown to Zero Day (Stuxnet)              Kim Zetter           crown
 Crowdsourcing                                Jeff Howe            rh
@@ -130,7 +129,6 @@ Radical Technologies                         Adam Greenfield      Verso
 Radicals: Outsides Changing the World        Jamie Bartlett       Heinemann
 rebel code                                   Glyn Moody           AllenLane
 Remix                                        Lawrence Lessig      Bloomsbury
-Republic, Lost                               Lawrence Lessig      Twelve
 Rise of the Robots Mass Unemployment,The     Ford                 oneworld
 Scrum                                        Jeff Sutherland      rhBusiness
 Shallows,The: Internet changes how we think  Nicholas Carr        atlantic
