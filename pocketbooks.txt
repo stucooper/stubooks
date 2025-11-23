@@ -6,7 +6,7 @@ Data Manipulation with R                  Spector                springer
 GIMP Pocket Reference                     Neumann                ORA
 Go Programming Language Phrasebook        Chisnall               AWL
 Java for Dummies Quick Reference          Lowe                   johnwiley
-Linux iptables Pocket Reference           Purdy                  ORA
+Linux iptables Pocket Reference           Purdy             2004 ORA
 Presenting Numbers, Tables, and Charts    Bigwood/Spore          Oxford
 Removing the Spam                         Geoff Mulligan         AWL
 SQL Pocket Guide 2e                       Jonathan Gennick       ORA
