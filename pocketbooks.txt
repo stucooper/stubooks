@@ -1,6 +1,5 @@
 # A Pocketbook needs to be a very small book and less than 200 pages
 # I am not a big user of pocketbooks so this list is not that important
-C The Pocket Reference                    Schildt        lost?   McGrawHill
 CVS  Pocket Reference                     Purdy                  ORA
 Data Manipulation with R                  Spector                springer
 GIMP Pocket Reference                     Neumann                ORA
