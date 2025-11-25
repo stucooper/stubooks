@@ -49,14 +49,14 @@ Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                   2011 Zichermann          ORA
 Geek Atlas,The                                Graham-Cunning      ORA
 Getting Started w Bluetooth low energy   2014 Townsend            ORA
-Hadoop Application Architectures              Grover              ORA
-Hadoop The Definitive Guide 4e                White               ORA
+Hadoop Application Architectures         2015 Grover              ORA
+Hadoop The Definitive Guide 4e           2015 White               ORA
 Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA 3e
 Infrastructure as Code 2e                2020 Morris              ORA
 Inside Cyber Warfare 2e                  2011 Jeffrey Carr        ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
-Interactive Data Visualisation for the Web    Murray              ORA
+Interactive Data Visualisation the Web   2013 Murray              ORA
 Introducing Python 2e                    2019 Bill Lubanovic      ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
 JavaScript: Definitive Guide 7e          2020 David Flanagan      ORA
