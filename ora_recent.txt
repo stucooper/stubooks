@@ -80,13 +80,13 @@ Learning Test Driven Development         2022 Siddiqui            ORA
 Linux Systems Programming 2e             2013 Robert Love         ORA
 Make 08: Toys and Games                       MakeZine            ORA
 Make: AVR Programming                         Elliot Williams     MakerMedia
-Machine Learning for Hackers                  Drew Conway         ORA
+Machine Learning for Hackers             2012 Drew Conway         ORA
 Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mapping Experiences                           Jim Kalbach         ORA
 Mastering Bitcoin 2e                     2018 Antonopoulos        ORA
 Mastering ClouddForms Automation         2016 Peter McGowan       ORA
-Mastering Ethereum                            Antonopoulos        ORA
+Mastering Ethereum                       2018 Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web                         Russell             ORA
 MongoDB The Definitive Guide             2010 Kristina Chodorow   ORA
@@ -99,7 +99,7 @@ PayPal APIs Up and Running               2011 Balderas            ORA
 Planning for IPv6                        2011 Hagen               ORA
 Practical Monitoring                     2017 Julian              ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
-Programming Collective Intelligence           Segaran             ORA
+Programming Collective Intelligence      2007 Segaran             ORA
 Programming Python 3e                         Lutz                ORA
 producing open source software                Fogel               ORA
 Productive Programmer,The                     Ford                ORA
@@ -108,7 +108,7 @@ Python Cookbook 2e                            Martelli/Ascher     ORA
 Python Data Science Handbook             2017 VanderPlas          ORA
 Python for Data Analysis                      Wes McKinney        ORA
 Python Standard Library                  2001 Lundb               ORA
-R for Data Science                            Wickham             ORA
+R for Data Science                       2016 Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
