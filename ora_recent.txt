@@ -1,8 +1,8 @@
 # new O'Reilly books, published since 2010
 # earliers see ora_classic
 # For convenience, python books are considered recent
-21st Century C                                Klemens             ORA
-97 Things every Programmer Should Know        ed Kelvin Henney    ORA
+21st Century C 2e                        2015 Klemens             ORA
+97 Things every Programmer Should Know   2010 ed Kelvin Henney    ORA
 Advanced Analytics with PySpark          2022 Tandon/Ryza         ORA
 Architecture Patterns with Python        2020 Percival/Gregory    ORA
 Arduino Cookbook 2e                      2011 Margolis            ORA
@@ -84,7 +84,7 @@ Machine Learning for Hackers                  Drew Conway         ORA
 Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mapping Experiences                           Jim Kalbach         ORA
-Mastering Bitcoin 2e                          Antonopoulos        ORA
+Mastering Bitcoin 2e                     2018 Antonopoulos        ORA
 Mastering ClouddForms Automation         2016 Peter McGowan       ORA
 Mastering Ethereum                            Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
@@ -125,7 +125,7 @@ Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                          2015 Allen B Downey      ORA
 Think Python 3e                          2024 Allen B Downey      ORA
 Twisted: Network Programming Essentials  2005 Abe Fettig          ORA
-User Story Mapping                            Patton              ORA
+User Story Mapping                       2014 Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
 Web Development with Node and Express 2e 2019 Brown               ORA
