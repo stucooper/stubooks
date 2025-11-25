@@ -1,6 +1,6 @@
-# CLassic O'Reilly books: published before 2010
+# Classic O'Reilly books: published before 2010
 # anything Ruby, Rails and Python goes to ora_recent.txt regardless
-# anything "Head First" goes here regardless
+# anything in the "Head First" series goes here regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Defin Guide 2e  2005 Gast                ORA
 Ambient Findability                      2005 Morville            ORA
@@ -41,7 +41,7 @@ Head First 2D Geometry                        Lindsey Fallow      ORA
 Head First Ajax                               Riordan             ORA
 Head First Design Patterns                    Freeman/Freeman     ORA
 Head First HTML & CSS 2e                      Robson/Freeman      ORA
-head First Go                            2019 Jac McGavren        ORA
+Head First Go                            2019 Jac McGavren        ORA
 Head First Java                               Sierra/Bates        ORA
 Head First JavaScript Programming             Freeman/Robson      ORA
 Head First Physics                            Lang                ORA
