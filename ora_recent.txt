@@ -21,7 +21,7 @@ Cloud Native Go                          2021 Titmus              ORA
 Clojure Programming                           Enerick/Carper      ORA
 Code Simplicity                          2012 Kanat-Alexander     ORA
 Concurrency in Go                             Katherine Cox-Buday ORA
-Dart: Up and Running                          Walrath             ORA
+Dart: Up and Running                     2014 Walrath             ORA
 Data Algorithms with Spark               2022 Parsian             ORA
 Data Science at the Command Line              Janssens            ORA
 Data Science from Scratch                     Joel Grus           ORA
@@ -32,14 +32,14 @@ Designing Connected Products                  Goodman             ORA
 Designing Data-Intensive Applications    2017 Martin Kleppmann    ORA
 Designing Games                          2013 Tynan Sylvester     ORA
 Designing Interfaces                          Tidwell             ORA
-DevOps with OpenShift                         Picozzi/Hepburn     ORA
+DevOps with OpenShift                    2017 Picozzi/Hepburn     ORA
 Doing Data Science                       2013 O'Neil/Schutt       ORA
 Effective Modern C++                     2014 Scott Meyers        ORA
 Elasticsearch: The Definitive Guide      2015 Gormley/Tong        ORA
 Elements of Voice First Style,The        2022 Ahmed Bouzid        ORA
 Enterprise IoT                                Slama/Puhlmann      ORA
 Essential Business Process Modeeling          Havey               ORA
-Essential Cybersecurity Science               Dykstra             ORA
+Essential Cybersecurity Science          2015 Dykstra             ORA
 Essential Math for Data Science          2022 Nield               ORA
 Essential SQL Alchemy                    2008 Copeland            ORA
 Exploring Everyday things w/ R and Ruby  2012 Chang               ORA
@@ -61,7 +61,7 @@ Introducing Python 2e                    2019 Bill Lubanovic      ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
 JavaScript: Definitive Guide 7e          2020 David Flanagan      ORA
 Just a Geek                                   Will Wheaton        ORA
-Kubernetes: Up and Running                    Hightower           ORA
+Kubernetes: Up and Running               2017 Hightower           ORA
 Lavarel: Up and Running                  2016 Matt Stauffer       ORA
 Lean Analytics                                Croll/Yoskovitz     ORA
 Lean Customer Development                     Cindy Alvarez       ORA
@@ -93,10 +93,10 @@ MongoDB The Definitive Guide             2010 Kristina Chodorow   ORA
 Networking and Kubernetes                2021 Strong/Lancey       ORA
 OpenOffice.org Writer                         Weber               ORA
 open source software for the enterprise       Woods/Guliani       ORA
-OpenShift for Developers                      Shipley/Dumpleton   ORA
-OpenStack Swift                               Arnold              ORA
+OpenShift for Developers                 2016 Shipley/Dumpleton   ORA
+OpenStack Swift                          2014 Arnold              ORA
 PayPal APIs Up and Running               2011 Balderas            ORA
-Practical Monitoring                          Julian              ORA
+Practical Monitoring                     2017 Julian              ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence           Segaran             ORA
 Programming Python 3e                         Lutz                ORA
