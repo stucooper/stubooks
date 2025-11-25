@@ -49,7 +49,6 @@ Head First Ruby                          2015 Jay McGavern        ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e           2000 Musciano/Kennedy    ORA
-HTML5 Up and Running                     2010 Pilgrim             ORA
 Information Architecture for the WWW 3e  2006 Morville/Rosenfeld  ORA
 Internet in a Nutshell                   1997 Quercia             ORA brc
 Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
@@ -63,7 +62,6 @@ Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook          1999 Bradenbaugh         ORA
 JavaScript: Definitive Guide 5e (7e ora_recent) David Flanagan    ORA
 Javascript: The Good Parts               2008 Crockford           ORA
-JavaScript Enlightenment                 2013 Lindley             ORA
 Juniper MX Series                             Hanks/Reynolds      ORA
 jQuery Cookbook                          2009 jQuery Experts      ORA
 Kerberos: The Definitive Guide           2003 Garman              ORA
@@ -74,7 +72,6 @@ Learning JavaScript 2e                   2008 Powers              ORA
 Learning SQL                             2005 Alan Beaulieu       ORA
 Learning the bash Shell 3e               2005 Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
-Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
 Learning PHP 5                           2004 David Sklar         ORA
 Learning the vi and vim editors 7e       2008 Robbins/Hannah      ORA
 Learning Web Design                           Niederst            ORA
@@ -116,7 +113,6 @@ Programming Amazon Web Services          2008 Murty               ORA
 Programming C# 2e                             Liberty             ORA
 Programming Collective Intelligence      2007 Segaran             ORA
 Programming Internet Email               1999 Wood                ORA
-Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA
 Programming with Qt 2e                   2003 Matthias Dalheimer  ORA brm
 RADIUS                                   2002 Hassell             ORA
 Regular Expressions Cookbook             2009 Goyvaerts           ORA
@@ -139,7 +135,6 @@ SVG Essentials                           2002 Eisenberg           ORA
 System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e         2002 Hunt                ORA
 termcap & terminfo                    3e 1998 Strang/Mui          ORA
-Testable JavaScript                      2013 Trostler            ORA
 Time Management for Sys Administrators   2005 Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA

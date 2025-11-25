@@ -53,6 +53,7 @@ Hadoop Application Architectures         2015 Grover              ORA
 Hadoop The Definitive Guide 4e           2015 White               ORA
 Hadoop Operations                        2012 Sammer              ORA
 Hands-on Machine Learning w Scikit-Learn 2022 Aurelien Geron      ORA 3e
+HTML5 Up and Running                     2010 Pilgrim             ORA
 Infrastructure as Code 2e                2020 Morris              ORA
 Inside Cyber Warfare 2e                  2011 Jeffrey Carr        ORA
 Intellectual Property and Open Source         Van Lindberg        ORA
@@ -60,6 +61,7 @@ Interactive Data Visualisation the Web   2013 Murray              ORA
 Introducing Python 2e                    2019 Bill Lubanovic      ORA
 Introduction to Machine Learning with Python  Muller/Guido        ORA
 JavaScript: Definitive Guide 7e          2020 David Flanagan      ORA
+JavaScript Enlightenment                 2013 Lindley             ORA
 Just a Geek                                   Will Wheaton        ORA
 Kubernetes: Up and Running               2017 Hightower           ORA
 Lavarel: Up and Running                  2016 Matt Stauffer       ORA
@@ -71,6 +73,7 @@ Learning Digital Identity                2023 Phillip J. Windley  ORA
 Learning Domain-Driven Design            2021 Vlad Khononov       ORA
 Learning Helm                            2021 Butcher/Farina      ORA
 Learning HTTP/2                          2017 Ludin/Garza         ORA
+Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
@@ -100,6 +103,7 @@ Planning for IPv6                        2011 Hagen               ORA
 Practical Monitoring                     2017 Julian              ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence      2007 Segaran             ORA
+Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA
 Programming Python 3e                         Lutz                ORA
 producing open source software                Fogel               ORA
 Productive Programmer,The                     Ford                ORA
@@ -121,6 +125,7 @@ Software Engineering at Google           2020 Winters/Manshreck   ORA
 Still Just a Geek                             Wheaton             Harper
 Supercharged JavaScript Graphics         2011 Cecco               ORA
 Terraform Up and Running 3e              2022 Brikman             ORA
+Testable JavaScript                      2013 Trostler            ORA
 Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                          2015 Allen B Downey      ORA
 Think Python 3e                          2024 Allen B Downey      ORA
