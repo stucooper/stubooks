@@ -96,11 +96,11 @@ open source software for the enterprise       Woods/Guliani       ORA
 OpenShift for Developers                 2016 Shipley/Dumpleton   ORA
 OpenStack Swift                          2014 Arnold              ORA
 PayPal APIs Up and Running               2011 Balderas            ORA
+Planning for IPv6                        2011 Hagen               ORA
 Practical Monitoring                     2017 Julian              ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence           Segaran             ORA
 Programming Python 3e                         Lutz                ORA
-Planning for IPv6                             Hagen               ORA
 producing open source software                Fogel               ORA
 Productive Programmer,The                     Ford                ORA
 Prometheus: Up & Running                      Brazil              ORA
