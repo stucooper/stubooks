@@ -12,9 +12,9 @@ Art of SEO,The                                Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
-Building iPhone Apps with HTML/CSS/Javascript Stark               ORA
+Building iPhone Apps w HTML/CSS/Jscript  2010 Stark               ORA
 Building Secure and Reilable Systems     2020 Adkins/Beyer        ORA
-Building Web, Cloud and Mobile Solutions w F# Daniel Mobl         ORA
+Building Web, Cloud Mobile Solutions F#  2012 Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
 C in a Nutshell Definitive Reference 2e  2015 Prinz/Crawford      ORA
 Cloud Native Go                          2021 Titmus              ORA
@@ -48,7 +48,7 @@ Flask Web Development 2e                 2018 Grinberg            ORA
 Fluent Python                                 Luciano Romalho     ORA
 Gamification by Design                   2011 Zichermann          ORA
 Geek Atlas,The                                Graham-Cunning      ORA
-Getting Started with Bluetooth low energy     Townsend            ORA
+Getting Started w Bluetooth low energy   2014 Townsend            ORA
 Hadoop Application Architectures              Grover              ORA
 Hadoop The Definitive Guide 4e                White               ORA
 Hadoop Operations                        2012 Sammer              ORA
