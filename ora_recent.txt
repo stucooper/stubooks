@@ -23,8 +23,8 @@ Code Simplicity                          2012 Kanat-Alexander     ORA
 Concurrency in Go                             Katherine Cox-Buday ORA
 Dart: Up and Running                     2014 Walrath             ORA
 Data Algorithms with Spark               2022 Parsian             ORA
-Data Science at the Command Line              Janssens            ORA
-Data Science from Scratch                     Joel Grus           ORA
+Data Science at the Command Line         2014 Janssens            ORA
+Data Science from Scratch                2015 Joel Grus           ORA
 Database in Depth                             C J Date            ORA
 Deep Learning: A Practitioner's Approach 2017 Patterson/Gibson    ORA
 Deep Learning for Coders fastai PyTorch  2020 Howard/Gugger       ORA
@@ -88,7 +88,7 @@ Mastering Bitcoin 2e                     2018 Antonopoulos        ORA
 Mastering ClouddForms Automation         2016 Peter McGowan       ORA
 Mastering Ethereum                       2018 Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
-Mining the Social Web                         Russell             ORA
+Mining the Social Web 2e                 2013 Russell             ORA
 MongoDB The Definitive Guide             2010 Kristina Chodorow   ORA
 Networking and Kubernetes                2021 Strong/Lancey       ORA
 OpenOffice.org Writer                         Weber               ORA
@@ -103,10 +103,10 @@ Programming Collective Intelligence      2007 Segaran             ORA
 Programming Python 3e                         Lutz                ORA
 producing open source software                Fogel               ORA
 Productive Programmer,The                     Ford                ORA
-Prometheus: Up & Running                      Brazil              ORA
+Prometheus: Up & Running                 2018 Brazil              ORA
 Python Cookbook 2e                            Martelli/Ascher     ORA
 Python Data Science Handbook             2017 VanderPlas          ORA
-Python for Data Analysis                      Wes McKinney        ORA
+Python for Data Analysis                 2014 Wes McKinney        ORA
 Python Standard Library                  2001 Lundb               ORA
 R for Data Science                       2016 Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
