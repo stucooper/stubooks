@@ -88,7 +88,7 @@ Making Software                               ed Oram/Wilson      ORA
 Making Things Happen                          Berkun              ORA
 Mapping Experiences                           Jim Kalbach         ORA
 Mastering Bitcoin 2e                     2018 Antonopoulos        ORA
-Mastering ClouddForms Automation         2016 Peter McGowan       ORA
+Mastering CloudForms Automation          2016 Peter McGowan       ORA
 Mastering Ethereum                       2018 Antonopoulos        ORA
 Masterminds of Programming                    Biancuzzi/Warden    ORA
 Mining the Social Web 2e                 2013 Russell             ORA
