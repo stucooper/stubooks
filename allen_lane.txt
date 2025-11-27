@@ -2,7 +2,6 @@
 12 Rules For Life                            Peterson          Penguin
 1914-1918                                    Stevenson         Penguin
 23 things don't tell Capitalism              Ha-Joon Chang     Penguin
-Africa's Long Road Since Independence        Somerville        Penguin
 Age of Anger                                 Mishra            Penguin
 All Things Made New                          MacCulloch        Penguin
 Animals Among Us,The                         Bradshaw          Penguin
@@ -10,7 +9,6 @@ Antifragile                                  Taleb             Penguin
 Antwerp                                      Pye               Penguin
 Ascent of Money,The                          Ferguson          Penguin
 Atoms and Ashes                              Plokhy            Penguin
-Baghdad                                      Justin Marozzi    Penguin
 Be Like the Fox                              Benner            Penguin
 Beautiful Question,A                         Wilczek           Penguin
 Bed of Procrustes,The                        Taleb             Penguin
@@ -37,7 +35,6 @@ Chernobyl                                    Plokhy            Penguin
 China's War with Japan                       Mitter            Penguin
 Chopin's Piano                               Kildea            Penguin
 Churchill                                    Roberts           Penguin
-Climate Change Nation State                  Anatol Lieven     Penguin
 Civilization                                 Ferguson          Penguin
 Classical Mechanics                          Susskind          Penguin
 Craftsman,The                                Sennett           Penguin
@@ -74,7 +71,6 @@ Exercised                                    Lieberman         Penguin
 Fancy Bear Goes Phishing                     Scott j, Shapiro  Penguin
 Fall of the Ottomans,The                     Rogan             Penguin
 Feline Philosophy                            Gray              Penguin
-Feral                                        Monbiot           Penguin
 Fistful of Shells,A                          Green             Penguin
 Flash Boys                                   Lewis             Penguin R2022
 Fooled by Randomness                         Taleb             Penguin
@@ -117,7 +113,6 @@ Life 3.0                                     Tengmark          Penguin
 Light Ages,The                               Falk              Penguin
 Limonov                                      Carrere           Penguin
 Long '68,The                                 Vinen             Penguin
-Losing Eden                                  Lucy Jones        Penguin
 Lost Japan                                   Kerr              Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
 Mindware                                     Nisbett           Penguin
@@ -135,17 +130,14 @@ On Grand Strategy                            Gaddis            Penguin
 On Politics                                  Ryan              Penguin
 Order of Time,The                            Rovelli           Penguin
 Origin Story                                 Christian         Penguin
-Otherlands                                   Halliday          Penguin
 Our Boys                                     Parr              Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
 Owls of the Eastern Ice                      Slaght            Penguin
 Paper Trail,The                              Monro             Penguin
-Partition,The                                Townshend         Penguin
 Party,The                                    McGregor          Penguin
 Pattern Seekers,The                          Simon Baron-Cohen Penguin
 Penguin History of Modern China              Fenby             Penguin
-Philosoper of the Heart                      Carlisle          Penguin
 Physics of the Impossible                    Kaku              Penguin
 Pity of War,The (white spine)                Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
@@ -165,7 +157,6 @@ Roads to Sata,The                            Booth             Penguin
 Roller-Coaster                               Kershaw           Penguin
 Russia Anxiety,The                           Smith             Penguin
 Scarcity                                     Mullainathan      Penguin
-Secret Life of Trees,The                     Colin Tudge       Penguin
 Secret World,The                             Andrew            Penguin
 Sense of Style,The                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
@@ -188,7 +179,6 @@ This Changes Everything                      Klein             Penguin
 Together                                     Richard Sennett   Penguin
 Tombstone                                    Yisheng           Penguin
 Too Big to Fail                              Ross Sorkin       Penguin
-Traces Remain                                Charles Nicholl   Penguin
 Trans-Europe Express                         Hatherley         Penguin
 Turing's Cathedral                           Dyson             Penguin
 Undivided Past,The                           David Cannadine   Penguin
