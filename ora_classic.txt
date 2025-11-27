@@ -138,6 +138,7 @@ termcap & terminfo                    3e 1998 Strang/Mui          ORA
 Time Management for Sys Administrators   2005 Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
+Understanding the Linux Kernel 3e        2005 Bovet/Cesati        ORA
 Understanding MySQL Internals                 Pachev              ORA
 Understanding Open Source Free SW Licensing   St. Laurent         ORA
 Unicode Explained                        2006 Jukka Korpela       ORA cor
