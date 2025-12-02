@@ -8,7 +8,6 @@ Antifragile                                  Taleb             Penguin
 Ascent of Money,The                          Ferguson          Penguin
 Atoms and Ashes                              Plokhy            Penguin
 Be Like the Fox                              Benner            Penguin
-Beautiful Question,A                         Wilczek           Penguin
 Bed of Procrustes,The                        Taleb             Penguin
 Bestseller Code,The                          Archer/Jockers    Penguin
 Better Angels of Our Nature,The              Steven Pinker     Penguin
@@ -93,7 +92,6 @@ In Defence of Food                           Pollan            Penguin
 Intuition Pumps                              Daniel C. Dennett Penguin
 Invention of Science,The                     Wootton           Penguin
 Iron Curtain                                 Anne Applebaum    Penguin
-Iron Kingdom                                 Clark             Penguin
 Japanese,The                                 Harding           Penguin
 Justice                                      Michael J Sandel  Penguin
 Knowledge Machine,The                        Strevens          Penguin
@@ -119,7 +117,6 @@ Nudge                                        Thaler/Sunstein   Penguin
 On Fire                                      Klein             Penguin
 On Grand Strategy                            Gaddis            Penguin
 On Politics                                  Ryan              Penguin
-Order of Time,The                            Rovelli           Penguin
 Origin Story                                 Christian         Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
