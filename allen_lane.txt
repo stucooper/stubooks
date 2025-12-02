@@ -131,7 +131,6 @@ Pity of War,The (white spine)                Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
 Poor Economics                               Banerjee/Duflo    Penguin
 Price of Inequality,The                      Stiglitz          Penguin
-Priestdaddy                                  Lockwood          Penguin
 Promised You a Miracle                       Beckett           Penguin
 Quest,The                                    Daniel Yergin     Penguin
 Reckoning,The                                Soil              Penguin
@@ -148,9 +147,7 @@ Sense of Style,The                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
 Shady Characters                             Houston           Penguin
 Shepherd's Life,The                          Rebanks           Penguin
-Shifts and the Shocks,The                    Martin Wolf       Penguin
 Signal and the Noise,The                     Silver            Penguin
-Silence: A Christian History                 MacCulloch        Penguin
 Sleepwalkers,The                             Clark             Penguin
 Sontag                                       Moser             Penguin
 Square and the Tower,The                     Ferguson          Penguin
@@ -167,7 +164,6 @@ Turing's Cathedral                           Dyson             Penguin
 Undivided Past,The                           David Cannadine   Penguin
 Undoing Project,The                          Lewis             Penguin
 Uninhabitable Earth,The                      Wallace-Wells     Penguin
-Universal                                    Cox/Forshaw       Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
 Upheaval                                     Diamond           Penguin
 Vanished Kingdoms                            Norman Davies     Penguin
