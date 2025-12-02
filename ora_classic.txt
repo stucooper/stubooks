@@ -134,7 +134,7 @@ Stopping Spam                            1998 Schwartz/Garfinkel  ORA
 SVG Essentials                           2002 Eisenberg           ORA
 System Performance Tuning 2e             2002 Musumeci/Loukides   ORA
 TCP/IP Network Administration 3e         2002 Hunt                ORA
-termcap & terminfo                    3e 1998 Strang/Mui          ORA
+termcap & terminfo                       1998 Strang/Mui          ORA
 Time Management for Sys Administrators   2005 Limoncelli          ORA
 Understanding Japanese Information Processing Lunde               ORA
 Understanding the Linux Kernel 2e             Bovet/Cesati        ORA
