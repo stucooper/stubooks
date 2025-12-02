@@ -51,11 +51,9 @@ Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
 Don't touch my hair                          Emma Dabiri       Penguin
 Drunkard's Walk,The                          Milodinow         Penguin
-Egyptians,The                                Shenker           Penguin
 Element,The                                  Robinson          Penguin
 End,The                                      Kershaw           Penguin
 End of Average,The                           Rose              Penguin
-End of Everything,The                        Mack              Penguin
 Enemies: History of the FBI                  Weiner            Penguin
 Enemies and Neighbours                       Black             Penguin
 Entitled                                     Kate Manne        Penguin
@@ -81,7 +79,6 @@ Ghost Wars                                   Coll              Penguin
 Going Infinite                               Michael Lewis     Penguin
 Goodbye, Things                              Sasaki            Penguin
 Governing the World                          Mazower           Penguin
-Gravity's Engines                            Scharf            Penguin
 Fifth Risk,The                               Lewis             Penguin
 Happiness by Design                          Paul Doolan       Penguin
 Happy City                                   Montgomery        Penguin
@@ -129,7 +126,6 @@ Order of Time,The                            Rovelli           Penguin
 Origin Story                                 Christian         Penguin
 Our Mathematical Universe                    Tegmark           Penguin
 Outliers                                     Gladwell          Penguin
-Owls of the Eastern Ice                      Slaght            Penguin
 Paper Trail,The                              Monro             Penguin
 Party,The                                    McGregor          Penguin
 Pattern Seekers,The                          Simon Baron-Cohen Penguin
@@ -161,7 +157,6 @@ Signal and the Noise,The                     Silver            Penguin
 Silence: A Christian History                 MacCulloch        Penguin
 Sleepwalkers,The                             Clark             Penguin
 Sontag                                       Moser             Penguin
-Spirit Level,The                             Wilkinson/Pickett Penguin
 Square and the Tower,The                     Ferguson          Penguin
 Stalin: Waiting for Hitler                   Kotkin            Penguin
 Talking to Strangers                         Gladwell          Penguin
@@ -182,7 +177,6 @@ Universal                                    Cox/Forshaw       Penguin
 Until the End of Time                        Greene            Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
 Upheaval                                     Diamond           Penguin
-Value of Everything,The                      Mazzucato         Penguin
 Vanished Kingdoms                            Norman Davies     Penguin
 Vanquished,The                               Gerwarth          Penguin
 Victorious Century                           Cannadine         Penguin
