@@ -38,7 +38,6 @@ Civilization                                 Ferguson          Penguin
 Classical Mechanics                          Susskind          Penguin
 Craftsman,The                                Sennett           Penguin
 Creative Economy,The                         John Howkins      Penguin
-Creative Schools                             Robinson          Penguin
 Crimes Against Humanity                      Robertson         Penguin
 Dark Continent                               Mazower           Penguin
 David and Goliath                            Gladwell          Penguin
@@ -138,7 +137,6 @@ Priestdaddy                                  Lockwood          Penguin
 Promised You a Miracle                       Beckett           Penguin
 Quest,The                                    Daniel Yergin     Penguin
 Reckoning,The                                Soil              Penguin
-Refuge                                       Betts/Collier     Penguin
 Righteous Mind,The                           Haidt             Penguin
 Risk Savvy                                   Gigerenzer        Penguin
 Road to Character,The                        Brooks            Penguin
@@ -173,7 +171,6 @@ Undivided Past,The                           David Cannadine   Penguin
 Undoing Project,The                          Lewis             Penguin
 Uninhabitable Earth,The                      Wallace-Wells     Penguin
 Universal                                    Cox/Forshaw       Penguin
-Until the End of Time                        Greene            Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
 Upheaval                                     Diamond           Penguin
 Vanished Kingdoms                            Norman Davies     Penguin
