@@ -1,5 +1,4 @@
 # books on or about classical music including biographies
-Among Friends (Geoffrey Parsons bio)     Richard Davis      ABC
 Beethoven bio                            Martin Geck        haus
 Beethoven obsession (Stuart/Willems)     Brendan Ward       NewSouth
 The book of David (Helfgott)             Beverley Eley      HarperCollins
@@ -31,7 +30,6 @@ Percy Grainger bio                       John Bird          currency
 Piano Notes (hb)                         Charles Rosen      Penguin
 Piano Technique                          Giesking/Leimer    Dover
 Piano works of Claude Debussy            E Robert Schmitz   Dover
-Play it Again                            Alan Rusbridger    JonathanCape
 Playlist                                 James Rhodes       wrenRock cftbl
 Prokofiev: Materials/Articles/Interviews various            Progress(soviet)
 Prokofiev bio                            Thomas Schipperges haus
