@@ -6,6 +6,7 @@ Age of Anger                                 Mishra            Penguin
 Animals Among Us,The                         Bradshaw          Penguin
 Antifragile                                  Taleb             Penguin
 Ascent of Money,The                          Ferguson          Penguin
+Asia's Recknoning                            McGregor          Penguin
 Atoms and Ashes                              Plokhy            Penguin
 Be Like the Fox                              Benner            Penguin
 Bed of Procrustes,The                        Taleb             Penguin
@@ -76,6 +77,7 @@ Going Infinite                               Michael Lewis     Penguin
 Goodbye, Things                              Sasaki            Penguin
 Governing the World                          Mazower           Penguin
 Fifth Risk,The                               Lewis             Penguin
+Franklin D. Roosevelt                        Dallek            Penguin
 Happiness by Design                          Paul Doolan       Penguin
 Happy City                                   Montgomery        Penguin
 Happy Ever After                             Paul Doolan       ALane pb
