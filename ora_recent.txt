@@ -12,6 +12,7 @@ Art of SEO,The                                Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
+Building Evolutionary Architectures      2017 Ford/Parsons        ORA
 Building iPhone Apps w HTML/CSS/Jscript  2010 Stark               ORA
 Building Secure and Reilable Systems     2020 Adkins/Beyer        ORA
 Building Web, Cloud Mobile Solutions F#  2012 Daniel Mobl         ORA
@@ -78,6 +79,7 @@ Learning PHP,MySQL,JavaScript,CSS 4e     2014 Nixon               ORA
 Learning Puppet 4                        2016 Jo Rhett            ORA
 Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
+Learning Python 6e                       2025 Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
 Learning Ruby                            2007 Michael Fitzgerald  ORA
 Learning Test Driven Development         2022 Siddiqui            ORA
@@ -131,6 +133,7 @@ Think Bayes                              2013 Allen B Downey      ORA
 Think Python 2e                          2015 Allen B Downey      ORA
 Think Python 3e                          2024 Allen B Downey      ORA
 Twisted: Network Programming Essentials  2005 Abe Fettig          ORA
+Understanding Computation                2013 Tom Stuart          ORA
 User Story Mapping                       2014 Patton              ORA
 UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
