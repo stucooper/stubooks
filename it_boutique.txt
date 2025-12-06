@@ -88,6 +88,7 @@ TCP/IP Explained                        1997 Philip Miller    brm digitalPress
 TCP/IP Protocol Suite                   2000 Forouzan             McGrawHill
 Theory of Computation                        Brookshear           BenjCummings
 Unix-Hater's Handbook                   1994 Garfinkel/Weise      IDG
+Understanding the Digital World 2e      2021 Brian Kernighan      Princeton
 UNIX System Security Tools              2000 Seth T Ross          McGrawHill
 Virtualization: A Beginner's Guide           Ruest/Ruest          McGrawHill
 The Way to Go: Intro to Go Proglang     2012 Ivo Balbaert         iUniverse
