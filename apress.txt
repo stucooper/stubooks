@@ -3,6 +3,7 @@ Beginning OpenOffice Calc                 Artymiak          2011 apress
 Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs                  apress
 Coders at Work                            Seibel            2009 apress
+Dancing with Qubits                       Robert Sutor      2019 packt
 Definitive Guide to Django                Holovaty               apress
 Definitive Guide to Grails                Graeme Rocher     2006 apress cor
 Definitive Guide to Terracotta            Terracotta Inc         apress brc
