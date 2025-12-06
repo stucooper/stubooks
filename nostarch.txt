@@ -12,6 +12,7 @@ Book of Ruby,The                  Collingbourne       nostarch 2011
 Cult of Mac,The                   Kahney              nostarch
 Clojure for Brave and True        Higginbottom        nostarch 2015
 Designing BSD Rootkits            Kong                nostarch 2007
+Hacking: Art of Exploitation 2e   Jon Erickson        nostarch 2008
 Learn to Program with Minecraft   Craig Richardson    nostarch 2016
 Learn You A Haskell Great Good!   Miran Lipovaca      nostarch 2011
 Lego Builder's Guide 2e           Bedford             nostarch 2013
