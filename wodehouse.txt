@@ -24,7 +24,7 @@
 # png Penguin red spine standalone
 # pvc Penguin Very Colourful with Ben Elton Stephen Fry quotes
 # str Star Paperbacks
-
+# gut Project Gutenberg style ebooks, printed and bound. Good for rarities
 
 Adventures of Sally,The        1922 own pvc
 America, I like you            1957 US == Over Seventy
@@ -47,10 +47,11 @@ Cat Nappers,The                1974 US == Aunts aren't Gentlemen
 Clicking of Cuthbert,The       1922 own GO arp
 Cocktail Time                  1958 own hj UFO arp
 Code of the Woosters,The       1938 own pengred JWO arp JO1
-Coming of Bill,The             1919
+Coming of Bill,The             1919 own gut
 Company for Henry              1967
 Crime Wave at Blandings        1937 US == Lord Emsworth and Others
 Damsel in Distress,A           1919 own pvc
+Death at the Excelsoir         2003 own gut
 Divots                         1926 US == Heart of a Goof
 Do Butlers Burgle Banks?       1968 own png 
 Doctor Sally                   1932 own png
@@ -96,6 +97,7 @@ Man Upstairs,The               1915
 Man with Two Left Feet,The     1917 own png
 Mating Season,The              1949 own JO3 JWO
 Meet Mr Mulliner               1927 own arp
+Mike and Psmith                1909 own png
 Money in the Bank              1942 own png 
 Money for Nothing              1928 own pvc
 Mostly Sally                   1922 US == The Adventures of Sally
@@ -110,14 +112,14 @@ Old Reliable,The               1951
 Over Seventy                   1957
 Pearls, Girls and Monty Bodkin 1972 own png
 A Pelican at Blandings         1969 own arp
-Performing Flea                1953
+Performing Flea                1953 own png
 Picadilly Jim                  1917 own pvc arp
 Pigs have wings                1952 own arp
 Plot that thickened,The        1972 US == Pearls, Girls and Monty Bodkin
 Plum Pie                       1966
 Pothunters,The                 1902
 A Prefect's Uncle              1903
-Prince and Betty,The           1912
+Prince and Betty,The           1912 own gut
 Psmith in the City             1910 own ovl
 Psmith Journalist              1915 own png
 Purloined Paperweight,The      1966 US == Company for Henry
@@ -137,7 +139,7 @@ Stiff Upper Lip, Jeeves        1963 own arp JO4 ovl
 Summer Lightning               1929 own LAB TBO
 Summer Moonshine               1937
 Sunset at Blandings            1977 own cnet
-Swoop,The                      1909
+Swoop,The                      1909 own gut
 Tales of St Austin's           1903
 Thank You Jeeves               1934 own pvc JO1
 Their Mutual Child             1919 US == The Coming of Bill
@@ -148,7 +150,7 @@ Uncle Dynamite                 1948 own UFO
 Uncle Fred in the Springtime   1939 own arp UFO
 Very Good, Jeeves              1930 own JO3 pvc
 White Feather,The              1907
-William Tell Told Again        1904
+William Tell Told Again        1904 own gut
 Young Men in Spats             1936 own arp
 # About Wodehouse
 P G Wodehouse A Biography      own Frances Donaldson AndreDeutsch pb
