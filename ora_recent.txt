@@ -14,6 +14,7 @@ Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
 Building Evolutionary Architectures      2017 Ford/Parsons        ORA
 Building iPhone Apps w HTML/CSS/Jscript  2010 Stark               ORA
+Building Microservices 2e                2021 Sam Newman          ORA
 Building Secure and Reilable Systems     2020 Adkins/Beyer        ORA
 Building Web, Cloud Mobile Solutions F#  2012 Daniel Mobl         ORA
 Building Wireless Sensor Networks        2010 Faludi              ORA
