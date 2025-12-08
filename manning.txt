@@ -1,5 +1,6 @@
 # Books by Manning publisher see also perl.txt
 Algorithms of the Intelligent Web  2009   Murmanis/Babenko       Manning
+Blockchain in Action               2020   Bina Ramamurthy        Manning
 Clojure in Action 2e               2016   Rathore/Avila          Manning
 Deep Learning with Python          2018   Chollet                Manning
 Deep Learning with PyTorch         2020   Stevens/Antiga         Manning
