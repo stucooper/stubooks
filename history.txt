@@ -1,7 +1,6 @@
 # War and History books
 Arnhem                             Antony Beevor       Penguin
 Art of War,The                     Sun Tzu             Oxford
-Austerity Britain 1945-51          David Kynaston      bloomsbury
 Berlin: The Downfall               Antony Beevor       Penguin
 Between Silk and Cyanide           Leo Marks           harpercollins
 Blood, Tears and Folloy: WW2       Len Deighton        Pimlico
@@ -32,8 +31,6 @@ Lands/Peoples VI:  Canada and the United States        GrolierSociety
 Lands/Peoples VII: Latin America and General Articles  GrolierSociety
 Mao's Great Famine                 Frank Dikotter      bloomsbury
 Modern Times Modern Places         Peter Conrad        ThomasHudson
-Family Britain 1951-57             David Kynaston      bloomsbury
-Modernity Britain 1957-62          David Kynaston      bloomsbury
 Mythos: Greek Legends Retold       Stephen Fry         Penguin
 Orientalism                        Edward W Said       Vintage
 Origins of the Second World War    A J P Taylor        Penguin
