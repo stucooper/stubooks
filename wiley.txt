@@ -9,7 +9,6 @@ Art of Intrusion,The                         Mitnick/Simon        JohnWiley
 Art of Invisibility,The                      Mitnick/Vamosi       BackBay
 Become a YouTuber                      2018  Cristina Calabrese   JohnWiley
 Bitcoin Standard,The                         Saifedean Ammous     JohnWiley
-Building the Internet of Things              Maciej Kranz         JohnWiley
 ChatGPT Revolution, The                      Donna McGeorge       JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
 Data and Goliath                             Bruce Schneier       Norton
