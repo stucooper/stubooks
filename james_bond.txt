@@ -16,8 +16,5 @@ The Spy Who Loved Me                  Ian Fleming         PenguinColour R2024
 # And some Vintage Classics red spines
 For Your Eyes Only                    Ian Fleming         VintageClassics R2024
 Octopussy and the Living Daylights    Ian Fleming         VintageClassics
-# and some books on James Bond culture in general
-James Bond Companion  lost?           Chancellor          JohnMurray
-The Man Who Saved Britain             Simon Winder        picador
 # Penguin Compilation == For Your Eyes Only + Octopussy
 Quantum of Solace: Complete Short Stories Fleming         Penguin
