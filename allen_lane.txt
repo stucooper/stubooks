@@ -191,7 +191,6 @@ Worldly Philosophers,The                     Heilbroner        Penguin
 # to distinguish between hb/pp compared to hb/pb
 All Things Made New (also creamy)            MacCulloch        ALane hb
 Beyond Order                                 Jordan Peterson   ALane pp
-Capitalism in America                        Greenspan/Wooldri ALane hb
 Cancelling of the American Mind,The          Lukianoff/Schlott ALane hb
 Coddling of the American Mind                Lukianoff/Haidt   ALane hb
 Cold War: A World History,The                Odd Arne Westad   ALane hb
@@ -206,7 +205,6 @@ Experience Machine,The                       Clark             ALane hb
 Fateful Choices                              Kershaw           ALane hb no dustj
 Future Perfect                               Johnson           ALane hb
 Great Degeneration,The                       Niall Ferguson    ALane hb
-Has the West Lost it?                        Kishore Mahbubani ALane hb
 Here Comes Trouble                           Michael Moore     ALane pp
 History of World  100 objects                Neil MacGregor    ALane hb
 Hitler                                       Simms             ALane hb
@@ -224,7 +222,6 @@ Maragaret Thatcher Herself Alone   (Vol 3)   Charles Moore     ALane hb
 Premonition,The                              Lewis             ALane hb
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
 Shape: Hidden Geometry Absolutely Everything Jordan Ellenberg  ALane pp
-Shutdown                                     Tooze             ALane pp
 Skin in the Game                             Taleb             ALane pp
 Some Time with Feynman                       Mlodinow          ALane hb
 This Sovereign Isle                          Robert Tombs      ALane hb
