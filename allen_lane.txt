@@ -69,7 +69,6 @@ Feline Philosophy                            Gray              Penguin
 Flash Boys                                   Lewis             Penguin R2022
 Fooled by Randomness                         Taleb             Penguin
 Freakonomics                                 Levitt/Dubner     Penguin
-Future of Capitalism,The                     Collier           Penguin
 Gates of Europe,The                          Plokhy            Penguin
 Germany                                      MacGregor         Penguin
 Ghost Wars                                   Coll              Penguin
@@ -185,7 +184,6 @@ Winners take All                             Giridharadas      Penguin
 World Until Yesterday,The                    Diamond           Penguin
 World War One                                Stone             Penguin
 World War Two                                Stone             Penguin
-Worldly Philosophers,The                     Heilbroner        Penguin
 # Allen Lane branded (these typically become creamy penguin paperbacks)
 # I use 'pp' for paperback instead of 'pb' because easier for my eyes
 # to distinguish between hb/pp compared to hb/pb
