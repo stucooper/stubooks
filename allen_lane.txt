@@ -202,7 +202,6 @@ Demon in the Machine,The                     Davies            ALane pp
 Einstein's Unfinished Revolution             Smolin            ALane hb
 Empire Illustrated Edition                   Niall Ferguson    ALane hb cftbl
 English and their History                    Tombs             ALane hb
-Europeans,The                                Figes             ALane hb
 Experience Machine,The                       Clark             ALane hb
 Fateful Choices                              Kershaw           ALane hb no dustj
 Future Perfect                               Johnson           ALane hb
@@ -234,7 +233,6 @@ Underground Asia                             Tim Harper        ALane hb
 Wagner's Parsifal                            Roger Scruton     ALane hb
 Warlord                                      D'Este            ALane hb
 Weirdest People in the World                 Joseph Heinrich   ALane hb
-Whiteshift                                   Kaufmann          ALane hb
 Winners take All                             Giridharadas      ALane pp DUP
 # Penguin branded (non-fiction in the Allen Lane style or Allen Lane authors)
 Atlantic and its Enemies,The (Cold War)      Norman Stone      Penguin
