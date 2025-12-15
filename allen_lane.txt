@@ -49,7 +49,6 @@ Digital Gold                                 Popper            Penguin
 Don't be Evil                                Foroohar          Penguin R2023
 Don't touch my hair                          Emma Dabiri       Penguin
 Drunkard's Walk,The                          Milodinow         Penguin
-Element,The                                  Robinson          Penguin
 End,The                                      Kershaw           Penguin
 End of Average,The                           Rose              Penguin
 Enemies: History of the FBI                  Weiner            Penguin
@@ -98,11 +97,9 @@ Justice                                      Michael J Sandel  Penguin
 Knowledge Machine,The                        Strevens          Penguin
 Language Instinct,The                        Pinker            Penguin
 Last Man in Russia,The                       Bullough          Penguin
-Leadership and Self-Deception                Arbinger Institut Penguin
 Leonardo Da Vinci                            Nicholl           Penguin
 Life 3.0                                     Tengmark          Penguin
 Light Ages,The                               Falk              Penguin
-Limonov                                      Carrere           Penguin
 Long '68,The                                 Vinen             Penguin
 Lost Japan                                   Kerr              Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
@@ -128,7 +125,6 @@ Penguin History of Modern China              Fenby             Penguin
 Pity of War,The (white spine)                Ferguson          Penguin
 Plutocrats                                   Freeman           Penguin
 Poor Economics                               Banerjee/Duflo    Penguin
-Price of Inequality,The                      Stiglitz          Penguin
 Promised You a Miracle                       Beckett           Penguin
 Quest,The                                    Daniel Yergin     Penguin
 Reckoning,The                                Soil              Penguin
@@ -164,7 +160,6 @@ Undoing Project,The                          Lewis             Penguin
 Uninhabitable Earth,The                      Wallace-Wells     Penguin
 Unweaving the Rainbow                        Dawkins           Penguin
 Upheaval                                     Diamond           Penguin
-Vanished Kingdoms                            Norman Davies     Penguin
 Vanquished,The                               Gerwarth          Penguin
 Victorious Century                           Cannadine         Penguin
 We are our brains                            Swaab             Penguin
@@ -179,7 +174,6 @@ Who owns the future?                         Lanier            Penguin
 Whoops!                                      Lanchester        Penguin
 Willpower                                    BaumeisterTierney Penguin
 With our Backs to the Wall                   Stevenson         Penguin
-Winter King                                  Penn              Penguin
 Winners take All                             Giridharadas      Penguin
 World Until Yesterday,The                    Diamond           Penguin
 World War One                                Stone             Penguin
