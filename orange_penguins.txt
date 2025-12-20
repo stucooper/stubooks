@@ -8,7 +8,6 @@ The Classical World            Lane Fox          Penguin pcp
 Dark Star Safari               Paul Theroux      Penguin pcp
 Dracula                        Stoker            Penguin pcp
 Empire                         Ferguson          Penguin pcp
-The Fabric of the Cosmos       Greene            Penguin pcp
 Fever Pitch                    Hornby            Penguin pcp
 Frankenstein                   Shelley           Penguin pcp
 Goodbye to all that            Graves            Penguin (non-orange) pcp
@@ -17,7 +16,6 @@ High Fidelity                  Hornby            Penguin pcp
 I can jump puddles             Marshall          Penguin pcp
 Kingdom of Fear                Hunter S Thompson Penguin pcp
 Meditations                    Aurelius          Penguin pcp
-The Mind of God                Davies            Penguin pcp
 Mother Tongue                  Bryson            Penguin pcp
 The Periodic Table             Levi              Penguin pcp
 Picnic at Hanging Rock         Lindsay           Penguin pcp
