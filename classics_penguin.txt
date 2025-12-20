@@ -21,7 +21,6 @@ Lord Jim                            Joseph Conrad      PengYellowClassics pcp
 The Portable Conrad                 Joseph Conrad      PengBlackClassics pcp
 Under Western Eyes                  Joseph Conrad      PengBlackClassics lost?
 Robinson Crusoe                     Defoe              PengYellowClassics pcp
-American Notes                      Dickens            PengYellowClassics lost?
 Bleak House                         Dickens            PengBlackClassics pcp
 A Christmas Carol, Xmas writings    Dickens            PengBlackClassics pcp
 David Copperfield                   Dickens            PengYellowClassics pcp
@@ -30,7 +29,6 @@ Great Expectations                  Dickens            PengYellowClassics pcp
 Hard Times                          Dickens            PengYellowClassics pcp
 Martin Chuzzlewit                   Dickens            PengYellowClassics pcp
 Nicholas Nickleby                   Dickens            PengYellowClassics pcp
-Old Curiosity Shop                  Dickens            PengYellowClassics pcp
 Our Mutual Friend                   Dickens            PengBlackClassics pcp
 Oliver Twist                        Dickens            PengYellowClassics pcp
 Pickwick Papers                     Dickens            PengYellowClassics pcp
@@ -85,5 +83,4 @@ Monkey                              Arthur Waley       PengYellowClassics pcp
 A Short History of the World        H G Wells          PengBlackClassics lost?
 The War in the Air                  H G Wells          Penguin lost?
 Complete Poems                      Walt Whitman       PengBlackClassics lost?
-De Profundis etc.                   Oscar Wilde        PengYellowClassics pcp
 Oscar Wilde Complete Plays          Oscar Wilde        PengPlays (yellow) pcp
