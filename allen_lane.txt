@@ -194,16 +194,16 @@ Demon in the Machine,The                     Davies            ALane pp
 Einstein's Unfinished Revolution             Smolin            ALane hb
 Empire Illustrated Edition                   Niall Ferguson    ALane hb cftbl
 English and their History                    Tombs             ALane hb
-Fateful Choices                              Kershaw           ALane hb no dustj
+Fateful Choices                              Kershaw no dustj  ALane hb pib
 Future Perfect                               Johnson           ALane hb
 Great Degeneration,The                       Niall Ferguson    ALane hb
 Here Comes Trouble                           Michael Moore     ALane pp
 History of World  100 objects                Neil MacGregor    ALane hb
-Hitler                                       Simms             ALane hb
-Hitler (single volume)                       Kershaw           ALane pp
+Hitler                                       Simms             ALane hb pib
+Hitler (single volume)                       Kershaw           ALane pp pib
 Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
-Leadership in War                            Andrew Roberts    ALane hb
-Lewis Carroll in Numberland                  Wilson            ALane hb
+Leadership in War                            Andrew Roberts    ALane hb pib
+Lewis Carroll in Numberland                  Wilson            ALane hb pib
 Limitarianism: Case against extreme wealth   Ingrid Robeyns    ALane hb
 Man From the Future,The                      Ananyd Battcharya ALane hb
 Master Algorithm,The                         Domingos          ALane hb
@@ -211,13 +211,13 @@ Masters and Commanders                       Andrew Roberts    ALane hb
 Maragaret Thatcher Not for Turning (Vol 1)   Charles Moore     ALane hb
 Maragaret Thatcher At her Zenith   (Vol 2)   Charles Moore     Knopf
 Maragaret Thatcher Herself Alone   (Vol 3)   Charles Moore     ALane hb
-Premonition,The                              Lewis             ALane hb
-Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb
+Premonition,The                              Lewis             ALane hb pib
+Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb pib
 Shape: Hidden Geometry Absolutely Everything Jordan Ellenberg  ALane pp
 Skin in the Game                             Taleb             ALane pp
 Some Time with Feynman                       Mlodinow          ALane hb
 This Sovereign Isle                          Robert Tombs      ALane hb
-Wagner's Parsifal                            Roger Scruton     ALane hb
+Wagner's Parsifal                            Roger Scruton     ALane hb pib
 Warlord                                      D'Este            ALane hb
 Winners take All                             Giridharadas      ALane pp DUP
 # Penguin branded (non-fiction in the Allen Lane style or Allen Lane authors)
