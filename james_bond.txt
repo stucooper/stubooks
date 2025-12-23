@@ -11,10 +11,10 @@ Thunderball                           Ian Fleming         PenguinSilver R2024
 On Her Majesty's Secret Service       Ian Fleming         PenguinSilver R2024
 You Only Live Twice                   Ian Fleming         PenguinSilver R2025
 # These next titles have colourful covers
-The Man with the Golden Gun           Ian Fleming         PenguinColour
+The Man with the Golden Gun           Ian Fleming         PenguinColour R2025
 The Spy Who Loved Me                  Ian Fleming         PenguinColour R2024
 # And some Vintage Classics red spines
 For Your Eyes Only                    Ian Fleming         VintageClassics R2024
-Octopussy and the Living Daylights    Ian Fleming         VintageClassics
+Octopussy and the Living Daylights    Ian Fleming         VintageClassics R2025
 # Penguin Compilation == For Your Eyes Only + Octopussy
 Quantum of Solace: Complete Short Stories Fleming         Penguin
