@@ -17,7 +17,7 @@ Mastering Ansible                         Jesse Keating     2015 packt
 Mastering MongoDB 4e (MongoDB 7.0)        MongoDB Press     2024 packt
 OpenVPN                                   Markus Fielner         packt
 Practical Common Lisp                     Seibel                 apress
-Practical Ruby for System Adminstration   Hamou                  apress
+Practical Ruby for System Adminstration   Hamou             2007 apress
 Practical Mono                            Mamone                 apress
 Pro Deep Learning with Tensor Flow        Pattanayak             apress
 Pro Django                                Alchin                 apress
