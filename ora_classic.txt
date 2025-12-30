@@ -74,7 +74,7 @@ Learning the bash Shell 3e               2005 Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP 5                           2004 David Sklar         ORA
 Learning the vi and vim editors 7e       2008 Robbins/Hannah      ORA
-Learning Web Design                           Niederst            ORA
+Learning Web Design                      2001 Niederst            ORA
 Learning XML                             2001 Erik T Ray          ORA cor
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA
