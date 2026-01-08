@@ -16,8 +16,8 @@ Garbage Collection                           Jones/Lins           JohnWiley
 Ghost in the Wires                           Kevin Mitnick        LittleBrown
 Google Speaks                                Janet Lowe           JohnWiley
 Hands on Hacking                             Hickey/Arcuri        JohnWiley
-HTML and CSS                           2011  Jon Duckett          JohnWiley
-Javascript and JQuery                  2014  Jon Duckett          JohnWiley
+HTML and CSS                           2011  Jon Duckett          JohnWiley bed
+Javascript and JQuery                  2014  Jon Duckett          JohnWiley bed
 Liars and Outliers                           Bruce Schneier       JohnWiley
 Mindhacker                                   Ron Hale-Evans       JohnWiley
 Operating Systems Concepts            lcb    Silberschatz/Galvin  JohnWiley

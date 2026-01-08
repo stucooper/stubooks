@@ -50,7 +50,7 @@ Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e           2000 Musciano/Kennedy    ORA
 Information Architecture for the WWW 3e  2006 Morville/Rosenfeld  ORA
-Internet in a Nutshell                   1997 Quercia             ORA brc
+Internet in a Nutshell                   1997 Quercia             ORA bed
 Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
 IP Routing                                    Malhotra            ORA
 IPv6 Essentials 2e                            Hagen               ORA
@@ -74,7 +74,7 @@ Learning the bash Shell 3e               2005 Newham/Rosenblatt   ORA
 Learning the Korn Shell                       Rosenblatt          ORA lost?
 Learning PHP 5                           2004 David Sklar         ORA
 Learning the vi and vim editors 7e       2008 Robbins/Hannah      ORA
-Learning Web Design                      2001 Niederst            ORA
+Learning Web Design                      2001 Niederst            ORA bed
 Learning XML                             2001 Erik T Ray          ORA cor
 lex and yacc 2e                               Levin/Mason/Brown   ORA
 LDAP System Administration                    Carter              ORA

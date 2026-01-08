@@ -41,7 +41,7 @@ GNU Make                                     RMS/McGrath          GNUPress
 Hacking Secret Codes with Python             Al Sweigart          self
 Handbook of Prog Langs Volume 3              ed Salus             MTP
 Handbook of Prog Langs Volume 4              ed Salus             MTP
-HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit
+HTML, XHTML & CSS Visual Quickstart 6e       Castro               peachpit bed
 How to succeed in business using LinkedIn    Butow/Taylor         Amacom
 Introduction to Theory of Computation 3e     Michael Sipser       Cengage
 iPhone app design manual                     brown                ilex

@@ -27,6 +27,7 @@ hbc    Hillbilly Cider box (empty cider case)
 pcg    Perl Cooper's Green (two of these)
 mt2    Monteiths Black Beer second box
 pib    Pink plastic box, in my own bedroom
+bed    My Bedroom. These books should be in sight of my bedroom
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping
