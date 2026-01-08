@@ -127,7 +127,7 @@ Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Software Engineering at Google           2020 Winters/Manshreck   ORA
 Still Just a Geek                             Wheaton             Harper
-Supercharged JavaScript Graphics         2011 Cecco               ORA
+Supercharged JavaScript Graphics         2011 Cecco               ORA bsgp
 Terraform Up and Running 3e              2022 Brikman             ORA
 Testable JavaScript                      2013 Trostler            ORA
 Think Bayes                              2013 Allen B Downey      ORA

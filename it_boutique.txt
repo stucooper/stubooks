@@ -7,7 +7,7 @@ Advanced C Programming by Example            John W. Perry        PWS
 ANSI Common Lisp                             Paul Graham      mtb PTR
 Ansible for DevOps 2e                   2020 Geerling             leanpub
 Apache Web Server Admin               lost?  Aulds                Sybex
-Artist's Guide to the Gimp                   Michael J. Hammel    SSC
+Artist's Guide to the Gimp 1e           1999 Michael J. Hammel    SSC bed
 The Blender Gamekit 2e                  2008 Wartmann             Blender
 Bell System Technical Journal Jul-Aug   1978 early UNIX legends   Bell Systems
 Build Your Own Blockchain               2020 Hellwig/Karlic       Springer

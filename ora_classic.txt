@@ -13,12 +13,12 @@ Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
 bash cookbook                            2007 Albing/Vossen       ORA
 Building Internet Firewalls 2e           2000 Chapman/Zwicky      ORA
 Building Linux Clusters                  2000 Spector             ORA
-Building Scalable Web Sites              2006 Henderson           ORA
+Building Scalable Web Sites              2006 Henderson           ORA bsgp
 Building Secure Servers with Linux       2002 Bauer               ORA
 Building Wireless Community Networks     2002 Flickeneger         ORA
 Cathedral and the Bazaar,The (hb)        1999 Eric S. Raymond     ORA
-CSS Cascading Style Sheets: Definitive   2000 Eric A Meyer        ORA
-CSS Cookbook                             2004 Schmitt             ORA
+CSS Cascading Style Sheets: Definitive   2000 Eric A Meyer        ORA brm
+CSS Cookbook                             2004 Schmitt             ORA 
 Cisco Cookbook                                Dooley/Brown        ORA
 Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                  2005 Robbins/Beebe       ORA
@@ -49,7 +49,7 @@ Head First Ruby                          2015 Jay McGavern        ORA
 Head First SQL                                Beighley            ORA
 High Performance MySQL                        Schwartz/Zaitsev    ORA
 HTML/XHTML Definitive Guide 4e           2000 Musciano/Kennedy    ORA
-Information Architecture for the WWW 3e  2006 Morville/Rosenfeld  ORA
+Information Architecture for the WWW 3e  2006 Morville/Rosenfeld  ORA bsgp
 Internet in a Nutshell                   1997 Quercia             ORA bed
 Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
 IP Routing                                    Malhotra            ORA
@@ -154,7 +154,7 @@ Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
 We the Media (hb)                        2004 Dan Gillmor         ORA
 Web 2.0 Architectures                    2009 Governor/Hinchclif  ORA
 Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
-Web Design in a Nutshell                      Jennifer Niederst   ORA brc
+Web Design in a Nutshell                      Jennifer Niederst   ORA bed
 Web Navigation Designing User Experience      Fleming             ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                        2006 Addison             ORA
