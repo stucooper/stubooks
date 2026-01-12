@@ -18,7 +18,7 @@ Art of UNIX Programming,The           Eric S. Raymond                 AWL
 Building Secure Software              Viega/McGraw                    AWL
 C Interfaces and Implementations      Hanson                          AWL
 C Puzzle Book,The                     Feuer                           AWL
-C++ Programming Language,The          Stroustrup              lost?   AWL
+C++ Programming Language,The          Stroustrup                 2000 AWL brc
 C++ Programming Style                 Cargill                         AWL
 C++ Standard Library,The              Josuttis                lost?   AWL
 Code Reading                          Dimoidis Spinellis              AWL
