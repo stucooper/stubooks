@@ -27,4 +27,4 @@ Pro Puppet 2e                             Krum/vHevelingen  2013 apress
 Pro Puppet                                Turnbull/McClune  2011 apress
 Pulling strings with Puppet               James Turnbull    2007 apress
 Python Machine Learning                   Rashka            2015 packt
-Regular Expression Recipes                Nathan A Good          apress pcg
+Regular Expression Recipes                Nathan A Good     2005 apress pcg
