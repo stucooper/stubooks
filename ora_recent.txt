@@ -33,7 +33,6 @@ Deep Learning for Coders fastai PyTorch  2020 Howard/Gugger       ORA
 Designing Connected Products                  Goodman             ORA
 Designing Data-Intensive Applications    2017 Martin Kleppmann    ORA
 Designing Games                          2013 Tynan Sylvester     ORA
-Designing Interfaces                          Tidwell             ORA
 DevOps with OpenShift                    2017 Picozzi/Hepburn     ORA
 Doing Data Science                       2013 O'Neil/Schutt       ORA
 Effective Modern C++                     2014 Scott Meyers        ORA
