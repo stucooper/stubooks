@@ -1,21 +1,21 @@
 # O'Reilly "Hacks" series
 Amazon Hacks                  Bausch            ORA
-Car PC Hacks                  Stolarz           ORA
+Car PC Hacks             2005 Stolarz           ORA hkb
 eBay Hacks 2e                 Karp              ORA
-Excel Hacks 2e                Hawley            ORA
-Firefox Hacks                 McFarlane         ORA
-Google Hacks                 Calishain/Dornfest ORA
-Google Apps Hacks             Lenssen           ORA/Make (blue/white std size)
-Google Maps Hacks             Gibson/Erle       ORA
+Excel Hacks 2e           2007 Hawley            ORA hkb
+Firefox Hacks            2005 McFarlane         ORA hkb
+Google Hacks             2003 Calishain/Dornfes ORA hkb
+Google Apps Hacks             Lenssen           ORA/Make
+Google Maps Hacks        2006 Gibson/Erle       ORA hkb
 IRC Hacks                     Mutton            ORA
-Knoppix Hacks                 Ramkin            ORA
+Knoppix Hacks            2004 Ramkin            ORA hkb
 Linux Multimedia Hacks        Rankin            ORA
-Linux Server Hacks            Flickenger        ORA
-Mapping Hacks                 Erle,Gibson,Walsh ORA
+Linux Server Hacks       2003 Flickenger        ORA hkb
+Mapping Hacks            2005 Erle,Gibson,Walsh ORA hkb
 Mind Performance Hacks        Hale-Evans        ORA
-Network Security Hacks 2e     Lockhart          ORA
-PDF Hacks                     Steward           ORA
-Perl Hacks                    chromatic         ORA
+Network Security Hack 2e 2006 Lockhart          ORA hkb
+PDF Hacks                2004 Steward           ORA hkb
+Perl Hacks               2006 chromatic         ORA hkb
 Podcasting Hacks              Harrington        ORA
 SQL Hacks                     Cumming/Russell   ORA
 Wireless Hacks 2e             Flickenger/Weeks  ORA
