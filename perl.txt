@@ -10,7 +10,7 @@ Effective Perl Programming 2e     Hall/McAdams/dFoy   AWL       2010
 Elements of Programming with Perl Johnson             Manning   2000
 Embedding Perl in HTML with Mason Rolsky/Williams     ORA             pcg
 Extending and Embedding Perl      Cozens/Jenness      Manning         pcg
-Graphics Programming with Perl    Verbruggen          Manning         pcg
+Graphics Programming with Perl    Verbruggen          Manning   2002  bed
 Higher Order Perl                 Dominus             MK        2005
 Intermediate Perl                 Schwartz/dfoy       ORA       2006
 Intermediate Perl 2e              Schwartz/dfoy       ORA       2012
@@ -35,8 +35,8 @@ Perl Cookbook 2e                  Christiansen/Tork   ORA       2003
 Perl Core language ltl black 2e   Holzner             coriolis          pcg
 Perl Debugged                     Scott/Wright        AWL               pcg
 Perl for the Web                  Chris Radcliff      NewRiders 2002
-Perl for Web Site Management      Callender           ORA               pcg
-Perl Graphics Programming         Shawn Wallace       ORA
+Perl for Web Site Management      Callender           ORA       2002    bed
+Perl Graphics Programming         Shawn Wallace       ORA               pcg
 Perl in a Nutshell                Ellen Siever et al  ORA       1999
 Perl Medic                        Scott               AWL       2004
 Perl One-Liners                   Krumins             nostarch  2014
