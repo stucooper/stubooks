@@ -24,6 +24,7 @@ Cisco IOS in a Nutshell                       Boney               ORA
 Classic Shell Scripting                  2005 Robbins/Beebe       ORA
 Designing with Javascript                     Heinle/Pena         ORA
 Designing Interfaces                     2006 Tidwell             ORA
+Designing Social Interfaces              2009 Crumlish/Malone     ORA
 Designing Web Interfaces                 2009 Scott/Neil          ORA
 DNS & BIND 5e Covers BIND 9.3            2006 Liu/Albitz          ORA
 DNS & BIND Cookbook                      2002 Liu                 ORA
