@@ -8,7 +8,7 @@ Algorithms 2e                         Robert Sedgewick           1988 AWL
 Algorithms in C                       Robert Sedgewick           1990 AWL
 Algorithms in C  Parts 1-4            Robert Sedgewick                AWL
 Algorithms in C  Part 5 Graph Algos   Robert Sedgewick                AWL
-Annotated C++ Reference Manual,The    Ellis/Stroustrup           1990 AWL brc
+Annotated C++ Reference Manual,The    Ellis/Stroustrup           1990 AWL brm
 Art of Computer Programming Vol 1 3e  Fundamental       Knuth         AWL
 Art of Computer Programming Vol 2 3e  Seminumerical     Knuth         AWL
 Art of Computer Programming Vol 3 2e  Sorting/Searching Knuth         AWL
@@ -31,7 +31,7 @@ Concepts of Programming Languages 6e  Robert W. Sebesta          2004 AWL cor
 Concrete Maths Foundation for CompSci Graham/Knuth/Patashnik          AWL
 Continuous Delivery                   Humble/Farley                   AWL
 Database Design for Mere Mortals 3e   Hernandez                       AWL
-Design and Evolution of C++           Bjarne Stroustrup          1994 AWL brc
+Design and Evolution of C++           Bjarne Stroustrup          1994 AWL brm
 Design and Implementation of 4.3 BSD  Leffler/McKusick/Karels/   1989 AWL
 Design and Implementation of 4.4 BSD  McKusick/Bostic/Karels/    1996 AWL
 Design and Implementation FreeBSD     McKusick/Neville-Neil      2005 AWL
