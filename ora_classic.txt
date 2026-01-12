@@ -6,7 +6,7 @@
 Ambient Findability                      2005 Morville            ORA
 Ant The Definitive Guide 2e              2005 Holzner             ORA brm
 Apache Cookbook 2e                       2007 Coar/Bowen          ORA
-Apache The Definitive Guide 3e           2002 Laurie/Laurie       ORA
+Apache The Definitive Guide 3e           2002 Laurie/Laurie       ORA bed
 Applying RCS and SCCS                    1995 Bolinger/Bronson    ORA
 Asterisk Future of Telephony             2005 Meggelen/Madsen     ORA
 Asterisk Future of Telephony 2e               Meggelen/Madsen     ORA
@@ -156,7 +156,7 @@ Vintage Tomorrows (steampunk)                 Carrot/Johnson      ORA
 We the Media (hb)                        2004 Dan Gillmor         ORA
 Web 2.0 Architectures                    2009 Governor/Hinchclif  ORA
 Web Database Applications w PHP MySQL    2002 Williams/Lane       ORA
-Web Design in a Nutshell                      Jennifer Niederst   ORA bed
+Web Design in a Nutshell                 1999 Jennifer Niederst   ORA bed
 Web Navigation Designing User Experience 1998 Fleming             ORA
 Web Security Privacy Commerce 2e              Garfinkel/Spafford  ORA
 Web Site Cookbook                        2006 Addison             ORA
