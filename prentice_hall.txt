@@ -9,6 +9,7 @@ C Answer Book,The 2e                       Tondo/Gimpel    1989 PTR
 C Programming Language,The                 Kernighan/Ritchie    PTR
 C Programming Language,The 2e              Kernighan/Ritchie    PTR
 C A Reference Manual                       Harbison/Steele      PTR
+C++ Toolkit,A                              Jon Shapiro     1991 PTR brc
 Clean Code                                 Robert C. Martin     PTR lc2
 Cloud Computing Concepts/Tech/Arch         Thomas Erl           PTR lc2
 Computer Networks 3e                       Tanenbaum       lcb  PTR
@@ -73,7 +74,7 @@ Standard C Library,The                     Plauger              PTR
 Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum lcb PTR
 Systems Performance                        Brendan Gregg   2014 PTR
-Technical Java                             Grant Palmer         PTR brc
+Technical Java                             Grant Palmer    2003 PTR brc
 Thinking in Java 4e                        Bruce Eckel     2006 PTR brc
 Threads Primer                             Lewis/Berg           PTR lc2
 Understanding AJAX                         Joshua Eichorn       PTR
