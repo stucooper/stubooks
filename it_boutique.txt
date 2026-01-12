@@ -61,7 +61,7 @@ MySQL Tutorial                               Welling/Thompson     MySQL
 A New Kind of Science                (CMC)   Wolfram              Wolfram 
 Non-Designers Design & Type Books            Robin Williams       PeachPit
 Numerical Methods in C 2e                    Press/Teukolsky      Cambridge
-Object Oriented Analysis Design 2e 1994 brm  Grady Booch          BenjCummings
+Object Oriented Analysis Design 2e  brc 1994 Grady Booch          BenjCummings
 Open Source Development with CVS             Fogel                Coriolis
 OpenProj                                2009 Lisa A. Bucki        CourseTech
 Operating Systems Advanced Concepts          Maekawa              BenjCummings
