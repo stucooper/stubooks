@@ -29,6 +29,7 @@ mt2    Monteiths Black Beer second box
 pib    Pink plastic box, in my own bedroom
 bed    My Bedroom. These books should be in sight of my bedroom
 bsgp   Bookshelf Green Pile. My Bookshelf Green ORA Web/Javascript books
+hkb    Hacks box; containing the O'Reilly Hacks series
 
 lending abbreviations:
 cmc/CMC Charles Cave, Epping
