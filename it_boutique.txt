@@ -69,6 +69,7 @@ Operating Systems with Linux                 John O'Gorman    mtb palgrave
 Optimizing Linux Performance            2005 Philip Ezolt         HP
 Practical Guide to Designing with Data lost? Brian Suda           FiveSimple
 Principles of SAN Design                     Judd/Kruger          brocade
+Principles of Beautiful Web Design      2007 Jason Beaird         sitepoint
 Programming in Ansi C             lost?      Kumar/Agrawal        West
 Programming Challenges                  2003 Skiena/Revilla       Springer
 Programming in Lua 4e                   2016 Roberto lerusalimschy Lua.org
