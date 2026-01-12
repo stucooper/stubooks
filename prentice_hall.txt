@@ -1,4 +1,4 @@
-Agile Java                                 Langr                PTR brc
+Agile Java                                 Langr           2005 PTR brc
 Ajax                                       Ed Woychowsky   2007 PTR
 Algorithmic Graph Theory                   McHugh               PTR mt2
 Art of Compiler Design: Theory/Pract       Pittman/Peters  1992 PTR
@@ -74,7 +74,7 @@ Standard C A Reference                     Plauger/Brodie       PTR
 Structured Computer Organisation 5e        Andrew Tanenbaum lcb PTR
 Systems Performance                        Brendan Gregg   2014 PTR
 Technical Java                             Grant Palmer         PTR brc
-Thinking in Java 4e                        Bruce Eckel          PTR
+Thinking in Java 4e                        Bruce Eckel     2006 PTR brc
 Threads Primer                             Lewis/Berg           PTR lc2
 Understanding AJAX                         Joshua Eichorn       PTR
 Understanding Unix/Linux Programming       Bruce Molay     2003 PTR
