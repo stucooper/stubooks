@@ -54,9 +54,9 @@ Internet in a Nutshell                   1997 Quercia             ORA bed
 Internet Core Protocols Definitive Guide 2000 Eric A.Hall         ORA
 IP Routing                                    Malhotra            ORA
 IPv6 Essentials 2e                            Hagen               ORA
-Java in a Nutshell 4e                         David Flanagan      ORA brc
-Java Enterprise in a Nutshell                 FLanagan/Farley     ORA brc
-Java Examples in a Nutshell                   Flanagan            ORA brc
+Java in a Nutshell 4e                    2002 David Flanagan      ORA brc
+Java Enterprise in a Nutshell            1999 FLanagan/Farley     ORA brc
+Java Examples in a Nutshell              1997 Flanagan            ORA brc
 Java Network Programming 2e              2000 Harold              ORA
 Java Servlet Programming 2e              2001 Hunter              ORA
 JavaScript Application Cookbook          1999 Bradenbaugh         ORA
