@@ -22,7 +22,7 @@ PostGIS in Action 2e               2015   Obe/Hsu                Manning
 Quick Python Book,The 2e           2010   Naomi Ceder            Manning
 R in Action                        2011   Robert Kabacoff        Manning
 Relevant Search                    2016   Turnbull/Berryman      Manning
-Ruby in Practice                          McAnally/Arkin         Manning
+Ruby in Practice                   2009   McAnally/Arkin         Manning
 Serverless Applications w Node.js  2019   Stojanovic/Simovic     Manning
 Soft Skills                        2015   John Sonmez            Manning
 Spring in Action                   2005   Walls/Breidenbach      Manning brc
