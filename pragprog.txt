@@ -20,7 +20,7 @@ Pragmatic Thinking and Learning     2008 Andy Hunt                PragProg
 Pragmatic VC Subversion 2e          2006 Mike Mason               PragProg
 The Pragmatic Programmer            2000 Hunt/Thomas              AWL
 Programming Phoenix                 2016 McCord/Tate/Valim        PragProg
-Programming Ruby 2e Ruby 1.8             Dave Thomas              PragProg
+Programming Ruby 2e Ruby 1.8        2009 Dave Thomas              PragProg
 Seven Languages in Seven Weeks      2010 Bruce A Tate             PragProg
 Seven Databases in Seven Weeks 2e   2018 Perkins/Redmond          PragProg
 Ship It!                            2007 Richardson/Gwaltney      PragProg
