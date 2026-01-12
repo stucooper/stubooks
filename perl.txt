@@ -2,7 +2,7 @@
 Advanced Perl Programming 1e      Srinivasan          ORA       1997
 Advanced Perl Programming 2e      Cozens              ORA       2005
 Automating sysadmin with Perl 2e  Blank-Edelman       ORA       2009
-Beginning Perl 2e                 James Lee           Apress          pcg
+Beginning Perl 2e                 James Lee           Apress    2004  pcg
 CGI Programming with Perl 2e      Guelice,Gundavaram  ORA             pcg
 Data Munging with Perl            Cross               Manning   2001
 Effective Perl Programming 1e     Hall/Schwartz       AWL       1998
