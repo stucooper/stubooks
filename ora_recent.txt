@@ -1,6 +1,6 @@
 # new O'Reilly books, published since 2010
 # earliers see ora_classic
-# For convenience, python books are considered recent
+# For convenience, python and ruby books are considered recent
 21st Century C 2e                        2015 Klemens             ORA
 97 Things every Programmer Should Know   2010 ed Kelvin Henney    ORA
 Advanced Analytics with PySpark          2022 Tandon/Ryza         ORA
@@ -121,7 +121,7 @@ REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                            2006 Carlson/Richardson  ORA
 Ruby Programming Language,The            2008 Flanagan/Matsumoto  ORA
-Ruby on Rails Up and Running                  Tate/Hibbs          ORA
+Ruby on Rails Up and Running             2006 Tate/Hibbs          ORA
 Site Reliability Engineering             2016 Beyer               ORA
 Site Reliability Workbook                     Beyer               ORA
 Software Engineering at Google           2020 Winters/Manshreck   ORA
