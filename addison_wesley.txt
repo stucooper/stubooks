@@ -21,6 +21,7 @@ C Puzzle Book,The                     Feuer                           AWL
 C++ Programming Language,The          Stroustrup                 2000 AWL brc
 C++ Programming Style                 Cargill                         AWL
 C++ Standard Library,The              Josuttis                lost?   AWL
+Classic Data Structures in C++        Timothy A. Budd            1994 AWL brc
 Code Reading                          Dimoidis Spinellis              AWL
 Code Quality                          Dimoidis Spinellis              AWL
 Compilers                             Aho/Sehti/Ullman                AWL
