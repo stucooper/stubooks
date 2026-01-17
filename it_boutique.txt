@@ -1,6 +1,6 @@
 # IT books with boutique puvlishers, that I have less than 5 books of
 # If the book count hits 5 or more, spin out to a new file
-# Some publishers I have 2-4 books by eg Microsfort BenjCummings but
+# Some publishers I have 2-4 books by eg Microsoft BenjCummings but
 # don't expect I'll ever hit 5 books.
 Ad Serving Technology                        Gregory Cristal      self
 Advanced C Programming by Example            John W. Perry        PWS
