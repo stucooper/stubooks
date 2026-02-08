@@ -81,6 +81,7 @@ Learning Python 2e                            Lutz/Asher          ORA
 Learning Python 5e                            Lutz                ORA
 Learning Python 6e                       2025 Lutz                ORA
 Learning Rails 5                         2016 J. Mark Locklear    ORA
+Learning React                           2017 Banks/Porcello      ORA
 Learning Ruby                            2007 Michael Fitzgerald  ORA
 Learning Test Driven Development         2022 Siddiqui            ORA
 Linux Systems Programming 2e             2013 Robert Love         ORA
@@ -117,6 +118,7 @@ Python for Data Analysis                 2014 Wes McKinney        ORA
 Python Standard Library                  2001 Lundb               ORA
 R for Data Science                       2016 Wickham             ORA
 Rails Cookbook                                Rob Orsini          ORA
+Real World OCaml                         2013 Minsky/Madhavapeddy ORA
 REST in Practice                              Webber/Parastatidis ORA
 Revolution in the Valley (next to cookbooks!) Andy Hertzfeld      ORA
 Ruby Cookbook                            2006 Carlson/Richardson  ORA

@@ -1,5 +1,6 @@
 # O'Reilly "Hacks" series
 Amazon Hacks             2003 Bausch            ORA hkb
+BSD Hacks                2004 Lavigne           ORA
 Car PC Hacks             2005 Stolarz           ORA hkb
 eBay Hacks 2e            2005 Karp              ORA hkb
 Excel Hacks 2e           2007 Hawley            ORA hkb
