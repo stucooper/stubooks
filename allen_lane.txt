@@ -11,6 +11,7 @@ Asia's Reckoning                             McGregor          Penguin
 Atoms and Ashes                              Plokhy            Penguin
 Be Like the Fox                              Benner            Penguin
 Bed of Procrustes,The                        Taleb             Penguin
+Benjamin Britten: Life in the 20th Century   Kildea            Penguin
 Bestseller Code,The                          Archer/Jockers    Penguin
 Better Angels of Our Nature,The              Steven Pinker     Penguin
 Better Half,The                              Moalem            Penguin
@@ -103,6 +104,7 @@ Life 3.0                                     Tengmark          Penguin
 Light Ages,The                               Falk              Penguin
 Long '68,The                                 Vinen             Penguin
 Lost Japan                                   Kerr              Penguin
+Man From the Future,The                      Ananyd Battcharya Penguin
 Margaret Thatcher Volume 2                   Moore             Penguin
 Mindware                                     Nisbett           Penguin
 Mindwise                                     Epley             Penguin
@@ -147,6 +149,7 @@ Sleepwalkers,The                             Clark             Penguin
 Sontag                                       Moser             Penguin
 Square and the Tower,The                     Ferguson          Penguin
 Stalin: Waiting for Hitler                   Kotkin            Penguin
+Superfreakonomics                            Levitt/Dubner     Penguin
 Talking to Strangers                         Gladwell          Penguin
 Thank you for Being Late                     Friedman          Penguin
 They can't kill us all                       Lowery            Penguin
@@ -205,12 +208,12 @@ Kissinger 1923-68 The Idealist               Ferguson          PenguinPress hb
 Leadership in War                            Andrew Roberts    ALane hb pib
 Lewis Carroll in Numberland                  Wilson            ALane hb pib
 Limitarianism: Case against extreme wealth   Ingrid Robeyns    ALane hb pib
-Man From the Future,The                      Ananyd Battcharya ALane hb
 Master Algorithm,The                         Domingos          ALane hb
 Masters and Commanders                       Andrew Roberts    ALane hb
 Maragaret Thatcher Not for Turning (Vol 1)   Charles Moore     ALane hb
 Maragaret Thatcher At her Zenith   (Vol 2)   Charles Moore     Knopf
 Maragaret Thatcher Herself Alone   (Vol 3)   Charles Moore     ALane hb
+On the Edge: Art of Risking Everything       Nate Silver       ALane pp
 Premonition,The                              Lewis             ALane hb pib
 Ring of Truth (Wagner's Ring)                Roger Scruton     ALane hb pib
 Shape: Hidden Geometry Absolutely Everything Jordan Ellenberg  ALane pp
