@@ -92,6 +92,7 @@ Making the Final Table            Erick Lindgren      HarperCollins
 The Man with the $100,000 Breasts Michael Konik       Broadway lost?
 Mastering No-Limit Holdem         Fox/Harker          Conjelco
 Mastering Pot-Limit Omaha         Okolowitz           D&B
+Mastering Small Stakes NLH        Jonathan Little     D&B
 Mathematics of Poker              Bill Chen           Conjelco
 Mental Game of Poker              Jared Tendler       JaredTendler
 Mental Game of Poker 2            Jared Tendler       JaredTendler
@@ -178,6 +179,7 @@ Why Alex beats Bobbie at Poker    Duncan Palamourdas  D+B
 Why You Lose at Poker             Russell Fox/Harker  Conjelco
 Win your way into big money tourn McEvoy/Daugherty    Cardoza
 Winner's Guide to Omaha Poker     Ken Warren          Cardoza
+Winner's Guide to Texas Holdem    Ken Warren          Cardoza
 Winning 7-Card Stud               Ashley Adams        LyleStuart
 Winning Low Limit Holdem          Lee Jones           Conjelco
 Winning Strategies for NLH        Christenson/Fox     Conjelco
