@@ -10,6 +10,7 @@ Geoprocessing with Python          2016   Chris Garrard          Manning
 Getting MEAN                       2016   Simon Holmes           Manning
 Gnuplot in Action                  2010   Janert                 Manning
 Go in Practice                     2016   Matts Butcher/Farina   Manning
+Google Cloud Platform in Action    2018   J J Geewax             Manning
 Hello World                        2009   Sande                  Manning
 Hello World 2e                     2014   Sande                  Manning
 Java Development with Ant          2003   Hatcher/Loughran       Manning brc
@@ -21,6 +22,7 @@ MongoDB in Action                  2012   Kyle Banker            Manning
 PostGIS in Action 2e               2015   Obe/Hsu                Manning
 Quick Python Book,The 2e           2010   Naomi Ceder            Manning
 R in Action                        2011   Robert Kabacoff        Manning
+React in Action                    2018   Mark Tielens Thomas    Manning
 Relevant Search                    2016   Turnbull/Berryman      Manning
 Ruby in Practice                   2009   McAnally/Arkin         Manning
 Serverless Applications w Node.js  2019   Stojanovic/Simovic     Manning
