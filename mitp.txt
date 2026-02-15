@@ -6,6 +6,7 @@ Deep Learning                                Goodfellow/Bengio   2016 mitp
 Digital Media and Democracy                  Megan Boler ed           mitp
 Digital Methods                              Richard Rogers           mitp
 Evocative Objects                            ed Turkle                mitp
+Essentials of Programming Languages          Friedman/Wand/Haynes     mitp
 From Airline Reservs to Sonic the Hedgehog   Martin Campbell-Kelly    mitp
 Game Design Reader                           Salen/Zimmerman          mitp
 Hal's Legacy                                 ed David G Stork         mitp
