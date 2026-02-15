@@ -10,6 +10,7 @@ Language Implementation Patterns    2010 Terrence Parr            PragProg
 Manage It!                          2007 Johanna Rothman          PragProg
 Modern Vim                          2018 Drew Neil                PragProg
 Node.js 8 the Right Way             2018 Jim R. Wilson            PragProg
+Passionate Programmer,The           2009 Chad Fowler              PragProg
 Powerful Command-Line Apps in Go    2021 Ricardo Gerardi          PragProg
 Practical Vim 2e                    2015 Drew Neil                PragProg
 Practices of an Agile Developer     2006 Venkat Subramaniam/Hunt  PragProg
