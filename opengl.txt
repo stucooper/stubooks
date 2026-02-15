@@ -2,6 +2,7 @@
 Beginning OpenGL Game Progamming 2e    Luke Benstead        CourseTech
 Computer Graphics 2e                   Foley/Van Dam        AWL
 Computer Graphics with OpenGL 3e       Hearn/Baker          PTR
+Maths for 3D Game Prog Comp Graphics   Eric Lenygel         CharlesRiver
 OpenCL Programming Guide               Munshi/Gaster        AWL
 OpenGL Distilled                       Martz                AWL
 OpenGL ES 2.0 Programming Guide        Munshi/Ginsburg      AWL
