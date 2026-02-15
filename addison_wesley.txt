@@ -42,6 +42,7 @@ Discrete & Combinatorial Maths 3e     Grimaldi                        AWL
 Domain Specific Languages             Fowler                          AWL
 Effective C++                         Meyers                          AWL
 Effective Java 2e                     Bloch                      2008 AWL brc
+Effective Python 2e                   Brett Slatkin              2020 AWL
 Effective TCP/IP Programming          Jon C Snader                    AWL
 Engineering Approach Comp Networking  Keshav                          AWL
 Essential GWT                         Kerki                           AWL
