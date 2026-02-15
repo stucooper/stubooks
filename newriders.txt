@@ -9,6 +9,7 @@ Embedded Linux                        John Lombardo     2001 NewRiders
 GTK+/Gnome Application Development    Havoc Pennington  1999 NewRiders cor
 GIMP Essential Reference              Alex Harford           NewRiders
 GNU Autoconf, Automake and Libtool    Vaughan/Ellison        NewRiders
+Introducting HTML 5                   Lawson/Sharp      2011 NewRiders
 Linux Firewalls 2e                    Robert Ziegler    2002 NewRiders
 Network Intrusion Detection           Stephen Northcutt 1999 NewRiders
 Python Web Programming                Steve Holden           NewRiders
