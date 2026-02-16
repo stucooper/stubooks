@@ -133,12 +133,13 @@ Quest,The                                    Daniel Yergin     Penguin
 Reckoning,The                                Soil              Penguin
 Righteous Mind,The                           Haidt             Penguin
 Risk Savvy                                   Gigerenzer        Penguin
-Road to Character,The                        Brooks            Penguin
+Road to Character,The                        David Brooks      Penguin
 Road to Somewhere,The                        Goodhart          Penguin
 Roads to Sata,The                            Booth             Penguin
 Roller-Coaster                               Kershaw           Penguin
 Russia Anxiety,The                           Smith             Penguin
 Scarcity                                     Mullainathan      Penguin
+Second Mountain,The                          David Brooks      Penguin
 Secret World,The                             Andrew            Penguin
 Sense of Style,The                           Pinker            Penguin
 Seven Brief Lessons on Physics               Rovelli           Penguin
