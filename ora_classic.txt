@@ -35,6 +35,7 @@ Essential SNMP 2e                        2005 Mauro/Schmidt       ORA
 Essential System Administration 3e            Frisch              ORA
 Evil Geniuses in a Nutshell              2000 Iliad               ORA
 Exploring Expect                              Libes               ORA
+Flex and Bison (utslib)                  2009 John Levine         ORA
 Free as in Freedom: Richard Stallman(hb) 2002 Sam Williams        ORA
 Google Advertising Tools                 2006 Davis               ORA brm
 Googke The Missing Manual                2004 Milstein/Dornfest   ORA
