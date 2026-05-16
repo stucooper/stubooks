@@ -12,6 +12,7 @@ Bitcoin Standard,The                         Saifedean Ammous     JohnWiley
 Building Open Source Network Tools     2003  Mike D. Schiffman    JohnWiley
 ChatGPT Revolution, The                      Donna McGeorge       JohnWiley
 Click here to Kill Everybody                 Bruce Schneier       Norton
+Cryptography Engineering               2010  Ferguson/Schneier/Ko JohnWiley
 Data and Goliath                             Bruce Schneier       Norton
 Garbage Collection                           Jones/Lins           JohnWiley
 Ghost in the Wires                           Kevin Mitnick        LittleBrown
