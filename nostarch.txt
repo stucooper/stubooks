@@ -31,6 +31,7 @@ Practical Packet Analysis 3e      Sanders             nostarch 2017
 Practice of Network Sec Monit,The Bejtlich            nostarch
 Think like a Programmer           Spraul              nostarch 2012
 Penetration Testing               Georgia Weidman     nostarch 2014
+Practical Packet Analysis 3e      Chris Sanders       nostarch 2017 (utslib)
 Python Crash Course               Eric Matthes        nostarch 2016
 Python Crash Course 2e            Eric Matthes        nostarch 2019
 Python for Kids                   Briggs              nostarch 2013
