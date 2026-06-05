@@ -12,6 +12,7 @@ Art of SEO,The                                Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
+Beautiful Visualization                  2010 ed Steele/Ilinksky  ORA
 Building Evolutionary Architectures      2017 Ford/Parsons        ORA
 Building iPhone Apps w HTML/CSS/Jscript  2010 Stark               ORA
 Building Microservices 2e                2021 Sam Newman          ORA
@@ -105,6 +106,7 @@ OpenStack Swift                          2014 Arnold              ORA
 PayPal APIs Up and Running               2011 Balderas            ORA
 Planning for IPv6                        2011 Hagen               ORA
 Practical Monitoring                     2017 Julian              ORA
+Practical Tableau                        2018 Ryan Sleeper        ORA
 Programming Bitcoin                      2019 Jimmy Song          ORA
 Programming Collective Intelligence      2007 Segaran             ORA
 Programming PHP 3e                       2013 Tatroe/MacIntyre    ORA

@@ -13,6 +13,7 @@ Go in Practice                     2016   Matts Butcher/Farina   Manning
 Google Cloud Platform in Action    2018   J J Geewax             Manning
 Hello World                        2009   Sande                  Manning
 Hello World 2e                     2014   Sande                  Manning
+Interpretable AI                   2022   Ajay Thampi            Manning
 Java Development with Ant          2003   Hatcher/Loughran       Manning brc
 JavaScript Application Design      2015   Nicolas Bevacqua       Manning
 Joy of Clojure,The 2e              2014   Fogus/Houser           Manning

@@ -46,6 +46,7 @@ Linux Routers                              Mancill         2001 PTR
 Linux System Security                      Mann/Mitchell   2000 PTR
 Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
 Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
+Modern Cryptography: Theory/Practice       Wenbo Mao       2004 PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
 Nagios                                     Josephsen       2013 PTR
 Network and Internetwork Security          William Stallings    PTR mt2
