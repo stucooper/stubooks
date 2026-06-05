@@ -4,6 +4,8 @@
 # do not count the ebooks, nor videos_humble, games_humble
 
 # FIXME: books I do not own in the file wodehouse.txt are counted
+# FIXME: Move Springer books to Apress because for IT purposes they
+#        are the same publisher.
 rm -f allbooks
 txtfiles=`ls *.txt | grep -v ebook | grep -v _humble`
 for i in $txtfiles
