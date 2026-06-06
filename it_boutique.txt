@@ -54,6 +54,7 @@ Looking Good in Print 2e                     Roger C Parker       Ventuna
 The Macintosh Way                            Guy Kawasaki         ScottForesman
 Mastering VMware vSphere 5.5                 Lowe/Marshall  2014  Sybex brm
 Modern Data Analysis: Applied Statistics     Hamilton  lost?      BrooksCole
+Modern Authentication with Azure AD webapps  Vittorio Bertocci    Microsoft
 Multiprotocol Routing for SANs               Judd                 brocade
 MySQL 5.0 Certification Study Guide     2006 DuBois/Hinz          MySQL
 MySQL Clustering                             Alex Davies/Fisk     MySQL

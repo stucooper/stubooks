@@ -1,4 +1,5 @@
 # War and History books
+Age of Extremes                    Eric Hobsbawm       Abacus
 Arnhem                             Antony Beevor       Penguin
 Art of War,The                     Sun Tzu             Oxford
 Berlin: The Downfall               Antony Beevor       Penguin
@@ -11,6 +12,7 @@ Coming of the Third Reich,The      Richard J. Evans    penguin
 Cultural Revolution,The            Frank Dikotter      bloomsbury
 Decline and Fall Roman Empire I    Edward Gibbon       BrittanicaGt lost?
 Decline and Fall Roman Empire II   Edward Gibbon       BrittanicaGt lost?
+Extraordinary, Popular Delusions   Charles Mackay      Wordsworth
 Five Days in London                John Lukacs         scribe
 Gallipoli                          Les Carlyon         Macmillan
 German Genius,The                  Peter Watson        SimonSchuster
