@@ -12,24 +12,25 @@ Closers,The                            Connelly          Orion
 Concrete Blonde,The                    Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
 Crossing,The                           Connelly          AllenUnwin
-Dark Hours,The                         Connelly          AllenUnwin
+Dark Hours,The                   2021  Connelly          AllenUnwin
 Dark Sacred Night                      Connelly          AllenUnwin
 Darkness more than Night,A             Connelly          Orion
-Desert Star                            Connelly          AllenUnwin
+Desert Star                      2022  Connelly          AllenUnwin
 Drop,The                               Connelly          Orion R2021
 Echo Park                              Connelly          AllenUnwin
-Fair Warning                           Connelly          AllenUnwin
+Fair Warning                     2020  Connelly          AllenUnwin
 Fifth Witness,The                      Connelly          AllenUnwin
 Gods of Guilt,The                      Connelly          AllenUnwin
 Gods of Guilt,The                      Connelly          Orion
 Last Coyote,The                        Connelly          Orion
 Late Show,The                          Connelly          AllenUnwin
-Law of Innocence,The                   Connelly          AllenUnwin
+Law of Innocence,The             2020  Connelly          AllenUnwin
 Lincoln Lawyer,The                     Connelly          AllenUnwin
 Lost Light                             Connelly          Orion
 Narrows,The                            Connelly          Orion
-Night Fire,The                         Connelly          AllenUnwin
+Night Fire,The                   2019  Connelly          AllenUnwin
 Night Fire,The                         Connelly          Orion
+Nightshade                       2024  Connelly          AllenUnwin
 Nine Dragons                           Connelly          Orion
 Poet,The                               Connelly          Orion
 Overlook,The                           Connelly          AllenUnwin
@@ -37,6 +38,7 @@ Reversal,The                           Connelly          Orion
 Scarecrow,The                          Connelly          Orion
 Trunk Music                            Connelly          Orion
 Two Kinds of Truth                     Connelly          AllenUnwin
+Waiting,The                      2024  Connelly          AllenUnwin
 Wrong Side of Goodbye,The              Connelly          AllenUnwin
 Void Moon                              Connelly          Orion
 
