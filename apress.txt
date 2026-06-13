@@ -1,4 +1,4 @@
-# apress books, mostly howto IT, some policy books + packt books
+# apress books + packt books + springer
 Beginning OpenOffice Calc                 Artymiak          2011 apress
 Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs             2004 apress
