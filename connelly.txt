@@ -16,7 +16,7 @@ Dark Hours,The                   2021  Connelly          AllenUnwin
 Dark Sacred Night                      Connelly          AllenUnwin
 Darkness more than Night,A             Connelly          Orion
 Desert Star                      2022  Connelly          AllenUnwin
-Drop,The                               Connelly          Orion R2021
+Drop,The                               Connelly   R2021  Orion
 Echo Park                              Connelly          AllenUnwin
 Fair Warning                     2020  Connelly          AllenUnwin
 Fifth Witness,The                      Connelly          AllenUnwin
@@ -24,7 +24,7 @@ Gods of Guilt,The                      Connelly          AllenUnwin
 Gods of Guilt,The                      Connelly          Orion
 Last Coyote,The                        Connelly          Orion
 Late Show,The                          Connelly          AllenUnwin
-Law of Innocence,The             2020  Connelly          AllenUnwin
+Law of Innocence,The             2020  Connelly   R2026  AllenUnwin
 Lincoln Lawyer,The                     Connelly          AllenUnwin
 Lost Light                             Connelly          Orion
 Narrows,The                            Connelly          Orion
