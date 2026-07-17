@@ -72,6 +72,7 @@ How to Play & Win at Poker        Woods/Broughton     Carlton
 How to think like a Poker Pro     Cooke/Bond          Conjelco
 How to win the WSOP (or not)      Pat Walsh           robson
 Hunting Fish                      Jay Greenspan       StMartins
+In the Money                      Antonio Estandiari  Collins
 Inside the Poker Mind             John Feeney         TwoPlusTwo
 Intelligent Poker Player          Philip Newall       TwoPlusTwo
 Johnny Magic and Cardshark Kids   David Kushner       RandomHouse
@@ -101,8 +102,9 @@ Mental Game of Poker              Jared Tendler       JaredTendler
 Mental Game of Poker 2            Jared Tendler       JaredTendler
 Middle Limit Holdem Poker         Ciaffone/Brier      TwoPlusTwo
 Mollys Game                       Bloom               WilliamCollins lost?
+Moneymaker                        Chris Moneymaker    HarperCollins
 More Holdem Wisdom all players    Daniel Negreanu     Cardoza
-MsPoker: I'm not Bluffing Book 1  Susie Isaacs        MimiMc
+MsPoker: I'm not Bluffing Book 1  Susie Isaacs        MimiMc lost?
 MsPoker: I'm not Bluffing Book 2  Susie Isaacs        MimiMc
 NLH A Complete Course             Angel Largay        ECW
 No Limit Holdem for Winners       Andrea/Dan Shavick  howtobooks
@@ -160,7 +162,8 @@ Shuffle Up and Deal               Mike Sexton         HarperCollins
 Sit n Go Strategy                 Moshman             TwoPlusTwo
 Sklansky on Poker                 David Sklansky      TwoPlusTwo
 Small Stakes No-Limit Holdem      Miller/Mehta/Flynn  Dimat
-Super System                      Doyle Brunson       Cardoza
+Super System hb                   Doyle Brunson       Cardoza
+Super System pb                   Doyle Brunson       Cardoza
 Super System 2                    Doyle Brunson       Cardoza
 Straight Flush                    Ben Mezrich         Heinemann
 Swimming with the DevilFish       Des Wilson          Macmillan
