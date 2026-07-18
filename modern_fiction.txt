@@ -1,6 +1,5 @@
 The African Queen                  C S Forester              hbc Penguin
 Animal Farm                        George Orwell                 Penguin
-Antigua, Penny, Puce               Robert Graves             hbc Penguin
 Audrey Hepburn's Neck              Brown                         Sceptre
 Brideshead Revisited               Evelyn Waugh                  Penguin
 The Catcher in the Rye             J D Salinger                  Penguin
@@ -39,7 +38,6 @@ The Shipping News                  E Annie Proulx                Fourth
 Super Sad True Love Story          Gary Shteyngart               granta
 Sword of Honour                    Evelyn Waugh                  Penguin
 The Tax Inspector                  Peter Carey                   faber
-Tortilla Flat                      John Steinbeck            hbc Penguin
 Ulysses                            James Joyce                   Penguin
 Ulysses Annotated Student ed       James Joyce                   Penguin
 Unbearable Lightness of Being      Milan Kundera                 faber
