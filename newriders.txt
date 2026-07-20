@@ -5,6 +5,7 @@ BerkeleyDB                            sleepycat              NewRiders
 Building Linux VPNS                   Kolesnikov/Hatch  2002 NewRiders
 Designing with Web Standards 3e       Zeldman           2010 NewRiders
 Don't Make me Think (web usabil) 2e   Steve Krug        2006 NewRiders bed
+Don't Make me Think Revisited         Steve Krug        2014 NewRiders
 Embedded Linux                        John Lombardo     2001 NewRiders
 GTK+/Gnome Application Development    Havoc Pennington  1999 NewRiders cor
 GIMP Essential Reference              Alex Harford           NewRiders

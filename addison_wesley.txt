@@ -117,4 +117,5 @@ Unix Network Programming Vol 1 3e     Stevens/Fenner sockets     2004 AWL
 Unix System Security                  David A Curry              1992 AWL
 Unix System V Network Programming     Rago                            AWL
 UNIX Systems for Modern Architectures Schimmel                   lcb  AWL
+Web Protocols and Practice            Krishnamurthy/Rexford      2001 AWL
 Web Security                          Lincoln Stein                   AWL

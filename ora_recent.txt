@@ -139,6 +139,7 @@ Think Python 3e                          2024 Allen B Downey      ORA
 Twisted: Network Programming Essentials  2005 Abe Fettig          ORA
 Understanding Computation                2013 Tom Stuart          ORA
 User Story Mapping                       2014 Patton              ORA
+Using SQLite                             2010 Kreibich            ORA
 UX for Lean Startups                          Laura Klein         ORA
 Version Control with Git 3e              2022 Ponuthoroi/Goeliger ORA
 Web Development with Node and Express 2e 2019 Brown               ORA
