@@ -48,6 +48,7 @@ Magic Garden Explained,The                 Goodheart/Cox  lcb   PTR
 Magic Garden Explained Solutions Manl,The  Goodheart/Cox  lcb   PTR
 Modern Cryptography: Theory/Practice       Wenbo Mao       2004 PTR
 Modern Operating Systems                   Tanenbaum      lcb   PTR
+Multithreaded Prog with Pthreads           Lewis/Berg      1998 PTR
 Nagios                                     Josephsen       2013 PTR
 Network and Internetwork Security          William Stallings    PTR mt2
 Network Security                           Kaufmann/Perlman     PTR lc2
