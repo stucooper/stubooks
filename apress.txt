@@ -4,6 +4,7 @@ Beginning Python Visualization            Vaingast               apress
 Black Hat                                 Biggs             2004 apress
 Coders at Work                            Seibel            2009 apress
 Dancing with Qubits                       Robert Sutor      2019 packt
+Data Mining Knowledge Discovery Evolution Freitas           2002 springer
 Definitive Guide to Django                Holovaty               apress
 Definitive Guide to Grails                Graeme Rocher     2006 apress cor
 Definitive Guide to Terracotta            Terracotta Inc    2008 apress brc

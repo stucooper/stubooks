@@ -19,6 +19,7 @@ The Invisible Computer                       Norman                   mitp
 The Little Schemer 4e                        Friedman/Felleison       mitp
 A Little Java, A Few Patterns                Felleisen/Friedman       mitp
 The Mathematics of Marriage                  Gottman/Murray           mitp
+Model Checking                               Clark/Grumberg/Pele 1999 mitp
 Musimathics Vol 1                            Gareth Loy               mitp
 Net Smart                                    Howard Rheingold         mitp
 New Hacker's Dictionary 3e                   Eric Raymond             mitp
