@@ -9,6 +9,7 @@ Android Dreams                               Toby Walsh           Hurst
 Are you smart enough to work at Google?      Poundstone           LittleBrown
 Artificial Intelligence                R2024 Matt Burgess         Wired
 Attention Merchants,The                      Tim Wu               Atlantic
+Ask Your Developer (Twilio)                  Jeff Lawson          Harper
 Bad Blood                              R2025 John Carreyou        Picador
 big data: does size matter?                  Timandra Harkness    bloomsbury
 Big Data: Revolution                         Mayer-Schonbrg       johnMurray
@@ -88,6 +89,7 @@ Idea Factory,The: Bell Labs                  Jon Gertner          Penguin
 Inevitable,The                               Kevin Kelly          Penguin
 In Praise of Slow                            Carl Honore          Orion
 In the Plex google                           Levy                 SimonSchuster
+Influence Empire (TenCent, China)            Yiliu Chen           Hodder
 Instagram                                    Leaver/Highfield     polity
 Intelligent Web,The                          Graham Shroff        Oxford
 Innovators,The                               Walter Isaacson      SimonSchuster
