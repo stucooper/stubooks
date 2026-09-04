@@ -45,6 +45,7 @@ Data-ism: Inside the BIg Data Revolution     Steve Lohr           oneworld
 Dawn of the Code War                         John P Carlin        Publicaffairs
 delete: virtue forgetting in the Digital Age Vik Mayer-Schonbrg   princeton
 DevOps Handbook                              Kim/Humble etc.      ItRev
+Digerati                                     John Brockman        HardWired
 Digital Barbarism        lost?               Mark Helprin         Harper
 Disrupted start-up bubble                    Dan Lyons            hachette
 Does I.T Matter?                             Nicholas Carr        Harvard
@@ -100,6 +101,7 @@ Joy of Linux,The                             Hall/Proffitt        dontcare
 Just for Fun                                 Linus Torvalds       dontcare
 Kingpin                                      Kevin Poulsen        crown
 Lab Rats                                     Dan Lyons            atlantic
+Launce Pad,The                               Randall Stross       Portfolio
 Lean Startup,The                             Eric Ries            portfolio
 Life Inc                                     Douglas Rushkoff     RandomHouse
 Long Tail,The                                Chris Anderson       Hyperion
@@ -110,6 +112,7 @@ Makers and Takers                            Rana Foroohar        crown
 Master Switch,The                            Tim Wu               Atlantic
 Media Lab,The (MIT)                          Steward Brand        Penguin
 Move Fast and Break Things                   Jonathan Taplan      Macmillan
+Mysterious Mr Nakamoto                       Benjamin Wallace     Atlantic
 Nerds 2.0.1 Brief History of Internet        Stephen Segaller     TvBooks
 net.wars                                     Wendy M.Grossman     NYU
 Net Delusion,The                             Evgeny Morozov       penguin
@@ -166,6 +169,7 @@ We are Anonymous                             Penny Olson          BackBay
 We are the Nerds (reddit)                    Christine Lagorio    platkus
 What Technology Wants                        Kevin Kelly          viking
 Where Wizards Stay Up Late                   hatner/lyon          Touchstone
+Why Social Media is ruining your life        Ormerod              Hatchette
 Wikinomics                                   Tapscott/Williams    Atlantic
 Wikipedia Revolution                         Andrew Lih           aurum
 Winners and Losers on the Internet           Kieran Levis         Atlantic
