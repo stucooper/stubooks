@@ -9,6 +9,7 @@ Arduino Cookbook 2e                      2011 Margolis            ORA
 Art of Agile Development,The                  Shore/Warden        ORA
 Art of Concurrency,The                        Breshears           ORA
 Art of SEO,The                                Enge/Spencer        ORA
+Art of SEO,The 3e                        2016 Enge/Spencer        ORA
 Beautiful Code                                ed Oram/Wilson      ORA
 Beautiful Data                                ed Segaran/Hammerb  ORA
 Beautiful Testing                             ed Riley/Goucher    ORA
