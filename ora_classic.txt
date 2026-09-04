@@ -3,6 +3,7 @@
 # anything in the "Head First" series goes here regardless
 802.11 Security                               Potter/Fleck        ORA
 802.11 Wireless Networks Defin Guide 2e  2005 Gast                ORA
+AI for Game Developers                   2004 Bourg/Seemann       ORA
 Ambient Findability                      2005 Morville            ORA
 Ant The Definitive Guide 2e              2005 Holzner             ORA brm
 Apache Cookbook 2e                       2007 Coar/Bowen          ORA
@@ -96,6 +97,7 @@ MySQL in a Nutshell                      2005 Russell Dyer        ORA
 MySQL Stored Procedure Programming            Guy Harrison        ORA
 Network Security with OpenSSL            2002 Viega/Messier       ORA
 Network Troubleshooting Tools            2001 Sloan               ORA
+Networking Personal Computers w TCPIP    1995 Craig Hunt          ORA
 Managing Projects with GNU Make               Mecklenburg         ORA
 Managing uucp and Usenet 10e             1992 O'Reilly/Todino     ORA
 Mastering Algorithms with C              1999 Loudon              ORA

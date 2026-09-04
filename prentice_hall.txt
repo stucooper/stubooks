@@ -17,6 +17,7 @@ Content Critical                           McGovern/Norton      PTR lost?
 Core Java 2 Volume 1 Fundamentals      Horstmann/Cornell   2003 PTR brc
 Core PHP Programming 3e                    Leon Atkinson        PTR
 Cryptography and Network Security          Stallings       1999 PTR
+Damn Small Linux                           Shingledecker   2008 PTR
 Data and Computer Communications 8e        Stallings            PTR lc2
 Data Structures Using C                    Esakov/Weiss         PTR mt2
 Data Structures Program Design in C        Kruse/Tondo     1997 PTR cor
