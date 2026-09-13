@@ -8,7 +8,7 @@ Brass Verdict,The                      Connelly          AllenUnwin
 Burning Room,The                       Connelly          AllenUnwin
 Chasing the Dime                       Connelly          Orion
 City of Bones                          Connelly          AllenUnwin
-Closers,The                            Connelly   R2026  Orion
+Closers,The                      2005  Connelly   R2026  Orion
 Concrete Blonde,The                    Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
 Crossing,The                           Connelly          AllenUnwin
