@@ -8,11 +8,11 @@ Brass Verdict,The                      Connelly          AllenUnwin
 Burning Room,The                       Connelly          AllenUnwin
 Chasing the Dime                       Connelly          Orion
 City of Bones                          Connelly          AllenUnwin
-Closers,The                            Connelly          Orion
+Closers,The                            Connelly   R2026  Orion
 Concrete Blonde,The                    Connelly          AllenUnwin
 Crime Beat                             Connelly          AllenUnwin
 Crossing,The                           Connelly          AllenUnwin
-Dark Hours,The                   2021  Connelly          AllenUnwin
+Dark Hours,The                   2021  Connelly   R2026  AllenUnwin
 Dark Sacred Night                      Connelly          AllenUnwin
 Darkness more than Night,A             Connelly          Orion
 Desert Star                      2022  Connelly          AllenUnwin
