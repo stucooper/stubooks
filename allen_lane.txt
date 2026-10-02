@@ -96,6 +96,7 @@ Invention of Science,The                     Wootton           Penguin
 Iron Curtain                                 Anne Applebaum    Penguin
 Japanese,The                                 Harding           Penguin
 Justice                                      Michael J Sandel  Penguin
+Karl Marx                                    Gareth Sted Jones Penguin
 Knowledge Machine,The                        Strevens          Penguin
 Language Instinct,The                        Pinker            Penguin
 Last Man in Russia,The                       Bullough          Penguin
@@ -139,6 +140,7 @@ Road to Somewhere,The                        Goodhart          Penguin
 Roads to Sata,The                            Booth             Penguin
 Roller-Coaster                               Kershaw           Penguin
 Russia Anxiety,The                           Smith             Penguin
+Salafi-Jihadism                              Shiraz Maher      Penguin
 Scarcity                                     Mullainathan      Penguin
 Second Mountain,The                          David Brooks      Penguin
 Secret World,The                             Andrew            Penguin
