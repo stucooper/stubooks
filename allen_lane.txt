@@ -97,6 +97,7 @@ Iron Curtain                                 Anne Applebaum    Penguin
 Japanese,The                                 Harding           Penguin
 Justice                                      Michael J Sandel  Penguin
 Karl Marx                                    Gareth Sted Jones Penguin
+Kennedy: Unfinished Life                     Dallek            Penguin
 Knowledge Machine,The                        Strevens          Penguin
 Language Instinct,The                        Pinker            Penguin
 Last Man in Russia,The                       Bullough          Penguin
@@ -248,6 +249,7 @@ How to be right                              O'Brien           Penguin
 Kennedy: Unfinished Life                     Dallek            Penguin
 Natasha's Dance                              Orlando Figes     Penguin R2023
 Noise                                        Kahneman/Sibony   WilliamCollins
+Occupy                                       Noam Chomsky      PenguinSpecial
 Paris Secret History                         Andrew Hussey     Penguin
 Prize,The                                    Daniel Yergin     FreePress
 Reformation: Europe Divided                  MacCulloch        Penguin
